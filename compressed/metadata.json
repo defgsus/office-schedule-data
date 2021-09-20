@@ -5660,7 +5660,7 @@
     "url": "https://tevis-bs.jena.de",
     "locations": {
       "197": {
-        "location_name": null,
+        "location_name": "B\u00fcrgerservice",
         "services": [
           "Abmeldung einer Nebenwohnung",
           "Abmeldung ins Ausland",
@@ -5688,7 +5688,7 @@
         ]
       },
       "198": {
-        "location_name": null,
+        "location_name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Abholung F\u00fchrerschein und/oder Fahrerkarte",
           "Abholung Personalausweis und/oder Reisepass",
@@ -5697,13 +5697,13 @@
         ]
       },
       "199": {
-        "location_name": null,
+        "location_name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Ausgabe F\u00fchrerschein, Fahrerkarte und/oder FQN"
         ]
       },
       "200": {
-        "location_name": null,
+        "location_name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Antrag AM15",
           "Antrag Begleitetes Fahren ab 17 Jahren",
@@ -5724,7 +5724,7 @@
         ]
       },
       "201": {
-        "location_name": null,
+        "location_name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Ausfuhrkennzeichen beantragen",
           "Bewohnerparkausweis beantragen/verl\u00e4ngern",
