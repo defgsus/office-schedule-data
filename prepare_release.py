@@ -5,6 +5,9 @@ from data import *
 PATH = Path(__file__).resolve().parent
 STATISTICS_PATH = PATH / "statistics"
 
+SNAPSHOTS_WEEKLY_FILE = STATISTICS_PATH / "snapshots-weekly.csv"
+SNAPSHOTS_SUM_FILE = STATISTICS_PATH / "snapshots-sum.csv"
+
 
 def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
     print(f"calc snapshot statistics ({data.filter()})")
@@ -40,7 +43,7 @@ def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
 
 
 def update_snapshot_statistics():
-    filename = STATISTICS_PATH / "snapshots.csv"
+    filename = SNAPSHOTS_WEEKLY_FILE
 
     try:
         previous_stats = (
@@ -72,7 +75,7 @@ def update_snapshot_statistics():
 def update_meta_statistics():
     data = Data()
 
-    sn_df = pd.read_csv(STATISTICS_PATH / "snapshots.csv")
+    sn_df = pd.read_csv(SNAPSHOTS_WEEKLY_FILE)
     source_group = sn_df.groupby("source_id")
     df = source_group.sum()
     df["num_locations"] = (source_group["num_locations"].mean() + .5).astype(np.int)
@@ -82,6 +85,7 @@ def update_meta_statistics():
     df["min_date"] = source_group["min_date"].min()
     df["max_date"] = source_group["max_date"].max()
     print(df.to_markdown())
+    df.to_csv(SNAPSHOTS_SUM_FILE)
 
     df.index = df.index.map(lambda source_id: (
         f"[{source_id}]({data.get_meta(source_id, 'url').rstrip('/')}/)" if data.get_meta(source_id, "url") else source_id
@@ -90,7 +94,14 @@ def update_meta_statistics():
 
     readme = (PATH / "README.md").read_text()
     readme = readme[:readme.index("# Statistics")]
-    readme += f"# Statistics\n\n{table_md}"
+    readme += f"""
+# Statistics
+
+- [snapshots-weekly.csv](statistics/snapshots-weekly.csv)
+- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table)
+
+{table_md}
+""".strip() + "\n"
     (PATH / "README.md").write_text(readme)
 
 
