@@ -88,7 +88,7 @@ def update_meta_statistics():
     df.to_csv(SNAPSHOTS_SUM_FILE)
 
     df.index = df.index.map(lambda source_id: (
-        f"[{source_id}]({data.get_meta(source_id, 'url').rstrip('/')}/)" if data.get_meta(source_id, "url") else source_id
+        f"[{source_id}]({data.get_meta(source_id, 'url')})" if data.get_meta(source_id, "url") else source_id
     ))
     table_md = df.to_markdown()
 
