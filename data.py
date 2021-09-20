@@ -49,7 +49,8 @@ class Data:
             int(iso_week[1].lstrip("0"))
         )
 
-    def filter(self):
+    def filter(self) -> str:
+        """Returns current filter as string"""
         return ", ".join(
             f"{name}={getattr(self, name)}"
             for name in (
@@ -57,6 +58,11 @@ class Data:
             )
             if getattr(self, name)
         )
+
+    def get_meta(self, source_id: str, location_id: str, value_name: Optional[str] = None, default=None):
+        if value_name is None:
+            return self.meta.get(source_id, {}).get(location_id, default)
+        return self.meta.get(source_id, {}).get("locations", {}).get(location_id, {}).get(value_name, default)
 
     def compressed_files(self) -> List[Tuple[IsoWeek, str]]:
         """
