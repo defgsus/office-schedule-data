@@ -97,10 +97,19 @@ def update_meta_statistics():
     readme += f"""
 # Statistics
 
-- [snapshots-weekly.csv](statistics/snapshots-weekly.csv)
-- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table)
+Repository last updated at **{datetime.date.today()}**
+ 
+**{df.index.nunique()}** sources,
+**{df["num_locations"].sum()}** locations,
+**{df["num_snapshots"].sum()}** snapshots
+
+- [snapshots-weekly.csv](statistics/snapshots-weekly.csv) contains the number of 
+  snapshots per calendar week and `source_id`
+- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table) contains
+  the sum of snapshots per `source_id`
 
 {table_md}
+
 """.strip() + "\n"
     (PATH / "README.md").write_text(readme)
 

@@ -113,8 +113,16 @@ data.get_meta("source_id", "location_id", "value")
 
 # Statistics
 
-- [snapshots-weekly.csv](statistics/snapshots-weekly.csv)
-- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table)
+Repository last updated at **2021-09-20**
+ 
+**98** sources,
+**575** locations,
+**441160** snapshots
+
+- [snapshots-weekly.csv](statistics/snapshots-weekly.csv) contains the number of 
+  snapshots per calendar week and `source_id`
+- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table) contains
+  the sum of snapshots per `source_id`
 
 | source_id                                                                                                            | name                                                   | scraper    |   num_locations |   num_snapshots |   num_changes | min_date            | max_date            |
 |:---------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:-----------|----------------:|----------------:|--------------:|:--------------------|:--------------------|
