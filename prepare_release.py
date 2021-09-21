@@ -1,16 +1,21 @@
+import os
 from tqdm import tqdm
 
 from data import *
 
 PATH = Path(__file__).resolve().parent
-STATISTICS_PATH = PATH / "statistics"
+METRICS_PATH = PATH / "metrics"
 
-SNAPSHOTS_WEEKLY_FILE = STATISTICS_PATH / "snapshots-weekly.csv"
-SNAPSHOTS_SUM_FILE = STATISTICS_PATH / "snapshots-sum.csv"
+SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "snapshots-weekly.csv"
+SNAPSHOTS_SUM_FILE = METRICS_PATH / "snapshots-sum.csv"
+
+
+def to_date(s: str) -> datetime.datetime:
+    return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
 
 
 def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
-    print(f"calc snapshot statistics ({data.filter()})")
+    print(f"calc snapshot statistics of {data}")
     stat_rows = []
     for iso_week, source_id, columns, rows in tqdm(data.iter_tables(as_int=False)):
 
@@ -103,9 +108,9 @@ Repository last updated at **{datetime.date.today()}**
 **{df["num_locations"].sum()}** locations,
 **{df["num_snapshots"].sum()}** snapshots
 
-- [snapshots-weekly.csv](statistics/snapshots-weekly.csv) contains the number of 
+- [snapshots-weekly.csv](metrics/snapshots-weekly.csv) contains the number of 
   snapshots per calendar week and `source_id`
-- [snapshots-sum.csv](statistics/snapshots-sum.csv) (below table) contains
+- [snapshots-sum.csv](metrics/snapshots-sum.csv) (below table) contains
   the sum of snapshots per `source_id`
 
 {table_md}
@@ -114,6 +119,102 @@ Repository last updated at **{datetime.date.today()}**
     (PATH / "README.md").write_text(readme)
 
 
+def calc_changes(data: Data, stash: Optional[dict] = None):
+    print(f"calculating changes of {data}")
+    free_dates = stash.get("free_dates") or dict() if stash else dict()
+    appointed_dates = stash.get("appointed_dates") or dict() if stash else dict()
+    previous_timestamps = stash.get("previous_timestamps") or dict() if stash else dict()
+    changes_appointments = dict()
+    changes_cancellations = dict()
+
+    for week, source_id, columns, rows in tqdm(data.iter_tables()):
+        dates = columns[3:]
+        for org_row in rows:
+            timestamp = org_row[0]
+            timestamp_dt = to_date(timestamp)
+            timestamp_dt = timestamp_dt.replace(minute=timestamp_dt.minute // 15 * 15, second=0, microsecond=0)
+            timestamp = str(timestamp_dt)
+
+            loc_id = f"{source_id}/{org_row[2]}"
+            row = org_row[3:]
+
+            if loc_id not in previous_timestamps:
+                do_record = False
+            else:
+                diff = timestamp_dt - previous_timestamps[loc_id]
+                do_record = diff.total_seconds() < 16 * 60
+            previous_timestamps[loc_id] = timestamp_dt
+
+            if loc_id not in free_dates:
+                free_dates[loc_id] = set()
+            if loc_id not in appointed_dates:
+                appointed_dates[loc_id] = set()
+
+            appointments = 0
+            cancellations = 0
+            for i, v in enumerate(row):
+                date = dates[i]
+                if v:
+                    if date in appointed_dates[loc_id]:
+                        appointed_dates[loc_id].remove(date)
+                        if do_record:
+                            cancellations += 1
+
+                    free_dates[loc_id].add(date)
+                else:
+                    if date in free_dates[loc_id]:
+                        free_dates[loc_id].remove(date)
+                        appointed_dates[loc_id].add(date)
+                        if do_record:
+                            appointments += 1
+
+            for changes, value in (
+                    (changes_appointments, appointments),
+                    (changes_cancellations, cancellations),
+            ):
+                if timestamp not in changes:
+                    changes[timestamp] = dict()
+                changes[timestamp][loc_id] = changes[timestamp].get(loc_id, 0) + value
+
+    if stash:
+        stash["free_dates"] = free_dates
+        stash["appointed_dates"] = appointed_dates
+        stash["previous_timestamps"] = previous_timestamps
+
+    df1 = pd.DataFrame(changes_appointments).T
+    df1.index = pd.to_datetime(df1.index)
+    df1.index.rename("date", inplace=True)
+    df1 = df1.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
+
+    df2 = pd.DataFrame(changes_cancellations).T
+    df2.index = pd.to_datetime(df2.index)
+    df1.index.rename("date", inplace=True)
+    df2 = df2.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
+    print(f"shape: {df1.shape}")
+    return df1, df2
+
+
+def update_changes():
+    iso_weeks = [f[0] for f in Data().compressed_files()]
+
+    stash = dict()
+    for week in iso_weeks:
+        path1 = METRICS_PATH / "appointments" / str(week[0])
+        path2 = METRICS_PATH / "cancellations" / str(week[0])
+        file1 = path1 / f"{Data.iso_week_to_string(week)}.csv"
+        file2 = path2 / f"{Data.iso_week_to_string(week)}.csv"
+
+        if not file1.exists() or not file2.exists():
+            data = Data(iso_week_gte=week, iso_week_lte=week)
+            df1, df2 = calc_changes(data, stash=stash)
+
+            os.makedirs(path1, exist_ok=True)
+            df1.to_csv(file1)
+            os.makedirs(path2, exist_ok=True)
+            df2.to_csv(file2)
+
+
 if __name__ == "__main__":
     update_snapshot_statistics()
     update_meta_statistics()
+    update_changes()
