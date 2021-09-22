@@ -14,8 +14,28 @@ def to_date(s: str) -> datetime.datetime:
     return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
 
 
-def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
-    print(f"calc snapshot statistics of {data}")
+def calc_snapshot_metrics(data: Data) -> Optional[pd.DataFrame]:
+    print(f"calc snapshot metrics of {data}")
+
+    df_changes = dict()
+    for change_type in ("appointments", "cancellations"):
+        df = Metrics.changes(
+            type=change_type,
+            iso_week_gt=data.iso_week_gt,
+            iso_week_gte=data.iso_week_gte,
+            iso_week_lt=data.iso_week_lt,
+            iso_week_lte=data.iso_week_lte,
+            as_int=True,
+        )
+        if df is not None:
+            # hard clip on appointments data
+            #   to throw out the complicated and nonsense stuff
+            df = df.clip(0, 1)
+            df["week"] = df.index.map(lambda d: d.isocalendar()[:2])
+            df = df.groupby("week").sum()
+
+        df_changes[change_type] = df
+
     stat_rows = []
     for iso_week, source_id, columns, rows in tqdm(data.iter_tables(as_int=False)):
 
@@ -30,12 +50,24 @@ def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
 
             prev_dates_free[loc_id] = dates_free
 
+        num_changes = {f"num_{change_type}": -1 for change_type in df_changes}
+        for change_type in df_changes:
+            if df_changes[change_type] is not None:
+                df = df_changes[change_type]
+                # filter this iso-week
+                df = df[df.index == iso_week]
+                # filter this source_id
+                df = df.loc[:, [c for c in df.columns if c.startswith(f"{source_id}/")]]
+                # get the sum
+                num_changes[f"num_{change_type}"] = df.sum().sum()
+
         stat_rows.append({
             "week": "%s-%02d" % iso_week,
             "source_id": source_id,
             "num_locations": len(set(row[2] for row in rows)),
             "num_snapshots": len(set(row[0] for row in rows)),
             "num_changes": changes,
+            **num_changes,
             "min_date": min(row[0] for row in rows),
             "max_date": max(row[0] for row in rows),
         })
@@ -47,7 +79,7 @@ def calc_snapshot_statistics(data: Data) -> Optional[pd.DataFrame]:
     return df
 
 
-def update_snapshot_statistics():
+def update_metrics_weekly():
     filename = SNAPSHOTS_WEEKLY_FILE
 
     try:
@@ -59,28 +91,27 @@ def update_snapshot_statistics():
         max_date = Data.string_to_iso_week(max_date)
 
         data = Data(iso_week_gt=max_date)
-        stats = calc_snapshot_statistics(data)
-        if stats is None:
-            print(f"unchanged: {filename}")
-            return
 
-    except Exception:
+    except Exception as e:
         previous_stats = None
-        stats = calc_snapshot_statistics(Data())
+        data = Data()  # full run over all weeks
 
-    assert stats is not None
+    stats = calc_snapshot_metrics(data)
+    if stats is None and previous_stats is not None:
+        print(f"unchanged: {filename}")
+        return
 
     if previous_stats is not None:
         stats = pd.concat([previous_stats, stats])
 
     stats.to_csv(filename)
-    print(stats)
 
 
-def update_meta_statistics():
+def update_metrics_sum():
     data = Data()
 
     sn_df = pd.read_csv(SNAPSHOTS_WEEKLY_FILE)
+    print(sn_df.to_markdown())
     source_group = sn_df.groupby("source_id")
     df = source_group.sum()
     df["num_locations"] = (source_group["num_locations"].mean() + .5).astype(np.int)
@@ -95,27 +126,19 @@ def update_meta_statistics():
     df.index = df.index.map(lambda source_id: (
         f"[{source_id}]({data.get_meta(source_id, 'url')})" if data.get_meta(source_id, "url") else source_id
     ))
-    table_md = df.to_markdown()
 
-    readme = (PATH / "README.md").read_text()
-    readme = readme[:readme.index("# Statistics")]
-    readme += f"""
-# Statistics
+    template_context = {
+        "last_exported_date": df["max_date"].max()[:10],
+        "metrics_date": datetime.date.today(),
+        "num_sources": format(df.index.nunique(), ","),
+        "num_locations": format(df["num_locations"].sum(), ","),
+        "num_snapshots": format(df["num_snapshots"].sum(), ","),
+        "num_appointments": format(df["num_appointments"].sum(), ","),
+        "metric_sum_table": df.to_markdown(),
+    }
 
-Repository last updated at **{datetime.date.today()}**
- 
-**{df.index.nunique()}** sources,
-**{df["num_locations"].sum()}** locations,
-**{df["num_snapshots"].sum()}** snapshots
-
-- [snapshots-weekly.csv](metrics/snapshots-weekly.csv) contains the number of 
-  snapshots per calendar week and `source_id`
-- [snapshots-sum.csv](metrics/snapshots-sum.csv) (below table) contains
-  the sum of snapshots per `source_id`
-
-{table_md}
-
-""".strip() + "\n"
+    readme = (PATH / "templates" / "README.md").read_text()
+    readme = readme % template_context
     (PATH / "README.md").write_text(readme)
 
 
@@ -152,6 +175,7 @@ def calc_changes(data: Data, stash: Optional[dict] = None):
 
             appointments = 0
             cancellations = 0
+
             for i, v in enumerate(row):
                 date = dates[i]
                 if v:
@@ -163,10 +187,14 @@ def calc_changes(data: Data, stash: Optional[dict] = None):
                     free_dates[loc_id].add(date)
                 else:
                     if date in free_dates[loc_id]:
+                        # do not count the first cancelled date
+                        #   because it might just have disappeared in time
+                        if do_record:
+                            if date != min(*free_dates[loc_id]) and date != max(*free_dates[loc_id]):
+                                appointments += 1
+
                         free_dates[loc_id].remove(date)
                         appointed_dates[loc_id].add(date)
-                        if do_record:
-                            appointments += 1
 
             for changes, value in (
                     (changes_appointments, appointments),
@@ -181,17 +209,16 @@ def calc_changes(data: Data, stash: Optional[dict] = None):
         stash["appointed_dates"] = appointed_dates
         stash["previous_timestamps"] = previous_timestamps
 
-    df1 = pd.DataFrame(changes_appointments).T
-    df1.index = pd.to_datetime(df1.index)
-    df1.index.rename("date", inplace=True)
-    df1 = df1.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
+    dataframes = []
+    for changes in (changes_appointments, changes_cancellations):
+        df = pd.DataFrame(changes).T
+        df.index = pd.to_datetime(df.index)
+        df.index.rename("date", inplace=True)
+        # avoid storing floats and NaNs, convert to str(int) and empty string
+        df = df.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
+        dataframes.append(df)
 
-    df2 = pd.DataFrame(changes_cancellations).T
-    df2.index = pd.to_datetime(df2.index)
-    df1.index.rename("date", inplace=True)
-    df2 = df2.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
-    print(f"shape: {df1.shape}")
-    return df1, df2
+    return tuple(dataframes)
 
 
 def update_changes():
@@ -215,6 +242,6 @@ def update_changes():
 
 
 if __name__ == "__main__":
-    update_snapshot_statistics()
-    update_meta_statistics()
     update_changes()
+    update_metrics_weekly()
+    update_metrics_sum()
