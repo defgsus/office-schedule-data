@@ -11,7 +11,7 @@ is on **%(last_exported_date)s**.
 
 # Data layout
 
-The [compressed](compressed) folder contains **tar.gz** files for each 
+The [raw/](raw) folder contains **tar.gz** files for each 
 calendar week wherein are **csv** files for each scraped website. Those have the
 following format:
 
@@ -46,7 +46,7 @@ bundles are currently between 6 to 8 megabytes each.
 
 # Metadata
 
-[metadata.json](compressed/metadata.json) contains an object in the 
+[metadata.json](raw/metadata.json) contains an object in the 
 following format:
 
 ```json

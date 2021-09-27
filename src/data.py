@@ -22,7 +22,7 @@ def to_datetime(s: str) -> datetime.datetime:
 
 class Data:
 
-    PATH = Path(__file__).resolve().parent.parent / "compressed"
+    PATH = Path(__file__).resolve().parent.parent / "raw"
     _meta = None
 
     def __init__(

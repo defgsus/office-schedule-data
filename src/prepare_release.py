@@ -184,11 +184,11 @@ def update_summary_and_readme():
     source_group = sn_df.groupby("source_id")
     df = source_group.sum()
     df["num_locations"] = (source_group["num_locations"].mean() + .5).astype(np.int)
-    df["name"] = df.index.map(lambda source_id: data.get_meta(source_id, "name", default="-"))
-    df["scraper"] = df.index.map(lambda source_id: data.get_meta(source_id, "scraper", default="-"))
-    df = df[df.columns[-2:].append(df.columns[:-2])]
+    #df = df[df.columns[-2:].append(df.columns[:-2])]
     df["min_date"] = source_group["min_date"].min()
     df["max_date"] = source_group["max_date"].max()
+    df["scraper"] = df.index.map(lambda source_id: data.get_meta(source_id, "scraper", default="-"))
+    df["name"] = df.index.map(lambda source_id: data.get_meta(source_id, "name", default="-"))
     print(df.to_markdown())
     df.to_csv(SNAPSHOTS_SUM_FILE)
 
