@@ -11,8 +11,8 @@ from src.metrics_calc import calc_metrics
 PATH: Path = Path(__file__).resolve().parent.parent
 METRICS_PATH = PATH / "metrics"
 
-SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "snapshots-weekly.csv"
-SNAPSHOTS_SUM_FILE = METRICS_PATH / "snapshots-sum.csv"
+SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "summary-weekly.csv"
+SNAPSHOTS_SUM_FILE = METRICS_PATH / "summary.csv"
 
 
 def update_metrics(
@@ -23,7 +23,7 @@ def update_metrics(
     iso_weeks = [f[0] for f in Data().compressed_files()]
     assert iso_weeks, "no data found"
 
-    base_filter = {"include": source_id}
+    base_filter = {"source_id": source_id}
 
     weeks_to_calc = []
     for week in iso_weeks:
@@ -184,11 +184,11 @@ def update_summary_and_readme():
     source_group = sn_df.groupby("source_id")
     df = source_group.sum()
     df["num_locations"] = (source_group["num_locations"].mean() + .5).astype(np.int)
-    df["name"] = df.index.map(lambda source_id: data.get_meta(source_id, "name", default="-"))
-    df["scraper"] = df.index.map(lambda source_id: data.get_meta(source_id, "scraper", default="-"))
-    df = df[df.columns[-2:].append(df.columns[:-2])]
+    #df = df[df.columns[-2:].append(df.columns[:-2])]
     df["min_date"] = source_group["min_date"].min()
     df["max_date"] = source_group["max_date"].max()
+    df["scraper"] = df.index.map(lambda source_id: data.get_meta(source_id, "scraper", default="-"))
+    df["name"] = df.index.map(lambda source_id: data.get_meta(source_id, "name", default="-"))
     print(df.to_markdown())
     df.to_csv(SNAPSHOTS_SUM_FILE)
 
@@ -197,7 +197,7 @@ def update_summary_and_readme():
     ))
 
     template_context = {
-        "last_exported_date": df["max_date"].max()[:10],
+        "last_exported_date": df["max_date"].max(),
         "metrics_date": datetime.date.today(),
         "num_sources": format(df.index.nunique(), ","),
         "num_locations": format(df["num_locations"].sum(), ","),

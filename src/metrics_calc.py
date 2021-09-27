@@ -138,7 +138,7 @@ def calc_metrics(
         # dates_dt = [to_datetime(d) for d in dates]
         timespan_checker = TimespanChecker()
 
-        for org_row in tqdm(rows):
+        for org_row in tqdm(rows, desc=f"{source_id} {rows[0][0][:10]} to {rows[-1][0][:10]}"):
             timestamp = org_row[0]
             timestamp_dt = to_datetime(timestamp)
             # bucket into exact 15 minute steps

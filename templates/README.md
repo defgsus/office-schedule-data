@@ -3,15 +3,15 @@
 This is the data export of [office-schedule-scraper](https://github.com/defgsus/office-schedule-scraper/).
 
 The data contains the **free dates** where one can make an appointment at a 
-public office at a snapshot interval of 15 minutes, starting at 2021-07-12.
+public office at a snapshot interval of 15 minutes, starting on 2021-07-12.
 
 This data repository is updated weekly and the most recent timestamp 
-is on **%(last_exported_date)s**.
+is **%(last_exported_date)s**.
 
 
 # Data layout
 
-The [compressed](compressed) folder contains **tar.gz** files for each 
+The [raw/](raw) folder contains **tar.gz** files for each 
 calendar week wherein are **csv** files for each scraped website. Those have the
 following format:
 
@@ -32,7 +32,7 @@ following format:
 - The `source_id` columns contains the id of the website scraper
 - `location_id` is the id of the office/calendar available on the website
   - Both `source_id` and `location_id` together identify the unique calendar
-    within the dataset. The actual names can be looked up in the [meta-data](#metadata).
+    within the dataset. The actual names can be looked up in the [meta data](#meta-data).
 - All other columns represent the availability of each date.
   - The spacing between dates is 5 to 30 minutes, depending on the website.
   - For space reasons, dates that are not available just have an empty value, 
@@ -44,10 +44,15 @@ The actual data is quite redundant and gigantic in size but the zipped weekly
 bundles are currently between 6 to 8 megabytes each.
 
 
-# Metadata
+# Data access
 
-[metadata.json](compressed/metadata.json) contains an object in the 
-following format:
+For a pythonian way read the [data access documentation](docs/data_access.md).
+
+
+## Meta data
+
+Some metadata is found in [raw/metadata.json](raw/metadata.json) 
+and contains an object of the following format:
 
 ```json
 {
@@ -70,37 +75,7 @@ following format:
 
 `location_info = metadata[source_id]["locations"][location_id]`
 
-
-# Data access
-
-[data.py](data.py) defines a `Data` class that helps to iterate through all
-the files in the dataset:
-
-```python
-from src.data import Data
-
-data = Data()  # filters can be defined here
-
-# iterate through all files
-# week: tuple(year, week)
-# source_id: str
-# fileio: binary stream
-for week, source_id, fileio in data.iter_files():
-    pass
-
-# iterate through the table data
-# columns: list of headers, e.g ["date", "source_id", "location_id", "2021-07-12 08:00:00", ...]
-# rows: list of list of values
-for week, source_id, columns, rows in data.iter_tables(as_int=True):
-    pass
-
-# iterate through pandas.DataFrames
-# df: a DataFrame with MultiIndex ["date", "source_id", "location_id"]
-for week, source_id, df in data.iter_dataframes():
-    pass
-```
-
-Meta-data can be queried via:
+Within python, it can be queried via:
 
 ```python
 from src.data import Data
@@ -125,9 +100,9 @@ Metrics have been updated at **%(metrics_date)s**
 **%(num_snapshots)s** snapshots,
 **%(num_appointments)s** estimated appointments
 
-- [snapshots-sum.csv](metrics/snapshots-sum.csv) (below table) contains
+- [summary.csv](metrics/summary.csv) (below table) contains
   the sum of all weeks per **source**. 
-- [snapshots-weekly.csv](metrics/snapshots-weekly.csv) contains the number of 
+- [summary-weekly.csv](metrics/summary-weekly.csv) contains the number of 
   snapshots and changes per **calendar week** and **source**.
 
 %(metric_sum_table)s
@@ -149,7 +124,7 @@ Where the columns are:
  - `num_cancellations`: Similar to `num_appointments` but this shows the
    number of free dates that have reappeared on the schedule. 
 
-The [snapshots-weekly.csv](metrics/snapshots-weekly.csv) table is similar
+The [summary-weekly.csv](metrics/summary-weekly.csv) table is similar
 but contains a row for each calendar week as well. 
 
 > There are some problems estimating the actual number of appointments
