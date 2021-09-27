@@ -197,7 +197,7 @@ def update_summary_and_readme():
     ))
 
     template_context = {
-        "last_exported_date": df["max_date"].max()[:10],
+        "last_exported_date": df["max_date"].max(),
         "metrics_date": datetime.date.today(),
         "num_sources": format(df.index.nunique(), ","),
         "num_locations": format(df["num_locations"].sum(), ","),
