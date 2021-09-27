@@ -6,13 +6,14 @@ import fnmatch
 import codecs
 import datetime
 from pathlib import Path
-from typing import List, Optional, Tuple, Generator, BinaryIO, Callable, Union, Dict, Container
+from typing import List, Optional, Tuple, Generator, BinaryIO, Callable, Union, Dict, Sequence
 
 import pandas as pd
 import numpy as np
 
 
 IsoWeek = Tuple[int, int]
+StringFilter = Optional[Union[str, Sequence[str], Callable[[str], bool]]]
 
 
 def to_datetime(s: str) -> datetime.datetime:
@@ -26,8 +27,9 @@ class Data:
 
     def __init__(
             self,
-            include: Optional[str] = None,
-            exclude: Optional[str] = None,
+            include: StringFilter = None,
+            exclude: StringFilter = None,
+            iso_week: Optional[IsoWeek] = None,
             iso_week_gt: Optional[IsoWeek] = None,
             iso_week_gte: Optional[IsoWeek] = None,
             iso_week_lt: Optional[IsoWeek] = None,
@@ -35,6 +37,7 @@ class Data:
     ):
         self.include = include
         self.exclude = exclude
+        self.iso_week = iso_week
         self.iso_week_gt = iso_week_gt
         self.iso_week_gte = iso_week_gte
         self.iso_week_lt = iso_week_lt
@@ -89,22 +92,15 @@ class Data:
     @classmethod
     def get_table(
             cls,
-            iso_week: Tuple[int, int],
+            iso_week: IsoWeek,
             source_id: str,
-            location_id: Optional[Union[str, Callable]] = None,
+            location_id: StringFilter = None,
             as_int: bool = False,
             as_datetime: bool = False,
             empty: Optional[str] = None,
             with_meta: bool = False,
     ) -> Tuple[List, List[List]]:
         iso_week_str = cls.iso_week_to_string(iso_week)
-
-        loc_filter = None
-        if location_id is not None:
-            if callable(location_id):
-                loc_filter = location_id
-            else:
-                loc_filter = lambda i: i == location_id
 
         with tarfile.open(cls.PATH / iso_week_str[:4] / f"{iso_week_str}.tar.gz") as tf:
             fp = tf.extractfile(f"{source_id}.csv")
@@ -113,7 +109,7 @@ class Data:
             if location_id is not None:
                 rows = [
                     row for row in rows
-                    if loc_filter(row[2])
+                    if _string_filter(row[2], location_id)
                 ]
 
             if with_meta:
@@ -130,11 +126,13 @@ class Data:
             cls,
             iso_week: Tuple[int, int],
             source_id: str,
+            location_id: StringFilter = None,
             as_datetime: bool = True,
             with_meta: bool = False,
     ) -> pd.DataFrame:
         columns, rows = cls.get_table(
-            iso_week=iso_week, source_id=source_id,
+            iso_week=iso_week, 
+            source_id=source_id, location_id=location_id,
             as_int=True, as_datetime=as_datetime,
             with_meta=with_meta,
         )
@@ -146,7 +144,7 @@ class Data:
             f"{name}={getattr(self, name)}"
             for name in (
                 "include", "exclude",
-                "iso_week_gt", "iso_week_gte", "iso_week_lt", "iso_week_lte"
+                "iso_week", "iso_week_gt", "iso_week_gte", "iso_week_lt", "iso_week_lte"
             )
             if getattr(self, name)
         )
@@ -159,6 +157,8 @@ class Data:
         for fn in sorted(glob.glob(str(self.PATH / "*" / "*.tar.gz"))):
             iso_week = self.string_to_iso_week(Path(fn).name.split(".")[0])
 
+            if self.iso_week and iso_week != self.iso_week:
+                continue
             if self.iso_week_gt and not (iso_week > self.iso_week_gt):
                 continue
             if self.iso_week_gte and not (iso_week >= self.iso_week_gte):
@@ -180,9 +180,9 @@ class Data:
             with tarfile.open(tar_filename) as tf:
                 for csv_name in sorted(tf.getnames()):
                     id_name = csv_name.split(".")[0]
-                    if self.exclude and fnmatch.fnmatchcase(id_name, self.exclude):
+                    if self.exclude and _string_filter(id_name, self.exclude):
                         continue
-                    if self.include and not fnmatch.fnmatchcase(id_name, self.include):
+                    if self.include and not _string_filter(id_name, self.include):
                         continue
 
                     fp = tf.extractfile(csv_name)
@@ -292,33 +292,11 @@ class Metrics:
         return df
 
     @classmethod
-    def appointments(
-            cls,
-            source_id: Optional[Union[str, Callable]] = None,
-            location_id: Optional[Union[str, Callable]] = None,
-            iso_week_gt: Optional[IsoWeek] = None,
-            iso_week_gte: Optional[IsoWeek] = None,
-            iso_week_lt: Optional[IsoWeek] = None,
-            iso_week_lte: Optional[IsoWeek] = None,
-            as_int: bool = False,
-    ) -> Optional[pd.DataFrame]:
-        return cls.changes(
-            type="appointments",
-            source_id=source_id,
-            location_id=location_id,
-            iso_week_gt=iso_week_gt,
-            iso_week_gte=iso_week_gte,
-            iso_week_lt=iso_week_lt,
-            iso_week_lte=iso_week_lte,
-            as_int=as_int,
-        )
-
-    @classmethod
     def dataframe(
             cls,
-            type: Optional[str] = None,
-            source_id: Optional[str] = None,
-            location_id: Optional[str] = None,
+            type: StringFilter = None,
+            source_id: StringFilter = None,
+            location_id: StringFilter = None,
             iso_week: Optional[IsoWeek] = None,
             iso_week_gt: Optional[IsoWeek] = None,
             iso_week_gte: Optional[IsoWeek] = None,
@@ -332,7 +310,7 @@ class Metrics:
 
         The metrics can optionally be filtered by type, source_id, location_id and weeks.
 
-        :param type: optional filter, either wildcard string, or list of strings or
+        :param type: optional filter, either wildcard string, or list of wildcard strings or
             a callable(str) returning bool
         :param source_id: optional filter, either wildcard string or a callable(str) returning bool
         :param location_id: optional filter, either wildcard string or a callable(str) returning bool
@@ -390,6 +368,7 @@ class Metrics:
             df = df.loc[:, [c for c in df.columns if _string_filter(c.split("/")[1], location_id)]]
 
         if as_int:
+            df.replace(np.nan, 0, inplace=True)
             df = df.astype(int)
 
         df.sort_index(inplace=True)
@@ -412,14 +391,13 @@ class Metrics:
         return df
 
 
-
-def _string_filter(s: str, f: Optional[Union[str, Container[str], Callable[[str], bool]]]):
+def _string_filter(s: str, f: StringFilter):
     if f is None:
         return True
     if isinstance(f, str):
         return fnmatch.fnmatchcase(s, f)
-    elif isinstance(f, Container):
-        return s in f
+    elif isinstance(f, Sequence):
+        return any(fnmatch.fnmatchcase(s, x) for x in f)
     elif callable(f):
         return f(s)
     else:

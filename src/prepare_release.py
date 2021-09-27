@@ -1,4 +1,5 @@
 import os
+import argparse
 from io import StringIO, BytesIO
 import warnings
 from multiprocessing import Pool
@@ -14,13 +15,74 @@ SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "snapshots-weekly.csv"
 SNAPSHOTS_SUM_FILE = METRICS_PATH / "snapshots-sum.csv"
 
 
-def calc_snapshot_metrics(data: Data) -> Optional[pd.DataFrame]:
-    print(f"calc snapshot metrics of {data}")
+def update_metrics(
+        force_recalc: bool = False,
+        processes: int = 1,
+        source_id: StringFilter = None,
+):
+    iso_weeks = [f[0] for f in Data().compressed_files()]
+    assert iso_weeks, "no data found"
+
+    base_filter = {"include": source_id}
+
+    weeks_to_calc = []
+    for week in iso_weeks:
+        path = METRICS_PATH / str(week[0])
+        filename = path / f"{Data.iso_week_to_string(week)}.tar.gz"
+
+        if force_recalc or not filename.exists():
+            data_filter = base_filter.copy()
+            data_filter["iso_week"] = week
+            weeks_to_calc.append((data_filter, path, filename))
+        else:
+            print(f"{filename} already exists")
+
+    if not weeks_to_calc:
+        return
+
+    if processes <= 1:
+        stash = dict()
+        for data_filter, path, filename in weeks_to_calc:
+            data = Data(**data_filter)
+            metrics = calc_metrics(data, stash=stash)
+            _store_metrics(metrics, path, filename)
+    else:
+        warnings.warn(
+            "Metrics with processes > 1 is only for development and not suited "
+            "for publishing. Each week should be analyzed in sequence."
+        )
+        pool = Pool(processes)
+        pool.map(_calc_metric_process, weeks_to_calc)
+
+
+def _calc_metric_process(arg):
+    data_filter, path, filename = arg
+    data = Data(**data_filter)
+    metrics = calc_metrics(data, stash=None)
+    _store_metrics(metrics, path, filename)
+
+
+def _store_metrics(metrics: Dict[str, pd.DataFrame], path: Path, filename: Path):
+    print(f"compressing metrics into {filename}")
+    os.makedirs(path, exist_ok=True)
+    with tarfile.open(filename, "w:gz") as tf:
+        for name, df in metrics.items():
+            bin = df.to_csv().encode("utf-8")
+            bin_file = BytesIO(bin)
+
+            info = tarfile.TarInfo(f"{name}.csv")
+            info.size = len(bin)
+            tf.addfile(info, bin_file)
+
+
+def calc_weekly_summary(data: Data) -> Optional[pd.DataFrame]:
+    print(f"calc weekly summary of {data}")
 
     df_changes = dict()
     for change_type in ("appointments", "cancellations"):
-        df = Metrics.changes(
+        df = Metrics.dataframe(
             type=change_type,
+            iso_week=data.iso_week,
             iso_week_gt=data.iso_week_gt,
             iso_week_gte=data.iso_week_gte,
             iso_week_lt=data.iso_week_lt,
@@ -79,24 +141,29 @@ def calc_snapshot_metrics(data: Data) -> Optional[pd.DataFrame]:
     return df
 
 
-def update_metrics_weekly():
+def update_weekly_summary(
+        force_recalc: bool = False,
+):
     filename = SNAPSHOTS_WEEKLY_FILE
 
-    try:
-        previous_stats = (
-            pd.read_csv(filename)
-            .set_index(["week", "source_id"])
-        )
-        max_date = previous_stats.index.get_level_values("week").max()
-        max_date = Data.string_to_iso_week(max_date)
+    previous_stats = None
+    data = Data()  # full run over all weeks
 
-        data = Data(iso_week_gt=max_date)
+    if not force_recalc:
+        try:
+            previous_stats = (
+                pd.read_csv(filename)
+                .set_index(["week", "source_id"])
+            )
+            max_date = previous_stats.index.get_level_values("week").max()
+            max_date = Data.string_to_iso_week(max_date)
 
-    except Exception as e:
-        previous_stats = None
-        data = Data()  # full run over all weeks
+            data = Data(iso_week_gt=max_date)
 
-    stats = calc_snapshot_metrics(data)
+        except Exception as e:
+            previous_stats = None
+
+    stats = calc_weekly_summary(data)
     if stats is None and previous_stats is not None:
         print(f"unchanged: {filename}")
         return
@@ -104,10 +171,12 @@ def update_metrics_weekly():
     if previous_stats is not None:
         stats = pd.concat([previous_stats, stats])
 
+    print(f"writing weekly summary {filename}")
     stats.to_csv(filename)
 
 
-def update_metrics_sum():
+def update_summary_and_readme():
+    print("updating summary")
     data = Data()
 
     sn_df = pd.read_csv(SNAPSHOTS_WEEKLY_FILE)
@@ -115,8 +184,8 @@ def update_metrics_sum():
     source_group = sn_df.groupby("source_id")
     df = source_group.sum()
     df["num_locations"] = (source_group["num_locations"].mean() + .5).astype(np.int)
-    df["name"] = df.index.map(lambda source_id: data.meta.get(source_id, {}).get("name", "-"))
-    df["scraper"] = df.index.map(lambda source_id: data.meta.get(source_id, {}).get("scraper", "-"))
+    df["name"] = df.index.map(lambda source_id: data.get_meta(source_id, "name", default="-"))
+    df["scraper"] = df.index.map(lambda source_id: data.get_meta(source_id, "scraper", default="-"))
     df = df[df.columns[-2:].append(df.columns[:-2])]
     df["min_date"] = source_group["min_date"].min()
     df["max_date"] = source_group["max_date"].max()
@@ -142,58 +211,37 @@ def update_metrics_sum():
     (PATH / "README.md").write_text(readme)
 
 
-DEBUG = False
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--force-metrics", type=bool, nargs="?", default=False, const=True,
+        help="Force recalculation of all metrics (takes a long time!)",
+    )
+    parser.add_argument(
+        "--force-weekly", type=bool, nargs="?", default=False, const=True,
+        help="Force recalculation of weekly summary",
+    )
+    parser.add_argument(
+        "--processes", type=int, nargs="?", default=1,
+        help="Number of parallel processes (for each week) - for development only!",
+    )
+    parser.add_argument(
+        "--source", type=str, nargs="+", default=None,
+        help="Filter for source_id - for development only!",
+    )
 
-def update_metrics(processes: int = 11):
-    iso_weeks = [f[0] for f in Data().compressed_files()]
-    assert iso_weeks, "no data found"
+    args = parser.parse_args()
 
-    weeks_to_calc = []
-    for week in iso_weeks:
-        path = METRICS_PATH / str(week[0])
-        filename = path / f"{Data.iso_week_to_string(week)}.tar.gz"
-
-        if True:#not filename.exists():
-            weeks_to_calc.append((week, path, filename))
-
-    if processes <= 1:
-        stash = dict()
-        for week, path, filename in weeks_to_calc:
-            data = Data(iso_week_gte=week, iso_week_lte=week, include="jena" if DEBUG else None)
-            metrics = calc_metrics(data, stash=stash)
-            #print(metrics)
-            #exit()
-            _store_metrics(metrics, path, filename)
-    else:
-        warnings.warn(
-            "Metrics with processes > 1 is only for development and not suited "
-            "for publishing. Each week should be analyzed in sequence."
-        )
-        pool = Pool(processes)
-        pool.map(_calc_metric_process, weeks_to_calc)
-
-
-def _calc_metric_process(arg):
-    week, path, filename = arg
-    data = Data(iso_week_gte=week, iso_week_lte=week, include="jena" if DEBUG else None)
-    metrics = calc_metrics(data, stash=None)
-    _store_metrics(metrics, path, filename)
-
-
-def _store_metrics(metrics: Dict[str, pd.DataFrame], path: Path, filename: Path):
-    os.makedirs(path, exist_ok=True)
-    print(f"writing metrics to {filename}")
-    with tarfile.open(filename, "w:gz") as tf:
-        for name, df in metrics.items():
-            bin = df.to_csv().encode("utf-8")
-            bin_file = BytesIO(bin)
-
-            info = tarfile.TarInfo(f"{name}.csv")
-            info.size = len(bin)
-            tf.addfile(info, bin_file)
+    update_metrics(
+        force_recalc=args.force_metrics,
+        processes=args.processes,
+        source_id=args.source,
+    )
+    update_weekly_summary(
+        force_recalc=args.force_weekly,
+    )
+    update_summary_and_readme()
 
 
 if __name__ == "__main__":
-    update_metrics()
-    #update_metrics_weekly()
-    #update_metrics_sum()
+    main()

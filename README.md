@@ -5,8 +5,8 @@ This is the data export of [office-schedule-scraper](https://github.com/defgsus/
 The data contains the **free dates** where one can make an appointment at a 
 public office at a snapshot interval of 15 minutes, starting at 2021-07-12.
 
-This repository is updated each week and the most recent timestamp 
-is **2021-09-19**.
+This data repository is updated weekly and the most recent timestamp 
+is on **2021-09-19**.
 
 
 # Data layout
@@ -77,7 +77,7 @@ following format:
 the files in the dataset:
 
 ```python
-from data import Data
+from src.data import Data
 
 data = Data()  # filters can be defined here
 
@@ -103,20 +103,22 @@ for week, source_id, df in data.iter_dataframes():
 Meta-data can be queried via:
 
 ```python
+from src.data import Data
+
 # returns the plain dict
-data.meta   
+Data.meta()
 
-# returns a value for the given source_id 
+# returns a value (e.g. "name") for the given source_id 
 #   get_meta() does not raise KeyError, but returns the `default` value 
-data.get_meta("source_id", "value")  
+Data.get_meta("source_id", "value")  
 
-# returns a value for the given source_id/location_id
-data.get_meta("source_id", "location_id", "value")  
+# returns a value (e.g. "name") for the given source_id/location_id
+Data.get_meta("source_id", "location_id", "value")  
 ```
 
 # Metrics
 
-Metrics have been updated at **2021-09-22**
+Metrics have been updated at **2021-09-27**
 
 **98** sources,
 **575** locations,
