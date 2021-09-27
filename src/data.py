@@ -271,10 +271,10 @@ class Metrics:
     @classmethod
     def summary_weekly(cls) -> pd.DataFrame:
         """
-        Returns a DataFrame from the "snapshots-weekly.csv"
+        Returns a DataFrame from the "summary-weekly.csv"
         """
         df = (
-            pd.read_csv(cls.PATH / "snapshots-weekly.csv")
+            pd.read_csv(cls.PATH / "summary-weekly.csv")
             .set_index(["week", "source_id"])
         )
         df["min_date"] = pd.to_datetime(df["min_date"])
@@ -284,10 +284,10 @@ class Metrics:
     @classmethod
     def summary(cls) -> pd.DataFrame:
         """
-        Returns a DataFrame from the "snapshots-sum.csv"
+        Returns a DataFrame from the "summary.csv"
         """
         df = (
-            pd.read_csv(cls.PATH / "snapshots-sum.csv")
+            pd.read_csv(cls.PATH / "summary.csv")
             .set_index("source_id")
         )
         df["min_date"] = pd.to_datetime(df["min_date"])

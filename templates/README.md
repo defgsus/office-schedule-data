@@ -125,9 +125,9 @@ Metrics have been updated at **%(metrics_date)s**
 **%(num_snapshots)s** snapshots,
 **%(num_appointments)s** estimated appointments
 
-- [snapshots-sum.csv](metrics/snapshots-sum.csv) (below table) contains
+- [summary.csv](metrics/summary.csv) (below table) contains
   the sum of all weeks per **source**. 
-- [snapshots-weekly.csv](metrics/snapshots-weekly.csv) contains the number of 
+- [summary-weekly.csv](metrics/summary-weekly.csv) contains the number of 
   snapshots and changes per **calendar week** and **source**.
 
 %(metric_sum_table)s
@@ -149,7 +149,7 @@ Where the columns are:
  - `num_cancellations`: Similar to `num_appointments` but this shows the
    number of free dates that have reappeared on the schedule. 
 
-The [snapshots-weekly.csv](metrics/snapshots-weekly.csv) table is similar
+The [summary-weekly.csv](metrics/summary-weekly.csv) table is similar
 but contains a row for each calendar week as well. 
 
 > There are some problems estimating the actual number of appointments

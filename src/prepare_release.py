@@ -11,8 +11,8 @@ from src.metrics_calc import calc_metrics
 PATH: Path = Path(__file__).resolve().parent.parent
 METRICS_PATH = PATH / "metrics"
 
-SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "snapshots-weekly.csv"
-SNAPSHOTS_SUM_FILE = METRICS_PATH / "snapshots-sum.csv"
+SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "summary-weekly.csv"
+SNAPSHOTS_SUM_FILE = METRICS_PATH / "summary.csv"
 
 
 def update_metrics(
