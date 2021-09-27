@@ -1,17 +1,17 @@
 import os
+from io import StringIO, BytesIO
+import warnings
+from multiprocessing import Pool
 from tqdm import tqdm
 
-from data import *
+from src.data import *
+from src.metrics_calc import calc_metrics
 
-PATH = Path(__file__).resolve().parent
+PATH: Path = Path(__file__).resolve().parent.parent
 METRICS_PATH = PATH / "metrics"
 
 SNAPSHOTS_WEEKLY_FILE = METRICS_PATH / "snapshots-weekly.csv"
 SNAPSHOTS_SUM_FILE = METRICS_PATH / "snapshots-sum.csv"
-
-
-def to_date(s: str) -> datetime.datetime:
-    return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
 
 
 def calc_snapshot_metrics(data: Data) -> Optional[pd.DataFrame]:
@@ -142,106 +142,58 @@ def update_metrics_sum():
     (PATH / "README.md").write_text(readme)
 
 
-def calc_changes(data: Data, stash: Optional[dict] = None):
-    print(f"calculating changes of {data}")
-    free_dates = stash.get("free_dates") or dict() if stash else dict()
-    appointed_dates = stash.get("appointed_dates") or dict() if stash else dict()
-    previous_timestamps = stash.get("previous_timestamps") or dict() if stash else dict()
-    changes_appointments = dict()
-    changes_cancellations = dict()
+DEBUG = False
 
-    for week, source_id, columns, rows in tqdm(data.iter_tables()):
-        dates = columns[3:]
-        for org_row in rows:
-            timestamp = org_row[0]
-            timestamp_dt = to_date(timestamp)
-            timestamp_dt = timestamp_dt.replace(minute=timestamp_dt.minute // 15 * 15, second=0, microsecond=0)
-            timestamp = str(timestamp_dt)
-
-            loc_id = f"{source_id}/{org_row[2]}"
-            row = org_row[3:]
-
-            if loc_id not in previous_timestamps:
-                do_record = False
-            else:
-                diff = timestamp_dt - previous_timestamps[loc_id]
-                do_record = diff.total_seconds() < 16 * 60
-            previous_timestamps[loc_id] = timestamp_dt
-
-            if loc_id not in free_dates:
-                free_dates[loc_id] = set()
-            if loc_id not in appointed_dates:
-                appointed_dates[loc_id] = set()
-
-            appointments = 0
-            cancellations = 0
-
-            for i, v in enumerate(row):
-                date = dates[i]
-                if v:
-                    if date in appointed_dates[loc_id]:
-                        appointed_dates[loc_id].remove(date)
-                        if do_record:
-                            cancellations += 1
-
-                    free_dates[loc_id].add(date)
-                else:
-                    if date in free_dates[loc_id]:
-                        # do not count the first cancelled date
-                        #   because it might just have disappeared in time
-                        if do_record:
-                            if date != min(*free_dates[loc_id]) and date != max(*free_dates[loc_id]):
-                                appointments += 1
-
-                        free_dates[loc_id].remove(date)
-                        appointed_dates[loc_id].add(date)
-
-            for changes, value in (
-                    (changes_appointments, appointments),
-                    (changes_cancellations, cancellations),
-            ):
-                if timestamp not in changes:
-                    changes[timestamp] = dict()
-                changes[timestamp][loc_id] = changes[timestamp].get(loc_id, 0) + value
-
-    if stash:
-        stash["free_dates"] = free_dates
-        stash["appointed_dates"] = appointed_dates
-        stash["previous_timestamps"] = previous_timestamps
-
-    dataframes = []
-    for changes in (changes_appointments, changes_cancellations):
-        df = pd.DataFrame(changes).T
-        df.index = pd.to_datetime(df.index)
-        df.index.rename("date", inplace=True)
-        # avoid storing floats and NaNs, convert to str(int) and empty string
-        df = df.apply(lambda d: d.astype(str).apply(lambda v: v.split(".")[0])).replace("nan", "")
-        dataframes.append(df)
-
-    return tuple(dataframes)
-
-
-def update_changes():
+def update_metrics(processes: int = 11):
     iso_weeks = [f[0] for f in Data().compressed_files()]
+    assert iso_weeks, "no data found"
 
-    stash = dict()
+    weeks_to_calc = []
     for week in iso_weeks:
-        path1 = METRICS_PATH / "appointments" / str(week[0])
-        path2 = METRICS_PATH / "cancellations" / str(week[0])
-        file1 = path1 / f"{Data.iso_week_to_string(week)}.csv"
-        file2 = path2 / f"{Data.iso_week_to_string(week)}.csv"
+        path = METRICS_PATH / str(week[0])
+        filename = path / f"{Data.iso_week_to_string(week)}.tar.gz"
 
-        if not file1.exists() or not file2.exists():
-            data = Data(iso_week_gte=week, iso_week_lte=week)
-            df1, df2 = calc_changes(data, stash=stash)
+        if True:#not filename.exists():
+            weeks_to_calc.append((week, path, filename))
 
-            os.makedirs(path1, exist_ok=True)
-            df1.to_csv(file1)
-            os.makedirs(path2, exist_ok=True)
-            df2.to_csv(file2)
+    if processes <= 1:
+        stash = dict()
+        for week, path, filename in weeks_to_calc:
+            data = Data(iso_week_gte=week, iso_week_lte=week, include="jena" if DEBUG else None)
+            metrics = calc_metrics(data, stash=stash)
+            #print(metrics)
+            #exit()
+            _store_metrics(metrics, path, filename)
+    else:
+        warnings.warn(
+            "Metrics with processes > 1 is only for development and not suited "
+            "for publishing. Each week should be analyzed in sequence."
+        )
+        pool = Pool(processes)
+        pool.map(_calc_metric_process, weeks_to_calc)
+
+
+def _calc_metric_process(arg):
+    week, path, filename = arg
+    data = Data(iso_week_gte=week, iso_week_lte=week, include="jena" if DEBUG else None)
+    metrics = calc_metrics(data, stash=None)
+    _store_metrics(metrics, path, filename)
+
+
+def _store_metrics(metrics: Dict[str, pd.DataFrame], path: Path, filename: Path):
+    os.makedirs(path, exist_ok=True)
+    print(f"writing metrics to {filename}")
+    with tarfile.open(filename, "w:gz") as tf:
+        for name, df in metrics.items():
+            bin = df.to_csv().encode("utf-8")
+            bin_file = BytesIO(bin)
+
+            info = tarfile.TarInfo(f"{name}.csv")
+            info.size = len(bin)
+            tf.addfile(info, bin_file)
 
 
 if __name__ == "__main__":
-    update_changes()
-    update_metrics_weekly()
-    update_metrics_sum()
+    update_metrics()
+    #update_metrics_weekly()
+    #update_metrics_sum()

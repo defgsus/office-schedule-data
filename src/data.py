@@ -6,7 +6,7 @@ import fnmatch
 import codecs
 import datetime
 from pathlib import Path
-from typing import List, Optional, Tuple, Generator, BinaryIO, Callable, Union
+from typing import List, Optional, Tuple, Generator, BinaryIO, Callable, Union, Dict, Container
 
 import pandas as pd
 import numpy as np
@@ -15,9 +15,14 @@ import numpy as np
 IsoWeek = Tuple[int, int]
 
 
+def to_datetime(s: str) -> datetime.datetime:
+    return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
+
+
 class Data:
 
-    PATH = Path(__file__).resolve().parent / "compressed"
+    PATH = Path(__file__).resolve().parent.parent / "compressed"
+    _meta = None
 
     def __init__(
             self,
@@ -34,17 +39,36 @@ class Data:
         self.iso_week_gte = iso_week_gte
         self.iso_week_lt = iso_week_lt
         self.iso_week_lte = iso_week_lte
-        self._meta = None
 
     def __str__(self):
         return f"{self.__class__.__name__}({self.filter()})"
 
-    @property
-    def meta(self):
-        if self._meta is None:
-            with open(self.PATH / "metadata.json") as fp:
-                self._meta = json.load(fp)
-        return self._meta
+    @classmethod
+    def meta(cls) -> dict:
+        if cls._meta is None:
+            with open(cls.PATH / "metadata.json") as fp:
+                cls._meta = json.load(fp)
+        return cls._meta
+
+    @classmethod
+    def get_meta(
+            cls,
+            source_id: str,
+            location_id: Optional[str] = None,
+            value_name: Optional[str] = None,
+            *, default=None
+    ):
+        data = cls.meta().get(source_id, {})
+        if location_id is None:
+            return data or default
+
+        locations = data.get("locations", {})
+        if value_name is None:
+            if location_id in locations:
+                return locations[location_id]
+            return data.get(location_id, default)
+
+        return locations.get(location_id, {}).get(value_name, default)
 
     @classmethod
     def string_to_iso_week(cls, s: str) -> IsoWeek:
@@ -59,6 +83,10 @@ class Data:
         return f"{week[0]:04d}-{week[1]:02d}"
 
     @classmethod
+    def string_to_datetime(cls, s: str) -> datetime.datetime:
+        return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
+
+    @classmethod
     def get_table(
             cls,
             iso_week: Tuple[int, int],
@@ -67,6 +95,7 @@ class Data:
             as_int: bool = False,
             as_datetime: bool = False,
             empty: Optional[str] = None,
+            with_meta: bool = False,
     ) -> Tuple[List, List[List]]:
         iso_week_str = cls.iso_week_to_string(iso_week)
 
@@ -87,6 +116,13 @@ class Data:
                     if loc_filter(row[2])
                 ]
 
+            if with_meta:
+                rows = [
+                    row[:3] + [cls.get_meta(row[1], "name"), cls.get_meta(row[1], row[2], "name")] + row[3:]
+                    for row in rows
+                ]
+                columns = columns[:3] + ["source_name", "location_name"] + columns[3:]
+
             return columns, rows
 
     @classmethod
@@ -94,12 +130,15 @@ class Data:
             cls,
             iso_week: Tuple[int, int],
             source_id: str,
+            as_datetime: bool = True,
+            with_meta: bool = False,
     ) -> pd.DataFrame:
         columns, rows = cls.get_table(
             iso_week=iso_week, source_id=source_id,
-            as_int=True, as_datetime=True,
+            as_int=True, as_datetime=as_datetime,
+            with_meta=with_meta,
         )
-        return cls._table_to_dataframe(columns, rows)
+        return cls._table_to_dataframe(columns, rows, as_datetime=as_datetime)
 
     def filter(self) -> str:
         """Returns current filter as string"""
@@ -111,11 +150,6 @@ class Data:
             )
             if getattr(self, name)
         )
-
-    def get_meta(self, source_id: str, location_id: str, value_name: Optional[str] = None, default=None):
-        if value_name is None:
-            return self.meta.get(source_id, {}).get(location_id, default)
-        return self.meta.get(source_id, {}).get("locations", {}).get(location_id, {}).get(value_name, default)
 
     def compressed_files(self) -> List[Tuple[IsoWeek, str]]:
         """
@@ -179,10 +213,16 @@ class Data:
             yield iso_week, id, df
 
     @classmethod
-    def _table_to_dataframe(cls, columns, rows) -> pd.DataFrame:
+    def _table_to_dataframe(cls, columns, rows, as_datetime: bool) -> pd.DataFrame:
         df = pd.DataFrame(rows, columns=columns)
-        df["date"] = pd.to_datetime(df["date"])
-        df.set_index(["date", "source_id", "location_id"], inplace=True)
+        if as_datetime:
+            df["date"] = pd.to_datetime(df["date"])
+
+        index_columns = ["date", "source_id", "location_id"]
+        if "source_name" in columns:
+            index_columns += ["source_name", "location_name"]
+        df.set_index(index_columns, inplace=True)
+
         return df
 
     @classmethod
@@ -198,9 +238,13 @@ class Data:
         columns = rows[0]
         rows = rows[1:]
 
+        if as_datetime:
+            for i in range(3, len(columns)):
+                columns[i] = cls.string_to_datetime(columns[i])
+
         for row in rows:
             if as_datetime:
-                row[0] = datetime.datetime.strptime(row[0], "%Y-%m-%d %H:%M:%S")
+                row[0] = cls.string_to_datetime(row[0])
             # make location_id always str
             row[2] = str(row[2])
 
@@ -219,7 +263,7 @@ class Data:
 
 class Metrics:
 
-    PATH = Path(__file__).resolve().parent / "metrics"
+    PATH = Path(__file__).resolve().parent.parent / "metrics"
 
     @classmethod
     def snapshots_weekly(cls) -> pd.DataFrame:
@@ -258,21 +302,6 @@ class Metrics:
             iso_week_lte: Optional[IsoWeek] = None,
             as_int: bool = False,
     ) -> Optional[pd.DataFrame]:
-        """
-        Returns a DataFrame with all appointments per snapshot time.
-
-        :param source_id: optional filter, either exact string or a callable returning bool
-        :param location_id: optional filter, either exact string or a callable returning bool
-        :param iso_week_gt: optional filter for the week (greater than)
-        :param iso_week_gte: optional filter for the week (greater than or equal)
-        :param iso_week_lt: optional filter for the week (less than)
-        :param iso_week_lte: optional filter for the week (less than or equal)
-        :param as_int: bool
-            if True: all numbers are int
-            if False: numbers are float and unfilled numbers (where no snapshot data was
-            available) is NaN.
-        :return: pandas DataFrame
-        """
         return cls.changes(
             type="appointments",
             source_id=source_id,
@@ -285,20 +314,45 @@ class Metrics:
         )
 
     @classmethod
-    def changes(
+    def dataframe(
             cls,
-            type: str,
+            type: Optional[str] = None,
             source_id: Optional[str] = None,
             location_id: Optional[str] = None,
+            iso_week: Optional[IsoWeek] = None,
             iso_week_gt: Optional[IsoWeek] = None,
             iso_week_gte: Optional[IsoWeek] = None,
             iso_week_lt: Optional[IsoWeek] = None,
             iso_week_lte: Optional[IsoWeek] = None,
             as_int: bool = False,
+            multiindex: bool = False,
     ) -> Optional[pd.DataFrame]:
-        dataframes = []
-        for filename in sorted(glob.glob(str(cls.PATH / type / "*" / "*.csv"))):
+        """
+        Returns a pandas.DataFrame with all calculated metrics.
+
+        The metrics can optionally be filtered by type, source_id, location_id and weeks.
+
+        :param type: optional filter, either wildcard string, or list of strings or
+            a callable(str) returning bool
+        :param source_id: optional filter, either wildcard string or a callable(str) returning bool
+        :param location_id: optional filter, either wildcard string or a callable(str) returning bool
+        :param iso_week: optional filter for the week (exact match)
+        :param iso_week_gt: optional filter for the week (greater than)
+        :param iso_week_gte: optional filter for the week (greater than or equal)
+        :param iso_week_lt: optional filter for the week (less than)
+        :param iso_week_lte: optional filter for the week (less than or equal)
+        :param as_int: bool
+            if True: all numbers are int
+            if False: numbers are float and unfilled numbers (where no snapshot data was
+            available) is NaN.
+        :return: pandas DataFrame
+        """
+        dataframes_weeks = []
+
+        for filename in sorted(glob.glob(str(cls.PATH / "????" / "*.tar.gz"))):
             week = Data.string_to_iso_week(Path(filename).name.split(".")[0])
+            if iso_week and week != iso_week:
+                continue
             if iso_week_gt and not week > iso_week_gt:
                 continue
             if iso_week_gte and not week >= iso_week_gte:
@@ -308,32 +362,65 @@ class Metrics:
             if iso_week_lte and not week <= iso_week_lte:
                 break
 
-            df = pd.read_csv(filename).set_index("date")
-            dataframes.append(df)
+            dataframes = dict()
+            with tarfile.open(filename) as tf:
+                for csv_name in tf.getnames():
+                    type_name = csv_name.split(".")[0]
+                    if not _string_filter(type_name, type):
+                        continue
+                    #print("reading", filename, week, type)
+                    fp = tf.extractfile(csv_name)
+                    df = pd.read_csv(fp).set_index("date")
+                    #df.replace(np.nan, 0, inplace=True)
+                    df.columns = [f"{c}/{type_name}" for c in df.columns]
+                    dataframes[type_name] = df
 
-        if not dataframes:
+            if dataframes:
+                df = pd.concat(dataframes.values(), axis=1)
+                dataframes_weeks.append(df)
+
+        if not dataframes_weeks:
             return
 
-        df = pd.concat(dataframes)
+        df = pd.concat(dataframes_weeks)
 
         if source_id:
-            if callable(source_id):
-                df = df.loc[:, [c for c in df.columns if source_id(c)]]
-            else:
-                df = df.loc[:, [c for c in df.columns if c.startswith(source_id + "/")]]
-
+            df = df.loc[:, [c for c in df.columns if _string_filter(c.split("/")[0], source_id)]]
         if location_id:
-            if callable(location_id):
-                df = df.loc[:, [c for c in df.columns if location_id(c)]]
-            else:
-                df = df.loc[:, [c for c in df.columns if c.endswith("/" + location_id)]]
+            df = df.loc[:, [c for c in df.columns if _string_filter(c.split("/")[1], location_id)]]
 
         if as_int:
-            df = df.replace(np.nan, 0).astype(int)
+            df = df.astype(int)
 
         df.sort_index(inplace=True)
         df.sort_index(inplace=True, axis=1)
         df.index = pd.to_datetime(df.index)
 
+        if multiindex:
+            cols = [c.split("/") for c in df.columns]
+            source_ids = sorted(set(c[0] for c in cols))
+            location_ids = sorted(set(c[1] for c in cols))
+            type_ids = sorted(set(c[2] for c in cols))
+            df.columns = pd.MultiIndex(
+                [source_ids, location_ids, type_ids],
+                [
+                    [source_ids.index(c[0]) for c in cols],
+                    [location_ids.index(c[1]) for c in cols],
+                    [type_ids.index(c[2]) for c in cols],
+                ]
+            )
         return df
 
+
+
+def _string_filter(s: str, f: Optional[Union[str, Container[str], Callable[[str], bool]]]):
+    if f is None:
+        return True
+    if isinstance(f, str):
+        return fnmatch.fnmatchcase(s, f)
+    elif isinstance(f, Container):
+        return s in f
+    elif callable(f):
+        return f(s)
+    else:
+        raise TypeError(f"Invalid filter type '{type(f).__name__}'")
