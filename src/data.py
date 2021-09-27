@@ -27,16 +27,16 @@ class Data:
 
     def __init__(
             self,
-            include: StringFilter = None,
-            exclude: StringFilter = None,
+            source_id: StringFilter = None,
+            source_id_not: StringFilter = None,
             iso_week: Optional[IsoWeek] = None,
             iso_week_gt: Optional[IsoWeek] = None,
             iso_week_gte: Optional[IsoWeek] = None,
             iso_week_lt: Optional[IsoWeek] = None,
             iso_week_lte: Optional[IsoWeek] = None,
     ):
-        self.include = include
-        self.exclude = exclude
+        self.source_id = source_id
+        self.source_id_not = source_id_not
         self.iso_week = iso_week
         self.iso_week_gt = iso_week_gt
         self.iso_week_gte = iso_week_gte
@@ -143,7 +143,7 @@ class Data:
         return ", ".join(
             f"{name}={getattr(self, name)}"
             for name in (
-                "include", "exclude",
+                "source_id", "source_id_not",
                 "iso_week", "iso_week_gt", "iso_week_gte", "iso_week_lt", "iso_week_lte"
             )
             if getattr(self, name)
@@ -180,9 +180,9 @@ class Data:
             with tarfile.open(tar_filename) as tf:
                 for csv_name in sorted(tf.getnames()):
                     id_name = csv_name.split(".")[0]
-                    if self.exclude and _string_filter(id_name, self.exclude):
+                    if self.source_id_not and _string_filter(id_name, self.source_id_not):
                         continue
-                    if self.include and not _string_filter(id_name, self.include):
+                    if self.source_id and not _string_filter(id_name, self.source_id):
                         continue
 
                     fp = tf.extractfile(csv_name)
@@ -207,9 +207,12 @@ class Data:
             columns, rows = self._read_table(fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty)
             yield iso_week, id, columns, rows
 
-    def iter_dataframes(self) -> Generator[Tuple[IsoWeek, str, pd.DataFrame], None, None]:
+    def iter_dataframes(
+            self,
+            as_datetime: bool = True,
+    ) -> Generator[Tuple[IsoWeek, str, pd.DataFrame], None, None]:
         for iso_week, id, columns, rows in self.iter_tables(as_int=True):
-            df = self._table_to_dataframe(columns, rows)
+            df = self._table_to_dataframe(columns, rows, as_datetime=as_datetime)
             yield iso_week, id, df
 
     @classmethod
@@ -266,20 +269,20 @@ class Metrics:
     PATH = Path(__file__).resolve().parent.parent / "metrics"
 
     @classmethod
-    def snapshots_weekly(cls) -> pd.DataFrame:
+    def summary_weekly(cls) -> pd.DataFrame:
         """
         Returns a DataFrame from the "snapshots-weekly.csv"
         """
         df = (
             pd.read_csv(cls.PATH / "snapshots-weekly.csv")
-            .set_index(["weeks", "location_id"])
+            .set_index(["week", "source_id"])
         )
         df["min_date"] = pd.to_datetime(df["min_date"])
         df["max_date"] = pd.to_datetime(df["max_date"])
         return df
 
     @classmethod
-    def snapshots_sum(cls) -> pd.DataFrame:
+    def summary(cls) -> pd.DataFrame:
         """
         Returns a DataFrame from the "snapshots-sum.csv"
         """
@@ -304,6 +307,7 @@ class Metrics:
             iso_week_lte: Optional[IsoWeek] = None,
             as_int: bool = False,
             multiindex: bool = False,
+            with_meta: bool = False,
     ) -> Optional[pd.DataFrame]:
         """
         Returns a pandas.DataFrame with all calculated metrics.
@@ -377,6 +381,16 @@ class Metrics:
 
         if multiindex:
             cols = [c.split("/") for c in df.columns]
+            if with_meta:
+                cols = [
+                    [
+                        Data.get_meta(c[0], "name") or c[0],
+                        Data.get_meta(c[0], c[1], "name") or c[1],
+                        c[2]
+                    ]
+                    for c in cols
+                ]
+
             source_ids = sorted(set(c[0] for c in cols))
             location_ids = sorted(set(c[1] for c in cols))
             type_ids = sorted(set(c[2] for c in cols))
@@ -386,7 +400,8 @@ class Metrics:
                     [source_ids.index(c[0]) for c in cols],
                     [location_ids.index(c[1]) for c in cols],
                     [type_ids.index(c[2]) for c in cols],
-                ]
+                ],
+                names=["source", "location", "metric"],
             )
         return df
 

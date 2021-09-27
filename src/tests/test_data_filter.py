@@ -23,25 +23,25 @@ class TestDataFilter(unittest.TestCase):
         self.assertEqual(
             [((2021, 28), "bonn")],
             list((week, source_id) for week, source_id, fp in Data(
-                include="bonn", iso_week=(2021, 28)
+                source_id="bonn", iso_week=(2021, 28)
             ).iter_files())
         )
         self.assertEqual(
             [((2021, 28), "bonn"), ((2021, 29), "bonn")],
             list((week, source_id) for week, source_id, fp in Data(
-                include="bonn", iso_week_lte=(2021, 29)
+                source_id="bonn", iso_week_lte=(2021, 29)
             ).iter_files())
         )
         self.assertEqual(
             [((2021, 28), "bonn"), ((2021, 28), "jena")],
             list((week, source_id) for week, source_id, fp in Data(
-                include=["bonn", "jena"], iso_week=(2021, 28)
+                source_id=["bonn", "jena"], iso_week=(2021, 28)
             ).iter_files())
         )
         self.assertEqual(
             [((2021, 28), "bonn"), ((2021, 28), "bonnbau"), ((2021, 28), "jena")],
             list((week, source_id) for week, source_id, fp in Data(
-                include=["b*", "jena"], iso_week=(2021, 28)
+                source_id=["b*", "jena"], iso_week=(2021, 28)
             ).iter_files())
         )
 

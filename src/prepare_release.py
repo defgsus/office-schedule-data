@@ -23,7 +23,7 @@ def update_metrics(
     iso_weeks = [f[0] for f in Data().compressed_files()]
     assert iso_weeks, "no data found"
 
-    base_filter = {"include": source_id}
+    base_filter = {"source_id": source_id}
 
     weeks_to_calc = []
     for week in iso_weeks:
