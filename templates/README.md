@@ -32,7 +32,7 @@ following format:
 - The `source_id` columns contains the id of the website scraper
 - `location_id` is the id of the office/calendar available on the website
   - Both `source_id` and `location_id` together identify the unique calendar
-    within the dataset. The actual names can be looked up in the [meta-data](#metadata).
+    within the dataset. The actual names can be looked up in the [meta data](#meta-data).
 - All other columns represent the availability of each date.
   - The spacing between dates is 5 to 30 minutes, depending on the website.
   - For space reasons, dates that are not available just have an empty value, 
@@ -46,7 +46,10 @@ bundles are currently between 6 to 8 megabytes each.
 
 # Data access
 
-For a pythonian way read [data_access.md](docs/data_access.md).
+For a pythonian way read the [data access documentation](docs/data_access.md).
+
+
+## Meta data
 
 Some metadata is found in [raw/metadata.json](raw/metadata.json) 
 and contains an object of the following format:

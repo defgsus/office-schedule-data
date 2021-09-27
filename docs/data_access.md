@@ -14,7 +14,9 @@ from src.data import Data, Metrics
 
 ## Direct table access
 
-Each source (identified by `source_id`) is published as a single CSV file for each week. The CSVs contain the **free dates** that have been reported by the website **at each snapshot time** (typically every 15 minutes) for **each sub-location** of the source. Those sub-locations typically are separate offices but can also represent the same office through different schedules or locations in different cities. 
+Each source (identified by `source_id`) is published as a single CSV file for each week. The CSVs contain the **free dates** that have been reported by the website **at each snapshot time** (typically every 15 minutes) for **each sub-location** ((identified by `location_id`) of the source. Those sub-locations typically are separate offices but can also represent the same office through different schedules or locations in different cities.
+
+`source_id` and `location_id` together form the unique ID of one calendar, sampled at the snapshot `date`. 
 
 Individual tables can be accessed with the `Data.get_table` class method:
 
@@ -45,11 +47,9 @@ Data.get_dataframe((2021, 30), "leipzig")
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -402,11 +402,9 @@ Data.get_dataframe((2021, 30), "leipzig", with_meta=True)
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -794,7 +792,7 @@ loc_sum.sort_values().plot.barh(figsize=(10, 6))
     
 
 
-The `date`, `source_id`, `location_id`, `source_name` and `location_name` columns form a [pandas.MultiIndex](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.MultiIndex.html#pandas.MultiIndex). The individual values can be accessed like this:
+The `date`, `source_id` and `location_id` (as well as `source_name` and `location_name`) columns form a [pandas.MultiIndex](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.MultiIndex.html#pandas.MultiIndex) (See [multiindexing](https://pandas.pydata.org/pandas-docs/stable/user_guide/advanced.html#)). The individual values can be accessed like this:
 
 
 ```python
@@ -821,7 +819,7 @@ df.index.get_level_values("date")
 
 ### Note on filters
 
-All string filters (for `source_id`, `location_id` or [metric name](#precalculated-metrics-access) support:
+All string filters (for `source_id`, `location_id` or [metric name](#precalculated-metrics-access)) support:
 
 - [wildcard matching](https://en.wikipedia.org/wiki/Wildcard_character#File_and_directory_patterns). e.g. `"bonn*"` would match `"bonn"` and `"bonnbau"`
 - lists of wildcards. e.g. `["bonn*", "dresden*"]`
@@ -913,11 +911,9 @@ df
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
