@@ -77,7 +77,7 @@ following format:
 the files in the dataset:
 
 ```python
-from data import Data
+from src.data import Data
 
 data = Data()  # filters can be defined here
 
@@ -103,15 +103,17 @@ for week, source_id, df in data.iter_dataframes():
 Meta-data can be queried via:
 
 ```python
+from src.data import Data
+
 # returns the plain dict
-data.meta   
+Data.meta()
 
-# returns a value for the given source_id 
+# returns a value (e.g. "name") for the given source_id 
 #   get_meta() does not raise KeyError, but returns the `default` value 
-data.get_meta("source_id", "value")  
+Data.get_meta("source_id", "value")  
 
-# returns a value for the given source_id/location_id
-data.get_meta("source_id", "location_id", "value")  
+# returns a value (e.g. "name") for the given source_id/location_id
+Data.get_meta("source_id", "location_id", "value")  
 ```
 
 # Metrics
