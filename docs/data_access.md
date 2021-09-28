@@ -43,7 +43,7 @@ Data.get_dataframe((2021, 30), "leipzig")
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -398,7 +398,7 @@ Data.get_dataframe((2021, 30), "leipzig", with_meta=True)
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -768,6 +768,8 @@ Data.get_dataframe((2021, 30), "leipzig", with_meta=True)
 
 
 
+Do not worry about all the zeros in there. Look at ["Plotting the raw data"](#plotting-the-raw-data) to see the free dates in between them. 
+
 Dataframes are very useful to analyze the data. For example, we can count the sum of all free dates available for each sub-location with these three lines:
 
 
@@ -907,7 +909,7 @@ df
 
 
 <div>
-<style scoped>
+<style>
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
@@ -1343,3 +1345,81 @@ df.resample("1d").sum().plot(figsize=(16, 4))
 ![png](data_access_files/data_access_33_1.png)
     
 
+
+## Plotting the raw data
+
+Still, something seems not right there. Best to have a look at the actual free dates. Because it's such an enormous amount of data, a table does not work well. But we can plot something like a heatmap. 
+
+First find the calendar week of interest. The plot has labeled the 23rd of August in the area of interest. The calendar week is:
+
+
+```python
+import datetime
+datetime.date(2021, 8, 23).isocalendar()
+```
+
+
+
+
+    (2021, 34, 1)
+
+
+
+Week 34. Next get a dataframe resampled to 1 hour steps, both for snapshot dates as for free dates, to make it fit better into a plot:
+
+
+```python
+import pandas as pd
+import numpy as np
+
+df = (
+    # examine the week before and after as well
+    pd.concat([
+        Data.get_dataframe((2021, 33), "blankenburg", "85150"),
+        Data.get_dataframe((2021, 34), "blankenburg", "85150"),
+        Data.get_dataframe((2021, 35), "blankenburg", "85150"),
+    ])
+    # just keep the "date" index
+    .droplevel(["source_id", "location_id"])
+    # resample snapshot date to 1 hour steps
+    .resample("1h").sum()
+    # resample possible appointment date to 1 hour steps
+    .resample("1h", axis=1).sum()
+    # replace zeros with NaNs which are not plotted
+    # and make the graphic much more readable
+    .replace(0, np.nan)
+)
+```
+
+I'll use the [plotly](https://plotly.com/python/) library to produce the heatmap because it's less complicted compared to matplotlib. Also, in the jupyter notebook, it's interactive and allows zooming and tooltips per value.
+
+
+```python
+import plotly.express as px
+
+fig = px.imshow(
+    df, aspect="auto", width=1000, height=700, 
+    labels={"x": "appointment date", "y": "snapshot date"},
+)
+```
+
+In the notebook, one could use `fig.show()` to display the interactive plot. However, this does not work in the markdown conversion so we convert the javascript plot to an image (using [kaleido](https://github.com/plotly/Kaleido) in the back).
+
+
+```python
+from IPython.display import Image
+Image(fig.to_image())
+```
+
+
+
+
+    
+![png](data_access_files/data_access_42_0.png)
+    
+
+
+
+Free appointment dates are those vertical lines that come from the top and vanish when either the date has been taken by someone or it's getting close to the actual snapshot time, which means that the date passed unused.
+
+Obviously, there is problem here. The free dates in September are not visible in August. Good that we had a look! A [fix](https://github.com/defgsus/office-schedule-scraper/commit/d66d9b815be316857027d501d1131cec7b53f475) is applied, but all **etermin**-based scrapers have produced incomplete snapshots up until now.
