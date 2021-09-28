@@ -226,6 +226,9 @@ class Data:
             index_columns += ["source_name", "location_name"]
         df.set_index(index_columns, inplace=True)
 
+        if as_datetime:
+            df.columns = pd.to_datetime(df.columns)
+
         return df
 
     @classmethod
@@ -300,6 +303,8 @@ class Metrics:
             type: StringFilter = None,
             source_id: StringFilter = None,
             location_id: StringFilter = None,
+            source_id_not: StringFilter = None,
+            location_id_not: StringFilter = None,
             iso_week: Optional[IsoWeek] = None,
             iso_week_gt: Optional[IsoWeek] = None,
             iso_week_gte: Optional[IsoWeek] = None,
@@ -368,8 +373,12 @@ class Metrics:
 
         if source_id:
             df = df.loc[:, [c for c in df.columns if _string_filter(c.split("/")[0], source_id)]]
+        if source_id_not:
+            df = df.loc[:, [c for c in df.columns if not _string_filter(c.split("/")[0], source_id_not)]]
         if location_id:
             df = df.loc[:, [c for c in df.columns if _string_filter(c.split("/")[1], location_id)]]
+        if location_id_not:
+            df = df.loc[:, [c for c in df.columns if not _string_filter(c.split("/")[1], location_id_not)]]
 
         if as_int:
             df.replace(np.nan, 0, inplace=True)
