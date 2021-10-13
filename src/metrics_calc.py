@@ -133,12 +133,13 @@ def calc_metrics(
         },
     }
 
-    for week, source_id, columns, rows in tqdm(data.iter_tables()):
+    for week, source_id, row_iter in tqdm(data.iter_tables_iter()):
+        columns = row_iter.columns
         dates = columns[3:]
         # dates_dt = [to_datetime(d) for d in dates]
         timespan_checker = TimespanChecker()
 
-        for org_row in tqdm(rows, desc=f"{source_id} {rows[0][0][:10]} to {rows[-1][0][:10]}"):
+        for org_row in tqdm(row_iter, desc=f"stepping through {source_id} rows"):# {rows[0][0][:10]} to {rows[-1][0][:10]}"):
             timestamp = org_row[0]
             timestamp_dt = to_datetime(timestamp)
             # bucket into exact 15 minute steps

@@ -25,6 +25,60 @@ class Data:
     PATH = Path(__file__).resolve().parent.parent / "raw"
     _meta = None
 
+    class RowIter:
+        def __init__(
+                self,
+                fp: BinaryIO,
+                location_id: StringFilter = None,
+                as_int: bool = False,
+                as_datetime: bool = False,
+                empty: Optional[str] = None,
+                with_meta: bool = False,
+        ):
+            self.fp = fp
+            self.fp_text = codecs.getreader("utf-8")(self.fp)
+            self.location_id = location_id
+            self.as_int = as_int
+            self.as_datetime = as_datetime
+            self.empty = empty
+            self.with_meta = with_meta
+            self._reader = csv.reader(self.fp_text)
+
+            self.columns = next(iter(self._reader))
+            if as_datetime:
+                for i in range(3, len(self.columns)):
+                    self.columns[i] = Data.string_to_datetime(self.columns[i])
+            if with_meta:
+                self.columns = self.columns[:3] + ["source_name", "location_name"] + self.columns[3:]
+
+        def __iter__(self):
+            return self
+
+        def __next__(self):
+            while True:
+                row = next(self._reader)
+
+                # make location_id always str
+                row[2] = str(row[2])
+
+                if self.location_id is not None:
+                    if not _string_filter(row[2], self.location_id):
+                        continue
+
+                if self.with_meta:
+                    row = row[:3] + [Data.get_meta(row[1], "name"), Data.get_meta(row[1], row[2], "name")] + row[3:]
+
+                if self.as_datetime:
+                    row[0] = Data.string_to_datetime(row[0])
+
+                if self.empty is not None:
+                    row = row[:3] + [self.empty if v == "" else v for v in row[3:]]
+
+                elif self.as_int:
+                    row = row[:3] + [0 if v == "" else 1 for v in row[3:]]
+
+                return row
+
     def __init__(
             self,
             source_id: StringFilter = None,
@@ -104,22 +158,33 @@ class Data:
 
         with tarfile.open(cls.PATH / iso_week_str[:4] / f"{iso_week_str}.tar.gz") as tf:
             fp = tf.extractfile(f"{source_id}.csv")
-            columns, rows = cls._read_table(fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty)
 
-            if location_id is not None:
-                rows = [
-                    row for row in rows
-                    if _string_filter(row[2], location_id)
-                ]
-
-            if with_meta:
-                rows = [
-                    row[:3] + [cls.get_meta(row[1], "name"), cls.get_meta(row[1], row[2], "name")] + row[3:]
-                    for row in rows
-                ]
-                columns = columns[:3] + ["source_name", "location_name"] + columns[3:]
+            columns, rows = cls._read_table(
+                fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty,
+                location_id=location_id, with_meta=with_meta
+            )
 
             return columns, rows
+
+    @classmethod
+    def get_table_iter(
+            cls,
+            iso_week: IsoWeek,
+            source_id: str,
+            location_id: StringFilter = None,
+            as_int: bool = False,
+            as_datetime: bool = False,
+            empty: Optional[str] = None,
+            with_meta: bool = False,
+    ) -> RowIter:
+        iso_week_str = cls.iso_week_to_string(iso_week)
+
+        with tarfile.open(cls.PATH / iso_week_str[:4] / f"{iso_week_str}.tar.gz") as tf:
+            fp = tf.extractfile(f"{source_id}.csv")
+            return cls.RowIter(
+                    fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty,
+                    location_id=location_id, with_meta=with_meta,
+            )
 
     @classmethod
     def get_dataframe(
@@ -207,6 +272,25 @@ class Data:
             columns, rows = self._read_table(fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty)
             yield iso_week, id, columns, rows
 
+    def iter_tables_iter(
+            self,
+            as_int: bool = True,
+            as_datetime: bool = False,
+            empty: Optional[str] = None,
+    ) -> Generator[Tuple[IsoWeek, str, RowIter], None, None]:
+        """
+        Iterate through all tables in the dataset and return a
+        row iterator for each table
+
+        :param as_int: bool, convert "1" and "" into 1 and 0
+        :param as_datetime: bool, convert first column to datetime
+        :param empty: str, optionally replace "" with another string, supersedes 'as_int'
+        :return: generates tuples of (iso_week, source_id, RowIter)
+        """
+        for iso_week, source_id, fp in self.iter_files():
+            row_iter = self.RowIter(fp=fp, as_int=as_int, as_datetime=as_datetime, empty=empty)
+            yield iso_week, source_id, row_iter
+
     def iter_dataframes(
             self,
             as_datetime: bool = True,
@@ -235,35 +319,18 @@ class Data:
     def _read_table(
             cls,
             fp: BinaryIO,
+            location_id: StringFilter = None,
             as_int: bool = False,
             as_datetime: bool = False,
             empty: Optional[str] = None,
+            with_meta: bool = False,
     ) -> Tuple[List, List[List]]:
-        fp = codecs.getreader("utf-8")(fp)
-        rows = list(csv.reader(fp))
-        columns = rows[0]
-        rows = rows[1:]
-
-        if as_datetime:
-            for i in range(3, len(columns)):
-                columns[i] = cls.string_to_datetime(columns[i])
-
-        for row in rows:
-            if as_datetime:
-                row[0] = cls.string_to_datetime(row[0])
-            # make location_id always str
-            row[2] = str(row[2])
-
-        if empty is not None:
-            rows = [
-                row[:3] + [empty if v == "" else v for v in row[3:]]
-                for row in rows
-            ]
-        elif as_int:
-            rows = [
-                row[:3] + [0 if v == "" else 1 for v in row[3:]]
-                for row in rows
-            ]
+        row_iter = cls.RowIter(
+                fp=fp, location_id=location_id, as_int=as_int, as_datetime=as_datetime,
+                empty=empty, with_meta=with_meta,
+        )
+        columns = row_iter.columns
+        rows = list(row_iter)
         return columns, rows
 
 
