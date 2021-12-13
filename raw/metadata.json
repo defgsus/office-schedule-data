@@ -125,6 +125,133 @@
           "Schwerbehinderten-Parkausweis beantragen",
           "Schwerbehinderten-Parkausweis verl\u00e4ngern"
         ]
+      },
+      "158": {
+        "name": "Einwohneramt",
+        "services": [
+          "Abholung Pass und/oder Personalausweis",
+          "Abmeldung Nebenwohnsitz",
+          "Abmeldung in das Ausland",
+          "Anmeldung Einzelperson - Zuzug nach Amberg",
+          "Anmeldung Familie - Zuzug nach Amberg",
+          "Anmeldung bei Zuzug aus dem Ausland",
+          "Auskunftssperre beantragen",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Einfache Meldebescheinigung",
+          "Erweiterte Meldebescheinigung",
+          "Erweitertes F\u00fchrungszeugnis",
+          "F\u00fchrungszeugnis (soll nach Hause geschickt werden)",
+          "F\u00fchrungszeugnis zur Vorlage bei einer Beh\u00f6rde",
+          "Gewerbezentralregisterauszug f\u00fcr eine juristische Person",
+          "Gewerbezentralregisterauszug f\u00fcr eine nat\u00fcrliche Person",
+          "Kinderreisepass beantragen",
+          "Kinderreisepass verl\u00e4ngern",
+          "Lebensbescheinigung f\u00fcr Rente",
+          "Melderegisterauskunft einholen",
+          "Personalausweis PIN setzen",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Reisepass beantragen",
+          "Sorgeberechtigte Elternteile in P\u00e4sse Minderj\u00e4hriger eintragen",
+          "Ummeldung innerhalb Amberg",
+          "Verlust / Diebstahl eines Dokumentes melden",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "Wahlhelfer werden",
+          "Wiederauffinden eines verlorenen Ausweisdokumentes",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen",
+          "\u00c4nderung Nebenwohnung zur Hauptwohnung in Amberg",
+          "\u00dcbermittlungssperre beantragen"
+        ]
+      },
+      "162": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "test"
+        ]
+      },
+      "169": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Abmeldung eines KFZ",
+          "Adress\u00e4nderung innerhalb des Stadtgebietes",
+          "Ausfuhrkennzeichen",
+          "Kauf eines Kfz mit ausw\u00e4rtigen Kennzeichen",
+          "Kurzzeitkennzeichen",
+          "Technische \u00c4nderung",
+          "Umschreibung im Stadtbereich mit Halterwechsel",
+          "Umzug von au\u00dferhalb in das Stadtgebiet mit oder ohne Kennzeichenbeibehalt",
+          "Verlust der Zulassungsbescheinigung Teil I",
+          "Verlust der Zulassungsbescheinigung Teil II",
+          "Verlust oder Diebstahl des Kennzeichen",
+          "Wiederzulassung auf gleichen Halter",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "\u00c4nderung Saisonkennzeichen"
+        ]
+      },
+      "170": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung eines Kartenf\u00fchrerscheins / BF17",
+          "Allgemeine Anliegen F\u00fchrerscheinstelle",
+          "Anliegen Fahrlehrert\u00e4tigkeit",
+          "Ausstellung Fahrgastbef\u00f6rderungsschein",
+          "Ausstellung Internationaler F\u00fchrerschein",
+          "B196 (Zweirad)",
+          "B96 (Anh\u00e4nger)",
+          "Beantragung der Teilnahme am \"Begleiteten Fahren mit 17\"",
+          "Beantragung der Verl\u00e4ngerung der Geltungsdauer Fahrerlaubnis LKW, Bus, SZ95",
+          "Ersatzf\u00fchrerschein nach Verlust/Diebstahl oder bei Unbrauchbarkeit",
+          "Erstantrag / Erweiterung einer Fahrerlaubnis",
+          "Erweiterung auf LKW, BUS, SZ95 (erstmalig)",
+          "SZ 95",
+          "Umschreibung einer Dienstfahrerlaubnis",
+          "Umtausch alter Kartenf\u00fchrerschein in neuen Kartenf\u00fchrerschein (ab 2025)",
+          "Umtausch des alten grauen oder rosa F\u00fchrerscheins (Papier) in einen EU-Kartenf\u00fchrerschein",
+          "Umtausch einer Fahrerlaubnis aus einem Drittstaat",
+          "Umtausch einer Fahrerlaubnis aus einem EU-Mitgliedsstaat",
+          "Verl\u00e4ngerung Fahrgastbef\u00f6rderungsschein"
+        ]
+      },
+      "171": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Beantragung einer Neuerteilung nach Entzug"
+        ]
+      },
+      "173": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Familienpass beantragen",
+          "Familienpass verl\u00e4ngern"
+        ]
+      },
+      "177": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag auf \u00dcbernahme der Bestattungskosten"
+        ]
+      },
+      "178": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Schwerbehinderten-Parkausweis beantragen",
+          "Schwerbehinderten-Parkausweis verl\u00e4ngern"
+        ]
+      },
+      "180": {
+        "name": "Grippeschutzimpfung f\u00fcr St\u00e4dtische Mitarbeiter",
+        "services": [
+          "Grippeschutzimpfung f\u00fcr St\u00e4dtische Mitarbeiter"
+        ]
+      },
+      "181": {
+        "name": "Welcome Center Amberg",
+        "services": [
+          "Welcome Center Beratung online",
+          "Welcome Center Beratung pers\u00f6nlich"
+        ]
       }
     }
   },
@@ -1410,6 +1537,7 @@
       "85150": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Beglaubigungen",
           "Einzahlung Steuern und Geb\u00fchren",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug beantragen",
           "Kinderreisepass beantragen, verl\u00e4ngern",
@@ -1424,6 +1552,7 @@
       "85151": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Beglaubigungen",
           "Einzahlung Steuern und Geb\u00fchren",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug beantragen",
           "Kinderreisepass beantragen, verl\u00e4ngern",
@@ -2275,6 +2404,30 @@
           "Probleme und Fragen zum Umgang mit der eBook Ausleihe",
           "Probleme/Fragen beim Umgang mit iOS und Android"
         ]
+      },
+      "829": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "830": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "831": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "832": {
+        "name": "Zensus 2022",
+        "services": [
+          "Kennenlerntermin Erhebungsbeauftragte:r"
+        ]
       }
     }
   },
@@ -2506,6 +2659,92 @@
         "services": [
           "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
         ]
+      },
+      "726": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "727": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "728": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "729": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "730": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "731": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "732": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Cochem",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Cochem",
+          "Erstimpftermin Impfstelle Cochem-Zell in Cochem",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem"
+        ]
+      },
+      "733": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "734": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Lutzerath",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Lutzerath",
+          "Erstimpftermin Impfstelle Cochem-Zell in Lutzerath",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Lutzerath"
+        ]
+      },
+      "735": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Zell",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Zell",
+          "Erstimpftermin Impfstelle Cochem-Zell in Zell",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Zell"
+        ]
       }
     }
   },
@@ -2564,7 +2803,15 @@
         "services": [
           "Abholung F\u00fchrerschein",
           "Allg. Fahrerlaubnisangelegenheit",
-          "Fahrschulen"
+          "Antrag BF17",
+          "Fahrschulen",
+          "Internat. F\u00fchrerschein (f\u00fcr Fahrten im EU-Ausland)"
+        ]
+      },
+      "7": {
+        "name": "Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Fahrschulen (max. 10 Antr\u00e4ge)"
         ]
       }
     }
@@ -3201,7 +3448,9 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Wohnberechtigungsschein (WBS)",
           "Zinssenkung",
+          "Zuzug aus dem Ausland",
           "eID-Karte beantragen",
+          "elD-aktivieren/Pin setzen ",
           "keine zutreffende Leistung (siehe Notizen)"
         ]
       },
@@ -3267,7 +3516,9 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Wohnberechtigungsschein (WBS)",
           "Zinssenkung",
+          "Zuzug aus dem Ausland",
           "eID-Karte beantragen",
+          "elD-aktivieren/Pin setzen ",
           "keine zutreffende Leistung (siehe Notizen)"
         ]
       },
@@ -3310,7 +3561,9 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Wohnberechtigungsschein (WBS)",
           "Zinssenkung",
+          "Zuzug aus dem Ausland",
           "eID-Karte beantragen",
+          "elD-aktivieren/Pin setzen ",
           "keine zutreffende Leistung (siehe Notizen)"
         ]
       },
@@ -3430,7 +3683,9 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Wohnberechtigungsschein (WBS)",
           "Zinssenkung",
+          "Zuzug aus dem Ausland",
           "eID-Karte beantragen",
+          "elD-aktivieren/Pin setzen ",
           "keine zutreffende Leistung (siehe Notizen)"
         ]
       },
@@ -3700,6 +3955,14 @@
         "services": [
           "Auskunftserteilung",
           "Informationsbedarf"
+        ]
+      },
+      "54": {
+        "name": "Impfstelle Eislingen",
+        "services": [
+          "1.Impfung",
+          "2. Impfung",
+          "Booster Impfung"
         ]
       }
     }
@@ -4654,6 +4917,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4666,7 +4930,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "111/2272": {
@@ -4707,6 +4972,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4719,7 +4985,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "117/2272": {
@@ -4760,6 +5027,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4772,7 +5040,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "118/2272": {
@@ -4813,6 +5082,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4825,7 +5095,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "119/2272": {
@@ -4866,6 +5137,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4878,7 +5150,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "120/2272": {
@@ -4919,6 +5192,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4931,7 +5205,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
       "121/2272": {
@@ -4972,6 +5247,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
@@ -4984,7 +5260,8 @@
           "Anmeldung einer Wohnung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
-          "Ummeldung einer Wohnung"
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       }
     }
@@ -5665,8 +5942,10 @@
           "Begleitetes Fahren ab 17 Jahren",
           "Ersatzf\u00fchrerschein bei Verlust, Diebstahl oder Namens\u00e4nderung",
           "Erteilung einer Fahrerlaubnis (nur bei erstmaliger Erteilung)",
+          "Erteilung eines Fahrgastbef\u00f6rderungsscheins f\u00fcr Taxi, Mietwagen, etc.",
           "Erweiterung der vorhandenen Fahrerlaubnisklassen",
           "Umschreibung einer Dienstfahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
           "Umtausch eines grauen oder rosa F\u00fchrerscheines in einen Kartenf\u00fchrerschein",
           "Verl\u00e4ngerung einer Fahrerlaubnisklasse"
         ]
@@ -5683,6 +5962,54 @@
           "Umschreibung eines Gebrauchtfahrzeugs",
           "Verlust von Papieren oder Kennzeichen",
           "Zulassung eines Neufahrzeugs"
+        ]
+      },
+      "19": {
+        "name": "BSZ",
+        "services": [
+          "F\u00fchrerschein",
+          "Kfz-Zulassung",
+          "Sonstiger Vorgang",
+          "Verpflichtungserkl\u00e4rung"
+        ]
+      },
+      "20": {
+        "name": "Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Ausstellung eines internationalen F\u00fchrerscheins",
+          "Begleitetes Fahren ab 17 Jahren",
+          "Ersatzf\u00fchrerschein bei Verlust, Diebstahl oder Namens\u00e4nderung",
+          "Erteilung einer Fahrerlaubnis (nur bei erstmaliger Erteilung)",
+          "Erteilung eines Fahrgastbef\u00f6rderungsscheins f\u00fcr Taxi, Mietwagen, etc.",
+          "Erweiterung der vorhandenen Fahrerlaubnisklassen",
+          "Umschreibung einer Dienstfahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Umtausch eines grauen oder rosa F\u00fchrerscheines in einen Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung einer Fahrerlaubnisklasse"
+        ]
+      },
+      "21": {
+        "name": "KFZ Zulassung",
+        "services": [
+          "Abmeldung eines Fahrzeugs",
+          "Adress\u00e4nderung - Namens\u00e4nderung",
+          "Ausfuhrkennzeichen",
+          "Eintrag technische \u00c4nderung",
+          "Kurzzeitkennzeichen",
+          "Sonstiger Kfz-Zulassungsvorgang",
+          "Umschreibung eines Gebrauchtfahrzeugs",
+          "Verlust von Papieren oder Kennzeichen",
+          "Zulassung eines Neufahrzeugs"
+        ]
+      },
+      "22": {
+        "name": "BSZ",
+        "services": [
+          "F\u00fchrerschein",
+          "Kfz-Zulassung",
+          "Sonstiger Vorgang",
+          "Verpflichtungserkl\u00e4rung"
         ]
       }
     }
@@ -5929,6 +6256,8 @@
           "Corona Abholung Reiseausweis",
           "Corona biometrische Daten EAT",
           "Corona biometrische Daten EAT+RA",
+          "Corona biometrische Daten eAT",
+          "Corona biometrische Daten eAT+Reiseausweis",
           "Duldung - Erteilung/Verl\u00e4ngerung (ABH)",
           "Einreichung fehlender Unterlagen",
           "Eintrag Schl\u00fcsselzahl 96, 196 oder 197",
@@ -5989,6 +6318,7 @@
           "eID-Karte beantragen",
           "\u00c4nderung des Kfz-Scheines nach erfolgter Ummeldung",
           "\u00dcbertrag Aufenthaltserlaubnis/Niederlassungserlaubnis (ABH)",
+          "\u00dcbertrag NE",
           "\u00dcbertrag NE Zimmer 29"
         ]
       }
@@ -6058,6 +6388,24 @@
         "services": [
           "Alle Vorg\u00e4nge"
         ]
+      },
+      "82": {
+        "name": "Zulassung",
+        "services": [
+          "Standort Geislingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "83": {
+        "name": "Zulassung",
+        "services": [
+          "Standort G\u00f6ppingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "84": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Alle Vorg\u00e4nge"
+        ]
       }
     }
   },
@@ -6066,6 +6414,12 @@
     "scraper": "tevis",
     "url": "https://termin.goettingen.de",
     "locations": {
+      "100": {
+        "name": "Stra\u00dfenverkehrsbeh\u00f6rde",
+        "services": [
+          "Pflichtumtausch F\u00fchrerscheine der Jahrg\u00e4nge 1953 - 1958"
+        ]
+      },
       "88": {
         "name": "Meldeangelegenheiten",
         "services": [
@@ -6162,6 +6516,7 @@
           "Antigenschnelltest POC Test \u00a7 4a Testung bei impfunf\u00e4higen und abgesonderten Personen",
           "Antigenschnelltest f\u00fcr Touristen ",
           "Antigenschnelltestung PoC Test ",
+          "Antigenschnelltestung PoC Test - B\u00fcrgertest ab 13.11.2021 kostenlos",
           "Antigenschnelltestung PoC Test - Selbstzahler",
           "Antigenschnelltestung PoC Test - Selbstzahler (Zahlung in Bar vor Ort)",
           "F\u00dcR FIRMEN/ BETRIEBE/ Mitarbeitertestung Antigenschnelltest POC ",
@@ -6217,6 +6572,13 @@
           "Vorl\u00e4ufiger Personalausweis beantragen",
           "Vorl\u00e4ufiger Reisepass beantragen",
           "Wohnsitzwechsel der Hauptwohnung"
+        ]
+      },
+      "33": {
+        "name": "TEST_05_Impfzentrum_FE",
+        "services": [
+          "Covid-Impfung",
+          "Covid-Impfung Erstimpfung"
         ]
       }
     }
@@ -7626,6 +7988,12 @@
         "services": [
           "Anzeige einer Veranstaltung"
         ]
+      },
+      "43": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "Antrag auf Umstellung eines Alt-F\u00fchrerscheins in EU-F\u00fchrerschein"
+        ]
       }
     }
   },
@@ -7734,6 +8102,102 @@
           "Wohngeld - Antragstellung / Allgemeine Anfragen",
           "Wohngeld - Antragsunterlagen einreichen"
         ]
+      },
+      "141": {
+        "name": "Rathaus-Service",
+        "services": [
+          "Abholung Personalausweis / Reisepass / eID-Card",
+          "Abmeldung Nebenwohnung",
+          "Abmeldung ins Ausland",
+          "Anmeldung aus dem Ausland bzw. Inland",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass / eID-Card",
+          "Befreiung von der Rundfunkgeb\u00fchr",
+          "Beglaubigungen",
+          "Ehrenamtskarte",
+          "Fischereischein",
+          "Fundsachen",
+          "F\u00fchrerschein Umtausch",
+          "F\u00fchrungszeugnis",
+          "Hundesteuer",
+          "KFZ Abmeldung",
+          "KFZ Anschriften\u00e4nderung",
+          "KFZ Zulassung/Umschreibung",
+          "Meldebescheinigung / Lebensbescheinigung",
+          "Ummeldung innerhalb Gronau",
+          "Untersuchungsberechtigungsschein",
+          "\u00c4nderung der M\u00fcllgef\u00e4\u00dfe (einschlie\u00dflich Ersatzmarken)"
+        ]
+      },
+      "142": {
+        "name": "Rathaus-Service",
+        "services": [
+          "Abholung Personalausweis / Reisepass / eID-Card",
+          "Abmeldung Nebenwohnung",
+          "Abmeldung ins Ausland",
+          "Anmeldung aus dem Ausland bzw. Inland",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass / eID-Card",
+          "Befreiung von der Rundfunkgeb\u00fchr",
+          "Beglaubigungen",
+          "Ehrenamtskarte",
+          "Fischereischein",
+          "Fundsachen",
+          "F\u00fchrerschein Umtausch",
+          "F\u00fchrungszeugnis",
+          "Hundesteuer",
+          "KFZ Abmeldung",
+          "KFZ Anschriften\u00e4nderung",
+          "KFZ Zulassung/Umschreibung",
+          "Meldebescheinigung / Lebensbescheinigung",
+          "Ummeldung innerhalb Gronau",
+          "Untersuchungsberechtigungsschein",
+          "\u00c4nderung der M\u00fcllgef\u00e4\u00dfe (einschlie\u00dflich Ersatzmarken)"
+        ]
+      },
+      "143": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "Unterlagen einreichen / Busticket, Krankenscheine, Gutscheine abholen"
+        ]
+      },
+      "144": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "Nachhilfe (\u00fcber Bildung und Teilhabe)"
+        ]
+      },
+      "145": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "Grundsicherung im Alter und bei Erwerbsminderung - Antragsstellung & Antragseinreichung",
+          "Grundsicherung im Alter und bei Erwerbsminderung: Unterlagen nachreichen, Sonstiges"
+        ]
+      },
+      "146": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "(vorgezogene) Altersrente",
+          "Rente wegen Erwerbsminderung",
+          "Rentenunterlagen ein-/ nachreichen",
+          "Sonstige Antr\u00e4ge (z.B. Kontokl\u00e4rung)",
+          "Witwen-/Witwerrente, (Halb-)Waisenrente"
+        ]
+      },
+      "147": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "Erst- oder Folgeantrag stellen",
+          "Hilfe zum Lebensunterhalt - Antragsstellung & Antragseinreichung",
+          "Hilfe zum Lebensunterhalt: Unterlagen nachreichen, Sonstiges"
+        ]
+      },
+      "148": {
+        "name": "Fachdienst Soziales",
+        "services": [
+          "BuT-Leistungen /M\u00fcnsterlandkarte",
+          "Wohnberechtigungsschein / Einkommensbescheinigung",
+          "Wohngeld - Antragstellung / Allgemeine Anfragen",
+          "Wohngeld - Antragsunterlagen einreichen"
+        ]
       }
     }
   },
@@ -7833,6 +8297,14 @@
           "Antigenschnelltest POC Test f\u00fcr FIRMEN/BETRIEBE/ Mitarbeitertestung ",
           "Antigenschnelltest f\u00fcr Touristen ",
           "PCR Test "
+        ]
+      },
+      "121745": {
+        "name": "Testauswahl",
+        "services": [
+          "Antigenschnelltest \"Lolli\" Test Kinder 0-12 Jahren",
+          "Antigenschnelltest f\u00fcr Touristen ",
+          "Antigenschnelltestung PoC Test - B\u00fcrgertest ab 13.11.2021 kostenlos"
         ]
       }
     }
@@ -8453,40 +8925,105 @@
       "142/1218": {
         "name": "Sonstige Angelegenheiten",
         "services": [
+          "Anderweitige Kl\u00e4rung von Angelegenheiten",
           "Ausgabe von sonstigen Dokumenten/Formulare 01\u00a0\u00a0 DOKAusgabe2\u00a0\u00a0 DOKAusgabe3\u00a0\u00a0 DOKAusgabe4\u00a0\u00a0 DOKAusgabe",
           "Auszug aus dem Gewerbezentralregister beantragen 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge",
+          "Auszug aus dem Gewerbezentralregister beantragen 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge",
           "Beglaubigung von Dokumenten / Unterschriften 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen",
           "Fischereischein beantragen / verl\u00e4ngern 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine",
           "Fundsache abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen",
           "Fundsache abholen 01\u00a0\u00a0 Fundsache",
           "F\u00fchrerscheinantrag  01\u00a0\u00a0 F\u00fchrerscheinantrag",
           "F\u00fchrungszeugnis beantragen 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "F\u00fchrungszeugnis beantragen 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "Haushaltsbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
+          "Lebensbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
+          "Meldebescheinigung 01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen",
           "Meldebescheinigung beantragen 01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen",
+          "Untersuchungsberechtigungsschein 01\u00a0\u00a0 Untersuchungsberechtigung2\u00a0\u00a0 Untersuchungsberechtigung"
+        ]
+      },
+      "142/1220": {
+        "name": "Kfz-Angelegenheiten",
+        "services": [
+          "Kfz-Abmeldung",
+          "Kfz-Adress\u00e4nderung 01\u00a0\u00a0 Kfz-Adress\u00e4nderung2\u00a0\u00a0 Kfz-Adress\u00e4nderungen3\u00a0\u00a0 Kfz-Adress\u00e4nderungen4\u00a0\u00a0 Kfz-Adress\u00e4nderungen",
+          "Kfz-Neuzulassung",
+          "Kfz-Umschreibung",
+          "Kfz-Wiederzulassung"
+        ]
+      },
+      "142/1223": {
+        "name": "Sonstige Angelegenheiten",
+        "services": [
+          "Anderweitige Kl\u00e4rung von Angelegenheiten",
+          "Antrag auf Auskunft aus dem Gewerbezentralregister 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge",
+          "Ausgabe von sonstigen Dokumenten/Formulare 01\u00a0\u00a0 DOKAusgabe2\u00a0\u00a0 DOKAusgabe3\u00a0\u00a0 DOKAusgabe4\u00a0\u00a0 DOKAusgabe",
+          "Auszug aus dem Gewerbezentralregister beantragen 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge",
+          "Beglaubigung von Dokumenten / Unterschriften 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen",
+          "Fischereischein - Beantragung/Verl\u00e4ngerung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine",
+          "Fischereischein beantragen / verl\u00e4ngern 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine",
+          "Fundsache - Abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen",
+          "Fundsache - Abholung 01\u00a0\u00a0 Fundsache",
+          "Fundsache abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen",
+          "Fundsache abholen 01\u00a0\u00a0 Fundsache",
+          "F\u00fchrerscheinantrag  01\u00a0\u00a0 F\u00fchrerscheinantrag",
+          "F\u00fchrungszeugnis  01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "F\u00fchrungszeugnis beantragen 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "Haushaltsbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
+          "Lebensbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
+          "Meldebescheinigung 01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen",
           "Untersuchungsberechtigungsschein 01\u00a0\u00a0 Untersuchungsberechtigung2\u00a0\u00a0 Untersuchungsberechtigung"
         ]
       },
       "142/6763": {
         "name": "Meldeangelegenheiten",
         "services": [
+          "Abmeldung - Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Abmeldung - Nebenwohnung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Abmeldung - ins Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "Abmeldung ins Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "Anmeldung (Umzug innerhalb von Deutschland) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Anmeldung (Zuzug aus dem Ausland) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Anmeldung - Nebenwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Anmeldung - Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Kopie von Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Statuswechsel - Wechsel vom Haupt- und Nebenwohnung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Ummeldung (Umzug innerhalbs Herborns) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Ummeldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen"
         ]
       },
       "142/6984": {
         "name": "Personalausweis / Reisepass / eID-Karte",
         "services": [
+          "Kinderreisepass - Neu-/Erstbeantragung 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kinderreisepass - Verl\u00e4ngerung/Aktualisierung 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kinderreisepass beantragen 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kinderreisepass verl\u00e4ngern / aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kopie von Personalausweis beantragen 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise",
+          "Kopie von Verlustanzeige  01\u00a0\u00a0 Verlust2\u00a0\u00a0 Verlust3\u00a0\u00a0 Verlust4\u00a0\u00a0 Verlust5\u00a0\u00a0 Verlust",
+          "Personalausweis - Abholung 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise",
+          "Personalausweis - Beantragung 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise",
+          "Personalausweis - Setzen/Aktivieren der PIN 01\u00a0\u00a0 Personalausweis PIN2\u00a0\u00a0 Personalausweise PIN3\u00a0\u00a0 Personalausweise PIN4\u00a0\u00a0 Personalausweise PIN5\u00a0\u00a0 Personalausweise PIN",
           "Personalausweis abholen 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise",
           "Personalausweis beantragen 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise",
+          "Reisepass - Abholung 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse",
+          "Reisepass - Beantragung 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse",
           "Reisepass abholen 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse",
           "Reisepass beantragen 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse",
+          "Setzen/Aktivieren der Personalausweis-PIN 01\u00a0\u00a0 Personalausweis PIN2\u00a0\u00a0 Personalausweise PIN3\u00a0\u00a0 Personalausweise PIN4\u00a0\u00a0 Personalausweise PIN5\u00a0\u00a0 Personalausweise PIN",
+          "Verlustanzeige  01\u00a0\u00a0 Verlust2\u00a0\u00a0 Verlust3\u00a0\u00a0 Verlust4\u00a0\u00a0 Verlust5\u00a0\u00a0 Verlust",
           "Vorl\u00e4ufigen Personalausweis beantragen 01\u00a0\u00a0 Vorl\u00e4ufigen Personalauswe2\u00a0\u00a0 Vorl\u00e4ufige Personalauswei3\u00a0\u00a0 Vorl\u00e4ufige Personalauswei4\u00a0\u00a0 Vorl\u00e4ufige Personalauswei5\u00a0\u00a0 Vorl\u00e4ufige Personalauswei",
           "Vorl\u00e4ufigen Reisepass beantragen 01\u00a0\u00a0 Vorl\u00e4ufigen Reisepass2\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse3\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse4\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse5\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse",
+          "Vorl\u00e4ufiger Reisepass - Beantragung 01\u00a0\u00a0 Vorl\u00e4ufigen Reisepass2\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse3\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse4\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse5\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse",
+          "Wiederauffindungserkl\u00e4rung 01\u00a0\u00a0 Verlust2\u00a0\u00a0 Verlust3\u00a0\u00a0 Verlust4\u00a0\u00a0 Verlust5\u00a0\u00a0 Verlust",
+          "eID Karte - Abholung 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten",
+          "eID Karte - Beantragung 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten",
           "eID Karte abholen 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten",
-          "eID Karte beantragen 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten"
+          "eID Karte beantragen 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten",
+          "vorl\u00e4ufiger Personalausweis - Beantragung 01\u00a0\u00a0 Vorl\u00e4ufigen Personalauswe2\u00a0\u00a0 Vorl\u00e4ufige Personalauswei3\u00a0\u00a0 Vorl\u00e4ufige Personalauswei4\u00a0\u00a0 Vorl\u00e4ufige Personalauswei5\u00a0\u00a0 Vorl\u00e4ufige Personalauswei"
         ]
       }
     }
@@ -8692,6 +9229,70 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/hsk-schnelltest",
     "locations": {
+      "122063": {
+        "name": "Schnelltestungen",
+        "services": [
+          "DRK Testzentrum Bestwig",
+          "DRK Testzentrum Eslohe",
+          "DRK Testzentrum Meschede",
+          "DRK Testzentrum Schmallenberg",
+          "Impfzentrum Bestwig  - PTA",
+          "Impfzentrum Bestwig - MFA",
+          "Impfzentrum Brilon  - PTA",
+          "Impfzentrum Brilon - MFA",
+          "Impfzentrum Marsberg  - PTA",
+          "Impfzentrum Marsberg - MFA",
+          "Impfzentrum Medebach  - PTA",
+          "Impfzentrum Medebach - MFA",
+          "Impfzentrum Meschede - MFA",
+          "Impfzentrum Meschede - PTA",
+          "Impfzentrum Winterberg  - PTA",
+          "Impfzentrum Winterberg - MFA",
+          "impfzentrum Schmallenberg  - PTA",
+          "impfzentrum Schmallenberg - MFA"
+        ]
+      },
+      "122067": {
+        "name": "Schnelltestungen",
+        "services": [
+          "DRK Testzentrum Bestwig",
+          "DRK Testzentrum Eslohe",
+          "DRK Testzentrum Meschede",
+          "DRK Testzentrum Schmallenberg",
+          "Impfzentrum Bestwig  - PTA",
+          "Impfzentrum Bestwig - MFA",
+          "Impfzentrum Brilon  - PTA",
+          "Impfzentrum Brilon - MFA",
+          "Impfzentrum Marsberg  - PTA",
+          "Impfzentrum Marsberg - MFA",
+          "Impfzentrum Medebach  - PTA",
+          "Impfzentrum Medebach - MFA",
+          "Impfzentrum Meschede - MFA",
+          "Impfzentrum Meschede - PTA",
+          "Impfzentrum Winterberg  - PTA",
+          "Impfzentrum Winterberg - MFA",
+          "impfzentrum Schmallenberg  - PTA",
+          "impfzentrum Schmallenberg - MFA"
+        ]
+      },
+      "123075": {
+        "name": "Schnelltestungen",
+        "services": [
+          "DRK Testzentrum Bestwig",
+          "DRK Testzentrum Eslohe",
+          "DRK Testzentrum Meschede",
+          "DRK Testzentrum Schmallenberg"
+        ]
+      },
+      "123076": {
+        "name": "Schnelltestungen",
+        "services": [
+          "DRK Testzentrum Bestwig",
+          "DRK Testzentrum Eslohe",
+          "DRK Testzentrum Meschede",
+          "DRK Testzentrum Schmallenberg"
+        ]
+      },
       "96407": {
         "name": "Schnelltestungen",
         "services": [
@@ -8700,6 +9301,20 @@
           "DRK Testzentrum Eslohe",
           "DRK Testzentrum Meschede",
           "DRK Testzentrum Schmallenberg"
+        ]
+      },
+      "97359": {
+        "name": "Impfcenter MFA",
+        "services": [
+          "Impfstelle Meschede ",
+          "Impfstelle Winterberg ",
+          "Impfzentrum Bestwig - MFA",
+          "Impfzentrum Brilon - MFA",
+          "Impfzentrum Marsberg - MFA",
+          "Impfzentrum Medebach - MFA",
+          "Impfzentrum Meschede - MFA",
+          "Impfzentrum Winterberg - MFA",
+          "impfzentrum Schmallenberg - MFA"
         ]
       }
     }
@@ -9068,8 +9683,16 @@
         "name": "Impfzentrum Mittelth\u00fcringen Erfurt (barrierefrei) | Impfstoff: BioNTech",
         "services": []
       },
+      "124": {
+        "name": "Impfzentrum Ostth\u00fcringen Gera (barrierefrei) | Vormittag | Impfstoff: mRNA",
+        "services": []
+      },
       "125": {
         "name": "Impfzentrum S\u00fcdth\u00fcringen Meiningen (barrierefrei) | Impfstoff: Moderna",
+        "services": []
+      },
+      "126": {
+        "name": "Impfzentrum Ostth\u00fcringen Gera (barrierefrei) | Nachmittag | Impfstoff: mRNA",
         "services": []
       },
       "129": {
@@ -9406,6 +10029,10 @@
       },
       "25": {
         "name": "IST Bad Salzungen (barrierefrei) | Nachmittag | Impfstoff: BioNTech",
+        "services": []
+      },
+      "258": {
+        "name": "IST Bad Salzungen (barrierefrei) | Impfstoff: mRNA",
         "services": []
       },
       "26": {
@@ -10730,7 +11357,8 @@
           "3-4 Vorg\u00e4nge (z.B. Abmeld. od. Umschreib.) 01\u00a0\u00a0 Vorgang",
           "5-7 Vorg\u00e4nge (z.B. Abmeld. od. Umschreib.) 01\u00a0\u00a0 Vorgang",
           "Fahrzeugscheinheft f\u00fcr rotes Dauerkennzeichen \"06er\" 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge",
-          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge"
+          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge",
+          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge9\u00a0\u00a0 Vorg\u00e4nge10\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
       "290/3781": {
@@ -10785,7 +11413,8 @@
           "3-4 Vorg\u00e4nge (z.B. Abmeld. od. Umschreib.) 01\u00a0\u00a0 Vorgang",
           "5-7 Vorg\u00e4nge (z.B. Abmeld. od. Umschreib.) 01\u00a0\u00a0 Vorgang",
           "Fahrzeugscheinheft f\u00fcr rotes Dauerkennzeichen \"06er\" 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge",
-          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge"
+          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge",
+          "Je Vorgang (Beispiel: 1x Abmeld., 1x Zul. = 2 Vorg\u00e4nge auw\u00e4hlen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge9\u00a0\u00a0 Vorg\u00e4nge10\u00a0\u00a0 Vorg\u00e4nge"
         ]
       }
     }
@@ -10858,6 +11487,158 @@
         ]
       },
       "108": {
+        "name": "Zulassungsstelle Soest Samstag",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "110": {
+        "name": "Zulassungsstelle Soest",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Antrag auf Ersterteilung einer Fahrerlaubnis (auch BF17)",
+          "Auflagen\u00e4nderung (z. B. Eintragung Schl\u00fcsselzahl B196)",
+          "Ausfuhrkennzeichen",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Beantragung von Fahrerkarten",
+          "Berufskraftfahrerqualifikation (Auflage 95)",
+          "Betriebserlaubnis erteilen",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Ersatzf\u00fchrerschein bei Verlust oder Diebstahl",
+          "Erteilung eines historischen Kennzeichens",
+          "Fahrgastbef\u00f6rderungsschein (z.B. Taxi oder Mietwagen)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Umkennzeichnung",
+          "Umschreibung einer Dienstfahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen EU-Fahrerlaubnis in einen deutschen EU-F\u00fchrerschein",
+          "Umtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Umtausch einer deutschen FahrerlaubnisUmtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Verl\u00e4ngerung einer Klasse (z.B. Bus oder LKW)",
+          "Vorl\u00e4ufige Fahrerlaubnis nach bestandener Pr\u00fcfung",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "111": {
+        "name": "Zulassungsstelle Lippstadt",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Antrag auf Ersterteilung einer Fahrerlaubnis (auch BF17)",
+          "Auflagen\u00e4nderung (z. B. Eintragung Schl\u00fcsselzahl B196)",
+          "Ausfuhrkennzeichen",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Beantragung von Fahrerkarten",
+          "Berufskraftfahrerqualifikation (Auflage 95)",
+          "Betriebserlaubnis erteilen",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Ersatzf\u00fchrerschein bei Verlust oder Diebstahl",
+          "Erteilung eines historischen Kennzeichens",
+          "Fahrgastbef\u00f6rderungsschein (z.B. Taxi oder Mietwagen)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Umkennzeichnung",
+          "Umschreibung einer ausl\u00e4ndischen EU-Fahrerlaubnis in einen deutschen EU-F\u00fchrerschein",
+          "Umtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Verl\u00e4ngerung einer Klasse (z.B. Bus oder LKW)",
+          "Vorl\u00e4ufige Fahrerlaubnis nach bestandener Pr\u00fcfung",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "112": {
+        "name": "Zulassungsstelle Soest Samstag",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "113": {
+        "name": "Zulassungsstelle Soest",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Antrag auf Ersterteilung einer Fahrerlaubnis (auch BF17)",
+          "Auflagen\u00e4nderung (z. B. Eintragung Schl\u00fcsselzahl B196)",
+          "Ausfuhrkennzeichen",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Beantragung von Fahrerkarten",
+          "Berufskraftfahrerqualifikation (Auflage 95)",
+          "Betriebserlaubnis erteilen",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Ersatzf\u00fchrerschein bei Verlust oder Diebstahl",
+          "Erteilung eines historischen Kennzeichens",
+          "Fahrgastbef\u00f6rderungsschein (z.B. Taxi oder Mietwagen)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Umkennzeichnung",
+          "Umschreibung einer Dienstfahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen EU-Fahrerlaubnis in einen deutschen EU-F\u00fchrerschein",
+          "Umtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Umtausch einer deutschen FahrerlaubnisUmtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Verl\u00e4ngerung einer Klasse (z.B. Bus oder LKW)",
+          "Vorl\u00e4ufige Fahrerlaubnis nach bestandener Pr\u00fcfung",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "114": {
+        "name": "Zulassungsstelle Lippstadt",
+        "services": [
+          "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
+          "Antrag auf Ersterteilung einer Fahrerlaubnis (auch BF17)",
+          "Auflagen\u00e4nderung (z. B. Eintragung Schl\u00fcsselzahl B196)",
+          "Ausfuhrkennzeichen",
+          "Ausstellen der Umweltplakette",
+          "Au\u00dferbetriebsetzung eines Fahrzeugs (Abmeldung)",
+          "Beantragung von Fahrerkarten",
+          "Berufskraftfahrerqualifikation (Auflage 95)",
+          "Betriebserlaubnis erteilen",
+          "Ersatz von ZB I (ehemals Fahrzeugschein)",
+          "Ersatz von ZB II (ehemals Fahrzeugbrief)",
+          "Ersatzf\u00fchrerschein bei Verlust oder Diebstahl",
+          "Erteilung eines historischen Kennzeichens",
+          "Fahrgastbef\u00f6rderungsschein (z.B. Taxi oder Mietwagen)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neusiegelung des Kennzeichens",
+          "Technische \u00c4nderung in den Fahrzeugpapieren",
+          "Umkennzeichnung",
+          "Umschreibung einer ausl\u00e4ndischen EU-Fahrerlaubnis in einen deutschen EU-F\u00fchrerschein",
+          "Umtausch einer deutschen Fahrerlaubnis (Pflichtumtausch)",
+          "Verl\u00e4ngerung einer Klasse (z.B. Bus oder LKW)",
+          "Vorl\u00e4ufige Fahrerlaubnis nach bestandener Pr\u00fcfung",
+          "Zulassung, Umschreibung /Neu- und Gebrauchtfahrzeuge)",
+          "\u00c4nderung der Halterdaten (Namens- oder Adress\u00e4nderung)"
+        ]
+      },
+      "115": {
         "name": "Zulassungsstelle Soest Samstag",
         "services": [
           "Anmeldung eines Fahrzeuges ohne deutsche Fahrzeugpapiere",
@@ -11675,6 +12456,7 @@
         "services": [
           "F\u00fchrerschein Neu mit begleitendem Fahren 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "F\u00fchrerschein Neuantrag 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "F\u00fchrerscheinumtausch",
           "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
@@ -13213,6 +13995,139 @@
           "Krankenschein ausstellen",
           "MIG_Krankenschein ausstellen"
         ]
+      },
+      "3050": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderung etc.))",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3051": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3052": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3053": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3054": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3055": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3056": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3071": {
+        "name": "Migrationsamt",
+        "services": [
+          "Namens\u00e4nderung"
+        ]
+      },
+      "3077": {
+        "name": "Migrationsamt",
+        "services": [
+          "Fachkr\u00e4fteeinwanderung"
+        ]
+      },
+      "3079": {
+        "name": "Migrationsamt",
+        "services": [
+          "Aufenthaltstitel abholen",
+          "Verpflichtungserkl\u00e4rung",
+          "eAT abholen"
+        ]
+      },
+      "3085": {
+        "name": "Migrationsamt",
+        "services": [
+          "Anschlussunterbringung"
+        ]
+      },
+      "3086": {
+        "name": "Migrationsamt",
+        "services": [
+          "Gemeinschaftsunterkunft"
+        ]
+      },
+      "3087": {
+        "name": "Migrationsamt",
+        "services": [
+          "Wohnheimgeb\u00fchren"
+        ]
+      },
+      "3090": {
+        "name": "Migrationsamt",
+        "services": [
+          "R\u00fcckkehrberatung"
+        ]
+      },
+      "3095": {
+        "name": "Migrationsamt",
+        "services": [
+          "Krankenschein ausstellen"
+        ]
+      },
+      "3102": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "Fahrschulen/ Fahrlehre",
+          "F\u00fchrerschein"
+        ]
+      },
+      "3206": {
+        "name": "Kommunale Arbeitsf\u00f6rderung",
+        "services": [
+          "NEUANTRAG"
+        ]
       }
     }
   },
@@ -13311,6 +14226,12 @@
         "name": "Gesundheitsamt",
         "services": [
           "Belehrung gem\u00e4\u00df \u00a7\u00a7 42/43 Infektionsschutzgesetz zum Umgang mit Lebensmitteln"
+        ]
+      },
+      "168": {
+        "name": "Fahrerlaubnisbeh\u00f6rde Glauchau",
+        "services": [
+          "Umstellung in einen EU-Kartenf\u00fchrerschein"
         ]
       }
     }
@@ -14485,6 +15406,12 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=15",
     "locations": {
+      "530/7588": {
+        "name": "Eheschlie\u00dfungen",
+        "services": [
+          "Anmeldung zur Eheschlie\u00dfung"
+        ]
+      },
       "86/586": {
         "name": "Meldeangelegenheiten",
         "services": [
@@ -14590,6 +15517,7 @@
       "258": {
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
+          "Abmeldung  (mit weiteren Anliegen)",
           "Abmeldung  (wenn zus\u00e4tzlich weitere Anliegen ausgew\u00e4hlt werden)",
           "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
@@ -14613,6 +15541,7 @@
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
           "Abmeldung  (keine gleichzeitige Zulassung m\u00f6glich)",
+          "Abmeldung  (ohne weitere Anliegen)",
           "Adress- oder Namens\u00e4nderung",
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
           "Ersatz-Fahrzeugschein",
@@ -14709,6 +15638,121 @@
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
           "Ersatz-Fahrzeugschein   (nach Diebstahl oder Verlust)",
           "Feinstaubplakette"
+        ]
+      },
+      "296": {
+        "name": "Corona Impfung Kinder/Jugendliche Menden",
+        "services": [
+          "Erstimpfung Corona 12-18 Jahre Menden"
+        ]
+      },
+      "297": {
+        "name": "Corona Impfung Kinder/Jugendliche Menden",
+        "services": [
+          "Erstimpfung Corona 12-18 Jahre Menden"
+        ]
+      },
+      "300": {
+        "name": "FD 22 - Elterngeldstelle",
+        "services": [
+          "FD 22 - Antragstellung nach der Geburt",
+          "FD 22 - Beratung vor der Geburt",
+          "FD 22 - Nachreichen von Unterlagen"
+        ]
+      },
+      "301": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung  (mit weiteren Anliegen)",
+          "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Importfahrzeuge, Wohnmobile, Sattelzugmaschinen",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "302": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein"
+        ]
+      },
+      "303": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung  (ohne weitere Anliegen)",
+          "Adress- oder Namens\u00e4nderung",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein",
+          "Feinstaubplakette"
+        ]
+      },
+      "305": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abgabe des F\u00fchrerscheins bei Fahrverbot",
+          "Abmeldung  (wenn weitere Anliegen ausgew\u00e4hlt werden)",
+          "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Feinstaubplakette",
+          "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins  (Klassen C1, C1E, C, CE oder CE79)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "306": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abmeldung",
+          "Adress- oder Namens\u00e4nderung",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein   (nach Diebstahl oder Verlust)",
+          "Feinstaubplakette"
+        ]
+      },
+      "307": {
+        "name": "FD 62 - Kundenzentrum Kasterbeh\u00f6rde",
+        "services": [
+          "Amtliche Basiskarte / ABK",
+          "Entfernungsbescheinigung (Antragsannahme)",
+          "FD62 - Eigentumsnachweis",
+          "Flurkarte / Liegenschaftskarte / Katasterkarte",
+          "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
+          "Grundst\u00fccksrecherche",
+          "Orthofoto / Luftbildkarte"
+        ]
+      },
+      "308": {
+        "name": "Corona Impfung Kinder/Jugendliche Menden",
+        "services": [
+          "Erstimpfung Corona 12-18 Jahre Menden"
+        ]
+      },
+      "311": {
+        "name": "Corona Impfung Kinder/Jugendliche L\u00fcdenscheid",
+        "services": [
+          "Erstimpfung Corona 12-18 Jahre L\u00fcdenscheid"
         ]
       }
     }
@@ -14891,6 +15935,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -14915,6 +15960,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -14939,6 +15985,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -14963,6 +16010,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -14987,6 +16035,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15011,6 +16060,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15035,6 +16085,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15059,6 +16110,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15083,6 +16135,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15107,6 +16160,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15131,6 +16185,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15155,6 +16210,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15179,6 +16235,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15203,6 +16260,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte",
@@ -15242,6 +16300,7 @@
           "Personalausweis / vorl\u00e4ufiger Personalausweis",
           "Personalausweis und Reisepass (gleichzeitige Beantragung)",
           "Reisepass / vorl\u00e4ufiger Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte"
@@ -15333,6 +16392,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15408,6 +16468,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15506,6 +16567,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15562,6 +16624,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15660,6 +16723,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15716,6 +16780,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15791,6 +16856,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15866,6 +16932,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15922,6 +16989,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -15978,6 +17046,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -16034,6 +17103,7 @@
           "Erteilung und Erweiterung PKW und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
@@ -16261,16 +17331,28 @@
           "Abmeldung aus Minden ins Ausland",
           "Anmeldung in Minden aus dem Ausland",
           "Anmeldung in Minden innerhalb von Deutschland",
+          "Anschriften\u00e4nderung des Personalausweises",
+          "Beantragung des Weser-Werre-Ticket",
           "Beantragung eID-Karte f\u00fcr EU-Ausl\u00e4nder",
+          "Beglaubigung von Dokumenten / Unterschriften",
           "Beratungen allgemein/ Sonstige Dienstleistung",
+          "Bewohnerparkausweis beantragen",
           "Fischereischein beantragen/ verl\u00e4ngern",
+          "Fundsache abgeben/ abholen",
           "F\u00fchrerschein beantragen",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Hund an- oder abmelden",
           "Kinderreisepass (bis 12 Jahre) beantragen/ verl\u00e4ngern/ neues Lichtbild",
+          "Melde-/ Haushalts-/ oder Lebensbescheinigung beantragen",
+          "PIN / eID \u00c4nderung Personalausweis",
           "Personalausweis beantragen",
           "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
           "Reisepass beantragen",
           "Reisepass und Personalausweis beantragen",
+          "Steueridentifikationsnummer beantragen (Steuer ID)",
           "Ummeldung innerhalb von Minden",
+          "Untersuchungsberechtigungsschein beantragen",
           "vorl\u00e4ufigen Personalausweis beantragen"
         ]
       },
@@ -17051,7 +18133,19 @@
           "Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
           "Antrag auf Witwenrente/Witwerrente",
           "Antrag auf freiwillige Beitragszahlungen/ Beitragserstattungen",
-          "Antrag auf medizinische Rehabilitation (keine Reha)"
+          "Antrag auf medizinische Rehabilitation",
+          "Antrag auf medizinische Rehabilitation (keine Reha)",
+          "Telefontermin - Antrag auf Altersrente (Eine Antragstellung sollte ca. 3 Monate vor dem gew\u00fcnschten Rentenbeginn erfolgen)",
+          "Telefontermin - Antrag auf Erziehungsrente",
+          "Telefontermin - Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
+          "Telefontermin - Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
+          "Telefontermin - Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
+          "Telefontermin - Antrag auf Waisenrente nach dem 18. Lebensjahr",
+          "Telefontermin - Antrag auf Waisenrente vor dem 18. Lebensjahr",
+          "Telefontermin - Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
+          "Telefontermin - Antrag auf Witwenrente/Witwerrente",
+          "Telefontermin - Antrag auf freiwillige Beitragszahlung/Beitragserstattung",
+          "Telefontermin - Antrag auf medizinische Rehabilitation"
         ]
       },
       "147": {
@@ -17075,13 +18169,32 @@
       "150": {
         "name": "TEST - Gesundheits- und Veterin\u00e4ramt",
         "services": [
-          "Belehrung f\u00fcr Besch\u00e4ftigte im Lebensmittelgewerbe "
+          "Belehrung f\u00fcr Besch\u00e4ftigte im Lebensmittelgewerbe ",
+          "Lebensmittelbelehrung"
+        ]
+      },
+      "151": {
+        "name": "Energieberatung",
+        "services": [
+          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung"
         ]
       },
       "152": {
         "name": "Beratungen im Gesundheitsamt",
         "services": [
           "Gesundheitsberatung f\u00fcr Prostituierte"
+        ]
+      },
+      "153": {
+        "name": "Abfallwirtschaftsbetriebe M\u00fcnster",
+        "services": [
+          "Besuch des Deponie-Erlebnispfades"
+        ]
+      },
+      "154": {
+        "name": "Terminb\u00fcro Fischereischein im Salzhof",
+        "services": [
+          "Fischereischein mit Termin"
         ]
       }
     }
@@ -17682,6 +18795,39 @@
           "Sonstige KfZ-Angelegenheiten"
         ]
       },
+      "351": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Allgemeine Grabangelegenheit",
+          "Grabrechtsverzicht",
+          "Umbettung eines Verstorbenen"
+        ]
+      },
+      "352": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Auswahl einer Grabstelle f\u00fcr Sargbestattungen",
+          "Auswahl einer Grabstelle f\u00fcr Urnenbestattungen",
+          "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+        ]
+      },
+      "353": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Allgemeine Grabangelegenheit",
+          "Grabrechtsverzicht"
+        ]
+      },
+      "354": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Auswahl einer Grabstelle f\u00fcr Sargbestattungen",
+          "Auswahl einer Grabstelle f\u00fcr Urnenbestattungen",
+          "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+        ]
+      },
       "355": {
         "name": "Standesamt",
         "services": [
@@ -17698,6 +18844,20 @@
         "name": "Standesamt",
         "services": [
           "Eheschlie\u00dfung anmelden (beide Verlobte Deutsch)"
+        ]
+      },
+      "358": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+        ]
+      },
+      "359": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
         ]
       }
     }
@@ -19293,6 +20453,7 @@
         "services": [
           "Abmeldung",
           "Anmeldung",
+          "Anmeldung EU-Staatsangeh\u00f6rige",
           "Ausweisdokumente beantragen",
           "Ausweisdokumente verloren/wiedergefunden",
           "Beglaubigung (1-5 St\u00fcck)",
@@ -19488,6 +20649,7 @@
           "Aufenthaltskarte und Daueraufenthaltskarte",
           "Aufenthaltsrecht aush\u00e4ndigen",
           "Ausbildung",
+          "Ausbildungs- oder Studienplatzsuche",
           "Ausweisersatz",
           "Bescheinigung \u00fcber Daueraufenthaltsrecht",
           "Besch\u00e4ftigung",
@@ -19501,7 +20663,9 @@
           "Famili\u00e4re Gr\u00fcnde",
           "Fiktionsbescheinigung verl\u00e4ngern",
           "Forschung",
+          "ICT-Karte",
           "In anderen Mitgliedstaaten langfristig Aufenthaltsberechtigte",
+          "Mobiler-ICT-Karte",
           "Niederlassungserlaubnis beantragen",
           "Niederlassungserlaubnis in neuen Pass \u00fcbertragen",
           "Notreiseausweis",
@@ -19581,7 +20745,8 @@
           "Wohnsitz ummelden innerhalb Radolfzell",
           "eID-Karte f\u00fcr Unionsb\u00fcrger und Angeh\u00f6rige des Europ\u00e4ischen Wirtschaftsraums",
           "erweiterte Auskunft aus dem Melderegister",
-          "vorl\u00e4ufiger Personalausweis"
+          "vorl\u00e4ufiger Personalausweis",
+          "\u00c4nderung der Anschrift"
         ]
       },
       "150": {
@@ -19665,6 +20830,62 @@
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
           "Urnenbeisetzung"
+        ]
+      },
+      "326": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Abschiedsfeier Einsegnungshalle",
+          "Waldfriedhof_Abschiedsfeier Einsegnungshalle"
+        ]
+      },
+      "327": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Beerdigung",
+          "Waldfriedhof_Beerdigung"
+        ]
+      },
+      "328": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Urnenbeisetzung",
+          "Waldfriedhof_Urnenbeisetzung"
+        ]
+      },
+      "329": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Urnentrauerfeier Einsegnungshalle",
+          "Waldfriedhof_Urnentrauerfeier Einsegnungshalle"
+        ]
+      },
+      "330": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Abschiedsfeier Einsegnungshalle",
+          "Waldfriedhof_Abschiedsfeier Einsegnungshalle"
+        ]
+      },
+      "331": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Beerdigung",
+          "Waldfriedhof_Beerdigung"
+        ]
+      },
+      "332": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Urnenbeisetzung",
+          "Waldfriedhof_Urnenbeisetzung"
+        ]
+      },
+      "333": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Stadtfriedhof_Urnentrauerfeier Einsegnungshalle",
+          "Waldfriedhof_Urnentrauerfeier Einsegnungshalle"
         ]
       }
     }
@@ -19917,7 +21138,8 @@
       "308/4491": {
         "name": "F\u00fchrerscheinangelegenheiten",
         "services": [
-          "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag"
+          "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag",
+          "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge"
         ]
       },
       "308/4497": {
@@ -19973,6 +21195,23 @@
           "Gewerbe anmelden",
           "Gewerbe ummelden",
           "Gewerbezentralregisterauskuft beantragen"
+        ]
+      },
+      "281/3592": {
+        "name": "B\u00fcrgerb\u00fcro Kernstadt: Gewerbeangelegenheiten",
+        "services": [
+          "Beantragung Reisegewerbekarte",
+          "Beantragung einer Marktfestsetzung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beantragung einer sonstigen gewerberechtlichen Erlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Erlaubnis zum Betrieb einer Spielhalle beantragen",
+          "Erlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit beantragen",
+          "Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung",
+          "Gewerbezentralregisterauskuft beantragen",
+          "Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
       "281/3603": {
@@ -20046,10 +21285,38 @@
       "282/3564": {
         "name": "B\u00fcrgerb\u00fcro Ergenzingen: Gewerbeangelegenheiten",
         "services": [
+          "Beantragung Reisegewerbekarte",
+          "Beantragung einer Marktfestsetzung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beantragung einer sonstigen gewerberechtlichen Erlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Erlaubnis zum Betrieb einer Spielhalle beantragen",
+          "Erlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit beantragen",
+          "Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
           "Gewerbe abmelden",
           "Gewerbe anmelden",
           "Gewerbe ummelden",
-          "Gewerbezentralregisterauskuft beantragen"
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung",
+          "Gewerbezentralregisterauskuft beantragen",
+          "Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "282/3592": {
+        "name": "B\u00fcrgerb\u00fcro Ergenzingen: Gewerbeangelegenheiten",
+        "services": [
+          "Beantragung Reisegewerbekarte",
+          "Beantragung einer Marktfestsetzung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beantragung einer sonstigen gewerberechtlichen Erlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Erlaubnis zum Betrieb einer Spielhalle beantragen",
+          "Erlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit beantragen",
+          "Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung",
+          "Gewerbezentralregisterauskuft beantragen",
+          "Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
       "282/3609": {
@@ -20112,6 +21379,12 @@
           "Schnelltest f\u00fcr Mitarbeiter*Innen 01"
         ]
       },
+      "425/7563": {
+        "name": "Impftermin f\u00fcr st\u00e4dtische Mitarbeiter*innen",
+        "services": [
+          "Impftermin 01"
+        ]
+      },
       "428/5936": {
         "name": "Historischer Sitzungssaal: Corona-Schnelltest (Spucktest)",
         "services": [
@@ -20124,6 +21397,57 @@
         "services": [
           "Schnelltest f\u00fcr Mitarbeiter*Innen 01",
           "Schnelltests f\u00fcr Wahlhelfer 01"
+        ]
+      },
+      "436/7353": {
+        "name": "Wohngeldangelegenheiten",
+        "services": [
+          "Einkommens\u00e4nderung mitteilen 01\u00a0\u00a0 Person",
+          "Einkommens\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Erstantrag / Weitergew\u00e4hrung beantragen",
+          "Miet\u00e4nderung mitteilen 01\u00a0\u00a0 Person",
+          "Miet\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person",
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Umzug mitteilen 01\u00a0\u00a0 Person",
+          "Umzug mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person",
+          "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen"
+        ]
+      },
+      "436/7362": {
+        "name": "Wohnberechtigungsschein",
+        "services": [
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person",
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Wohnberechtigungsschein beantragen",
+          "Wohnungsbewerbung 01\u00a0\u00a0 Person",
+          "Wohnungsbewerbung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen"
+        ]
+      },
+      "436/7375": {
+        "name": "Erstantrag/Weitergew\u00e4hrung von Leistungen nach dem Zw\u00f6lften Sozialgesetzbuch",
+        "services": [
+          "Bildung und Teilhabe",
+          "Elterngeld L-Bank",
+          "Erwerbsminderung",
+          "GEZ-Geb\u00fchrenbefreiung",
+          "Grundsicherung im Alter",
+          "Grundsicherung im Alter / Erwerbsminderung",
+          "Hilfe zum Lebensunterhalt",
+          "Kostenloses Abo Rottenburger Mitteilungen (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person",
+          "Kostenloses Abo Rottenburger Mitteilungen (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "KreisbonusCard",
+          "Landesblindenhilfe",
+          "Monatliche Unterschrift Asylbewerber*innen 01\u00a0\u00a0 Person",
+          "Monatliche Unterschrift Asylbewerber*innen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Weitergew\u00e4hrung Asylbewerberleistungen",
+          "Zuschuss \u00d6PNV (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person",
+          "Zuschuss \u00d6PNV (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "\u00dcbernahme der Abfallgeb\u00fchren 01\u00a0\u00a0 Person",
+          "\u00dcbernahme der Abfallgeb\u00fchren 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "\u00dcbernahme von Bestattungskosten",
+          "\u00dcbernahme von Heimkosten"
         ]
       }
     }
@@ -20423,18 +21747,27 @@
       "0": {
         "name": "B\u00fcrgerCenter",
         "services": [
+          "Abgabe Neuantrag",
+          "Abgabe Neuantrag Hilfe zum Lebensunterhalt",
           "Abgabe von Fundsachen",
           "Akteneinsicht bei Fahrerlaubnisentzug",
           "Anh\u00f6rung zur beabsichtigten Gewerbeuntersagung",
           "Anmeldung Gewerbe (au\u00dfer Gastst\u00e4tten)",
           "Anmeldung einer Eheschlie\u00dfung ohne Auslandsbeteiligung \u2013 Auskunft, Beratung und Anmeldung",
           "Antrag Wiedergestattung der Gewerbeaus\u00fcbung nach Gewerbeuntersagung",
+          "Ausgabe der Krankenscheine",
+          "Ausgabe der einmaligen Leistungen",
           "Aush\u00e4ndigung von Fundsachen",
+          "Barauszahlung",
+          "Beantragung der einmaligen Leistungen",
           "Beratung Wochenmarktbeschicker",
           "Beratung bzgl. Bezirksschornsteinfeger (Claas, Michelbrink, Pultar, Soyk)",
           "Beratung bzgl. Bezirksschornsteinfeger (Knappe, Ordowski, Rieck, Sock)",
           "Beratung bzgl. Bezirksschornsteinfeger (Rutke, Wachsmuth)",
+          "Beratung zum Umzugswunsch",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (au\u00dfer Gastst\u00e4tten) ohne PLZ 38259",
+          "Beratungsgespr\u00e4ch Allgemein",
+          "Beratungsgespr\u00e4ch vor Antragstellung",
           "Besprechung / Abgabe von Antragsunterlagen f\u00fcr Sondernutzungen",
           "Entgegennahme betriebsbezogener Unterlagen",
           "Geburt im Ausland \u2013 Beratung und Nachbeurkundung einer Geburt im Ausland",
@@ -20445,6 +21778,8 @@
           "Sperrzeitverk\u00fcrzung beantragen",
           "Tod im Ausland \u2013 Beratung und Nachbeurkundung eines Sterbefalles im Ausland",
           "Ummeldung Gewerbe bei \u00c4nderung oder Erweiterung der T\u00e4tigkeit",
+          "Unterlagenabgabe",
+          "Unterlagenabgabe mit Fertigung der Kopien",
           "Vaterschaftsanerkennung / Mutterschaftsanerkennung",
           "Waffe ein- oder austragen",
           "Waffenbesitzkarte (J\u00e4ger) beantragen und/oder abholen",
@@ -20717,6 +22052,14 @@
         "services": [
           "Schnelltest"
         ]
+      },
+      "206": {
+        "name": "Soziales und Senioren",
+        "services": [
+          "Beratungsgespr\u00e4ch allgemein",
+          "Unterlagenabgabe",
+          "Unterlagenabgabe mit Fertigung der Kopien"
+        ]
       }
     }
   },
@@ -20758,19 +22101,22 @@
       "138": {
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
-          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958"
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958",
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1964"
         ]
       },
       "140": {
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
-          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958"
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958",
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1964"
         ]
       },
       "141": {
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
-          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958"
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1958",
+          "FEB - F\u00fchrerscheinumtausch Geburtsjahrg\u00e4nge 1953 bis 1964"
         ]
       }
     }
@@ -20932,6 +22278,35 @@
           "Zweitpass/Drittpass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse"
         ]
       },
+      "489/7158": {
+        "name": "Meldeangelegenheiten",
+        "services": [
+          "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Abmeldung ins Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Anmeldung in Schw\u00e4bisch Hall 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Anmeldung mit Auskunftsperre 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen",
+          "Einfache Meldebescheinigung 01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen3\u00a0\u00a0 Meldebescheinigungen4\u00a0\u00a0 Meldebescheinigungen",
+          "Eintragung ausl\u00e4ndischer Eheschlie\u00dfung /Scheidung ins Melderegister 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden",
+          "Erweiterte / internationale Meldebescheinigung  01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen3\u00a0\u00a0 Meldebescheinigungen4\u00a0\u00a0 Meldebescheinigungen",
+          "Nebenwohnsitz wird zum Hauptwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Ummeldung innerhalb Schw\u00e4bisch Hall 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
+      "489/7168": {
+        "name": "Pass- und Ausweisangelegenheiten",
+        "services": [
+          "48-Seiten-Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse",
+          "Ausweisdokument abholen 01\u00a0\u00a0 Ausweisdokument2\u00a0\u00a0 Ausweisdokumente3\u00a0\u00a0 Ausweisdokumente4\u00a0\u00a0 Ausweisdokumente5\u00a0\u00a0 Ausweisdokumente6\u00a0\u00a0 Ausweisdokumente7\u00a0\u00a0 Ausweisdokumente8\u00a0\u00a0 Ausweisdokumente",
+          "Kinderreisepass beantragen/verl\u00e4ngern/aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "PIN-\u00c4nderung / Freischaltung Online-Ausweisfunktion Personalausweis 01\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.2\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.3\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.4\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.",
+          "Personalausweis beantragen 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
+          "Reisepass (Expressvariante) 01\u00a0\u00a0 Expresspass2\u00a0\u00a0 Expressp\u00e4sse3\u00a0\u00a0 Expressp\u00e4sse4\u00a0\u00a0 Expressp\u00e4sse5\u00a0\u00a0 Expressp\u00e4sse6\u00a0\u00a0 Expressp\u00e4sse7\u00a0\u00a0 Expressp\u00e4sse8\u00a0\u00a0 Expressp\u00e4sse",
+          "Reisepass beantragen 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
+          "Vorl\u00e4ufiger Personalausweis 01\u00a0\u00a0 Vorl\u00e4ufiger Ausweis2\u00a0\u00a0 Vorl\u00e4ufige Ausweise3\u00a0\u00a0 Vorl\u00e4ufige Ausweise4\u00a0\u00a0 Vorl\u00e4ufige Ausweise5\u00a0\u00a0 Vorl\u00e4ufige Ausweise6\u00a0\u00a0 Vorl\u00e4ufige Ausweise7\u00a0\u00a0 Vorl\u00e4ufige Ausweise8\u00a0\u00a0 Vorl\u00e4ufige Ausweise",
+          "Vorl\u00e4ufiger Reisepass 01\u00a0\u00a0 Vorl\u00e4ufiger Reisepass2\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 3\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 4\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 5\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 6\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 7\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 8\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse",
+          "Zweitpass/Drittpass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse"
+        ]
+      },
       "489/7188": {
         "name": "Allgemeine Anliegen",
         "services": [
@@ -20956,6 +22331,30 @@
         "services": [
           "Fundsache abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen5\u00a0\u00a0 Fundsachen6\u00a0\u00a0 Fundsachen7\u00a0\u00a0 Fundsachen8\u00a0\u00a0 Fundsachen9\u00a0\u00a0 Fundsachen10\u00a0\u00a0 Fundsachen",
           "Fundsache abholen 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen"
+        ]
+      },
+      "489/7424": {
+        "name": "Allgemeine Anliegen",
+        "services": [
+          "Antrag Fahrgastbef\u00f6rderung/Taxischein abgeben 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
+          "Auskunftssperre beantragen 01\u00a0\u00a0 Auskunftssperre2\u00a0\u00a0 Auskunftssperren3\u00a0\u00a0 Auskunftssperren",
+          "Beglaubigung 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen6\u00a0\u00a0 Beglaubigungen7\u00a0\u00a0 Beglaubigungen8\u00a0\u00a0 Beglaubigungen9\u00a0\u00a0 Beglaubigungen10\u00a0\u00a0 Beglaubigungen11\u00a0\u00a0 Beglaubigungen12\u00a0\u00a0 Beglaubigungen13\u00a0\u00a0 Beglaubigungen14\u00a0\u00a0 Beglaubigungen15\u00a0\u00a0 Beglaubigungen",
+          "F\u00fchrerscheinantrag abgeben 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge3\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge4\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge5\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge6\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge7\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge8\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge",
+          "F\u00fchrungszeugnis 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "Gewerbezentralregister (GZR) 01\u00a0\u00a0 Gewerbezentralregister2\u00a0\u00a0 Gewerbezentralregister3\u00a0\u00a0 Gewerbezentralregister4\u00a0\u00a0 Gewerbezentralregister",
+          "Gewerbezentralregisterauskunft 01\u00a0\u00a0 Gewerbezentralregisteraus2\u00a0\u00a0 Gewerbezentralregisteraus3\u00a0\u00a0 Gewerbezentralregisteraus4\u00a0\u00a0 Gewerbezentralregisteraus5\u00a0\u00a0 Gewerbezentralregisteraus",
+          "Landesfamilienpass Erstausstellung 01\u00a0\u00a0 Landesfamilienpass",
+          "Landesfamilienpass-Gutscheine abholen 01\u00a0\u00a0 Gutscheinbogen",
+          "Lebensbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen3\u00a0\u00a0 Lebensbescheinigungen4\u00a0\u00a0 Lebensbescheinigungen",
+          "Steueridentifikationsnummer 01\u00a0\u00a0 Steuer-ID2\u00a0\u00a0 Steuer-ID3\u00a0\u00a0 Steuer-ID4\u00a0\u00a0 Steuer-ID5\u00a0\u00a0 Steuer-ID",
+          "Unterschriftsbeglaubigung 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen"
+        ]
+      },
+      "489/7468": {
+        "name": "Fundb\u00fcro",
+        "services": [
+          "Fundsache abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen5\u00a0\u00a0 Fundsachen",
+          "Fundsache abholen 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen5\u00a0\u00a0 Fundsachen"
         ]
       }
     }
@@ -21000,6 +22399,7 @@
       "246/4313": {
         "name": "Schw\u00e4bisch Hall: AU\u00dfERBETRIEBSETZUNG / ABMELDUNG",
         "services": [
+          "Abmeldung/Au\u00dferbetriebsetzung",
           "Au\u00dferbetriebsetzung"
         ]
       },
@@ -21053,6 +22453,7 @@
       "247/4313": {
         "name": "Crailsheim: AU\u00dfERBETRIEBSETZUNG / ABMELDUNG",
         "services": [
+          "Abmeldung/Au\u00dferbetriebsetzung",
           "Au\u00dferbetriebsetzung"
         ]
       },
@@ -21199,6 +22600,7 @@
           "F\u00fchrerscheinumtausch",
           "F\u00fchrungszeugnis",
           "Kinderreisepass ausstellen",
+          "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
           "Lebensbescheinigung",
           "Meldebescheinigung",
           "Parkausweis",
@@ -21222,6 +22624,7 @@
           "F\u00fchrerscheinumtausch",
           "F\u00fchrungszeugnis",
           "Kinderreisepass ausstellen",
+          "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
           "Lebensbescheinigung",
           "Meldebescheinigung",
           "Parkausweis",
@@ -21274,6 +22677,52 @@
           "Verl\u00e4ngerung der D-Klassen",
           "Verl\u00e4ngerung einer Fahrerlaubnis der C-Klassen",
           "Verl\u00e4ngerung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung (FzF)"
+        ]
+      },
+      "498": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Abmeldung einer Nebenwohnung",
+          "Anwohnerparkausweis",
+          "Beantragung Personalausweis",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Fischereischein Neuausstellung",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Jahresparkscheine (Festplatz/Stadthalle)",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Wohnsitzmeldung- Ummeldung innerhalb von Speyer"
+        ]
+      },
+      "499": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Abmeldung einer Nebenwohnung",
+          "Anwohnerparkausweis",
+          "Beantragung Personalausweis",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Fischereischein Neuausstellung",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Jahresparkscheine (Festplatz/Stadthalle)",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Wohnsitzmeldung- Ummeldung innerhalb von Speyer"
+        ]
+      },
+      "505": {
+        "name": "Corona-Schnelltest Seekatzstra\u00dfe",
+        "services": [
+          "Corona Schnelltest"
+        ]
+      },
+      "508": {
+        "name": "Impfaktion f\u00fcr B\u00fcrger*innen aus Speyer und Umgebung",
+        "services": [
+          "Impfung"
         ]
       },
       "543": {
@@ -21728,6 +23177,80 @@
           "\u00c4nderung der Halterdaten",
           "\u00c4nderung der Technikdaten"
         ]
+      },
+      "609": {
+        "name": "B\u00fcrgerb\u00fcro Maximilianstra\u00dfe",
+        "services": [
+          "Anwohnerparkausweis",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Fischereischein Neuausstellung",
+          "Fischereischein f\u00fcr Jugendliche",
+          "Fischereischein-Verl\u00e4ngerung",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Jahresparkscheine (Festplatz/Stadthalle)",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Personalausweis",
+          "Reisepass",
+          "Wohnsitzabmeldung einer Nebenwohnung",
+          "Wohnsitzanmeldung-Zuzug au\u00dferhalb von Speyer",
+          "Wohnsitzmeldung- Ummeldung innerhalb von Speyer"
+        ]
+      },
+      "610": {
+        "name": "B\u00fcrgerb\u00fcro Maximilianstra\u00dfe",
+        "services": [
+          "Anwohnerparkausweis",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Fischereischein Neuausstellung",
+          "Fischereischein f\u00fcr Jugendliche",
+          "Fischereischein-Verl\u00e4ngerung",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Jahresparkscheine (Festplatz/Stadthalle)",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Personalausweis",
+          "Reisepass",
+          "Wohnsitzabmeldung einer Nebenwohnung",
+          "Wohnsitzanmeldung-Zuzug au\u00dferhalb von Speyer",
+          "Wohnsitzmeldung- Ummeldung innerhalb von Speyer"
+        ]
+      },
+      "616": {
+        "name": "B\u00fcrgerb\u00fcro Industriestra\u00dfe",
+        "services": [
+          "Abmeldung eines Fahrzeuges",
+          "Anwohnerparkausweis",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Ersatzdokumente",
+          "Fischereischein Neuausstellung",
+          "Fischereischein Verl\u00e4ngerung",
+          "Fischereischein f\u00fcr Jugendliche",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Jahresparkscheine (Festplatz/Stadthalle)",
+          "Kinderreisepass",
+          "Kurzzeitkennzeichen",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Personalausweis",
+          "Reisepass",
+          "Umkennzeichnung",
+          "Wohnsitzabmeldung einer Nebenwohnung",
+          "Wohnsitzanmeldung- Umzug innerhalb von Speyer",
+          "Wohnsitzanmeldung- Zuzug au\u00dferhalb von Speyer",
+          "Zulassung eines Fahrzeuges",
+          "Zulassung eines im Ausland zugelassenen Fahrzeuges",
+          "\u00c4nderung der Halterdaten",
+          "\u00c4nderung der Technikdaten"
+        ]
       }
     }
   },
@@ -21945,6 +23468,32 @@
           "Ummeldung innerhalb von Soest/Abmeldung des Wohnsitzes (pro Person)",
           "Untersuchungsberechtigungsschein"
         ]
+      },
+      "9": {
+        "name": "B\u00fcrger B\u00fcro",
+        "services": [
+          "Abgabe Unterlagen GEZ",
+          "Abgabe/ Abholung Fundsache",
+          "Abholung Ausweise",
+          "Ausstellung/ Verl\u00e4ngerung Kinderreisepass",
+          "Beantragung Personalausweis",
+          "Beantragung eines Reisepasses",
+          "Beantragung vorl\u00e4ufiger Personalausweis",
+          "Beglaubigung der Unterschrift",
+          "Beglaubigung von Dokumenten (nur f\u00fcr Soester B\u00fcrger/innen)",
+          "Einfache oder erweiterte Meldebescheinigung",
+          "Einfaches oder erweitertes polizeiliches F\u00fchrungszeugnis",
+          "Erstantrag Fahrgastbef\u00f6rderungsschein",
+          "Ersterteilung, Erweiterung oder Wiedererteilung einer Fahrerlaubnis",
+          "Gewerbezentralregisterauskunft",
+          "Lebensbescheinigung f\u00fcr die Rente",
+          "Negativbescheinigung Fundsache",
+          "Neuanmeldung in Soest (pro Person)",
+          "Neuausstellung oder Verl\u00e4ngerung Fischereischein",
+          "Setzen der PIN f\u00fcr den Personalausweis",
+          "Ummeldung innerhalb von Soest/Abmeldung des Wohnsitzes (pro Person)",
+          "Untersuchungsberechtigungsschein"
+        ]
       }
     }
   },
@@ -22135,7 +23684,9 @@
       "37": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Ausgabe Sonderplaketten",
           "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
           "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
           "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
           "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
@@ -22160,7 +23711,9 @@
       "38": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Ausgabe Sonderplaketten",
           "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
           "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
           "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
           "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
@@ -22185,7 +23738,9 @@
       "39": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Ausgabe Sonderplaketten",
           "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
           "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
           "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
           "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
@@ -22234,6 +23789,12 @@
         "services": [
           "Schulbuchausleihe",
           "Sch\u00fclerbef\u00f6rderung"
+        ]
+      },
+      "55": {
+        "name": "Impfbus am Klinikum Mutterhaus",
+        "services": [
+          "Impfung im Impfbus Mutterhaus Mitte"
         ]
       }
     }
@@ -22655,6 +24216,29 @@
           "B\u00fcrgermeistersprechstunde"
         ]
       },
+      "12": {
+        "name": "Impftermine",
+        "services": [
+          "Auffrischungsimpfung / Boosterimpfung",
+          "Erstimpfung",
+          "Zweitimpfung"
+        ]
+      },
+      "15": {
+        "name": "Impftermine f\u00fcr Kinder von 5 bis 11 Jahren",
+        "services": [
+          "Auffrischungsimpfung / Boosterimpfung",
+          "Erstimpfung",
+          "Erstimpfung Kind",
+          "Zweitimpfung"
+        ]
+      },
+      "16": {
+        "name": "Impftermine f\u00fcr Kinder von 5 bis 11 Jahren",
+        "services": [
+          "Zweitimpfung Kind"
+        ]
+      },
       "9": {
         "name": "B\u00fcrgerservice",
         "services": [
@@ -22710,6 +24294,12 @@
         "name": "Zulassungsstelle",
         "services": [
           "Zulassungsvorg\u00e4nge"
+        ]
+      },
+      "6": {
+        "name": "Fachdienst Bauordnung KEIN ECHTBETRIEB!",
+        "services": [
+          "Bauberatung"
         ]
       }
     }
@@ -22778,6 +24368,41 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/stadt-walldorf",
     "locations": {
+      "121671": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Abmeldung Wohnsitz",
+          "Anmeldung Wohnsitz ",
+          "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger abholen",
+          "Fischereischein abholen",
+          "Fischereischein auf Lebenszeit \u2013 <u>Erstausstellung</u> (Mindestalter 10 Jahre)",
+          "Fischereischein auf Lebenszeit \u2013 <u>Verl\u00e4ngerung</u> ",
+          "Fischereischein f\u00fcr Jugendliche bis zur Vollendung des  16 LJ",
+          "F\u00fchrerschein - \u201eBegleitetes Fahren  ab 17 Jahren\u201c",
+          "F\u00fchrerschein \u2013 ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen A, A1, A2, AM, B, BE, L und T",
+          "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen C, CE, C1, C1E, D, DE, D1, D1E",
+          "F\u00fchrungszeugnis",
+          "Jahresfischereischein",
+          "Kinderreisepass abholen",
+          "Kinderreisepass beantragen oder verl\u00e4ngern",
+          "Landesfamilien-Pass/Abholung von Gutscheinen ",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Personalausweis - PIN-\u00c4nderung",
+          "Personalausweis abholen",
+          "Personalausweis beantragen",
+          "Personalausweis beantragen \u2013 vorl\u00e4ufiger Personalausweis",
+          "Reisepass abholen",
+          "Reisepass beantragen",
+          "Reisepass beantragen \u2013 vorl\u00e4ufiger Reisepass",
+          "Ummeldung eines Wohnsitzes innerhalb von Walldorf",
+          "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 1 oder 2 kindergeldberechtigten Kindern/Abholung von Gutscheinen",
+          "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 3 oder mehr kindergeldberechtigten Kindern/Abholung von Gutscheinen",
+          "Walldorf-Pass f\u00fcr Rentner ab dem 55. LJ mit einer Schwerbehinderung von mind. 80%",
+          "Walldorf-Pass f\u00fcr Rentner ab dem 60 LJ"
+        ]
+      },
       "78012": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
@@ -22974,6 +24599,28 @@
           "#NUR TEST# Einschulung regul\u00e4r",
           "#NUR TEST# Einschulung vorzeitig"
         ]
+      },
+      "24": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Ausgabe Sozialticket",
+          "KFZ-Zulassungsangelegenheiten | Personen-/KFZ-Anzahl:",
+          "Melde-, Pass-, Ausweisangelegenheiten | Personenzahl:"
+        ]
+      },
+      "25": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Einschulung bei F\u00f6rderung im Kindergarten / integrativem Kindergarten",
+          "Einschulung mit R\u00fcckstellung (fr\u00fcherer Termin)"
+        ]
+      },
+      "26": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Einschulung regul\u00e4r",
+          "Einschulung vorzeitig"
+        ]
       }
     }
   },
@@ -22982,6 +24629,12 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/international-office",
     "locations": {
+      "80344": {
+        "name": "Bitte w\u00e4hlen Sie",
+        "services": [
+          "Online-Beratung Auslandsstudium"
+        ]
+      },
       "80346": {
         "name": "Bitte w\u00e4hlen Sie",
         "services": [
@@ -23208,6 +24861,31 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=27",
     "locations": {
+      "109/3575": {
+        "name": "Eschwege: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Abholung F\u00fchrerschein 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl) 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Erteilung/Erweiterung einer Fahrerlaubnis",
+          "Erteilung/Erweiterung einer Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Fahrgastbef\u00f6rderung",
+          "Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Internationaler F\u00fchrerschein",
+          "Internationaler F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Neuerteilung (nach Entzug)",
+          "Neuerteilung (nach Entzug) 01\u00a0\u00a0 Antrag",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Umtausch F\u00fchrerschein",
+          "Umtausch F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
+          "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "sonstige F\u00fchrerscheinangelegenheiten",
+          "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge"
+        ]
+      },
       "109/808": {
         "name": "Eschwege: default",
         "services": [
@@ -23249,36 +24927,82 @@
           "- \u00c4nderung eines Saisonkennzeichen",
           "- \u00c4nderung eines Saisonkennzeichens",
           "100 km/h Plakette",
+          "100 km/h Plakette 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
           "Abholung F\u00fchrerschein",
           "Abmeldung eines Fahrzeuges",
+          "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ausfuhrkennzeichen",
+          "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen",
+          "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ersatzkennzeichen",
+          "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
           "Fahrgastbef\u00f6rderung",
           "Feinstaubplakette f\u00fcr die Umweltzonen",
+          "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
           "H-Kennzeichen (Oldtimer)",
+          "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Internationaler F\u00fchrerschein",
           "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen)",
+          "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Neuerteilung (nach Entzug)",
           "Neuzulassung eines Fahrzeuges",
+          "Neuzulassung eines Fahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Technische \u00c4nderung bei einem Fahrzeug",
+          "Technische \u00c4nderung bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl",
+          "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umkennzeichnung eines Fahrzeuges",
+          "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
           "Umtausch/Ersatzf\u00fchrerschein",
           "Verlust / Diebstahl des Fahrzeugbriefs",
+          "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugscheins",
+          "Verlust / Diebstahl des Fahrzeugscheins 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verl\u00e4ngerung Fahrerlaubnis/Berufskraftfahrer",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
           "Wiederzulassung eines Fahrzeuges auf dieselbe Person",
+          "Wiederzulassung eines Fahrzeuges auf dieselbe Person 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zulassung eines Gebrauchtfahrzeuges",
+          "Zulassung eines Gebrauchtfahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland",
+          "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen",
+          "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "sonstige F\u00fchrerscheinangelegenheiten",
           "\u00c4nderung der Anschrift",
+          "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung des Namens",
-          "\u00c4nderung eines Saisonkennzeichens"
+          "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung eines Saisonkennzeichens",
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
+        ]
+      },
+      "110/3575": {
+        "name": "Witzenhausen: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Abholung F\u00fchrerschein 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl) 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Erteilung/Erweiterung einer Fahrerlaubnis",
+          "Erteilung/Erweiterung einer Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Fahrgastbef\u00f6rderung",
+          "Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Internationaler F\u00fchrerschein",
+          "Internationaler F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Neuerteilung (nach Entzug)",
+          "Neuerteilung (nach Entzug) 01\u00a0\u00a0 Antrag",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Umtausch F\u00fchrerschein",
+          "Umtausch F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
+          "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "sonstige F\u00fchrerscheinangelegenheiten",
+          "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
       "110/808": {
@@ -23322,36 +25046,57 @@
           "- \u00c4nderung eines Saisonkennzeichen",
           "- \u00c4nderung eines Saisonkennzeichens",
           "100 km/h Plakette",
+          "100 km/h Plakette 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
           "Abholung F\u00fchrerschein",
           "Abmeldung eines Fahrzeuges",
+          "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ausfuhrkennzeichen",
+          "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen",
+          "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ersatzkennzeichen",
+          "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
           "Fahrgastbef\u00f6rderung",
           "Feinstaubplakette f\u00fcr die Umweltzonen",
+          "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
           "H-Kennzeichen (Oldtimer)",
+          "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Internationaler F\u00fchrerschein",
           "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen)",
+          "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Neuerteilung (nach Entzug)",
           "Neuzulassung eines Fahrzeuges",
+          "Neuzulassung eines Fahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Technische \u00c4nderung bei einem Fahrzeug",
+          "Technische \u00c4nderung bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl",
+          "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umkennzeichnung eines Fahrzeuges",
+          "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
           "Umtausch/Ersatzf\u00fchrerschein",
           "Verlust / Diebstahl des Fahrzeugbriefs",
+          "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugscheins",
+          "Verlust / Diebstahl des Fahrzeugscheins 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verl\u00e4ngerung Fahrerlaubnis/Berufskraftfahrer",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
           "Wiederzulassung eines Fahrzeuges auf dieselbe Person",
+          "Wiederzulassung eines Fahrzeuges auf dieselbe Person 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zulassung eines Gebrauchtfahrzeuges",
+          "Zulassung eines Gebrauchtfahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland",
+          "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
           "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen",
+          "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "sonstige F\u00fchrerscheinangelegenheiten",
           "\u00c4nderung der Anschrift",
+          "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung des Namens",
-          "\u00c4nderung eines Saisonkennzeichens"
+          "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung eines Saisonkennzeichens",
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
         ]
       }
     }
@@ -23519,6 +25264,29 @@
         ]
       },
       "20": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung",
+          "Kurzzeitkennzeichen",
+          "Sonstige Bearbeitung",
+          "Technische \u00c4nderung/Namens- und Adress\u00e4nderung (Umzug/Heirat)",
+          "Verlust/Ersatz",
+          "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
+        ]
+      },
+      "33": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Entzug/Wiedererteilung Fahrerlaubnis"
+        ]
+      },
+      "34": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Fahrschulangelegenheiten (Antragsabgabe)"
+        ]
+      },
+      "36": {
         "name": "Zulassungsstelle",
         "services": [
           "Abmeldung",
