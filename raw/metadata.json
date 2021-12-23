@@ -576,6 +576,7 @@
       "278/3412": {
         "name": "Beckum: F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Umtausch F\u00fchrerschein",
           "Umtausch F\u00fchrerschein f\u00fcr die Geburtsjahrg\u00e4nge 1953 bis 1958",
           "Verl\u00e4ngerung der Fahrerlaubnis 01\u00a0\u00a0 Verl\u00e4ngerung"
         ]
@@ -635,6 +636,7 @@
       "279/3412": {
         "name": "Neubeckum: F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Umtausch F\u00fchrerschein",
           "Umtausch F\u00fchrerschein f\u00fcr die Geburtsjahrg\u00e4nge 1953 bis 1958",
           "Verl\u00e4ngerung der Fahrerlaubnis 01\u00a0\u00a0 Verl\u00e4ngerung"
         ]
@@ -812,6 +814,7 @@
           "Kontrollger\u00e4tekarten: Werkstattkarte",
           "Korrektur F\u00fchrerschein (z.B. Namens\u00e4nderung)",
           "Umschreibung EU - F\u00fchrerschen",
+          "Umschreibung eines ausl\u00e4ndischen EU - F\u00fchrerscheines",
           "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung D-Klassen"
         ]
@@ -1792,6 +1795,16 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/jcbn",
     "locations": {
+      "119835": {
+        "name": "Online-Termin f\u00fcr Jobcenter-Kunden bzw. Kundinnen",
+        "services": [
+          "Bis zu zwei Erwachsene und zwei Kinder (unter 15 Jahren)",
+          "Drei Personen \u00fcber 15 Jahre",
+          "Eine Person",
+          "Ich bin mittellos",
+          "Ich m\u00f6chte mich aus Ortsabwesenheit zur\u00fcckmelden"
+        ]
+      },
       "73634": {
         "name": "Neuantrag: Wie viele Personen leben in Ihrem Haushalt?",
         "services": [
@@ -2173,7 +2186,8 @@
       "797": {
         "name": "Gewerbemeldestelle",
         "services": [
-          "Gewerbezentralregister-Auskunft"
+          "Gewerbezentralregister-Auskunft",
+          "Gewerbezentralregisterauskunft"
         ]
       },
       "798": {
@@ -2276,8 +2290,11 @@
       "808": {
         "name": "Fahrerlaubnisse",
         "services": [
+          "Austragung der Sehhilfe bzw. \u00c4nderungen von Auflagen und Beschr\u00e4nkungen",
+          "Dienstfahrerlaubnis (Bundeswehr, Polizei) umschreiben",
           "Dienstfahrerlaubnis umschreiben (F\u00fchrerschein)",
           "Eintrag der Klasse B mit der Schl\u00fcsselzahl 196 in den Kartenf\u00fchrerschein",
+          "Eintrag der Klasse B mit der Schl\u00fcsselzahl 197 in den Kartenf\u00fchrerschein",
           "Eintrag der Klasse B mit der Schl\u00fcsselzahl 96 in den Kartenf\u00fchrerschein",
           "Fahrerkarte beantragen",
           "Fahrerqualifizierungsnachweis",
@@ -2427,6 +2444,12 @@
         "name": "Zensus 2022",
         "services": [
           "Kennenlerntermin Erhebungsbeauftragte:r"
+        ]
+      },
+      "833": {
+        "name": "Bremerhaven Zensus 2022",
+        "services": [
+          "Bewerbung Erhebungsbeauftragte"
         ]
       }
     }
@@ -2718,8 +2741,11 @@
         "name": "Impftermine Impfstelle Cochem-Zell in Cochem",
         "services": [
           "Auffrischimpfung Impfstelle Cochem-Zell in Cochem",
+          "Auffrischimpfung VG Cochem",
           "Erstimpftermin Impfstelle Cochem-Zell in Cochem",
-          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem"
+          "Erstimpftermin VG Cochem",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem",
+          "Zweitimpftermin VG Cochem"
         ]
       },
       "733": {
@@ -2907,6 +2933,918 @@
       "112877": {
         "name": "B\u00fcrgeramt",
         "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass"
+        ]
+      },
+      "119633": {
+        "name": "Ausl\u00e4nderamt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119662": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119664": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119665": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119666": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119667": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "119668": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
+          "Abholung ID-Karte EU-B\u00fcrger",
+          "Abholung eines Personalausweises",
+          "Abholung eines Personalausweises f\u00fcr zwei Personen",
+          "Abholung eines Reisepasses",
+          "Abholung eines Reisepasses f\u00fcr zwei Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Abmeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Abmeldung eines Hundes",
+          "Abmeldung von Gewerbebetrieben",
+          "Aktualisierung eines Kinderreisepasses",
+          "Aktualisierung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Anmeldung eines Hundes",
+          "Anmeldung von Gewerbebetrieben",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
+          "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
+          "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
+          "Aufnahme von Fundsachen",
+          "Ausgabe der Aufenthaltstitel (Karten) und Reiseausweise A-Z",
+          "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
+          "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
+          "Aush\u00e4ndigung von Fundsachen",
+          "Ausstellung einer Aufenthalts-, Haushalts- oder Meldebescheinigung",
+          "Ausstellung einer Lebensbescheinigung",
+          "Ausstellung einer Reisegewerbekarte",
+          "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
+          "Ausstellung eines Untersuchungsberechtigungsscheines",
+          "Beantragung ID-Karte EU-B\u00fcrger",
+          "Beantragung Reisegewerbekarte ",
+          "Beantragung eines Anwohnerparkausweises",
+          "Beantragung eines Fischereischeines",
+          "Beantragung eines Jugendfischereischeines",
+          "Beantragung eines Personalausweises",
+          "Beantragung eines Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines Reisepasses ",
+          "Beantragung eines Reisepasses f\u00fcr zwei Personen",
+          "Beantragung eines Schwerbehindertenparkausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises",
+          "Beantragung eines vorl\u00e4ufigen Personalausweises f\u00fcr zwei Personen",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses",
+          "Beantragung eines vorl\u00e4ufigen Reisepasses f\u00fcr zwei Personen",
+          "Beantragung von Ausk\u00fcnften aus dem Gewerbezentralregister",
+          "Beantragung von F\u00fchrungszeugnissen",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses",
+          "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
+          "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
+          "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
+          "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage) Duldungsinhaber A-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
+          "Verl\u00e4ngerung eines Fischereischeines",
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
+        ]
+      },
+      "120695": {
+        "name": "B\u00fcrgeramt",
+        "services": [
           "Abholung ID-Karte EU-B\u00fcrger",
           "Abholung eines Personalausweises",
           "Abholung eines Personalausweises f\u00fcr zwei Personen",
@@ -2954,6 +3892,11 @@
           "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
           "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
           "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Termin 15 Minuten",
+          "Termin 30 Minuten",
+          "Termin 45 Minuten",
+          "Termin 5 Minuten",
+          "Termin 60 Minuten",
           "Ummeldung von Gewerbebetrieben",
           "Verl\u00e4ngerung eines Fischereischeines",
           "Verl\u00e4ngerung eines Jugendfischereischeines"
@@ -2962,6 +3905,7 @@
       "76474": {
         "name": "B\u00fcrgeramt",
         "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
           "Abholung ID-Karte EU-B\u00fcrger",
           "Abholung eines Personalausweises",
           "Abholung eines Personalausweises f\u00fcr zwei Personen",
@@ -2978,7 +3922,49 @@
           "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
           "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
           "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
           "Aufnahme von Fundsachen",
+          "Ausgabe der Aufenthaltstitel (Karten) und Reiseausweise A-Z",
           "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
           "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
           "Aush\u00e4ndigung von Fundsachen",
@@ -2986,6 +3972,13 @@
           "Ausstellung einer Lebensbescheinigung",
           "Ausstellung einer Reisegewerbekarte",
           "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
           "Ausstellung eines Untersuchungsberechtigungsscheines",
           "Beantragung ID-Karte EU-B\u00fcrger",
           "Beantragung Reisegewerbekarte ",
@@ -3007,16 +4000,50 @@
           "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
           "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
           "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
           "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
           "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage) Duldungsinhaber A-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Termin 15 Minuten",
+          "Termin 30 Minuten",
+          "Termin 45 Minuten",
+          "Termin 5 Minuten",
+          "Termin 60 Minuten",
           "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
           "Verl\u00e4ngerung eines Fischereischeines",
-          "Verl\u00e4ngerung eines Jugendfischereischeines"
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
         ]
       },
       "76765": {
         "name": "B\u00fcrgeramt",
         "services": [
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung)",
           "Abholung ID-Karte EU-B\u00fcrger",
           "Abholung eines Personalausweises",
           "Abholung eines Personalausweises f\u00fcr zwei Personen",
@@ -3033,7 +4060,49 @@
           "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde ab 5 Personen",
           "Anmeldung/Ummeldung des Wohnsitzes bei der Meldebeh\u00f6rde f\u00fcr bis zu 4 Personen",
           "Anschriften\u00e4nderung im Fahrzeugschein bei Umz\u00fcgen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 1 Person, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 2 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, B-D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 3 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 4 Personen, S-T",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, A, X-Z",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, B -D",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, E-J",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, K-M",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, N-R, U-W",
+          "Antrag auf Erteilung einer Aufenthaltserlaubnis, 5 und mehr Personen, S-T",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, A, X-Z",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, B-D",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, E-J",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, K-M",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, N-R, U-W",
+          "Antrag auf unbefristete Niederlassungserlaubnis, Beratung, S-T",
           "Aufnahme von Fundsachen",
+          "Ausgabe der Aufenthaltstitel (Karten) und Reiseausweise A-Z",
           "Ausgabe verschiedenster Antr\u00e4ge und Formulare",
           "Aush\u00e4ndigung Steueridentifikation (BZST-ID)",
           "Aush\u00e4ndigung von Fundsachen",
@@ -3041,6 +4110,13 @@
           "Ausstellung einer Lebensbescheinigung",
           "Ausstellung einer Reisegewerbekarte",
           "Ausstellung einer Zweitschrift der Gewerbean- Um- oder Abmeldung",
+          "Ausstellung eines Reiseausweises",
+          "Ausstellung eines Reiseausweises, A, X-Z",
+          "Ausstellung eines Reiseausweises, B-D",
+          "Ausstellung eines Reiseausweises, E-J",
+          "Ausstellung eines Reiseausweises, K-M",
+          "Ausstellung eines Reiseausweises, N-R, U-W",
+          "Ausstellung eines Reiseausweises, S-T",
           "Ausstellung eines Untersuchungsberechtigungsscheines",
           "Beantragung ID-Karte EU-B\u00fcrger",
           "Beantragung Reisegewerbekarte ",
@@ -3062,11 +4138,44 @@
           "Beantragung/Verl\u00e4ngerung eines Kinderreisepasses f\u00fcr zwei Personen",
           "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (ab 5 St\u00fcck)",
           "Beglaubigung eines Dokuments, einer Urkunde oder einer Unterschrift (bis zu 4 St\u00fcck)",
+          "EU-Angelegenheiten",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, A-F",
+          "Einb\u00fcrgerung: Beratung / Antragsabgabe, G-Z",
           "Erteilung von Ausk\u00fcnften aus dem Gewerberegister",
           "Erteilung von Ausk\u00fcnften aus dem Melderegister",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage)",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage) Duldungsinhaber A-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), A, X-Z",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), B-D",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), E-J",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), K-M",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), N-R, U-W",
+          "Sonstige Beratung (mit Freitext f\u00fcr den Grund der Anfrage), S-T",
+          "Termin 15 Minuten",
+          "Termin 30 Minuten",
+          "Termin 45 Minuten",
+          "Termin 5 Minuten",
+          "Termin 60 Minuten",
           "Ummeldung von Gewerbebetrieben",
+          "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), A, X-Z",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), B-D",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), E-J",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), K-M",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), N-R, U-W",
+          "Verl\u00e4ngerung einer Gestattung (Asylbewerber), S-T",
           "Verl\u00e4ngerung eines Fischereischeines",
-          "Verl\u00e4ngerung eines Jugendfischereischeines"
+          "Verl\u00e4ngerung eines Jugendfischereischeines",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, A, X-Z",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, B-D",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, E-J",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, K-M",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, N-R, U-W",
+          "\u00dcbertrag des Aufenthaltstitels f\u00fcr einen neuen Pass, S-T"
         ]
       },
       "78715": {
@@ -3609,6 +4718,7 @@
           "POWERPOINT - Fit f\u00fcrs B\u00fcro",
           "Projekte initiieren, planen, durchf\u00fchren",
           "Tastschreiben heute - multisensorisch lernen",
+          "Telefonische und Online-Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "WORD - Fit f\u00fcrs B\u00fcro",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende"
@@ -4320,6 +5430,14 @@
           "Karteikartenabschrift/Auflagen"
         ]
       },
+      "395/1230": {
+        "name": "Angelegenheiten zum Fahreignungsregister",
+        "services": [
+          "Aufbauseminare (Probezeit)",
+          "Ermahnung/Verwarnung (Punkte)",
+          "Fahreignungsseminare"
+        ]
+      },
       "395/1236": {
         "name": "Wiedererteilung nach Entzug / Entziehungsverfahren",
         "services": [
@@ -4919,6 +6037,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -4974,6 +6093,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5029,6 +6149,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5084,6 +6205,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5139,6 +6261,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5194,6 +6317,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5249,6 +6373,7 @@
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
+          "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
           "Internationaler F\u00fchrerschein"
         ]
@@ -5311,6 +6436,7 @@
           "Einfaches oder erweitertes polizeiliches F\u00fchrungszeugnis",
           "Erteilung / Verl\u00e4ngerung Aufenthaltserlaubnis",
           "F\u00fchrerscheinantrag",
+          "F\u00fchrerscheinumtausch",
           "Gewerbezentralregisterauskunft f\u00fcr eine Firma",
           "Gewerbezentralregisterauskunft f\u00fcr eine Privatperson",
           "Verl\u00e4ngerung Fischereischein auf Lebenszeit 01\u00a0\u00a0 Verl\u00e4ngerung2\u00a0\u00a0 Verl\u00e4ngerungen3\u00a0\u00a0 Verl\u00e4ngerungen4\u00a0\u00a0 Verl\u00e4ngerungen5\u00a0\u00a0 Verl\u00e4ngerungen"
@@ -6091,6 +7217,24 @@
         "services": [
           "Neuantrag"
         ]
+      },
+      "26": {
+        "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
+        "services": [
+          "Weiterbewillgungsantrag"
+        ]
+      },
+      "27": {
+        "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
+        "services": [
+          "Neuantrag"
+        ]
+      },
+      "28": {
+        "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
+        "services": [
+          "Zulassung eines Neufahrzeuges aus dem Inland"
+        ]
       }
     }
   },
@@ -6578,7 +7722,34 @@
         "name": "TEST_05_Impfzentrum_FE",
         "services": [
           "Covid-Impfung",
-          "Covid-Impfung Erstimpfung"
+          "Covid-Impfung Boosterimpfung",
+          "Covid-Impfung Erstimpfung",
+          "Covid-Impfung Zweitimpfung"
+        ]
+      },
+      "34": {
+        "name": "TEST_06_Impfung_DrS_FE",
+        "services": [
+          "Covid Boosterimpfung",
+          "Covid-Impfung-DrS_Boosterimpfung",
+          "Covid-Impfung-DrS_Erstimpfung",
+          "Covid-Impfung-DrS_Zweitimpfung"
+        ]
+      },
+      "35": {
+        "name": "TEST_07_Impfung_DrS_FE",
+        "services": [
+          "Covid Erstimpfung",
+          "Covid Zweitimpfung",
+          "Covid-Impfung-DrS_Erstimpfung",
+          "Covid-Impfung-DrS_Zweitimpfung"
+        ]
+      },
+      "36": {
+        "name": "Impfzentrum: Erst-/Zweit-Impfung Abends",
+        "services": [
+          "Covid-Impfung Erstimpfung",
+          "Covid-Impfung Zweitimpfung"
         ]
       }
     }
@@ -6885,6 +8056,32 @@
           "KFA - R\u00fcckverrechnung",
           "KFA - Stammdaten\u00e4nderung",
           "KFA - Versicherungsschutz"
+        ]
+      },
+      "74086": {
+        "name": "Sozialamt",
+        "services": [
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung"
+        ]
+      },
+      "74087": {
+        "name": "Sozialamt",
+        "services": [
+          "Behindertenhilfe"
+        ]
+      },
+      "74088": {
+        "name": "Sozialamt",
+        "services": [
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime"
         ]
       },
       "74090": {
@@ -8551,6 +9748,7 @@
           "Melde- und Aufenthaltsbescheinigung, Melderegisterauskunft",
           "Neuzulassung, Ummeldung, technische \u00c4nderung oder Saisonkennzeichen",
           "Reisepass, Personalausweis, Kinderreisepass, vorl\u00e4ufiger Pass bzw. Personalausweis",
+          "Schwerbehindertenparkausweis",
           "Schwerbehindertenparkausweis (blau und orange)",
           "Sonstiges (Abholung F\u00fchrerschein, Frage zu Fahrerlaubnisklassen, etc.)",
           "Standesamtliche Urkunden bestellen",
@@ -8592,6 +9790,7 @@
       "31": {
         "name": "Casino Palais Prinz Carl",
         "services": [
+          "Impfung Covid-19",
           "Men\u00fc 1",
           "Men\u00fc 1 togo",
           "Men\u00fc 2"
@@ -8922,6 +10121,16 @@
           "Kfz-Wiederzulassung 01\u00a0\u00a0 Kfz-Wiederzulassung"
         ]
       },
+      "142/1217": {
+        "name": "Kfz-Angelegenheiten",
+        "services": [
+          "Kfz-Abmeldung 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen",
+          "Kfz-Adress\u00e4nderung 01\u00a0\u00a0 Kfz-Adress\u00e4nderung2\u00a0\u00a0 Kfz-Adress\u00e4nderungen3\u00a0\u00a0 Kfz-Adress\u00e4nderungen4\u00a0\u00a0 Kfz-Adress\u00e4nderungen",
+          "Kfz-Neuzulassung",
+          "Kfz-Umschreibung 01\u00a0\u00a0 Kfz-Umschreibung",
+          "Kfz-Wiederzulassung 01\u00a0\u00a0 Kfz-Wiederzulassung"
+        ]
+      },
       "142/1218": {
         "name": "Sonstige Angelegenheiten",
         "services": [
@@ -9075,6 +10284,7 @@
       "58": {
         "name": "Einwohnermeldeamt",
         "services": [
+          "Abholung Aufenthaltstitel",
           "Abholung Ausweisdokumente",
           "Beantragung Anwohnerparkausweis",
           "Beantragung F\u00fchrungszeugnis",
@@ -9293,6 +10503,15 @@
           "DRK Testzentrum Schmallenberg"
         ]
       },
+      "123449": {
+        "name": "Schnelltestungen",
+        "services": [
+          "DRK Testzentrum Bestwig",
+          "DRK Testzentrum Eslohe",
+          "DRK Testzentrum Meschede",
+          "DRK Testzentrum Schmallenberg"
+        ]
+      },
       "96407": {
         "name": "Schnelltestungen",
         "services": [
@@ -9300,12 +10519,26 @@
           "DRK Testzentrum Brilon",
           "DRK Testzentrum Eslohe",
           "DRK Testzentrum Meschede",
-          "DRK Testzentrum Schmallenberg"
+          "DRK Testzentrum Schmallenberg",
+          "DRK Testzentrum Schmallenberg II"
+        ]
+      },
+      "96829": {
+        "name": "Impfcenter",
+        "services": [
+          ".Impfzentrum Meschede 08:00-18:00 Uhr",
+          "Impfzentrum 1",
+          "Impfzentrum Meschede 08:00-18:00 Uhr",
+          "Impfzentrum Winterberg",
+          "Impfzentrum2",
+          "impfzentrum Schmallenberg Nachmittag",
+          "impfzentrum3"
         ]
       },
       "97359": {
         "name": "Impfcenter MFA",
         "services": [
+          ".Impfzentrum Meschede 08:00-18:00 Uhr",
           "Impfstelle Meschede ",
           "Impfstelle Winterberg ",
           "Impfzentrum Bestwig - MFA",
@@ -9313,8 +10546,11 @@
           "Impfzentrum Marsberg - MFA",
           "Impfzentrum Medebach - MFA",
           "Impfzentrum Meschede - MFA",
+          "Impfzentrum Meschede 08:00-18:00 Uhr",
+          "Impfzentrum Winterberg",
           "Impfzentrum Winterberg - MFA",
-          "impfzentrum Schmallenberg - MFA"
+          "impfzentrum Schmallenberg - MFA",
+          "impfzentrum Schmallenberg Nachmittag"
         ]
       }
     }
@@ -10183,6 +11419,10 @@
         "name": "IST Schmalkalden (barrierefrei) | Nachmittag | Impfstoff: BioNTech",
         "services": []
       },
+      "312": {
+        "name": "Impfzentrum Stadt Jena (barrierefrei) | Impfstoff: mRNA",
+        "services": []
+      },
       "32": {
         "name": "IST Bad Frankenhausen (barrierefrei) | Vormittag | Impfstoff: BioNTech",
         "services": []
@@ -10893,6 +12133,24 @@
           "Saisonkennzeichen beantragen oder l\u00f6schen"
         ]
       },
+      "150/1443": {
+        "name": "Zulassungsangelegenheiten",
+        "services": [
+          "'Gel\u00f6schtes' Fahrzeug zulassen",
+          "Bei Umzug  in  den Kreis Herford Adresse \u00e4ndern",
+          "Einzelgenehmigung nach \u00a713 EG-Fahrzeuggenehmigungsverordnung (EG-FZV)",
+          "Fabrikneues Fahrzeug zulassen",
+          "Fahrzeug (abgemeldet) f\u00fcr denselben Halter wieder zulassen",
+          "Fahrzeug abmelden",
+          "Fahrzeug von au\u00dferhalb im Kreis Herford anmelden/ummelden",
+          "Fahrzeughalter innerhalb des Kreises Herford wechseln/ummelden",
+          "Importiertes Neu-/Gebrauchtfahrzeug zulassen",
+          "Kennzeichen wurde verloren/gestohlen",
+          "Kennzeichen \u00e4ndern",
+          "Technische \u00c4nderung",
+          "Zulassungsbescheinigung Teil II/Fahrzeugbrief wurde verloren"
+        ]
+      },
       "150/1444": {
         "name": "Zulassungsangelegenheiten",
         "services": [
@@ -10901,6 +12159,7 @@
           "Einzelgenehmigung nach \u00a713 EG-Fahrzeuggenehmigungsverordnung (EG-FZV)",
           "Fabrikneues Fahrzeug zulassen",
           "Fahrzeug (abgemeldet) f\u00fcr denselben Halter wieder zulassen",
+          "Fahrzeug abmelden",
           "Fahrzeug von au\u00dferhalb im Kreis Herford anmelden/ummelden",
           "Fahrzeughalter innerhalb des Kreises Herford wechseln/ummelden",
           "Importiertes Neu-/Gebrauchtfahrzeug zulassen",
@@ -10927,6 +12186,28 @@
           "Neu-/Wiedererteilung nach Entzug",
           "Schl\u00fcsselzahl B196/ Schl\u00fcsselzahl B96 in den F\u00fchrerschein eintragen",
           "Schl\u00fcsselzahl B197 eintragen (neue Automatikregelung seit 01.04.2021)",
+          "Schl\u00fcsselzahl B197 in den F\u00fchrerschein eintragen",
+          "Umtausch/Umstellung",
+          "Verl\u00e4ngerung der Klassen C,D,E"
+        ]
+      },
+      "150/6539": {
+        "name": "F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Ausl\u00e4ndische Fahrerlaubnis umschreiben",
+          "Begleitetes Fahren ab 17 Jahren",
+          "Dienstfahrerlaubnis (Bundeswehr) umschreiben",
+          "Ersatz bei Verlust/Diebstahl",
+          "Erteilung/Erweiterung einer Fahrerlaubnisklasse",
+          "Fahrerkarte (Erteilung/Verl\u00e4ngerung/Ersatz)",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung (Taxi, Mietwagen, Ausflugsfahrten usw.)",
+          "Fahrerqualifizierungsnachweis (\"Schl\u00fcsselziffer 95\")",
+          "Fahrschulen",
+          "F\u00fchrerschein abholen",
+          "Internationaler F\u00fchrerschein",
+          "Neu-/Wiedererteilung nach Entzug",
+          "Schl\u00fcsselzahl B196/ Schl\u00fcsselzahl B96 in den F\u00fchrerschein eintragen",
+          "Schl\u00fcsselzahl B197 in den F\u00fchrerschein eintragen",
           "Umtausch/Umstellung",
           "Verl\u00e4ngerung der Klassen C,D,E"
         ]
@@ -12457,6 +13738,7 @@
           "F\u00fchrerschein Neu mit begleitendem Fahren 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "F\u00fchrerschein Neuantrag 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "F\u00fchrerscheinumtausch",
+          "F\u00fchrerscheinumtausch 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine",
           "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
@@ -13836,10 +15118,24 @@
           "BAf\u00f6G-Antrag (Beratung / Antragstellung)"
         ]
       },
+      "116942": {
+        "name": "Veranstaltungen Kreisentwicklung AGs Heimatpreis",
+        "services": [
+          "Arbeitsgruppe AAA",
+          "Arbeitsgruppe BBB"
+        ]
+      },
       "118022": {
         "name": "Grippeimpfung KVC",
         "services": [
           "Grippeimpfung 2021"
+        ]
+      },
+      "119088": {
+        "name": "Veranstaltungen Kreisentwicklung AGs Heimatpreis",
+        "services": [
+          "Arbeitsgruppe AAA",
+          "Arbeitsgruppe BBB"
         ]
       }
     }
@@ -14385,6 +15681,18 @@
           "Ehrenamt",
           "Ratsangelegenheiten"
         ]
+      },
+      "463": {
+        "name": "Trautermine Villa Meyer + Villa M\u00fchlenbach",
+        "services": [
+          "Trautermin Villa Meyer vormerken"
+        ]
+      },
+      "464": {
+        "name": "Trautermine Villa Meyer + Villa M\u00fchlenbach",
+        "services": [
+          "Trautermin Villa M\u00fchlenbach vormerken"
+        ]
       }
     }
   },
@@ -14435,12 +15743,25 @@
       "0": {
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
-          "Onlinetermin Antragstellung Einreise und Aufenthalt"
+          "Onlinetermin Antragstellung A - Avc",
+          "Onlinetermin Antragstellung AVD - Casa",
+          "Onlinetermin Antragstellung Casb - Dza",
+          "Onlinetermin Antragstellung Dzb - Hamd",
+          "Onlinetermin Antragstellung Einreise und Aufenthalt",
+          "Onlinetermin Antragstellung Hame - Kal",
+          "Onlinetermin Antragstellung Kam - Lakk",
+          "Onlinetermin Antragstellung Lakl - Milic",
+          "Onlinetermin Antragstellung Milid - Omd",
+          "Onlinetermin Antragstellung Ome - Ris",
+          "Onlinetermin Antragstellung Rit- Smaj",
+          "Onlinetermin Antragstellung Smak - Veh",
+          "Onlinetermin Antragstellung Vei - Z"
         ]
       },
       "395": {
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
+          "Aush\u00e4ndigung eAT / ePASS  / Fiktionsbescheinigungen (A - Z) im Kundencenter",
           "Aush\u00e4ndigung eAT / ePASS (A - Z)",
           "Aush\u00e4ndigung eAT / ePASS (A - Z) im Kundencenter"
         ]
@@ -15409,7 +16730,21 @@
       "530/7588": {
         "name": "Eheschlie\u00dfungen",
         "services": [
-          "Anmeldung zur Eheschlie\u00dfung"
+          "Anmeldung zur Eheschlie\u00dfung",
+          "Beantragung Ehef\u00e4higkeitszeugnis"
+        ]
+      },
+      "530/7591": {
+        "name": "Eheschlie\u00dfungen",
+        "services": [
+          "Anmeldung zur Eheschlie\u00dfung",
+          "Testanliegen"
+        ]
+      },
+      "530/7650": {
+        "name": "Teste",
+        "services": [
+          "Teste1 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
         ]
       },
       "86/586": {
@@ -15518,6 +16853,7 @@
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
           "Abmeldung  (mit weiteren Anliegen)",
+          "Abmeldung  (nur zusammen mit weiteren Anliegen)",
           "Abmeldung  (wenn zus\u00e4tzlich weitere Anliegen ausgew\u00e4hlt werden)",
           "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
@@ -15541,6 +16877,7 @@
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
           "Abmeldung  (keine gleichzeitige Zulassung m\u00f6glich)",
+          "Abmeldung  (nur ohne weitere Anliegen)",
           "Abmeldung  (ohne weitere Anliegen)",
           "Adress- oder Namens\u00e4nderung",
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
@@ -17841,6 +19178,7 @@
           "Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
           "Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
           "Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
+          "Antrag auf Waisenrente nach dem 18. Lebensjahr",
           "Antrag auf Waisenrente vor dem 18. Lebensjahr",
           "Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
           "Antrag auf Witwenrente/Witwerrente",
@@ -17946,11 +19284,15 @@
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
-          "Umweltplakette"
+          "Umweltplakette",
+          "eID-Karte"
         ]
       },
       "135": {
@@ -18082,6 +19424,10 @@
           "Namensbescheinigung",
           "Namens\u00e4nderung nach Scheidung",
           "Telefontermin - Annerkennung einer ausl\u00e4ndischen Scheidung",
+          "Telefontermin - Deutsche Urkunden f\u00fcr ein im Ausland geborenes Kind",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland geschlossene Ehe",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland registrierte Lebenspartnerschaft",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland verstorbene Person",
           "Telefontermin - Ehef\u00e4higkeitszeugnis zur Heirat im Ausland",
           "Telefontermin - Korrektur im Eheregister",
           "Telefontermin - Korrektur im Geburtenregister",
@@ -18140,6 +19486,7 @@
           "Telefontermin - Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
           "Telefontermin - Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
           "Telefontermin - Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
+          "Telefontermin - Antrag auf Waisenrente ab dem 18. Lebensjahr",
           "Telefontermin - Antrag auf Waisenrente nach dem 18. Lebensjahr",
           "Telefontermin - Antrag auf Waisenrente vor dem 18. Lebensjahr",
           "Telefontermin - Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
@@ -18163,12 +19510,14 @@
       "149": {
         "name": "Beratungen im Gesundheitsamt",
         "services": [
-          "AIDS-Beratung"
+          "AIDS-Beratung",
+          "pers\u00f6nliches Beratungsgespr\u00e4ch - AIDS und andere sexuell \u00fcbertragbaren Erkrankungen"
         ]
       },
       "150": {
         "name": "TEST - Gesundheits- und Veterin\u00e4ramt",
         "services": [
+          "Belehrung f\u00fcr Besch\u00e4ftigte im Lebensmittelgewerbe",
           "Belehrung f\u00fcr Besch\u00e4ftigte im Lebensmittelgewerbe ",
           "Lebensmittelbelehrung"
         ]
@@ -18176,7 +19525,8 @@
       "151": {
         "name": "Energieberatung",
         "services": [
-          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung"
+          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung",
+          "telefonische Energieberatung"
         ]
       },
       "152": {
@@ -18503,6 +19853,8 @@
         "services": [
           "Alten deutschen Papier-F\u00fchrerschein in Kartenf\u00fchrerschein umtauschen",
           "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzliche Fahrerqualifizierungsnachweiskarte - Karte (95\u00e8r)",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
           "Ersatzf\u00fchrerschein f\u00fcr einen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
           "Fahrerlaubnis f\u00fcr begleitetes Fahren ab 17 beantragen",
           "Namen auf einem deutschen F\u00fchrerschein \u00e4ndern",
@@ -18514,6 +19866,8 @@
         "services": [
           "Alten deutschen Papier-F\u00fchrerschein in Kartenf\u00fchrerschein umtauschen",
           "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzliche Fahrerqualifizierungsnachweiskarte - Karte (95\u00e8r)",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
           "Ersatzf\u00fchrerschein f\u00fcr einen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
           "Fahrerlaubnis f\u00fcr begleitetes Fahren ab 17 beantragen",
           "Namen auf einem deutschen F\u00fchrerschein \u00e4ndern",
@@ -18558,8 +19912,11 @@
           "Dienstfahrerlaubnis umschreiben (z.B. Bundeswehr, Polizei)",
           "Ersatzdokument f\u00fcr einen abhanden gekommenen FGB-Schein beantragen",
           "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzliche Fahrerqualifizierungsnachweiskarte - Karte (95\u00e8r)",
+          "Ersatzf\u00fchrerschein f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
           "Ersatzf\u00fchrerschein f\u00fcr einen deutschen F\u00fchrerschein beantragen mit zus\u00e4tzlichen FQN (95\u00e9r)",
           "Ersatzf\u00fchrerschein f\u00fcr einen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
+          "Ersatzf\u00fchrerschein mit zus\u00e4tzlichen FQN (95\u00e9r) f\u00fcr einen abhanden gekommenen deutschen F\u00fchrerschein beantragen",
           "Fahrerlaubnis aus einem Anlage 11 - Staat umschreiben",
           "Fahrerlaubnis aus einem EU / EWR - Staat umschreiben",
           "Fahrerlaubnis aus einem sonstigen Drittstaat umschreiben (au\u00dferhalb EU/EWR oder Anlage 11 - Staaten)",
@@ -18799,6 +20156,7 @@
         "name": "Friedh\u00f6fe und Grabst\u00e4tten",
         "services": [
           "Allgemeine Grabangelegenheit",
+          "Allgemeine Grabrechtsangelegenheit",
           "Grabrechtsverzicht",
           "Umbettung eines Verstorbenen"
         ]
@@ -18816,6 +20174,7 @@
         "name": "Friedh\u00f6fe und Grabst\u00e4tten",
         "services": [
           "Allgemeine Grabangelegenheit",
+          "Allgemeine Grabrechtsangelegenheit",
           "Grabrechtsverzicht"
         ]
       },
@@ -20559,6 +21918,12 @@
         "services": [
           "Blutspende Pontanusstra\u00dfe"
         ]
+      },
+      "222": {
+        "name": "Einwohneramt",
+        "services": [
+          "Anmeldung"
+        ]
       }
     }
   },
@@ -20784,6 +22149,7 @@
         "name": "Kundenbereich Ausl\u00e4nderwesen",
         "services": [
           "Beantragung einer Aufenthaltserlaubnis / Niederlassungserlaubnis",
+          "Stadtfriedhof_Urnenbeisetzung",
           "Verpflichtungserkl\u00e4rung/Einladung von ausl\u00e4ndischen Besuchern",
           "\u00dcbertragung eines Aufenthaltstitels in neuen Pass"
         ]
@@ -21191,10 +22557,24 @@
       "281/3564": {
         "name": "B\u00fcrgerb\u00fcro Kernstadt: Gewerbeangelegenheiten",
         "services": [
+          "Beantragung Reisegewerbekarte",
+          "Beantragung einer Marktfestsetzung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beantragung einer sonstigen gewerberechtlichen Erlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Erlaubnis zum Betrieb einer Spielhalle beantragen",
+          "Erlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit beantragen",
+          "Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
           "Gewerbe abmelden",
           "Gewerbe anmelden",
           "Gewerbe ummelden",
-          "Gewerbezentralregisterauskuft beantragen"
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung",
+          "Gewerbezentralregisterauskuft beantragen",
+          "Kopie von Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Kopie von Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
+          "Kopie von Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
       "281/3592": {
@@ -21299,6 +22679,9 @@
           "Gewerbeanmeldung",
           "Gewerbeummeldung",
           "Gewerbezentralregisterauskuft beantragen",
+          "Kopie von Erlaubnis zum Betrieb des Bewachungsgewerbe beantragen",
+          "Kopie von Geeignetheitsbest\u00e4tigung beantragen (\u00a7 33c Abs. 3 GewO)",
+          "Kopie von Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Verl\u00e4ngerung Reisegewerbekarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
@@ -21375,6 +22758,7 @@
       "425/5936": {
         "name": "Rathaus Foyer - Raum hinten rechts (A018): Corona-Schnelltest (Spucktest)",
         "services": [
+          "Corona-Schnelltest (Spucktest) 01\u00a0\u00a0 Person",
           "Corona-Schnelltest 01\u00a0\u00a0 Person",
           "Schnelltest f\u00fcr Mitarbeiter*Innen 01"
         ]
@@ -21382,14 +22766,17 @@
       "425/7563": {
         "name": "Impftermin f\u00fcr st\u00e4dtische Mitarbeiter*innen",
         "services": [
-          "Impftermin 01"
+          "Impftermin 01",
+          "Impftermin 01\u00a0\u00a0 Person"
         ]
       },
       "428/5936": {
         "name": "Historischer Sitzungssaal: Corona-Schnelltest (Spucktest)",
         "services": [
+          "Corona-Schnelltest (Spucktest) 01\u00a0\u00a0 Person",
           "Corona-Schnelltest 01\u00a0\u00a0 Person",
-          "Schnelltest f\u00fcr Mitarbeiter*Innen 01"
+          "Schnelltest f\u00fcr Mitarbeiter*Innen 01",
+          "Schnelltests f\u00fcr Wahlhelfer 01"
         ]
       },
       "428/6126": {
@@ -21404,15 +22791,20 @@
         "services": [
           "Einkommens\u00e4nderung mitteilen 01\u00a0\u00a0 Person",
           "Einkommens\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Einkommens\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Erstantrag / Weitergew\u00e4hrung beantragen",
           "Miet\u00e4nderung mitteilen 01\u00a0\u00a0 Person",
           "Miet\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Miet\u00e4nderung mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Sonstige Mitteilungen  01\u00a0\u00a0 Person",
           "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Umzug mitteilen 01\u00a0\u00a0 Person",
           "Umzug mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Umzug mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person",
-          "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen"
+          "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "\u00c4nderung Haushaltsmitglieder mitteilen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "436/7362": {
@@ -21420,9 +22812,11 @@
         "services": [
           "Sonstige Mitteilungen  01\u00a0\u00a0 Person",
           "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Sonstige Mitteilungen  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Wohnberechtigungsschein beantragen",
           "Wohnungsbewerbung 01\u00a0\u00a0 Person",
-          "Wohnungsbewerbung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen"
+          "Wohnungsbewerbung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Wohnungsbewerbung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "436/7375": {
@@ -21435,6 +22829,7 @@
           "Grundsicherung im Alter",
           "Grundsicherung im Alter / Erwerbsminderung",
           "Hilfe zum Lebensunterhalt",
+          "Kopie von Weitergew\u00e4hrung Asylbewerberleistungen",
           "Kostenloses Abo Rottenburger Mitteilungen (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person",
           "Kostenloses Abo Rottenburger Mitteilungen (f\u00fcr Inhaber der KreisbonusCard) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "KreisbonusCard",
@@ -21539,12 +22934,14 @@
           "Ersatzf\u00fchrerschein nach Diebstahl oder Verlust",
           "Fabrikneues Fahrzeug aus dem Ausland",
           "Fabrikneues Fahrzeug aus dem Inland",
+          "Fahrerqualifikationsnachweis FQN",
           "F\u00fchrerschein BF17 (Begleitendes Fahren) beantragen",
           "F\u00fchrerschein Erstantrag/Erweiterung bestehender Klassen",
           "F\u00fchrungszeugnis beantragen",
           "Gewerbezentralregisterauskunft",
           "Internationaler F\u00fchrerschein",
           "Kinderreisepass beantragen",
+          "Kl\u00e4rung Meldeverh\u00e4ltnisse, Familienstand etc.",
           "Kl\u00e4rung Meldeverh\u00e4ltnisse, Familienstand oder Religion",
           "Kurzzeitkennzeichen",
           "Meldebescheinigung (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung)",
@@ -21556,6 +22953,7 @@
           "Steueridentifikationsnummer erfragen",
           "Umtausch F\u00fchrerschein",
           "Untersuchungsberechtigungsschein",
+          "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
           "Wohnsitz abmelden",
@@ -21587,6 +22985,7 @@
           "Ersatzf\u00fchrerschein nach Diebstahl oder Verlust",
           "Fabrikneues Fahrzeug aus dem Ausland",
           "Fabrikneues Fahrzeug aus dem Inland",
+          "Fahrerqualifikationsnachweis FQN",
           "Fahrzeugscheinheft rote Kennzeichen",
           "Fischereischein",
           "F\u00fchrerschein BF17 (Begleitendes Fahren) beantragen",
@@ -21605,6 +23004,7 @@
           "Steueridentifikationsnummer erfragen",
           "Umtausch F\u00fchrerschein",
           "Untersuchungsberechtigungsschein",
+          "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
           "Wohnsitz abmelden",
@@ -21635,6 +23035,7 @@
           "Ersatzf\u00fchrerschein nach Diebstahl oder Verlust",
           "Fabrikneues Fahrzeug aus dem Ausland",
           "Fabrikneues Fahrzeug aus dem Inland",
+          "Fahrerqualifikationsnachweis FQN",
           "Fahrzeugscheinheft rote Kennzeichen",
           "Fischereischein",
           "F\u00fchrerschein BF17 (Begleitendes Fahren) beantragen",
@@ -21653,6 +23054,7 @@
           "Steueridentifikationsnummer erfragen",
           "Umtausch F\u00fchrerschein",
           "Untersuchungsberechtigungsschein",
+          "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
           "Wohnsitz abmelden",
@@ -21683,6 +23085,7 @@
           "Ersatzf\u00fchrerschein nach Diebstahl oder Verlust",
           "Fabrikneues Fahrzeug aus dem Ausland",
           "Fabrikneues Fahrzeug aus dem Inland",
+          "Fahrerqualifikationsnachweis FQN",
           "Fahrzeugscheinheft rote Kennzeichen",
           "Fischereischein",
           "F\u00fchrerschein BF17 (Begleitendes Fahren) beantragen",
@@ -21700,6 +23103,7 @@
           "Steueridentifikationsnummer erfragen",
           "Umtausch F\u00fchrerschein",
           "Untersuchungsberechtigungsschein",
+          "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
           "Wohnsitz abmelden",
@@ -22252,13 +23656,20 @@
         "name": "Meldeangelegenheiten",
         "services": [
           "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "Abmeldung ins Ausland 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Abmeldung ins Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Anmeldung in Schw\u00e4bisch Hall 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Einfache Meldebescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Einfache Meldebescheinigung 01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen3\u00a0\u00a0 Meldebescheinigungen4\u00a0\u00a0 Meldebescheinigungen",
+          "Eintragung ausl\u00e4ndischer Eheschlie\u00dfung /Scheidung ins Melderegister 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden",
           "Eintragung ausl\u00e4ndischer Eheschlie\u00dfung ins Melderegister 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Erweiterte / internationale Meldebescheinigung  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Erweiterte / internationale Meldebescheinigung  01\u00a0\u00a0 Meldebescheinigung2\u00a0\u00a0 Meldebescheinigungen3\u00a0\u00a0 Meldebescheinigungen4\u00a0\u00a0 Meldebescheinigungen",
           "Nebenwohnsitz wird zum Hauptwohnsitz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
-          "Ummeldung innerhalb Schw\u00e4bisch Hall 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+          "Nebenwohnsitz wird zum Hauptwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Ummeldung innerhalb Schw\u00e4bisch Hall 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ummeldung innerhalb Schw\u00e4bisch Hall 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "489/7098": {
@@ -22267,6 +23678,7 @@
           "48-Seiten-Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse",
           "Ausweisdokument abholen 01\u00a0\u00a0 Ausweisdokument2\u00a0\u00a0 Ausweisdokumente3\u00a0\u00a0 Ausweisdokumente4\u00a0\u00a0 Ausweisdokumente5\u00a0\u00a0 Ausweisdokumente6\u00a0\u00a0 Ausweisdokumente7\u00a0\u00a0 Ausweisdokumente8\u00a0\u00a0 Ausweisdokumente",
           "Kinderreisepass beantragen/verl\u00e4ngern/aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kinderreisepass beantragen/verl\u00e4ngern/aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "PIN-\u00c4nderung / Freischaltung Online-Ausweisfunktion Personalausweis 01\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.2\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.3\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.4\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.",
           "Personalausweis beantragen 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Reisepass (Expressvariante) 01\u00a0\u00a0 Expresspass2\u00a0\u00a0 Expressp\u00e4sse3\u00a0\u00a0 Expressp\u00e4sse4\u00a0\u00a0 Expressp\u00e4sse5\u00a0\u00a0 Expressp\u00e4sse6\u00a0\u00a0 Expressp\u00e4sse7\u00a0\u00a0 Expressp\u00e4sse8\u00a0\u00a0 Expressp\u00e4sse",
@@ -22323,6 +23735,7 @@
           "Lebensbescheinigung 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen3\u00a0\u00a0 Lebensbescheinigungen4\u00a0\u00a0 Lebensbescheinigungen",
           "Steueridentifikationsnummer 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5",
           "Steueridentifikationsnummer 01\u00a0\u00a0 Steuer-ID2\u00a0\u00a0 Steuer-ID3\u00a0\u00a0 Steuer-ID4\u00a0\u00a0 Steuer-ID5\u00a0\u00a0 Steuer-ID",
+          "Unterschriftsbeglaubigung 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen",
           "Unterschriftsbeglaubigung 01\u00a0\u00a0 Unterschriftsbeglaubigung2\u00a0\u00a0 Unterschriftsbeglaubigung3\u00a0\u00a0 Unterschriftsbeglaubigung4\u00a0\u00a0 Unterschriftsbeglaubigung"
         ]
       },
@@ -22373,6 +23786,7 @@
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
           "Umkennzeichnung",
+          "Umschreibung Gebrauchtfahrzeug (auf anderen Halter)",
           "Umschreibung Gebrauchtwagen (auf anderen Halter)",
           "Wiederzulassung (gleicher Halter)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
@@ -22427,6 +23841,7 @@
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
           "Umkennzeichnung",
+          "Umschreibung Gebrauchtfahrzeug (auf anderen Halter)",
           "Umschreibung Gebrauchtwagen (auf anderen Halter)",
           "Wiederzulassung (gleicher Halter)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
@@ -24202,6 +25617,72 @@
         "services": [
           "Kirchenaustritt erkl\u00e4ren"
         ]
+      },
+      "482/4619": {
+        "name": "Verwaltungsstelle Bebenhausen: Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/ Reisepass",
+          "Adress\u00e4nderung Personalausweis",
+          "Ausweisdokumente beantragen nach Einb\u00fcrgerung mit Lichtbilderstellung",
+          "Elektronische Identit\u00e4tsnachweis-Karte (eID-Karte) f\u00fcr Unionsb\u00fcrger",
+          "Kinderreisepass beantragen/verl\u00e4ngern",
+          "PIN-\u00c4nderung/Freischaltung Online-Funktion Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis beantragen mit Lichtbilderstellung",
+          "Personalausweis beantragen nach Einb\u00fcrgerung",
+          "Reisepass oder Expresspass mit Lichtbilderstellung",
+          "Reisepass oder Expressreisepass beantragen",
+          "Reisepass oder Expressreisepass beantragen nach Einb\u00fcrgerung",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "Vorl\u00e4ufiger Personalausweis mit Lichtbilderstellung",
+          "Vorl\u00e4ufiger Reisepass mit Lichtbilderstellung",
+          "Wohnort\u00e4nderung im Reisepass"
+        ]
+      },
+      "482/4620": {
+        "name": "Verwaltungsstelle Bebenhausen: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung Nebenwohnsitz",
+          "Abmeldung ins Ausland",
+          "Anmeldung in T\u00fcbingen aus dem Ausland und der EU",
+          "Anmeldung in T\u00fcbingen inkl. Adress\u00e4nderung im Ausweis/Pass",
+          "Auskunftssperre im Melderegister beantragen",
+          "Einfache Meldebescheinigung",
+          "Eintragung Eheschlie\u00dfung ins Melderegister",
+          "Erweiterte Meldebescheinigung",
+          "Internationale Meldebescheinigung",
+          "Lebensbescheinigung",
+          "Nebenwohnung wird zur Hauptwohnung",
+          "Ummeldung innerhalb T\u00fcbingen inkl. Adress\u00e4nderung Ausweis/Pass"
+        ]
+      },
+      "482/4637": {
+        "name": "Verwaltungsstelle Bebenhausen: B\u00fcrgerservice",
+        "services": [
+          "Beglaubigung",
+          "Bewohnerparkausweis",
+          "Briefwahlunterlagen",
+          "Fahrkartenverkauf",
+          "Fischereischein Neuausstellung",
+          "Fischereischein Verl\u00e4ngerung",
+          "Fundsachen",
+          "F\u00fchrerscheinantrag",
+          "F\u00fchrungszeugnis (einfach)",
+          "F\u00fchrungszeugnis (erweitert)",
+          "Gewerbezentralregisterauszug",
+          "Landesfamilienpass",
+          "M\u00fcllsack Verkauf",
+          "Parkerleichterung f\u00fcr Menschen mit schwerer Behinderung (\"blauer Parkausweis\")",
+          "Steuer-Identifikationnummer 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
+      "513/7240": {
+        "name": "Gewerbebereich",
+        "services": [
+          "Gewerbeanmeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
       }
     }
   },
@@ -24374,15 +25855,19 @@
           "Abmeldung Wohnsitz",
           "Anmeldung Wohnsitz ",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger abholen",
+          "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger beantragen/abholen",
           "Fischereischein abholen",
           "Fischereischein auf Lebenszeit \u2013 <u>Erstausstellung</u> (Mindestalter 10 Jahre)",
           "Fischereischein auf Lebenszeit \u2013 <u>Verl\u00e4ngerung</u> ",
           "Fischereischein f\u00fcr Jugendliche bis zur Vollendung des  16 LJ",
+          "Fotokopie-Best\u00e4tigungen \u2013 Nur f\u00fcr Walldorfer B\u00fcrger",
           "F\u00fchrerschein - \u201eBegleitetes Fahren  ab 17 Jahren\u201c",
           "F\u00fchrerschein \u2013 ausl\u00e4ndischen F\u00fchrerschein umschreiben",
           "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen A, A1, A2, AM, B, BE, L und T",
           "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen C, CE, C1, C1E, D, DE, D1, D1E",
           "F\u00fchrungszeugnis",
+          "Hund an- bzw. abmelden",
+          "Hund and- bzw. abmelden",
           "Jahresfischereischein",
           "Kinderreisepass abholen",
           "Kinderreisepass beantragen oder verl\u00e4ngern",
@@ -24396,6 +25881,7 @@
           "Reisepass abholen",
           "Reisepass beantragen",
           "Reisepass beantragen \u2013 vorl\u00e4ufiger Reisepass",
+          "Steuer-Identifikationsnummer",
           "Ummeldung eines Wohnsitzes innerhalb von Walldorf",
           "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 1 oder 2 kindergeldberechtigten Kindern/Abholung von Gutscheinen",
           "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 3 oder mehr kindergeldberechtigten Kindern/Abholung von Gutscheinen",
@@ -24409,15 +25895,19 @@
           "Abmeldung Wohnsitz",
           "Anmeldung Wohnsitz ",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger abholen",
+          "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger beantragen/abholen",
           "Fischereischein abholen",
           "Fischereischein auf Lebenszeit \u2013 <u>Erstausstellung</u> (Mindestalter 10 Jahre)",
           "Fischereischein auf Lebenszeit \u2013 <u>Verl\u00e4ngerung</u> ",
           "Fischereischein f\u00fcr Jugendliche bis zur Vollendung des  16 LJ",
+          "Fotokopie-Best\u00e4tigungen \u2013 Nur f\u00fcr Walldorfer B\u00fcrger",
           "F\u00fchrerschein - \u201eBegleitetes Fahren  ab 17 Jahren\u201c",
           "F\u00fchrerschein \u2013 ausl\u00e4ndischen F\u00fchrerschein umschreiben",
           "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen A, A1, A2, AM, B, BE, L und T",
           "F\u00fchrerscheinantrag \u2013 F\u00fchrerscheinklassen C, CE, C1, C1E, D, DE, D1, D1E",
           "F\u00fchrungszeugnis",
+          "Hund an- bzw. abmelden",
+          "Hund and- bzw. abmelden",
           "Jahresfischereischein",
           "Kinderreisepass abholen",
           "Kinderreisepass beantragen oder verl\u00e4ngern",
@@ -24431,6 +25921,7 @@
           "Reisepass abholen",
           "Reisepass beantragen",
           "Reisepass beantragen \u2013 vorl\u00e4ufiger Reisepass",
+          "Steuer-Identifikationsnummer",
           "Ummeldung eines Wohnsitzes innerhalb von Walldorf",
           "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 1 oder 2 kindergeldberechtigten Kindern/Abholung von Gutscheinen",
           "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 3 oder mehr kindergeldberechtigten Kindern/Abholung von Gutscheinen",
@@ -24632,6 +26123,7 @@
       "80344": {
         "name": "Bitte w\u00e4hlen Sie",
         "services": [
+          "Erfahrungsberichte lesen | Reading Experience Reports",
           "Online-Beratung Auslandsstudium"
         ]
       },
@@ -24641,6 +26133,8 @@
           "Beratung Austauschstudium ins Ausland",
           "Beratung Praktikum im Ausland",
           "Beratung f\u00fcr F\u00f6rderm\u00f6glichkeiten f\u00fcr Auslandsaufenthalte",
+          "Erfahrungsberichte lesen | Reading Experience Reports",
+          "Online-Beratung Auslandsstudium",
           "Sprechzeit Service International",
           "Welcome to Weimar"
         ]
@@ -24935,6 +26429,7 @@
           "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
           "Ersatzkennzeichen",
           "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
@@ -24956,6 +26451,7 @@
           "Umkennzeichnung eines Fahrzeuges",
           "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Umtausch F\u00fchrerschein",
           "Umtausch/Ersatzf\u00fchrerschein",
           "Verlust / Diebstahl des Fahrzeugbriefs",
           "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
@@ -25054,6 +26550,7 @@
           "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
           "Ersatzkennzeichen",
           "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
@@ -25075,6 +26572,7 @@
           "Umkennzeichnung eines Fahrzeuges",
           "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Umtausch F\u00fchrerschein",
           "Umtausch/Ersatzf\u00fchrerschein",
           "Verlust / Diebstahl des Fahrzeugbriefs",
           "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
@@ -25274,6 +26772,75 @@
           "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
         ]
       },
+      "21": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Entzug/Wiedererteilung Fahrerlaubnis"
+        ]
+      },
+      "22": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Fahrschulangelegenheiten (Antragsabgabe)"
+        ]
+      },
+      "24": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung",
+          "Kurzzeitkennzeichen",
+          "Sonstige Bearbeitung",
+          "Technische \u00c4nderung/Namens- und Adress\u00e4nderung (Umzug/Heirat)",
+          "Verlust/Ersatz",
+          "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
+        ]
+      },
+      "25": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Entzug/Wiedererteilung Fahrerlaubnis"
+        ]
+      },
+      "26": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Fahrschulangelegenheiten (Antragsabgabe)"
+        ]
+      },
+      "28": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung",
+          "Kurzzeitkennzeichen",
+          "Sonstige Bearbeitung",
+          "Technische \u00c4nderung/Namens- und Adress\u00e4nderung (Umzug/Heirat)",
+          "Verlust/Ersatz",
+          "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
+        ]
+      },
+      "29": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Entzug/Wiedererteilung Fahrerlaubnis"
+        ]
+      },
+      "30": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Fahrschulangelegenheiten (Antragsabgabe)"
+        ]
+      },
+      "32": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung",
+          "Kurzzeitkennzeichen",
+          "Sonstige Bearbeitung",
+          "Technische \u00c4nderung/Namens- und Adress\u00e4nderung (Umzug/Heirat)",
+          "Verlust/Ersatz",
+          "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
+        ]
+      },
       "33": {
         "name": "F\u00fchrerscheinstelle",
         "services": [
@@ -25295,6 +26862,30 @@
           "Technische \u00c4nderung/Namens- und Adress\u00e4nderung (Umzug/Heirat)",
           "Verlust/Ersatz",
           "Zulassung (Neuzulassung/Wiederzulassung/Import Fahrzeug/Gebrauchtfahrzeug)"
+        ]
+      },
+      "37": {
+        "name": "Impftermine",
+        "services": [
+          "Boosterimpfung (Moderna)"
+        ]
+      },
+      "38": {
+        "name": "Impftermine",
+        "services": [
+          "Erst- oder Zweitimpfung (Biontech)"
+        ]
+      },
+      "39": {
+        "name": "Impftermine",
+        "services": [
+          "Boosterimpfung (Moderna)"
+        ]
+      },
+      "40": {
+        "name": "Impftermine",
+        "services": [
+          "Erst- oder Zweitimpfung (Biontech)"
         ]
       }
     }
