@@ -1342,6 +1342,7 @@
       "66/373": {
         "name": "default",
         "services": [
+          "Anschriften\u00e4nderung des eingetragenen Halters",
           "Ausfuhrkennzeichen",
           "Au\u00dferbetriebsetzung",
           "Beantragung und \u00c4nderung Saisonkennzeichen",
@@ -1355,6 +1356,7 @@
           "Kennzeichenverlust / Kennzeichendiebstahl",
           "Kurzzeitkennzeichen",
           "Namens- oder Anschriften\u00e4nderung des eingetragenen Halters",
+          "Namens\u00e4nderung des eingetragenen Halters",
           "Neuzulassung (fabrikneues Fahrzeug)",
           "Technische \u00c4nderung",
           "Umkennzeichnung",
@@ -2451,6 +2453,12 @@
         "services": [
           "Bewerbung Erhebungsbeauftragte"
         ]
+      },
+      "834": {
+        "name": "Die Senatorin f\u00fcr Gesundheit, Frauen und Verbraucherschutz",
+        "services": [
+          "Anerkennung ausl\u00e4ndischer Heilberufe"
+        ]
       }
     }
   },
@@ -2767,8 +2775,11 @@
       "735": {
         "name": "Impftermine Impfstelle Cochem-Zell in Zell",
         "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
           "Auffrischimpfung Impfstelle Cochem-Zell in Zell",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
           "Erstimpftermin Impfstelle Cochem-Zell in Zell",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay",
           "Zweitimpftermin Impfstelle Cochem-Zell in Zell"
         ]
       }
@@ -7515,6 +7526,42 @@
     "scraper": "tevis",
     "url": "https://termin.landkreis-goeppingen.de",
     "locations": {
+      "100": {
+        "name": "Zulassung",
+        "services": [
+          "Standort Geislingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "101": {
+        "name": "Zulassung",
+        "services": [
+          "Standort G\u00f6ppingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "102": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Alle Vorg\u00e4nge"
+        ]
+      },
+      "103": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Belehrung nach dem Infektionsschutzgesetz"
+        ]
+      },
+      "104": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenberatung"
+        ]
+      },
+      "105": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenkonfliktberatung"
+        ]
+      },
       "73": {
         "name": "Zulassung",
         "services": [
@@ -7549,6 +7596,99 @@
         "name": "F\u00fchrerscheinstelle",
         "services": [
           "Alle Vorg\u00e4nge"
+        ]
+      },
+      "85": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Belehrung nach dem Infektionsschutzgesetz (\u00a7 42 IfSG)",
+          "Gesundheitsamt",
+          "Schwangerenkonfliktberatung"
+        ]
+      },
+      "86": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Belehrung nach dem Infektionsschutzgesetz",
+          "Belehrung nach dem Infektionsschutzgesetz (\u00a7 42 IfSG)"
+        ]
+      },
+      "87": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Schwangerenberatung"
+        ]
+      },
+      "88": {
+        "name": "Zulassung",
+        "services": [
+          "Standort Geislingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "89": {
+        "name": "Zulassung",
+        "services": [
+          "Standort G\u00f6ppingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "90": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Alle Vorg\u00e4nge"
+        ]
+      },
+      "91": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Belehrung nach dem Infektionsschutzgesetz"
+        ]
+      },
+      "92": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenberatung"
+        ]
+      },
+      "93": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenkonfliktberatung"
+        ]
+      },
+      "94": {
+        "name": "Zulassung",
+        "services": [
+          "Standort Geislingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "95": {
+        "name": "Zulassung",
+        "services": [
+          "Standort G\u00f6ppingen - Anzahl der Vorg\u00e4nge"
+        ]
+      },
+      "96": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Alle Vorg\u00e4nge"
+        ]
+      },
+      "97": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Belehrung nach dem Infektionsschutzgesetz"
+        ]
+      },
+      "98": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenberatung"
+        ]
+      },
+      "99": {
+        "name": "TESTBETRIEB - KEINE TERMINBUCHUNG - Gesundheitsamt",
+        "services": [
+          "Schwangerenkonfliktberatung"
         ]
       }
     }
@@ -7731,6 +7871,8 @@
         "name": "TEST_06_Impfung_DrS_FE",
         "services": [
           "Covid Boosterimpfung",
+          "Covid Erstimpfung",
+          "Covid Zweitimpfung",
           "Covid-Impfung-DrS_Boosterimpfung",
           "Covid-Impfung-DrS_Erstimpfung",
           "Covid-Impfung-DrS_Zweitimpfung"
@@ -7739,8 +7881,11 @@
       "35": {
         "name": "TEST_07_Impfung_DrS_FE",
         "services": [
+          "Covid Boosterimpfung f\u00fcr Unter-30-j\u00e4hrige",
           "Covid Erstimpfung",
+          "Covid Erstimpfung f\u00fcr Unter-30-J\u00e4hrige",
           "Covid Zweitimpfung",
+          "Covid Zweitimpfung f\u00fcr Unter-30-J\u00e4hrige",
           "Covid-Impfung-DrS_Erstimpfung",
           "Covid-Impfung-DrS_Zweitimpfung"
         ]
@@ -7750,6 +7895,14 @@
         "services": [
           "Covid-Impfung Erstimpfung",
           "Covid-Impfung Zweitimpfung"
+        ]
+      },
+      "37": {
+        "name": "08_Impftag_FE_TEST NICHT BUCHEN",
+        "services": [
+          "Covid Drittimpfung (\"Booster\")",
+          "Covid Erstimpfung",
+          "Covid Zweitimpfung"
         ]
       }
     }
@@ -11423,6 +11576,14 @@
         "name": "Impfzentrum Stadt Jena (barrierefrei) | Impfstoff: mRNA",
         "services": []
       },
+      "315": {
+        "name": "Familienimpfen | Kinderimpfzentrum Stadt Jena | Impfstoff: BioNTech",
+        "services": []
+      },
+      "316": {
+        "name": "Impfzentrum Stadt Jena (barrierefrei) | Impfstoff: mRNA",
+        "services": []
+      },
       "32": {
         "name": "IST Bad Frankenhausen (barrierefrei) | Vormittag | Impfstoff: BioNTech",
         "services": []
@@ -12182,6 +12343,7 @@
           "Fahrerqualifizierungsnachweis (\"Schl\u00fcsselziffer 95\")",
           "Fahrschulen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerschein nach Umtausch abholen",
           "Internationaler F\u00fchrerschein",
           "Neu-/Wiedererteilung nach Entzug",
           "Schl\u00fcsselzahl B196/ Schl\u00fcsselzahl B96 in den F\u00fchrerschein eintragen",
@@ -13047,6 +13209,7 @@
           "Abholung F\u00fchrerschein/Fahrberechtigung/Fahrerkarte",
           "Ausstellung einer Fahrerkarte/Ersatz- oder Folgefahrerkarte",
           "Ausstellung eines Ersatzf\u00fchrerscheins wegen Verlust/Diebstahl",
+          "Ausstellung eines Fahrerqualifizierungsnachweises",
           "Ausstellung eines internationalen F\u00fchrerscheins",
           "Erteilung einer Fahrerlaubnis \"Begleitetes Fahren ab 17\"",
           "Erteilung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
@@ -13068,6 +13231,84 @@
         "services": [
           "Nachtrag von Impfbescheinigungen in den Impfpass - unvollst\u00e4ndige Unterlagen",
           "Nachtrag von Impfbescheinigungen in den Impfpass - vollst\u00e4ndige Unterlagen"
+        ]
+      },
+      "88": {
+        "name": "Zulassungsangelegenheiten",
+        "services": [
+          "Abmeldung/Au\u00dferbetriebsetzung eines Fahrzeuges",
+          "Adress\u00e4nderung und/oder Namens\u00e4nderung",
+          "Ausstellung eines Ersatzfahrzeugscheines (ZBI) nach Verlust/Diebstahl",
+          "Ausstellung eines neuen Fahrzeugbriefes (ZBII) wegen Verlust/Diebstahl",
+          "Eintrag technischer \u00c4nderung(en)",
+          "Erstmalige Zulassung eines aus dem Ausland eingef\u00fchrten Fahrzeuges",
+          "Halterwechsel / Umschreibung innerhalb des Kreises Wesel",
+          "Halterwechsel / Umschreibung von ausserhalb des Kreises Wesel",
+          "Neu- bzw. Erstzulassung eines Kraftfahrzeuges",
+          "Neusiegelung Kennzeichenschild",
+          "Umkennzeichnung/Kennzeichen\u00e4nderung",
+          "Wiederzulassung eines Fahrzeuges auf den gleichen Halter",
+          "Zuteilung eines Ausfuhrkennzeichens",
+          "Zuteilung eines Kurzzeitkennzeichens",
+          "Zuteilung eines Oldtimerkennzeichens",
+          "Zuteilung eines Wechselkennzeichens",
+          "Zuteilung eines roten Dauerkennzeichens"
+        ]
+      },
+      "89": {
+        "name": "Zulassungsangelegenheiten",
+        "services": [
+          "Abmeldung/Au\u00dferbetriebsetzung eines Fahrzeuges",
+          "Adress\u00e4nderung und/oder Namens\u00e4nderung",
+          "Ausstellung eines Ersatzfahrzeugscheines (ZBI) nach Verlust/Diebstahl",
+          "Ausstellung eines neuen Fahrzeugbriefes (ZBII) wegen Verlust/Diebstahl",
+          "Eintrag technischer \u00c4nderung(en)",
+          "Erstmalige Zulassung eines aus dem Ausland eingef\u00fchrten Fahrzeuges",
+          "Halterwechsel / Umschreibung innerhalb des Kreises Wesel",
+          "Halterwechsel / Umschreibung von ausserhalb des Kreises Wesel",
+          "Neu- bzw. Erstzulassung eines Kraftfahrzeuges",
+          "Neusiegelung Kennzeichenschild",
+          "Umkennzeichnung/Kennzeichen\u00e4nderung",
+          "Wiederzulassung eines Fahrzeuges auf den gleichen Halter",
+          "Zuteilung eines Ausfuhrkennzeichens",
+          "Zuteilung eines Kurzzeitkennzeichens",
+          "Zuteilung eines Oldtimerkennzeichens",
+          "Zuteilung eines Wechselkennzeichens",
+          "Zuteilung eines roten Dauerkennzeichens"
+        ]
+      },
+      "90": {
+        "name": "Fahrerlaubnisangelegenheiten",
+        "services": [
+          "Abholung F\u00fchrerschein/Fahrberechtigung/Fahrerkarte",
+          "Ausstellung einer Fahrerkarte/Ersatz- oder Folgefahrerkarte",
+          "Ausstellung eines Ersatzf\u00fchrerscheins wegen Verlust/Diebstahl",
+          "Ausstellung eines Fahrerqualifizierungsnachweises",
+          "Ausstellung eines internationalen F\u00fchrerscheins",
+          "Erteilung einer Fahrerlaubnis \"Begleitetes Fahren ab 17\"",
+          "Erteilung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Umtausch des F\u00fchrerscheins",
+          "Verl\u00e4ngerung der Fahrerlaubnis / Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "\u00c4nderung von Personendaten oder Auflagen"
+        ]
+      },
+      "91": {
+        "name": "Fahrerlaubnisangelegenheiten",
+        "services": [
+          "Abholung F\u00fchrerschein/Fahrberechtigung/Fahrerkarte",
+          "Ausstellung einer Fahrerkarte/Ersatz- oder Folgefahrerkarte",
+          "Ausstellung eines Ersatzf\u00fchrerscheins wegen Verlust/Diebstahl",
+          "Ausstellung eines Fahrerqualifizierungsnachweises",
+          "Ausstellung eines internationalen F\u00fchrerscheins",
+          "Erteilung einer Fahrerlaubnis \"Begleitetes Fahren ab 17\"",
+          "Erteilung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Umtausch des F\u00fchrerscheins",
+          "Verl\u00e4ngerung der Fahrerlaubnis / Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "\u00c4nderung von Personendaten oder Auflagen"
         ]
       }
     }
@@ -17001,6 +17242,7 @@
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
           "Abmeldung  (mit weiteren Anliegen)",
+          "Abmeldung  (mit weiteren Anliegen) bitte Anliegen w\u00e4hlen",
           "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
           "Beglaubigung",
@@ -17224,6 +17466,7 @@
           "Aufenthaltserlaubnis zum Familiennachzug",
           "Aufenthaltserlaubnis zum Studium/Sprachkurs",
           "Aufenthaltserlaubnis zur Besch\u00e4ftigung",
+          "Beratungstermin f\u00fcr Einb\u00fcrgerung/dt. Staatsangeh\u00f6rigkeit",
           "Verl\u00e4ngerung von humanit\u00e4ren Aufenthaltserlaubnissen gem\u00e4\u00df den \u00a7\u00a7 22 - 25b AufenthG",
           "sonstige Aufenthaltserlaubnis (ohne humanit\u00e4r)"
         ]
@@ -20115,6 +20358,12 @@
           "Kirchenaustritt erkl\u00e4ren"
         ]
       },
+      "343": {
+        "name": "Standesamt",
+        "services": [
+          "Berichtigung eines Personenstandsregisters"
+        ]
+      },
       "344": {
         "name": "Standesamt",
         "services": [
@@ -22770,6 +23019,19 @@
           "Impftermin 01\u00a0\u00a0 Person"
         ]
       },
+      "425/7663": {
+        "name": "Neuinstallation I-Pad/Handy",
+        "services": [
+          "Neuinstallation 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
+      },
+      "425/7664": {
+        "name": "Neuinstallation I-Pad/I-Phone",
+        "services": [
+          "Neuinstallation I-Pad oder I-Phone 01",
+          "Neuinstallation I-Pad und I-Phone 01"
+        ]
+      },
       "428/5936": {
         "name": "Historischer Sitzungssaal: Corona-Schnelltest (Spucktest)",
         "services": [
@@ -22819,6 +23081,19 @@
           "Wohnungsbewerbung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
+      "436/7366": {
+        "name": "Rentenangelegenheiten",
+        "services": [
+          "Altersrente beantragen",
+          "Erwerbsminderungsrente Erstantrag",
+          "Erwerbsminderungsrente Weitergew\u00e4hrung beantragen",
+          "Kontenkl\u00e4rung beantragen",
+          "Sonstiges (z.B. Hilfe, um Formulare auszuf\u00fcllen) 01\u00a0\u00a0 Person",
+          "Waisenrente beantragen",
+          "Widerspruch einlegen  01\u00a0\u00a0 Person",
+          "Witwenrente / Witwerrente beantragen"
+        ]
+      },
       "436/7375": {
         "name": "Erstantrag/Weitergew\u00e4hrung von Leistungen nach dem Zw\u00f6lften Sozialgesetzbuch",
         "services": [
@@ -22843,6 +23118,49 @@
           "\u00dcbernahme der Abfallgeb\u00fchren 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "\u00dcbernahme von Bestattungskosten",
           "\u00dcbernahme von Heimkosten"
+        ]
+      },
+      "518/7438": {
+        "name": "Gastst\u00e4ttenangelegenheiten",
+        "services": [
+          "Gastst\u00e4ttenerlaubnis nach \u00a7 2 GastG beantragen",
+          "Gestattung gem. \u00a7 12 GastG 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Vorl\u00e4ufige Gastst\u00e4ttenerlaubnis nach \u00a7 11 GastG beantragen"
+        ]
+      },
+      "518/7443": {
+        "name": "Waffenangelegenheiten",
+        "services": [
+          "Austrag Waffe 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Eintrag Waffe  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Europ\u00e4ischen Feuerwaffenpass beantragen",
+          "Europ\u00e4ischen Feuerwaffenpass verl\u00e4ngern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kleinen Waffenschein beantragen",
+          "Kleiner Waffenschein/Waffenbesitzkarte/europ\u00e4ischer Feuerwaffenpass abholen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Sonstige waffenrechtliche Erlaubnis beantragen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Voreintrag in eine vorhandene Waffenbesitzkarte  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Waffenbesitzkarte beantragen"
+        ]
+      },
+      "518/7454": {
+        "name": "Sprengstoffangelegenheiten",
+        "services": [
+          "Ausnahmegenehmigung Feuerwerk beantragen",
+          "Ausnahmegenehmigung Gro\u00dffeuerwerk beantragen",
+          "Bef\u00e4higungsschein nach  \u00a7 20 SprengG beantragen",
+          "Sprengstofferlaubnis abholen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Sprengstofferlaubnis nach \u00a7 27 SprengG beantragen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Sprengstofferlaubnis verl\u00e4ngern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Unbedenklichkeitsbescheinigung beantragen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "532/7664": {
+        "name": "Neuinstallation I-Pad/I-Phone",
+        "services": [
+          "Neuinstallation I-Pad oder I-Phone 01",
+          "Neuinstallation I-Pad und I-Phone 01",
+          "Neuinstallation iPad oder iPhone 01",
+          "Neuinstallation iPad und iPhone 01"
         ]
       }
     }
@@ -27077,6 +27395,19 @@
           "Personalausweis beantragen",
           "Reisepass beantragen",
           "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "81": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Jahrgangsstufe 11 (Eintritt in die Oberstufe, Bildungsziel: Allgemeine Fachhochschulreife)",
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
+      "82": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Jahrgangsstufe 11 (Eintritt in die Oberstufe, Bildungsziel: Allgemeine Fachhochschulreife)"
         ]
       }
     }
