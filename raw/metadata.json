@@ -2594,13 +2594,69 @@
       "83569": {
         "name": "B\u00fcrger-Service-Zentrum",
         "services": [
-          "B\u00fcrger-Service-Dienstleistungen"
+          "Abholung Personalausweis / Reisepass",
+          "Abholung Personalausweis/ Reisepass",
+          "Abmeldung Hauptwohnsitz, Abmeldung Nebenwohnsitz",
+          "Anmeldung",
+          "Auszug aus dem Gewerbezentralregister f\u00fcr Firmen (eingetragen beim Amtsgericht)",
+          "Beantragung einer Auskunftssperre",
+          "Befreiung der Ausweispflicht",
+          "Beglaubigung",
+          "B\u00fcrger-Service-Dienstleistungen",
+          "Fundsachen",
+          "F\u00fchrungszeugnis, Auszug aus dem Gewerbezentralregister",
+          "Kfz-Schein (\u00c4nderung der Anschrift, nur Wetteraukreis) keine Firmen",
+          "Kinderreisepass (auch Verl\u00e4ngerung)",
+          "Kirchenaustritt",
+          "Meldebescheinigung F\u00fchrerscheinantrag",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "PIN Setzung Personalausweis",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Restm\u00fclls\u00e4cke",
+          "Steuer-Identifikationsnummer",
+          "Ummeldung",
+          "Unterschriftsbeglaubigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustanzeige Ausweisdokument",
+          "Wiederspruch gegen \u00dcbermittlungssperren",
+          "Wohnberechtigungsschein",
+          "vorl. Personalausweis ",
+          "vorl. Reisepass"
         ]
       },
       "83595": {
         "name": "B\u00fcrger-Service-Zentrum",
         "services": [
-          "B\u00fcrger-Service-Dienstleistungen"
+          "Abholung Personalausweis / Reisepass",
+          "Abholung Personalausweis/ Reisepass",
+          "Abmeldung Hauptwohnsitz, Abmeldung Nebenwohnsitz",
+          "Anmeldung",
+          "Auszug aus dem Gewerbezentralregister f\u00fcr Firmen (eingetragen beim Amtsgericht)",
+          "Beantragung einer Auskunftssperre",
+          "Befreiung der Ausweispflicht",
+          "Beglaubigung",
+          "B\u00fcrger-Service-Dienstleistungen",
+          "Fundsachen",
+          "F\u00fchrungszeugnis, Auszug aus dem Gewerbezentralregister",
+          "Kfz-Schein (\u00c4nderung der Anschrift, nur Wetteraukreis) keine Firmen",
+          "Kinderreisepass (auch Verl\u00e4ngerung)",
+          "Kirchenaustritt",
+          "Meldebescheinigung F\u00fchrerscheinantrag",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "PIN Setzung Personalausweis",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Restm\u00fclls\u00e4cke",
+          "Steuer-Identifikationsnummer",
+          "Ummeldung",
+          "Unterschriftsbeglaubigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustanzeige Ausweisdokument",
+          "Wiederspruch gegen \u00dcbermittlungssperren",
+          "Wohnberechtigungsschein",
+          "vorl. Personalausweis ",
+          "vorl. Reisepass"
         ]
       },
       "96081": {
@@ -11584,6 +11640,14 @@
         "name": "Impfzentrum Stadt Jena (barrierefrei) | Impfstoff: mRNA",
         "services": []
       },
+      "318": {
+        "name": "IST Weimar 2 (barrierefrei) | Vormittag | Impfstoff: mRNA",
+        "services": []
+      },
+      "319": {
+        "name": "IST Weimar 2 (barrierefrei) | Nachmittag | Impfstoff: mRNA",
+        "services": []
+      },
       "32": {
         "name": "IST Bad Frankenhausen (barrierefrei) | Vormittag | Impfstoff: BioNTech",
         "services": []
@@ -14088,7 +14152,8 @@
           "Hund anmelden (Dauer ca. 10 Min) 01\u00a0\u00a0 Hund2\u00a0\u00a0 Hunde3\u00a0\u00a0 Hunde4\u00a0\u00a0 Hunde5\u00a0\u00a0 Hunde6\u00a0\u00a0 Hunde7\u00a0\u00a0 Hunde8\u00a0\u00a0 Hunde",
           "Jugendfischereischein (Dauer ca. 20 Min) 01\u00a0\u00a0 Jugendfischereischein2\u00a0\u00a0 Jugendfischereischeine3\u00a0\u00a0 Jugendfischereischeine4\u00a0\u00a0 Jugendfischereischeine5\u00a0\u00a0 Jugendfischereischeine6\u00a0\u00a0 Jugendfischereischeine7\u00a0\u00a0 Jugendfischereischeine8\u00a0\u00a0 Jugendfischereischeine",
           "Lebensbescheinigung (Dauer ca. 5 Min) 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
-          "Sonstiges (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen"
+          "Sonstiges (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen",
+          "Sonstiges KEINE KIRCHENAUSTRITTE IM B\u00dcRGERB\u00dcRO M\u00d6GLICH (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen"
         ]
       },
       "315/4692": {
@@ -14122,7 +14187,8 @@
           "Hund anmelden (Dauer ca. 10 Min) 01\u00a0\u00a0 Hund2\u00a0\u00a0 Hunde3\u00a0\u00a0 Hunde4\u00a0\u00a0 Hunde5\u00a0\u00a0 Hunde6\u00a0\u00a0 Hunde7\u00a0\u00a0 Hunde8\u00a0\u00a0 Hunde",
           "Jugendfischereischein (Dauer ca. 20 Min) 01\u00a0\u00a0 Jugendfischereischein2\u00a0\u00a0 Jugendfischereischeine3\u00a0\u00a0 Jugendfischereischeine4\u00a0\u00a0 Jugendfischereischeine5\u00a0\u00a0 Jugendfischereischeine6\u00a0\u00a0 Jugendfischereischeine7\u00a0\u00a0 Jugendfischereischeine8\u00a0\u00a0 Jugendfischereischeine",
           "Lebensbescheinigung (Dauer ca. 5 Min) 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen",
-          "Sonstiges (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen"
+          "Sonstiges (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen",
+          "Sonstiges KEINE KIRCHENAUSTRITTE IM B\u00dcRGERB\u00dcRO M\u00d6GLICH (Dauer ca. 20 Min) 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen"
         ]
       },
       "316/4692": {
@@ -15665,6 +15731,24 @@
         "services": [
           "NEUANTRAG"
         ]
+      },
+      "3212": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Lahr"
+        ]
+      },
+      "3213": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Offenburg"
+        ]
+      },
+      "3214": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Wolfach"
+        ]
       }
     }
   },
@@ -16942,6 +17026,13 @@
         "name": "Standesamt - Urkundenausstellung (NICHT Beurkundung von Geburten)",
         "services": [
           "Urkundenausstellung"
+        ]
+      },
+      "175": {
+        "name": "Aufenthaltsrecht",
+        "services": [
+          "Pass\u00fcbertrag bei bestehender Niederlassungserlaubnis",
+          "Verpflichtungserkl\u00e4rung f\u00fcr Besuchervisum"
         ]
       }
     }
@@ -18959,6 +19050,12 @@
           "Steueridentifikationsnummer bentragen",
           "Untersuchungsberechtigungsschein"
         ]
+      },
+      "156": {
+        "name": "Zentraler Steuerungsdienst (ZSD)",
+        "services": [
+          "Shooting Presse-und \u00d6ffentlichkeitsarbeit"
+        ]
       }
     }
   },
@@ -20331,7 +20428,10 @@
         "services": [
           "Eheschlie\u00dfung anmelden (beide Verlobte Deutsch)",
           "Eheschlie\u00dfung anmelden (mindestens ein/e Verlobte/r hat eine ausl\u00e4ndische Staatsangeh\u00f6rigkeit) oder vorherige Beratung",
+          "Familiennamen w\u00e4hrend der Ehe \u00e4ndern",
+          "Fr\u00fcheren Familiennamen nach Eheaufl\u00f6sung wieder annehmen",
           "Kirchenaustritt erkl\u00e4ren",
+          "Namen von Vertriebenen/Sp\u00e4taussiedlern und eingeb\u00fcrgerten Personen angleichen",
           "Vorsprache, um Eheschlie\u00dfungswunschtermin zu reservieren"
         ]
       },
@@ -20361,7 +20461,11 @@
       "343": {
         "name": "Standesamt",
         "services": [
-          "Berichtigung eines Personenstandsregisters"
+          "Berichtigung eines Personenstandsregisters",
+          "Familiennamen w\u00e4hrend der Ehe \u00e4ndern",
+          "Nachbeurkundung von Geburten, Eheschlie\u00dfungen und Sterbef\u00e4llen im Ausland",
+          "Namen von Vertriebenen/Sp\u00e4taussiedlern und eingeb\u00fcrgerten Personen angleichen",
+          "Reihenfolge der Vornamen \u00e4ndern"
         ]
       },
       "344": {
@@ -22537,6 +22641,7 @@
         "name": "Weitere Dienstleistungen",
         "services": [
           "Abholung Familiengutscheine",
+          "Abholung F\u00fchrerschein",
           "Beglaubigungen",
           "Briefwahlunterlagen beantragen",
           "F\u00fchrerscheinantrag",
@@ -23182,7 +23287,8 @@
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
-          "Untersuchungsberechtigungsschein (Einzelvorgang)"
+          "Untersuchungsberechtigungsschein (Einzelvorgang)",
+          "Windelbonus (Einzelvorgang)"
         ]
       },
       "11": {
@@ -23196,7 +23302,8 @@
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
-          "Untersuchungsberechtigungsschein (Einzelvorgang)"
+          "Untersuchungsberechtigungsschein (Einzelvorgang)",
+          "Windelbonus (Einzelvorgang)"
         ]
       },
       "12": {
@@ -23221,7 +23328,8 @@
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
-          "Untersuchungsberechtigungsschein (Einzelvorgang)"
+          "Untersuchungsberechtigungsschein (Einzelvorgang)",
+          "Windelbonus (Einzelvorgang)"
         ]
       },
       "14": {
@@ -23274,6 +23382,7 @@
           "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
+          "Windelbonus Antrag",
           "Wohnsitz abmelden",
           "Wohnsitz-Anmeldung Zuzug aus dem Ausland",
           "Wohnsitz-Anmeldung Zuzug aus dem Bundesgebiet",
@@ -23325,6 +23434,7 @@
           "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
+          "Windelbonus Antrag",
           "Wohnsitz abmelden",
           "Wohnsitz-Anmeldung Zuzug aus dem Ausland",
           "Wohnsitz-Anmeldung Zuzug aus dem Bundesgebiet",
@@ -23375,6 +23485,7 @@
           "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
+          "Windelbonus Antrag",
           "Wohnsitz abmelden",
           "Wohnsitz-Anmeldung Zuzug aus dem Ausland",
           "Wohnsitz-Anmeldung Zuzug aus dem Bundesgebiet",
@@ -23424,6 +23535,7 @@
           "Verl\u00e4ngerung C-Klassen",
           "Verl\u00e4ngerung C-Klassen / Eintrag Schl\u00fcssel Nummer 95",
           "Wiederzulassung auf den gleichen Halter",
+          "Windelbonus Antrag",
           "Wohnsitz abmelden",
           "Wohnsitz-Anmeldung Zuzug aus dem Ausland",
           "Wohnsitz-Anmeldung Zuzug aus dem Bundesgebiet",
@@ -23456,7 +23568,8 @@
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
-          "Untersuchungsberechtigungsschein (Einzelvorgang)"
+          "Untersuchungsberechtigungsschein (Einzelvorgang)",
+          "Windelbonus (Einzelvorgang)"
         ]
       }
     }
