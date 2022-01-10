@@ -2838,6 +2838,380 @@
           "Zweitimpftermin Impfstelle Cochem-Zell in Bullay",
           "Zweitimpftermin Impfstelle Cochem-Zell in Zell"
         ]
+      },
+      "737": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "738": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "739": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "740": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "741": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "742": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "743": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Cochem",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Cochem",
+          "Erstimpftermin Impfstelle Cochem-Zell in Cochem",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem"
+        ]
+      },
+      "744": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "745": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Bullay",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
+      },
+      "757": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "758": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "759": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "760": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "761": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "762": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "763": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Cochem",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Cochem",
+          "Erstimpftermin Impfstelle Cochem-Zell in Cochem",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem"
+        ]
+      },
+      "764": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "765": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Bullay",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
+      },
+      "767": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "768": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "769": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "770": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "771": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "772": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "773": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Cochem",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Cochem",
+          "Erstimpftermin Impfstelle Cochem-Zell in Cochem",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Cochem"
+        ]
+      },
+      "774": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "775": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Bullay",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
+      },
+      "777": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "778": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "779": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "780": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "781": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "782": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "783": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "784": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Bullay",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
+      },
+      "786": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "787": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "788": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "789": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "790": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "791": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "792": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Binningen",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Binningen",
+          "Erstimpftermin Impfstelle Cochem-Zell in Binningen",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Binningen"
+        ]
+      },
+      "793": {
+        "name": "Impftermine Impfstelle Cochem-Zell in Bullay",
+        "services": [
+          "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
+          "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
+          "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
       }
     }
   },
@@ -4795,7 +5169,14 @@
         "name": "Interne Veranstaltungen",
         "services": [
           "Anmeldung zur Arbeitsmedizinischen Untersuchung",
-          "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille"
+          "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeiter der Feuerwehr. G 24 - Hauptschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeiter im Rettungsdienst. G 24 - Hauptschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung. G 24 - Hauptschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
         ]
       },
       "82094": {
@@ -5140,6 +5521,20 @@
           "1.Impfung",
           "2. Impfung",
           "Booster Impfung"
+        ]
+      },
+      "67": {
+        "name": "Impfstelle Eislingen",
+        "services": [
+          "1.Impfung",
+          "2. Impfung",
+          "Booster Impfung"
+        ]
+      },
+      "68": {
+        "name": "Impfstelle Eislingen_Impfen f\u00fcr Kinder",
+        "services": [
+          "Impfen f\u00fcr Kinder von 5 bis 12 Jahren"
         ]
       }
     }
@@ -12407,6 +12802,7 @@
           "Fahrerqualifizierungsnachweis (\"Schl\u00fcsselziffer 95\")",
           "Fahrschulen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerschein nach Umtausch / Verl\u00e4ngerung abholen",
           "F\u00fchrerschein nach Umtausch abholen",
           "Internationaler F\u00fchrerschein",
           "Neu-/Wiedererteilung nach Entzug",
@@ -17334,6 +17730,8 @@
         "services": [
           "Abmeldung  (mit weiteren Anliegen)",
           "Abmeldung  (mit weiteren Anliegen) bitte Anliegen w\u00e4hlen",
+          "Abmeldung  (nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
           "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
           "Beglaubigung",
@@ -17398,7 +17796,8 @@
           "Adress- oder Namens\u00e4nderung",
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
           "Ersatz-Fahrzeugschein   (nach Diebstahl oder Verlust)",
-          "Feinstaubplakette"
+          "Feinstaubplakette",
+          "Kurzzeitkennzeichen"
         ]
       },
       "307": {
@@ -19919,6 +20318,7 @@
           "Abmeldung Familie",
           "Anmeldung Einzelperson",
           "Anmeldung Familie",
+          "Meldebescheinigung/erweiterte Meldebescheinigung/Lebensbescheinigung",
           "Ummeldung Einzelperson",
           "Ummeldung Familie",
           "Wechsel vom Nebenwohnsitz zum Hauptwohnsitz"
@@ -19931,6 +20331,14 @@
           "Familiengutscheine",
           "Tafelladenausweis",
           "Taxischeine f\u00fcr Menschen mit Behinderung"
+        ]
+      },
+      "152/1384": {
+        "name": "Kraftfahrzeug (Bewohner- u. Schwerbehindertenparkausweis, Kfz-Schein\u00e4nderung)",
+        "services": [
+          "Bewohnerparkausweis",
+          "Fahrzeugschein\u00e4nderung bei Umzug innerhalb des Landkreises Neu-Ulm",
+          "Schwerbehindertenparkausweis"
         ]
       },
       "152/1386": {
@@ -22859,7 +23267,8 @@
         "name": "F\u00fchrerscheinangelegenheiten",
         "services": [
           "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag",
-          "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge"
+          "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge",
+          "Umtausch F\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerscheinumtausch2\u00a0\u00a0 F\u00fchrerscheinumtausch"
         ]
       },
       "308/4497": {
@@ -25321,6 +25730,7 @@
           "Abgabe Unterlagen GEZ",
           "Abgabe/ Abholung Fundsache",
           "Abholung Ausweise",
+          "Abmeldung des Wohnsitzes",
           "Ausstellung/ Verl\u00e4ngerung Kinderreisepass",
           "Beantragung Personalausweis",
           "Beantragung eines Reisepasses",
@@ -25337,6 +25747,7 @@
           "Neuanmeldung in Soest (pro Person)",
           "Neuausstellung oder Verl\u00e4ngerung Fischereischein",
           "Setzen der PIN f\u00fcr den Personalausweis",
+          "Ummeldung innerhalb von Soest",
           "Ummeldung innerhalb von Soest/Abmeldung des Wohnsitzes (pro Person)",
           "Untersuchungsberechtigungsschein"
         ]
@@ -25498,6 +25909,10 @@
           "Abgabe F\u00fchrerschein bei Entziehung",
           "Abholen des F\u00fchrerscheins",
           "Akteneinsicht",
+          "Aufstiegs-BAf\u00f6G f\u00fcr Teilzeit",
+          "Aufstiegs-BAf\u00f6G f\u00fcr Vollzeit",
+          "Aufstiegs-Baf\u00f6g f\u00fcr Teilzeit",
+          "Aufstiegs-Baf\u00f6g f\u00fcr Vollzeit",
           "Eintrag der Schl\u00fcsselzahl 95 (Module).",
           "Ersatz der Fahrerlaubnis (Verlust, Diebstahl, Brille, Namens\u00e4nderung \u2026)",
           "Ersterteilung ab 17 (Begleitendes Fahren) inkl. 1 Begleitperson",
@@ -25638,6 +26053,97 @@
         ]
       },
       "55": {
+        "name": "Impfbus am Klinikum Mutterhaus",
+        "services": [
+          "Impfung im Impfbus Mutterhaus Mitte"
+        ]
+      },
+      "56": {
+        "name": "KFZ Zulassungsstelle",
+        "services": [
+          "Ausgabe Sonderplaketten",
+          "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
+          "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
+          "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
+          "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
+          "Erstzulassung eines Gebrauchtfahrzeuges (z. B. Fahrzeug aus dem Ausland)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (fabrikneues Fahrzeug)",
+          "Oldtimer Kennzeichen (H-Kennzeichen)",
+          "Saisonkennzeichen",
+          "Umf\u00e4rbung der Kennzeichen",
+          "Umkennzeichnung (z. B. bei Verlust/Diebstahl)",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel mit Kennzeichenmitnahme",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei gleichem Halter",
+          "Umschreibung innerhalb des Zulassungsbezirks",
+          "Wiederzulassung (auf denselben Halter)",
+          "Zuteilung neues rotes Scheinheft",
+          "\u00c4nderung der Halterdaten (Adresse oder Name)",
+          "\u00c4nderung der Technikdaten"
+        ]
+      },
+      "57": {
+        "name": "KFZ Zulassungsstelle",
+        "services": [
+          "Ausgabe Sonderplaketten",
+          "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
+          "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
+          "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
+          "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
+          "Erstzulassung eines Gebrauchtfahrzeuges (z. B. Fahrzeug aus dem Ausland)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (fabrikneues Fahrzeug)",
+          "Oldtimer Kennzeichen (H-Kennzeichen)",
+          "Saisonkennzeichen",
+          "Umf\u00e4rbung der Kennzeichen",
+          "Umkennzeichnung (z. B. bei Verlust/Diebstahl)",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel mit Kennzeichenmitnahme",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei gleichem Halter",
+          "Umschreibung innerhalb des Zulassungsbezirks",
+          "Wiederzulassung (auf denselben Halter)",
+          "Zuteilung neues rotes Scheinheft",
+          "\u00c4nderung der Halterdaten (Adresse oder Name)",
+          "\u00c4nderung der Technikdaten"
+        ]
+      },
+      "58": {
+        "name": "KFZ Zulassungsstelle",
+        "services": [
+          "Ausgabe Sonderplaketten",
+          "Au\u00dferbetriebsetzung",
+          "Betriebserlaubnis (Erteilung/Ersatz bei Verlust)",
+          "Ersatzausstellung ZB Teil 1 (Verlust/Diebstahl)",
+          "Ersatzausstellung ZB Teil 2 (Verlust/Diebstahl)",
+          "Ersatzschild (wegen Besch\u00e4digung/schlechter Lesbarkeit)",
+          "Erstzulassung eines Gebrauchtfahrzeuges (z. B. Fahrzeug aus dem Ausland)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (fabrikneues Fahrzeug)",
+          "Oldtimer Kennzeichen (H-Kennzeichen)",
+          "Saisonkennzeichen",
+          "Umf\u00e4rbung der Kennzeichen",
+          "Umkennzeichnung (z. B. bei Verlust/Diebstahl)",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei Halterwechsel mit Kennzeichenmitnahme",
+          "Umschreibung au\u00dferhalb des Zulassungsbezirks bei gleichem Halter",
+          "Umschreibung innerhalb des Zulassungsbezirks",
+          "Wiederzulassung (auf denselben Halter)",
+          "Zuteilung Ausfuhrkennzeichen",
+          "Zuteilung neues rotes Scheinheft",
+          "\u00c4nderung der Halterdaten (Adresse oder Name)",
+          "\u00c4nderung der Technikdaten"
+        ]
+      },
+      "64": {
+        "name": "Standesamt",
+        "services": [
+          "Kirchenaustritt"
+        ]
+      },
+      "69": {
         "name": "Impfbus am Klinikum Mutterhaus",
         "services": [
           "Impfung im Impfbus Mutterhaus Mitte"
@@ -26133,6 +26639,7 @@
         "services": [
           "Auffrischungsimpfung / Boosterimpfung",
           "Erstimpfung",
+          "Erstimpfung (Kind 5 - 11 Jahre)",
           "Zweitimpfung"
         ]
       },
@@ -26141,6 +26648,7 @@
         "services": [
           "Auffrischungsimpfung / Boosterimpfung",
           "Erstimpfung",
+          "Erstimpfung (Kind 5 - 11 Jahre)",
           "Erstimpfung Kind",
           "Zweitimpfung"
         ]
@@ -26148,6 +26656,7 @@
       "16": {
         "name": "Impftermine f\u00fcr Kinder von 5 bis 11 Jahren",
         "services": [
+          "Zweitimpfung (Kind 5 - 11 Jahre)",
           "Zweitimpfung Kind"
         ]
       },
@@ -27326,6 +27835,12 @@
     "scraper": "tevis",
     "url": "https://termine-reservieren.de/termine/worms",
     "locations": {
+      "100": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
       "62": {
         "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
         "services": [
@@ -27518,6 +28033,226 @@
         ]
       },
       "82": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Jahrgangsstufe 11 (Eintritt in die Oberstufe, Bildungsziel: Allgemeine Fachhochschulreife)",
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
+      "83": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Teilnahme an der Elterninfoabend",
+          "Informationsabend",
+          "Informationsabend Klassenstufe 5"
+        ]
+      },
+      "84": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Teilnahme an der Elterninformationsabend zur Aufnahme in die MSS",
+          "Informationsabend",
+          "Informationsabend MSS Klassenstufe 11"
+        ]
+      },
+      "85": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "86": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "87": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "Adress\u00e4nderung innerhalb von Worms / Namens\u00e4nderung",
+          "Ausfuhrkennzeichen",
+          "Au\u00dferbetriebsetzung",
+          "Eintragung einer technischen \u00c4nderung",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung eines fabrikneuen Fahrzeugs",
+          "Saisonkennzeichen",
+          "Umschreibung au\u00dferhalb",
+          "Umschreibung innerhalb Worms",
+          "Verlust Zulassungsbescheinigung Teil I (Fahrzeugschein)",
+          "Verlust Zulassungsbescheinigung Teil II, (Fahrzeugbrief)",
+          "Wiederzulassung nach Au\u00dferbetriebsetzung (gleicher Halter)"
+        ]
+      },
+      "88": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "89": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "90": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "91": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Jahrgangsstufe 11 (Eintritt in die Oberstufe, Bildungsziel: Allgemeine Fachhochschulreife)",
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
+      "92": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
+      "93": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "94": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "95": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "Adress\u00e4nderung innerhalb von Worms / Namens\u00e4nderung",
+          "Ausfuhrkennzeichen",
+          "Au\u00dferbetriebsetzung",
+          "Eintragung einer technischen \u00c4nderung",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung eines fabrikneuen Fahrzeugs",
+          "Saisonkennzeichen",
+          "Umschreibung au\u00dferhalb",
+          "Umschreibung innerhalb Worms",
+          "Verlust Zulassungsbescheinigung Teil I (Fahrzeugschein)",
+          "Verlust Zulassungsbescheinigung Teil II, (Fahrzeugbrief)",
+          "Wiederzulassung nach Au\u00dferbetriebsetzung (gleicher Halter)"
+        ]
+      },
+      "96": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "97": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "98": {
+        "name": "B\u00fcrgerserviceb\u00fcro/Zulassungsstelle",
+        "services": [
+          "An-,Ab- und Ummeldung des Wohnsitzes",
+          "Auszug Gewerbezentralregister",
+          "Beglaubigungen",
+          "Bewohnerparkausweis",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
+          "Melde- / Aufenthaltsbescheinigung",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "99": {
         "name": "Nelly-Sachs-IGS",
         "services": [
           "Anmeldung zur Jahrgangsstufe 11 (Eintritt in die Oberstufe, Bildungsziel: Allgemeine Fachhochschulreife)"
