@@ -12977,6 +12977,80 @@
         "services": [
           "Termin Briefwahllokal"
         ]
+      },
+      "209": {
+        "name": "B\u00fcrgerservice",
+        "services": [
+          "Abmeldung einer Nebenwohnung",
+          "Abmeldung ins Ausland",
+          "Anmeldung einer Hauptwohnung",
+          "Anmeldung einer Nebenwohnung",
+          "Au\u00dferbetriebsetzung (Abmeldung) eines in Jena zugelassenen Kraftfahrzeuges/Anh\u00e4ngers",
+          "Bewohnerparkausweis \u00e4ndern oder Verlust anzeigen",
+          "Eintragung technischer \u00c4nderungen",
+          "Ersatzdokumente beantragen",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass / Reisepass f\u00fcr Person unter 18 Jahren",
+          "Meldebescheinigung beantragen",
+          "Personalausweis f\u00fcr Person ab 16 Jahren",
+          "Personalausweis f\u00fcr Person unter 16 Jahren",
+          "Reisepass f\u00fcr Person ab 18 Jahren",
+          "Statuswechsel einer Wohnung",
+          "Umzug innerhalb der Stadt Jena",
+          "Untersuchungsberechtigungsschein (Jugendarbeitsschutzuntersuchung) beantragen",
+          "Verlust/Wiederauffinden der eID-Karte f\u00fcr Staatsangeh\u00f6rige der EU und des EWR",
+          "Verlust/Wiederauffinden von Ausweisdokumenten",
+          "Verlust/Wiederauffinden von Fahrzeugdokumenten",
+          "Zulassung eines Kraftfahrzeuges/Anh\u00e4ngers",
+          "eID-Karte f\u00fcr Staatsangeh\u00f6rige der EU und des EWR beantragen (ab 01.01.2021)",
+          "\u00c4nderung der Anschrift des Fahrzeughalters"
+        ]
+      },
+      "210": {
+        "name": "B\u00fcrgerservice",
+        "services": [
+          "Abholung F\u00fchrerschein und/oder Fahrerkarte",
+          "Abholung Personalausweis und/oder Reisepass",
+          "Abholung eID-Karte f\u00fcr Staatsangeh\u00f6rige der EU und des EWR",
+          "Online-Ausweisfunktion einschalten und/oder PIN \u00e4ndern"
+        ]
+      },
+      "211": {
+        "name": "B\u00fcrgerservice",
+        "services": [
+          "Ausfuhrkennzeichen beantragen",
+          "Bewohnerparkausweis beantragen/verl\u00e4ngern",
+          "JENABONUS beantragen/verl\u00e4ngern",
+          "Kurzzeitkennzeichen beantragen",
+          "Parkausweis f\u00fcr Schwerbehinderte beantragen"
+        ]
+      },
+      "212": {
+        "name": "Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Ausgabe F\u00fchrerschein, Fahrerkarte und/oder FQN"
+        ]
+      },
+      "213": {
+        "name": "Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Antrag AM15",
+          "Antrag Begleitetes Fahren ab 17 Jahren",
+          "Antrag Eintragung Schl\u00fcsselzahl",
+          "Antrag Ersatzf\u00fchrerschein (Namens\u00e4nderung)",
+          "Antrag Ersatzf\u00fchrerschein (Verlust, Diebstahl, Defekt)",
+          "Antrag Ersterteilung einer Fahrerlaubnis",
+          "Antrag Erteilung/Verl\u00e4ngerung Fahrgastbef\u00f6rderungsschein",
+          "Antrag Erweiterung einer Fahrerlaubnis",
+          "Antrag Fahrerkarte",
+          "Antrag Fahrerqualifizierungsnachweis (FQN)",
+          "Antrag Internationaler F\u00fchrerschein",
+          "Antrag Neuerteilung einer Fahrerlaubnis (nach Entzug)",
+          "Antrag Umtausch F\u00fchrerschein altes Recht (bis 18.01.2013)",
+          "Antrag Umtausch ausl\u00e4ndischer F\u00fchrerschein",
+          "Antrag Verl\u00e4ngerung C-/D-Klassen",
+          "Sonstiges"
+        ]
       }
     }
   },
@@ -16593,6 +16667,7 @@
           "MIG_Kostenzusage Krankenhilfe",
           "MIG_Umstellung auf \u00a72 AsylblG",
           "Umstellung auf \u00a72 AsylblG",
+          "Verpflichtungserkl\u00e4rung",
           "alle ausl\u00e4nderrechtliche Anliegen"
         ]
       },
@@ -20577,6 +20652,7 @@
           "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
           "Neuzulassung (Kein Importfahrzeug)",
           "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Umschreibung eines Fahrzeugs",
           "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
           "Wohnsitz in MH um- oder abmelden"
         ]
@@ -21559,6 +21635,7 @@
           "Fahrgastbef\u00f6rderungsschein (FGB-Schein) verl\u00e4ngern",
           "Fahrgastbef\u00f6rderungsschein erstmals beantragen",
           "F\u00fchrerschein abholen",
+          "F\u00fchrerschein abholen sowie einen Fahrerqualifizierungs- nachweis (FQN) beantragen (95`er - Karte)",
           "Namen auf einem deutschen F\u00fchrerschein \u00e4ndern",
           "Sehhilfe aus einem deutschen F\u00fchrerschein austragen",
           "Sonstige Anliegen (z.B. Aush\u00e4ndigung verwahrter F\u00fchrerschein, Stundungsantrag)",
@@ -24213,6 +24290,7 @@
         "services": [
           "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag",
           "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge",
+          "Umtausch F\u00fchrerschein (nur bei F\u00fchrerschein in Papierform grau oder rosa) 01\u00a0\u00a0 F\u00fchrerscheinumtausch2\u00a0\u00a0 F\u00fchrerscheinumtausch",
           "Umtausch F\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerscheinumtausch2\u00a0\u00a0 F\u00fchrerscheinumtausch"
         ]
       },
@@ -24638,6 +24716,7 @@
           "F\u00fchrungszeugnis (Einzelvorgang)",
           "Gewerbezentralregister Auskunft (Einzelvorgang)",
           "Lebensbescheinigung (Einzelvorgang)",
+          "Meldebescheinigung (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
@@ -24653,6 +24732,7 @@
           "F\u00fchrungszeugnis (Einzelvorgang)",
           "Gewerbezentralregister Auskunft (Einzelvorgang)",
           "Lebensbescheinigung (Einzelvorgang)",
+          "Meldebescheinigung (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
@@ -24679,6 +24759,7 @@
           "F\u00fchrungszeugnis beantragen",
           "Gewerbezentralregister Auskunft (Einzelvorgang)",
           "Lebensbescheinigung (Einzelvorgang)",
+          "Meldebescheinigung (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
@@ -24919,6 +25000,7 @@
           "F\u00fchrungszeugnis (Einzelvorgang)",
           "Gewerbezentralregister Auskunft (Einzelvorgang)",
           "Lebensbescheinigung (Einzelvorgang)",
+          "Meldebescheinigung (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Meldebescheinigung Einzelvorgang (Best\u00e4tigung \u00fcber eine bereits angemeldete Wohnung))",
           "Melderegisterauskunft (Einzelvorgang)",
           "Steueridentifikationsnummer erfragen (Einzelvorgang)",
