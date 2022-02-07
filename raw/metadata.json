@@ -325,6 +325,55 @@
           "Verlust/Diebstahl Zulassungsbescheinigung Teil II (Fahrzeugbrief)",
           "\u00c4nderung von Technikdaten"
         ]
+      },
+      "523/7825": {
+        "name": "Kfz-Anliegen (H\u00e4ndler)",
+        "services": [
+          "100Km/H - Plakette (H\u00e4ndler) 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
+          "Adress\u00e4nderung - Namens\u00e4nderungen (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ausfuhrkennzeichen (H\u00e4ndler)",
+          "Ausfuhrkennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Ausstellung Ersatzpapiere (nach Aufbietung/Eidesstattliche Versicherung) (H\u00e4ndle 01\u00a0\u00a0 Ersatzpapiere2\u00a0\u00a0 Ersatzpapiere3\u00a0\u00a0 Ersatzpapiere4\u00a0\u00a0 Ersatzpapiere5\u00a0\u00a0 Ersatzpapiere6\u00a0\u00a0 Ersatzpapiere7\u00a0\u00a0 Ersatzpapiere8\u00a0\u00a0 Ersatzpapiere",
+          "Ersatzpapiere bei Verlust (H\u00e4ndler) 01\u00a0\u00a0 Ersatzpapiere2\u00a0\u00a0 Ersatzpapiere3\u00a0\u00a0 Ersatzpapiere4\u00a0\u00a0 Ersatzpapiere5\u00a0\u00a0 Ersatzpapiere6\u00a0\u00a0 Ersatzpapiere7\u00a0\u00a0 Ersatzpapiere8\u00a0\u00a0 Ersatzpapiere",
+          "Ersatzpapiere bei Verlust (H\u00e4ndler) 01\u00a0\u00a0 Papier2\u00a0\u00a0 Papiere3\u00a0\u00a0 Papiere4\u00a0\u00a0 Papiere5\u00a0\u00a0 Papiere6\u00a0\u00a0 Papiere7\u00a0\u00a0 Papiere8\u00a0\u00a0 Papiere",
+          "Fahrzeug mit Gutachten o. Technischer \u00c4nderung (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Fahrzeugabmeldung (H\u00e4ndler)",
+          "Fahrzeugabmeldung (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Fahrzeugpapiere \u00e4ndern (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Feinstaubplakette (H\u00e4ndler) 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten9\u00a0\u00a0 Plaketten10\u00a0\u00a0 Plaketten",
+          "Gebrauchtfahrzeug (wieder-)zulassen o. umschreiben (H\u00e4ndler)",
+          "Gebrauchtfahrzeug (wieder-)zulassen o. umschreiben (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Gebrauchtfahrzeug zulassen o. umschreiben (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Kurzzeitkennzeichen (H\u00e4ndler)",
+          "Kurzzeitkennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Oldtimer/Elektro o. Saison -Kennzeichen \u00c4nderung (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Sonstige Kfz-Vorg\u00e4nge [max. 15 Minuten!] (H\u00e4ndler) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Umkennzeichnung nach Verlust o. Diebstahl (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Umkennzeichnung nach Verlust o. Diebstahl Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Unfallkennzeichen mit vorhandenen Plaketten (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Unfallkennzeichen ohne vorhandene/abgefallene Plaketten (H\u00e4ndler) 01\u00a0\u00a0 Kennzeichen2\u00a0\u00a0 Kennzeichen3\u00a0\u00a0 Kennzeichen4\u00a0\u00a0 Kennzeichen5\u00a0\u00a0 Kennzeichen6\u00a0\u00a0 Kennzeichen7\u00a0\u00a0 Kennzeichen8\u00a0\u00a0 Kennzeichen",
+          "Zulassung Importfahrzeug / oder \u00fcber 7 Jahre abgemeldet (H\u00e4ndler)",
+          "Zulassung Importfahrzeug / oder \u00fcber 7 Jahre abgemeldet (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Zulassung Importfahrzeug EU (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "Zulassung fabrikneues Fahrzeug (H\u00e4ndler)",
+          "Zulassung fabrikneues Fahrzeug (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge"
+        ]
+      },
+      "523/7827": {
+        "name": "Rote Kennzeichen (H\u00e4ndler)",
+        "services": [
+          "Rotes H\u00e4ndlerkennzeichen beantragen - Neuerteilung (H\u00e4ndler) 01\u00a0\u00a0 2",
+          "Verl\u00e4ngerung rotes Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Heft2\u00a0\u00a0 Hefte3\u00a0\u00a0 Hefte4\u00a0\u00a0 Hefte",
+          "\u00c4nderung Adressdaten rotes Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
+      },
+      "523/7831": {
+        "name": "Rote Kennzeichen (H\u00e4ndler)",
+        "services": [
+          "Rotes H\u00e4ndlerkennzeichen beantragen - Neuerteilung (H\u00e4ndler) 01\u00a0\u00a0 2",
+          "Verl\u00e4ngerung rotes Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Heft2\u00a0\u00a0 Hefte3\u00a0\u00a0 Hefte4\u00a0\u00a0 Hefte",
+          "\u00c4nderung Adressdaten rotes Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
       }
     }
   },
@@ -682,6 +731,7 @@
           "Personalausweis beantragen",
           "Personalausweis/Reisepass abholen",
           "Reisepass/Expressreisepass beantragen",
+          "Verlustmeldung Personalausweis bzw. deutscher Reisepass 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Vorl\u00e4ufiger Reisepass",
           "vorl\u00e4ufiger Personalausweis"
         ]
@@ -703,6 +753,8 @@
       "280/4453": {
         "name": "F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Faherlaubnis zur Fahrgastbef\u00f6rderung",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
           "F\u00fchrerschein Ersterteilung",
           "F\u00fchrerschein Ersterteilung mit begleitendem Fahren",
           "Umtausch alter F\u00fchrerschein in EU-Kartenf\u00fchrerschein",
@@ -3676,6 +3728,300 @@
           "Auffrischimpfung Impfstelle Cochem-Zell in Bullay",
           "Erstimpftermin Impfstelle Cochem-Zell in Bullay",
           "Zweitimpftermin Impfstelle Cochem-Zell in Bullay"
+        ]
+      },
+      "795": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "796": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "797": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "798": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "799": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "800": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "802": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "803": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "804": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "805": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "806": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "807": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "808": {
+        "name": "Hausbegehungen M\u00fcllenbach TESTWEISE",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "810": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "811": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "812": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "813": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "814": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "815": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "816": {
+        "name": "Hausbegehungen M\u00fcllenbach TESTWEISE",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "826": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "827": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "828": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "829": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "830": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "831": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "832": {
+        "name": "Hausbegehungen M\u00fcllenbach TESTWEISE",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "834": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "835": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen, Jagdscheine",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "836": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "837": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "838": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "839": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "840": {
+        "name": "Hausbegehungen M\u00fcllenbach TESTWEISE",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
         ]
       }
     }
@@ -8790,8 +9136,11 @@
         "name": "TEST_06_Impfung_DrS_FE",
         "services": [
           "Covid Boosterimpfung",
+          "Covid Boosterimpfung f\u00fcr Personen ab 12 Jahren",
           "Covid Erstimpfung",
+          "Covid Erstimpfung f\u00fcr Personen ab 12 Jahren",
           "Covid Zweitimpfung",
+          "Covid Zweitimpfung f\u00fcr Personen ab 12 Jahren",
           "Covid-Impfung-DrS_Boosterimpfung",
           "Covid-Impfung-DrS_Erstimpfung",
           "Covid-Impfung-DrS_Zweitimpfung"
@@ -8802,8 +9151,12 @@
         "services": [
           "Covid Boosterimpfung f\u00fcr Unter-30-j\u00e4hrige",
           "Covid Erstimpfung",
+          "Covid Erstimpfung f\u00fcr Kinder von 5-11 Jahren",
+          "Covid Erstimpfung f\u00fcr Personen ab 12 Jahren",
           "Covid Erstimpfung f\u00fcr Unter-30-J\u00e4hrige",
           "Covid Zweitimpfung",
+          "Covid Zweitimpfung f\u00fcr Kinder von 5-11 Jahren",
+          "Covid Zweitimpfung f\u00fcr Personen ab 12 Jahren",
           "Covid Zweitimpfung f\u00fcr Unter-30-J\u00e4hrige",
           "Covid-Impfung-DrS_Erstimpfung",
           "Covid-Impfung-DrS_Zweitimpfung"
@@ -8821,7 +9174,17 @@
         "services": [
           "Covid Drittimpfung (\"Booster\")",
           "Covid Erstimpfung",
-          "Covid Zweitimpfung"
+          "Covid Erstimpfung f\u00fcr Personen ab 12 Jahren",
+          "Covid Zweitimpfung",
+          "Covid Zweitimpfung f\u00fcr Personen ab 12 Jahren"
+        ]
+      },
+      "38": {
+        "name": "Impftag 19.03. (nur 5-11j\u00e4hrige)",
+        "services": [
+          "Covid Erstimpfung f\u00fcr 5-11j\u00e4hrige",
+          "Covid Zweitimpfung f\u00fcr 5-11j\u00e4hrige",
+          "Covid Zweitimpfung f\u00fcr Kinder von 5-11 Jahren"
         ]
       }
     }
@@ -14969,6 +15332,7 @@
           "Kurzzeitkennzeichen (nationales 3-5 Tageskennzeichen)",
           "Neuerteilung der Fahrerlaubnis 01\u00a0\u00a0 Antrag",
           "Rotes 06er (Kennzeichen f\u00fcr H\u00e4ndler, Hersteller, Werkst\u00e4tten)",
+          "Rotes 07er (Oldtimer-Kennzeichen)",
           "Umschreibung auf einen anderen Halter (Gebrauchtfahrzeug zulassen) au\u00dferh. Kreis",
           "Umschreibung auf einen anderen Halter (Gebrauchtfahrzeug zulassen) innerh. Kreis",
           "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge",
@@ -16802,6 +17166,7 @@
           "Anschrifts\u00e4nderung",
           "Au\u00dferbetriebsetzung",
           "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
           "Import/ Einfuhr eines Fahrzeuges",
           "Kurzzeitkennzeichen",
           "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderung etc.))",
@@ -16814,6 +17179,7 @@
           "Anschrifts\u00e4nderung",
           "Au\u00dferbetriebsetzung",
           "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
           "Import/ Einfuhr eines Fahrzeuges",
           "Kurzzeitkennzeichen",
           "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
@@ -16920,6 +17286,7 @@
       "3102": {
         "name": "F\u00fchrerscheinbeh\u00f6rde",
         "services": [
+          "FS F\u00fchrerschein",
           "Fahrschulen/ Fahrlehre",
           "F\u00fchrerschein"
         ]
@@ -16952,6 +17319,213 @@
         "name": "F\u00fchrerscheinbeh\u00f6rde",
         "services": [
           "F\u00fchrerscheinumtausch"
+        ]
+      },
+      "3216": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Offenburg"
+        ]
+      },
+      "3217": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Wolfach"
+        ]
+      },
+      "3218": {
+        "name": "Zensus",
+        "services": [
+          "Schulung Offenburg Landratsamt",
+          "Zensus Schulung"
+        ]
+      },
+      "3219": {
+        "name": "Zensus Schulungen",
+        "services": [
+          "Schulung Oberkirch"
+        ]
+      },
+      "3221": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderung etc.))",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3222": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3223": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3224": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "F\u00fchrerscheinumtausch",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3225": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3226": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3227": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3242": {
+        "name": "Migrationsamt",
+        "services": [
+          "Namens\u00e4nderung"
+        ]
+      },
+      "3247": {
+        "name": "Migrationsamt",
+        "services": [
+          "Fachkr\u00e4fteeinwanderung"
+        ]
+      },
+      "3249": {
+        "name": "Migrationsamt",
+        "services": [
+          "Aufenthaltstitel abholen"
+        ]
+      },
+      "3255": {
+        "name": "Migrationsamt",
+        "services": [
+          "Anschlussunterbringung"
+        ]
+      },
+      "3257": {
+        "name": "Migrationsamt",
+        "services": [
+          "Gemeinschaftsunterkunft"
+        ]
+      },
+      "3258": {
+        "name": "Migrationsamt",
+        "services": [
+          "Wohnheimgeb\u00fchren"
+        ]
+      },
+      "3263": {
+        "name": "Migrationsamt",
+        "services": [
+          "R\u00fcckkehrberatung"
+        ]
+      },
+      "3269": {
+        "name": "Migrationsamt",
+        "services": [
+          "Krankenschein ausstellen"
+        ]
+      },
+      "3276": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Lahr"
+        ]
+      },
+      "3277": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Offenburg"
+        ]
+      },
+      "3278": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Wolfach"
+        ]
+      },
+      "3279": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "FS F\u00fchrerschein",
+          "Fahrschulen/ Fahrlehre"
+        ]
+      },
+      "3282": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "F\u00fchrerscheinumtausch"
+        ]
+      },
+      "3384": {
+        "name": "Kommunale Arbeitsf\u00f6rderung",
+        "services": [
+          "NEUANTRAG"
+        ]
+      },
+      "3387": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Offenburg"
+        ]
+      },
+      "3388": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Wolfach"
+        ]
+      },
+      "3389": {
+        "name": "Zensus Schulungen",
+        "services": [
+          "Schulung Oberkirch"
+        ]
+      },
+      "3390": {
+        "name": "Zensus Schulungen",
+        "services": [
+          "Schulung Offenburg Landratsamt"
         ]
       }
     }
@@ -17408,6 +17982,209 @@
         "name": "Integrationskoordination",
         "services": [
           "Haar"
+        ]
+      },
+      "433": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "434": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "435": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "436": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "437": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "438": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "439": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "440": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "441": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "442": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "443": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "444": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "445": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "446": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "447": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "448": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "449": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "450": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "451": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "452": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "453": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "454": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "455": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "456": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "457": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "458": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "459": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "460": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "461": {
+        "name": "Integrationskoordination",
+        "services": [
+          "Telefonische Beratung",
+          "Telefonische Beratung Integrationskoordination"
         ]
       }
     }
@@ -18298,6 +19075,7 @@
         "name": "Aufenthaltsrecht",
         "services": [
           "Pass\u00fcbertrag bei bestehender Niederlassungserlaubnis",
+          "Pass\u00fcbertrag bei unbefristeter Niederlassungserlaubnis",
           "Verpflichtungserkl\u00e4rung f\u00fcr Besuchervisum"
         ]
       }
@@ -18615,6 +19393,7 @@
           "Kurzzeitkennzeichen",
           "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
           "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
           "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
           "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
         ]
@@ -19299,10 +20078,12 @@
         "name": "Innenstadt: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Ersatz KFZ-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
           "KfZ Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
+          "Umkennzeichnung KFZ-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
@@ -19375,10 +20156,12 @@
         "name": "Waldhof: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Ersatz KFZ-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
           "KfZ Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
+          "Umkennzeichnung KFZ-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
@@ -19763,10 +20546,12 @@
         "name": "Lindenhof: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Ersatz KFZ-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
           "KfZ Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
+          "Umkennzeichnung KFZ-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
@@ -20284,6 +21069,7 @@
           "Gewerbezentralregisterauszug beantragen",
           "Hund an- oder abmelden",
           "Kinderreisepass (bis 12 Jahre) beantragen/ verl\u00e4ngern/ neues Lichtbild",
+          "Kinderreisepass (bis 12 Jahre) beantragen/ verl\u00e4ngern/ neues Passbild",
           "Melde-/ Haushalts-/ oder Lebensbescheinigung beantragen",
           "PIN / eID \u00c4nderung Personalausweis",
           "Personalausweis beantragen",
@@ -20622,6 +21408,7 @@
         "name": "B\u00fcrgeramt",
         "services": [
           "Abmeldung / Au\u00dferbetriebsetzung eines Fahrzeugs",
+          "Abmeldung eines Fahrzeug",
           "Ausfuhrkennzeichen (KEIN Import)",
           "Elektronische Identifikationskarte (eID)",
           "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
@@ -21166,6 +21953,7 @@
         "name": "Versicherungsamt",
         "services": [
           "Antrag auf Altersrente (Eine Antragstellung sollte ca. 3 Monate vor dem gew\u00fcnschten Rentenbeginn erfolgen)",
+          "Antrag auf Altersrente (ca. 3 bis 6 Monate vor Rentenbeginn - keine Beratung)",
           "Antrag auf Erziehungsrente",
           "Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
           "Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
@@ -21177,6 +21965,7 @@
           "Antrag auf freiwillige Beitragszahlungen/ Beitragserstattungen",
           "Antrag auf medizinische Rehabilitation",
           "Antrag auf medizinische Rehabilitation (keine Reha)",
+          "Telefontermin - Antrag auf Altersrente (Antragstellung ca. 3 bis 6 Monate vor dem gew\u00fcnschten Rentenbeginn - keine Beratung)",
           "Telefontermin - Antrag auf Altersrente (Eine Antragstellung sollte ca. 3 Monate vor dem gew\u00fcnschten Rentenbeginn erfolgen)",
           "Telefontermin - Antrag auf Erziehungsrente",
           "Telefontermin - Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
@@ -22391,6 +23180,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22400,7 +23190,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57314": {
@@ -22420,6 +23211,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22429,7 +23221,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57315": {
@@ -22449,6 +23242,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22458,7 +23252,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57316": {
@@ -22478,6 +23273,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22487,7 +23283,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57317": {
@@ -22507,6 +23304,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22516,7 +23314,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57318": {
@@ -22536,6 +23335,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22545,7 +23345,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57319": {
@@ -22565,6 +23366,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22574,7 +23376,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57320": {
@@ -22594,6 +23397,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22603,7 +23407,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57321": {
@@ -22623,6 +23428,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22632,7 +23438,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57322": {
@@ -22652,6 +23459,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22661,7 +23469,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57323": {
@@ -22681,6 +23490,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22690,7 +23500,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57324": {
@@ -22710,6 +23521,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22719,7 +23531,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57325": {
@@ -22739,6 +23552,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22748,7 +23562,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57326": {
@@ -22768,6 +23583,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22777,7 +23593,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57327": {
@@ -22797,6 +23614,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22806,7 +23624,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57328": {
@@ -22826,6 +23645,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22835,7 +23655,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57329": {
@@ -22855,6 +23676,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22864,7 +23686,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57330": {
@@ -22884,6 +23707,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22893,7 +23717,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57331": {
@@ -22913,6 +23738,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22922,7 +23748,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57333": {
@@ -22942,6 +23769,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22951,7 +23779,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "57334": {
@@ -22971,6 +23800,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -22980,7 +23810,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       },
       "72363": {
@@ -23000,6 +23831,7 @@
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Daniela Fr\u00f6schl, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br/>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
           "Vortrag \"Diabetespr\u00e4vention\"<br>Referentin: Iris Wunder, MSc, Di\u00e4tologin mit Zusatzausbildung",
+          "Vortrag \"Gesundes Mittagessen \u2013 Fit und gest\u00e4rkt im Berufs- und Schulalltag\"",
           "Vortrag \"Grenzen setzen\"",
           "Vortrag \"Grenzen setzen\"<br/>Referentin: Mag. Daniela Senkl, MSc (Personal Coach)",
           "Vortrag \"Obst und Gem\u00fcse\"",
@@ -23009,7 +23841,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br/>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
-          "Vortrag\" Grenzen setzen\""
+          "Vortrag\" Grenzen setzen\"",
+          "Workshop \"Home-Workouts\""
         ]
       }
     }
@@ -25783,6 +26616,9 @@
       "246/4405": {
         "name": "Schw\u00e4bisch Hall: Sonstige Zulassungsvorg\u00e4nge (spezielle Fahrzeuge/Anliegen)",
         "services": [
+          "Eintragung Fahrzeug in Scheinheft Oldtimerkennzeichen (07er)",
+          "Eintragung/L\u00f6schung Scheinheft Oldtimerkennzeichen (07er)",
+          "L\u00f6schung Fahrzeug im Scheinheft Oldtimerkennzeichen (07er)",
           "Sonstige Zulassungsvorg\u00e4nge (spezielle Fahrzeuge/Anliegen)"
         ]
       },
@@ -25791,8 +26627,16 @@
         "services": [
           "AUSSCHLIE\u00dfLICH Abgabe der Zulassungsunterlagen - f\u00fcr H\u00e4ndler",
           "Au\u00dferbetriebsetzung - f\u00fcr H\u00e4ndler",
+          "Neues Scheinheft f\u00fcr Rote Dauerkennzeichen (06er)",
           "Sonstige Zulassungsvorg\u00e4nge - f\u00fcr H\u00e4ndler (z.B. Kurzzeit, Ausfuhr, Anschrift)",
           "Zulassungen/Umschreibungen - f\u00fcr H\u00e4ndler"
+        ]
+      },
+      "246/7844": {
+        "name": "Schw\u00e4bisch Hall: Betriebserlaubnis",
+        "services": [
+          "Betriebserlaubnis Erteilung",
+          "Betriebserlaubnis Verlust"
         ]
       },
       "247/2820": {
@@ -25838,6 +26682,9 @@
       "247/4405": {
         "name": "Crailsheim: Sonstige Zulassungsvorg\u00e4nge (spezielle Fahrzeuge/Anliegen)",
         "services": [
+          "Eintragung Fahrzeug in Scheinheft Oldtimerkennzeichen (07er)",
+          "Eintragung/L\u00f6schung Scheinheft Oldtimerkennzeichen (07er)",
+          "L\u00f6schung Fahrzeug im Scheinheft Oldtimerkennzeichen (07er)",
           "Sonstige Zulassungsvorg\u00e4nge (spezielle Fahrzeuge/Anliegen)"
         ]
       },
@@ -25846,8 +26693,16 @@
         "services": [
           "AUSSCHLIE\u00dfLICH Abgabe der Zulassungsunterlagen - f\u00fcr H\u00e4ndler",
           "Au\u00dferbetriebsetzung - f\u00fcr H\u00e4ndler",
+          "Neues Scheinheft f\u00fcr Rote Dauerkennzeichen (06er)",
           "Sonstige Zulassungsvorg\u00e4nge - f\u00fcr H\u00e4ndler (z.B. Kurzzeit, Ausfuhr, Anschrift)",
           "Zulassungen/Umschreibungen - f\u00fcr H\u00e4ndler"
+        ]
+      },
+      "247/7844": {
+        "name": "Betriebserlaubnis",
+        "services": [
+          "Betriebserlaubnis Erteilung",
+          "Betriebserlaubnis Verlust"
         ]
       }
     }
@@ -27039,6 +27894,7 @@
           "Aufstiegs-BAf\u00f6G f\u00fcr Vollzeit",
           "Aufstiegs-Baf\u00f6g f\u00fcr Teilzeit",
           "Aufstiegs-Baf\u00f6g f\u00fcr Vollzeit",
+          "Ausstellung Fahrerqualifikationsnachweis (Schl\u00fcsselzahl 95)/Module",
           "Eintrag der Schl\u00fcsselzahl 95 (Module).",
           "Ersatz der Fahrerlaubnis (Verlust, Diebstahl, Brille, Namens\u00e4nderung \u2026)",
           "Ersterteilung ab 17 (Begleitendes Fahren) inkl. 1 Begleitperson",
@@ -27273,6 +28129,33 @@
         "name": "Impfbus am Klinikum Mutterhaus",
         "services": [
           "Impfung im Impfbus Mutterhaus Mitte"
+        ]
+      },
+      "70": {
+        "name": "B\u00fcrgeramt_TEST",
+        "services": [
+          "Abholung Personalausweis",
+          "Abholung Reisepass",
+          "Anerkennung ausl\u00e4ndischer Personenstandsurkunden (Eintrag im Melderegister)",
+          "Anmeldung eines Wohnsitzes in Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
+          "Anmeldung eines Wohnsitzes in Trier, deutsche Staatsangeh\u00f6rige",
+          "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)",
+          "Beglaubigung Unterschrift (amtlich)",
+          "Beglaubigung Unterschrift (\u00f6ffentlich)",
+          "Beglaubigungen  Abschrift/Kopie ab 11 Dokumenten",
+          "Beglaubigungen  Abschrift/Kopie ab 4 bis 11 Dokumenten",
+          "Beglaubigungen  Abschrift/Kopie bis zu 3 Dokumenten",
+          "F\u00fchrungszeugnis Belegart N / O",
+          "Gewerbezentralregister",
+          "Haushaltsbescheinigung Luxemburg",
+          "Lebens-/Meldebescheinigung",
+          "Meldebescheinigung",
+          "Melderegisterausk\u00fcnfte",
+          "Steuer-ID (Zweitausfertigung)",
+          "Ummeldung eines Wohnsitzes innerhalb von Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
+          "Ummeldung eines Wohnsitzes innerhalb von Trier, deutsche Staatsangeh\u00f6rige",
+          "erweitertes F\u00fchrungszeugnis Belegart NE/OE",
+          "\u00c4nderung Adressetikett / elektronischer Aufenthaltstitel nach bereits erfolgter Ummeldung"
         ]
       }
     }
@@ -28797,6 +29680,12 @@
           "Zulassung von Gebrauchtfahrzeuges aus einem NICHT EU-Staat",
           "Zulassung von Gebrauchtfahrzeuges von Dienst-/Bundeswehrfahrzeuges oder Fahrzeugen aus einem EU-Staat",
           "\u00c4nderung technischer Daten Ihres zugelassenen Fahrzeuges"
+        ]
+      },
+      "45": {
+        "name": "H\u00e4ndler",
+        "services": [
+          "Abweichende Bez."
         ]
       }
     }
