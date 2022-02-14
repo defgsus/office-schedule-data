@@ -2471,6 +2471,115 @@
           "Bewerbung Erhebungsbeauftragte"
         ]
       },
+      "702": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "703": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "704": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "706": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "707": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "708": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "709": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "710": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"T\""
+        ]
+      },
+      "711": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "712": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "713": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "714": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "715": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "716": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "717": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "718": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "719": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\""
+        ]
+      },
+      "720": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Schulung \"FB\"",
+          "Schulung \"T\""
+        ]
+      },
       "785": {
         "name": "Pop-Up-BSC Versteigerungshalle",
         "services": [
@@ -4020,6 +4129,66 @@
       },
       "840": {
         "name": "Hausbegehungen M\u00fcllenbach TESTWEISE",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "842": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "843": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "844": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "845": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "846": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "847": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "848": {
+        "name": "Hausbegehungen M\u00fcllenbach",
         "services": [
           "Hausbegehungen M\u00fcllenbach"
         ]
@@ -6349,6 +6518,75 @@
           "2.Impfung f\u00fcr Kinder",
           "Impfen f\u00fcr Kinder von 5 bis 11 Jahren",
           "Impfen f\u00fcr Kinder von 5 bis 12 Jahren"
+        ]
+      },
+      "69": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Antrag Fahrgastbef\u00f6rderung stellen",
+          "Einb\u00fcrgerungsantrag abgeben",
+          "Ersatzm\u00fcllmarke abholen",
+          "Erstmalige Aufenthaltserlaubnis beantragen",
+          "Fischereischein neu beantragen",
+          "Fischereischein verl\u00e4ngern",
+          "Fundsachen abgeben",
+          "Fundsachen abholen",
+          "F\u00fchrerschein nach Verlust neu beantragen",
+          "F\u00fchrerscheinumtausch in Scheckkartenf\u00fchrerschein beantragen",
+          "F\u00fchrerscheinverl\u00e4ngerung beantragen",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregister Auskunft beantragen",
+          "Kinderreisepass - Verl\u00e4ngerung beantragen",
+          "Kinderreisepass beantragen",
+          "Landesfamilienpass beantragen",
+          "Landesfamilienpass \u2013 Gutscheinkarte abholen",
+          "Meldebescheinigung beantragen",
+          "Niederlassungserlaubnis beantragen",
+          "Personalausweis beantragen",
+          "Personalausweis nach Verlust beantragen",
+          "Personalausweis/Reisepass/Kinderreisepass abholen",
+          "Reisepass beantragen",
+          "Reisepass nach Verlust beantragen",
+          "Verl\u00e4ngerung Aufenthaltserlaubnis beantragen",
+          "Verl\u00e4ngerung Aufenthaltsgestattung",
+          "Verl\u00e4ngerung Duldung",
+          "Verl\u00e4ngerung Duldung beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "Wohnungsabmeldung (Abmeldung Nebenwohnung/Wegzug ins Ausland)",
+          "Wohnungsanmeldung nach Zuzug aus dem Ausland (Einzelperson)",
+          "Wohnungsanmeldung nach Zuzug aus dem Ausland (Familie)",
+          "Wohnungswechsel innerhalb Deutschland melden (Einzelperson)",
+          "Wohnungswechsel innerhalb Deutschland melden (Familie)"
+        ]
+      },
+      "70": {
+        "name": "Soziales",
+        "services": [
+          "Befreiung/Erm\u00e4\u00dfigung von den Rundfunkgeb\u00fchren beantragen",
+          "Elterngeld beantragen \u2013 mit Beratung",
+          "Elterngeld beantragen \u2013 ohne Beratung",
+          "Grundsicherung / Hilfe zum Lebensunterhalt nach dem SGB XII beantragen - Erstantrag ",
+          "Grundsicherung / Hilfe zum Lebensunterhalt nach dem SGB XII beantragen - Folgeantrag",
+          "Hilfe zur Pflege beantragen au\u00dferhalb Einrichtungen (ambulant)",
+          "Hilfe zur Pflege beantragen innerhalb Einrichtungen (station\u00e4r)",
+          "Leistungen nach dem Bildungs- und Teilhabepaket beantragen",
+          "Obdachlosigkeit/ Anfragen bei bereits bestehender Obdachlosigkeit",
+          "Obdachlosigkeit/ Drohende Obdachlosigkeit /Zwangsr\u00e4umung melden",
+          "Schwerbehinderten-Angelegenheiten Erstantrag stellen",
+          "Schwerbehinderten-Angelegenheiten \u00c4nderungs-/Erh\u00f6hungsantrag stellen",
+          "Schwerbehindertenangelegenheiten Wertmarke beantragen",
+          "Schwerbehindertenangelegenheiten Widerspruch einreichen",
+          "Sonstiges - Beratungstermin vereinbaren kurz",
+          "Sonstiges - Beratungstermin vereinbaren lang",
+          "Sonstiges - Unterlagen nachreichen",
+          "Sonstiges - Widerspruch einreichen/zu Protokoll geben",
+          "Vorsorgemappe / Handreichung f\u00fcr Angeh\u00f6rige kaufen",
+          "Weiterleitungsantrag auf SGB II Leistungen f\u00fcrs Jobcenter abgeben",
+          "Wohnberechtigungsschein beantragen",
+          "Wohngeld Antrag - Unterlagen nachreichen",
+          "Wohngeld Antrag stellen",
+          "\u00dcbernahme Bestattungskosten beantragen "
         ]
       }
     }
@@ -10624,6 +10862,7 @@
       "43": {
         "name": "F\u00fchrerscheinbeh\u00f6rde",
         "services": [
+          "Abholung eines F\u00fchrerscheins",
           "Antrag auf Umstellung eines Alt-F\u00fchrerscheins in EU-F\u00fchrerschein"
         ]
       }
@@ -11236,6 +11475,12 @@
         "services": [
           "Men\u00fc 1 togo",
           "Men\u00fc 2 togo"
+        ]
+      },
+      "37": {
+        "name": "Zensus",
+        "services": [
+          "Zensus-Erhebung"
         ]
       },
       "4010": {
@@ -14226,7 +14471,8 @@
           "Verlust Kfz-Brief (ZB II)",
           "Verlust Kfz-Schein f\u00fcr Fahrzeuge aus OE (Fahrzeugschein / ZBI)",
           "Verlust/Diebstahl Betriebserlaubnis",
-          "Verlust/Diebstahl Kennzeichen"
+          "Verlust/Diebstahl Kennzeichen",
+          "Versicherung an Eides statt (Verlust von Fahrzeugdokumenten) 01\u00a0\u00a0 2"
         ]
       },
       "289/3948": {
@@ -14303,7 +14549,8 @@
           "Verlust Kfz-Brief (ZB II)",
           "Verlust Kfz-Schein f\u00fcr Fahrzeuge aus OE (Fahrzeugschein / ZBI)",
           "Verlust/Diebstahl Betriebserlaubnis",
-          "Verlust/Diebstahl Kennzeichen"
+          "Verlust/Diebstahl Kennzeichen",
+          "Versicherung an Eides statt (Verlust von Fahrzeugdokumenten) 01\u00a0\u00a0 2"
         ]
       },
       "290/3948": {
@@ -14932,6 +15179,34 @@
           "Umtausch des F\u00fchrerscheins",
           "Verl\u00e4ngerung der Fahrerlaubnis / Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
           "\u00c4nderung von Personendaten oder Auflagen"
+        ]
+      },
+      "92": {
+        "name": "Die Gleichstellungsbeauftragte",
+        "services": [
+          "Runder Tisch - H\u00e4usliche Gewalt und Migration",
+          "Runder Tisch gegen h\u00e4usliche Gewalt an Frauen und Kindern im Kreis Wesel - Jubil\u00e4umsveranstaltung",
+          "Runder Tisch gegen h\u00e4usliche Gewalt an Frauen und Kindern im kreis Wesel - Jubil\u00e4umsveranstaltung"
+        ]
+      },
+      "93": {
+        "name": "Die Gleichstellungsbeauftragte",
+        "services": [
+          "H\u00e4usliche Gewalt und Migration",
+          "Runder Tisch - H\u00e4usliche Gewalt und Migration",
+          "WenDo - F\u00fcr Frauen und M\u00e4dchen - Selbstbewusst und sicher durchs Leben, im Alltag, im Beruf.."
+        ]
+      },
+      "94": {
+        "name": "Runder Tisch gegen h\u00e4usliche Gewalt an Frauen und Kindern im Kreis Wesel",
+        "services": [
+          "Runder Tisch - H\u00e4usliche Gewalt und Migration"
+        ]
+      },
+      "95": {
+        "name": "Runder Tisch gegen h\u00e4usliche Gewalt an Frauen und Kindern im Kreis Wesel",
+        "services": [
+          "Zusammenhang von Sprache und Gewalt"
         ]
       }
     }
@@ -17519,13 +17794,199 @@
       "3389": {
         "name": "Zensus Schulungen",
         "services": [
+          "Oberkirch - Dauer 6 Stunden",
           "Schulung Oberkirch"
         ]
       },
       "3390": {
         "name": "Zensus Schulungen",
         "services": [
+          "Offenburg Landratsamt - Dauer 6 Stunden",
           "Schulung Offenburg Landratsamt"
+        ]
+      },
+      "3392": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderung etc.))",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3393": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "F\u00fchrerscheinumtausch",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3394": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3395": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "F\u00fchrerscheinumtausch",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3396": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Exportkennzeichen/ Ausfuhrkennzeichen + evtl. Abmeldung",
+          "Import/ Einfuhr eines Fahrzeuges + evtl. Abmeldung",
+          "Kurzzeitkennzeichen + evtl. Abmeldung",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.) + evtl. Abmeldung",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung) + evtl. Abmeldung"
+        ]
+      },
+      "3397": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Nur Au\u00dferbetriebsetzung/ Abmeldung"
+        ]
+      },
+      "3398": {
+        "name": "Zulassungsbeh\u00f6rde",
+        "services": [
+          "Anschrifts\u00e4nderung",
+          "Au\u00dferbetriebsetzung",
+          "Exportkennzeichen/ Ausfuhrkennzeichen",
+          "Import/ Einfuhr eines Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Sonstiges (z.B. Verlust von Fahrzeugpapieren/ Technische \u00c4nderungen etc.)",
+          "Zulassung eines Fahrzeuges (Neuzulassung, Wiederzulassung, Umschreibung)"
+        ]
+      },
+      "3413": {
+        "name": "Migrationsamt",
+        "services": [
+          "Namens\u00e4nderung"
+        ]
+      },
+      "3418": {
+        "name": "Migrationsamt",
+        "services": [
+          "Fachkr\u00e4fteeinwanderung"
+        ]
+      },
+      "3420": {
+        "name": "Migrationsamt",
+        "services": [
+          "Aufenthaltstitel abholen"
+        ]
+      },
+      "3426": {
+        "name": "Migrationsamt",
+        "services": [
+          "Anschlussunterbringung"
+        ]
+      },
+      "3428": {
+        "name": "Migrationsamt",
+        "services": [
+          "Gemeinschaftsunterkunft"
+        ]
+      },
+      "3429": {
+        "name": "Migrationsamt",
+        "services": [
+          "Wohnheimgeb\u00fchren"
+        ]
+      },
+      "3434": {
+        "name": "Migrationsamt",
+        "services": [
+          "R\u00fcckkehrberatung"
+        ]
+      },
+      "3440": {
+        "name": "Migrationsamt",
+        "services": [
+          "Krankenschein ausstellen"
+        ]
+      },
+      "3447": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Lahr"
+        ]
+      },
+      "3448": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Offenburg"
+        ]
+      },
+      "3449": {
+        "name": "Landwirtschaftsamt Gemeinsamer Antrag",
+        "services": [
+          "Gemeinsamer Antrag - Wolfach"
+        ]
+      },
+      "3450": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "FS F\u00fchrerschein",
+          "Fahrschulen/ Fahrlehre"
+        ]
+      },
+      "3453": {
+        "name": "F\u00fchrerscheinbeh\u00f6rde",
+        "services": [
+          "F\u00fchrerscheinumtausch"
+        ]
+      },
+      "3555": {
+        "name": "Kommunale Arbeitsf\u00f6rderung",
+        "services": [
+          "NEUANTRAG"
+        ]
+      },
+      "3558": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Offenburg"
+        ]
+      },
+      "3559": {
+        "name": "Vermessungsamt",
+        "services": [
+          "Termin Vermessungsamt Wolfach"
+        ]
+      },
+      "3560": {
+        "name": "Zensus Schulungen",
+        "services": [
+          "Oberkirch - Dauer 6 Stunden",
+          "Schulung in Oberkirch"
+        ]
+      },
+      "3561": {
+        "name": "Zensus Schulungen",
+        "services": [
+          "Offenburg Landratsamt - Dauer 6 Stunden",
+          "Schulung in Offenburg Landratsamt"
         ]
       }
     }
@@ -19395,6 +19856,7 @@
           "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
           "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
           "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
+          "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
           "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
         ]
       },
@@ -19419,6 +19881,7 @@
         "services": [
           "Abgabe des F\u00fchrerscheins bei Fahrverbot",
           "Abmeldung  (wenn weitere Anliegen ausgew\u00e4hlt werden)",
+          "Abmeldung  (zusammen mit einer Zulassung)",
           "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
           "Beglaubigung",
@@ -19431,6 +19894,8 @@
           "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
           "Internationaler F\u00fchrerschein",
           "Kurzzeitkennzeichen",
+          "Kurzzeitkennzeichen  (wenn weitere Anliegen ausgew\u00e4hlt werden)",
+          "Kurzzeitkennzeichen  (zusammen mit einer Zulassung)",
           "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
           "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
           "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
@@ -19442,11 +19907,14 @@
         "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
         "services": [
           "Abmeldung",
+          "Abmeldung  (einzeln)",
           "Adress- oder Namens\u00e4nderung",
+          "Adress- oder Namens\u00e4nderung  (kein Halterwechsel)",
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
           "Ersatz-Fahrzeugschein   (nach Diebstahl oder Verlust)",
           "Feinstaubplakette",
-          "Kurzzeitkennzeichen"
+          "Kurzzeitkennzeichen",
+          "Kurzzeitkennzeichen  (einzeln)"
         ]
       },
       "307": {
@@ -22768,6 +23236,7 @@
         "services": [
           "Adress\u00e4nderung Personalausweis (Dauer ca. 5 Minuten) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise",
           "Freischaltung Onlinefunktion Personalausweis (Dauer: ca. 5 Minuten) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
+          "Kinderreisepass beantragen/verl\u00e4ngern/ Lichtbild aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Personalausweis & vorl\u00e4ufiger Personalausweis  beantragen (Dauer ca. 15 Minuten) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise",
           "Personalausweis / Reisepass nur abholen (Dauer ca. 5 Minuten) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
           "Reisepass / Express-Reisepass / vorl\u00e4ufiger Reisepass beantragen (Dauer ca. 15 M 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse"
@@ -25268,6 +25737,16 @@
           "Jugendfischereischein (Ausstellung/Verl\u00e4ngerung)"
         ]
       },
+      "281/7867": {
+        "name": "weitere Dienstleistungen",
+        "services": [
+          "Best\u00e4tigungen (Kopien, Unterschriften, Lebensbescheinigung etc) 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
+          "Fundangelegenheit",
+          "F\u00fchrungszeugnis beantragen",
+          "Landesfamilienpass beantragen/verl\u00e4ngern",
+          "Restm\u00fclls\u00e4cke/Laubs\u00e4cke 01\u00a0\u00a0 Termin"
+        ]
+      },
       "282/3552": {
         "name": "B\u00fcrgerb\u00fcro Ergenzingen: Meldeangelegenheiten",
         "services": [
@@ -25372,6 +25851,26 @@
           "Verl\u00e4ngerung einer Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verpflichtungserkl\u00e4rung (Einladung) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verpflichtungserkl\u00e4rung (Einladung) abgeben 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
+      "415/5936": {
+        "name": "WTG Rottenburg: Corona-Schnelltest (Spucktest)",
+        "services": [
+          "Corona-Schnelltest (Spucktest) 01\u00a0\u00a0 Person",
+          "Schnelltest f\u00fcr Mitarbeiter*Innen 01"
+        ]
+      },
+      "415/7664": {
+        "name": "Neuinstallation iPad/iPhone",
+        "services": [
+          "Neuinstallation iPad oder iPhone 01",
+          "Neuinstallation iPad und iPhone 01"
+        ]
+      },
+      "415/7872": {
+        "name": "Ticketreservierung Fasnet 2022",
+        "services": [
+          "Ticketreservierung Fasnet 2022 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten"
         ]
       },
       "425/5936": {
@@ -28136,26 +28635,55 @@
         "services": [
           "Abholung Personalausweis",
           "Abholung Reisepass",
+          "An- oder Abmeldung eines Hundes",
           "Anerkennung ausl\u00e4ndischer Personenstandsurkunden (Eintrag im Melderegister)",
+          "Anmeldung eines Wohnsitzes in Trier",
           "Anmeldung eines Wohnsitzes in Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Anmeldung eines Wohnsitzes in Trier, deutsche Staatsangeh\u00f6rige",
           "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)",
+          "Beantragung Personalausweis",
+          "Beantragung Reisepass",
+          "Beantragung Reisepass f\u00fcr Minderj\u00e4hrige",
+          "Beantragung eID-Karte f\u00fcr Unionsb\u00fcrger*innen und Angeh\u00f6rige aus EWR-Staaten",
+          "Beantragung oder Verl\u00e4ngerung Kinderreisepass (G\u00fcltigkeit 1 Jahr)",
+          "Beantragung vorl\u00e4ufiger Personalausweis (G\u00fcltigkeit 3 Monate)",
+          "Beantragung vorl\u00e4ufiger Reisepass f\u00fcr Minderj\u00e4hrige (G\u00fcltigkeit 1 Jahr)",
+          "Beantragung vorl\u00e4ufiger Reisepasses (G\u00fcltigkeit 1 Jahr)",
           "Beglaubigung Unterschrift (amtlich)",
           "Beglaubigung Unterschrift (\u00f6ffentlich)",
           "Beglaubigungen  Abschrift/Kopie ab 11 Dokumenten",
           "Beglaubigungen  Abschrift/Kopie ab 4 bis 11 Dokumenten",
           "Beglaubigungen  Abschrift/Kopie bis zu 3 Dokumenten",
           "F\u00fchrungszeugnis Belegart N / O",
+          "F\u00fchrungszeugnis Belegart N/O",
           "Gewerbezentralregister",
           "Haushaltsbescheinigung Luxemburg",
+          "KFZ-Schein-\u00c4nderung",
           "Lebens-/Meldebescheinigung",
           "Meldebescheinigung",
           "Melderegisterausk\u00fcnfte",
+          "Online-Ausweisfunktion (eID) aktivieren oder PIN setzen",
+          "Online-Ausweisfunktion (eID) entsperren und PIN setzen",
           "Steuer-ID (Zweitausfertigung)",
+          "Ummeldung eines Wohnsitzes innerhalb von Trier",
           "Ummeldung eines Wohnsitzes innerhalb von Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung eines Wohnsitzes innerhalb von Trier, deutsche Staatsangeh\u00f6rige",
+          "Untersuchungsberechtigungsschein",
           "erweitertes F\u00fchrungszeugnis Belegart NE/OE",
           "\u00c4nderung Adressetikett / elektronischer Aufenthaltstitel nach bereits erfolgter Ummeldung"
+        ]
+      },
+      "72": {
+        "name": "B\u00fcrgeramt_TEST",
+        "services": [
+          "F\u00fchrungszeugnis Belegart N/O"
+        ]
+      },
+      "73": {
+        "name": "B\u00fcrgeramt_TEST",
+        "services": [
+          "Abholung Personalausweis",
+          "Beantragung Personalausweis"
         ]
       }
     }
