@@ -1381,6 +1381,7 @@
         "services": [
           "Abholung EU-Kartenf\u00fchrerschein",
           "Eintragung einer Schl\u00fcsselzahl (96,196,197 etc.)",
+          "Eintragung einer Schl\u00fcsselzahl (96,196,197)",
           "Ersatz, Namens\u00e4nderung, Umtausch etc."
         ]
       }
@@ -1947,12 +1948,28 @@
         "name": "Meldeangelegenheiten (Wohnung)",
         "services": []
       },
+      "onlinedienste-falls-personliche-vorsprache-erwunscht": {
+        "name": "Onlinedienste (falls pers\u00f6nliche Vorsprache erw\u00fcnscht)",
+        "services": []
+      },
+      "onlinedienste-personliche-vorsprache-erwunscht": {
+        "name": "Onlinedienste (pers\u00f6nliche Vorsprache erw\u00fcnscht)",
+        "services": []
+      },
       "prostituiertenschutzgesetz": {
         "name": "Prostituiertenschutzgesetz",
         "services": []
       },
+      "sonstige-dienstleistungen": {
+        "name": "sonstige Dienstleistungen",
+        "services": []
+      },
       "weitere-burgerangelegenheiten": {
         "name": "weitere B\u00fcrgerangelegenheiten",
+        "services": []
+      },
+      "weitere-dienstleistungen-der-verwaltungsstellen": {
+        "name": "weitere Dienstleistungen der Verwaltungsstellen",
         "services": []
       },
       "zusatzliche-anliegen-ausschliesslich-verwaltungsstellen": {
@@ -2158,6 +2175,7 @@
       "664": {
         "name": "B\u00fcrgerServiceCenter-Mitte",
         "services": [
+          "Ausweispflichtbefreiung beantragen",
           "\u00c4nderung der Adresse auf dem Personalausweis/Reisepass/elektronischen Aufenthaltstitel"
         ]
       },
@@ -2197,6 +2215,7 @@
       "667": {
         "name": "B\u00fcrgerServiceCenter-Nord",
         "services": [
+          "Ausweispflichtbefreiung beantragen",
           "\u00c4nderung der Adresse auf dem Personalausweis/Reisepass/elektronischen Aufenthaltstitel"
         ]
       },
@@ -2276,6 +2295,7 @@
       "676": {
         "name": "B\u00fcrgerServiceCenter-Stresemannstra\u00dfe",
         "services": [
+          "Ausweispflichtbefreiung beantragen",
           "\u00c4nderung der Adresse auf dem Personalausweis/Reisepass/elektronischen Aufenthaltstitel"
         ]
       },
@@ -2578,6 +2598,18 @@
         "services": [
           "Schulung \"FB\"",
           "Schulung \"T\""
+        ]
+      },
+      "721": {
+        "name": "Bremerhaven Zensus Schulung",
+        "services": [
+          "Schulung f\u00fcr ehrenamtliche Erhebungsbeauftragte"
+        ]
+      },
+      "722": {
+        "name": "Bremerhaven Zensus Schulung",
+        "services": [
+          "Schulung f\u00fcr ehrenamtliche Erhebungsbeauftragte"
         ]
       },
       "785": {
@@ -4242,6 +4274,8 @@
         "name": "Zulassungsstelle",
         "services": [
           "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Au\u00dferbetriebsetzung KFZ (Abmeldung)",
+          "Zulassung / Umschreibung (Kfz) usw.",
           "Zulassung/Umschreibung/\u00c4nderung usw."
         ]
       },
@@ -4249,6 +4283,8 @@
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Abholung F\u00fchrerschein",
+          "Abholung Karten-F\u00fchrerschein (Benachrichtigung liegt vor)",
+          "Allg. Angelegenheiten (F\u00fchrerschein-Umtausch /-Verl\u00e4ngerung usw.)",
           "Allg. Fahrerlaubnisangelegenheit",
           "Antrag BF17",
           "Fahrschulen",
@@ -4258,6 +4294,7 @@
       "7": {
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
+          "Fahrschule (Inhaber/Mitarbeiter)",
           "Fahrschulen (max. 10 Antr\u00e4ge)"
         ]
       }
@@ -8747,6 +8784,7 @@
       "28": {
         "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
         "services": [
+          "Test Neuzulassung eines PKW",
           "Zulassung eines Neufahrzeuges aus dem Inland"
         ]
       }
@@ -10163,6 +10201,8 @@
           "Andere Impfung Kinder",
           "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
           "FSME-Zeckenschutz Impfung",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
           "Grippe-Impfung Kinder",
           "Grippe-Impfung unter 65 J.",
           "Grippe-Impfung \u00fcber 65 J.",
@@ -10771,7 +10811,8 @@
           "Antrag auf Umstellung eines Alt-F\u00fchrerscheins in EU-F\u00fchrerschein",
           "Antrag auf Verl\u00e4ngerung einer Fahrerlaubnis",
           "Antrag auf Verl\u00e4ngerung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
-          "Antrag auf ersatzf\u00fchrerschein aufgrund Diebstahl des F\u00fchrerscheins"
+          "Antrag auf ersatzf\u00fchrerschein aufgrund Diebstahl des F\u00fchrerscheins",
+          "\u00c4nderung des Halters bei Namens\u00e4nderung"
         ]
       },
       "34": {
@@ -10817,11 +10858,18 @@
           "\u00c4nderung/Wechsel von Nebenwohnung zu Hauptwohnung (Statuswechsel)"
         ]
       },
+      "36": {
+        "name": "Einwohnermeldewesen",
+        "services": [
+          "vorl\u00e4ufigen Personalausweis beantragen"
+        ]
+      },
       "37": {
         "name": "Standesamt",
         "services": [
           "Kirchenaustritt",
           "Namens\u00e4nderung",
+          "Untersuchung nach dem Jugendarbeitsschutzgesetz (Untersuchungsberechtigungsschein)",
           "Vaterschaftsanerkennung"
         ]
       },
@@ -15208,6 +15256,13 @@
         "services": [
           "Zusammenhang von Sprache und Gewalt"
         ]
+      },
+      "96": {
+        "name": "Runder Tisch gegen h\u00e4usliche Gewalt an Frauen und Kindern im Kreis Wesel",
+        "services": [
+          "Leicht gesagt! Wie wir richtig r\u00fcberbringen, was nicht falsch ankommen soll.",
+          "Nicole Staudinger Lesung zum Weltfrauentag - Leicht gesagt! Wie wir richtig r\u00fcberbringen, was nicht falsch ankommen soll."
+        ]
       }
     }
   },
@@ -15946,6 +16001,98 @@
         "name": "Allgemeiner sozialer Dienst",
         "services": [
           "Beratung in Fragen der Erziehung 01\u00a0\u00a0 Kind2\u00a0\u00a0 Kinder3\u00a0\u00a0 Kinder4\u00a0\u00a0 Kinder5\u00a0\u00a0 Kinder6\u00a0\u00a0 Kinder7\u00a0\u00a0 Kinder8\u00a0\u00a0 Kinder"
+        ]
+      },
+      "434/7965": {
+        "name": "Allgemeiner sozialer Dienst",
+        "services": [
+          "Beratung bei Trennung und Scheidung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr (werdende) Pflegeeltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr Kinder und Jugendliche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr Schwangere und werdende Eltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung in Fragen der Erziehung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung zur Eingliederungshilfe nach \u00a7 35a 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Hilfe f\u00fcr junge Vollj\u00e4hrige 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Kopie von Beratung in Fragen der Erziehung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Mitteilung einer Kindeswohlgef\u00e4hrdung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7972": {
+        "name": "Allgemeiner sozialer Dienst",
+        "services": [
+          "Beratung bei Trennung und Scheidung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr (werdende) Pflegeeltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr Kinder und Jugendliche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung in Fragen der Erziehung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung zur Eingliederungshilfe nach \u00a7 35a 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Hilfe f\u00fcr junge Vollj\u00e4hrige 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Kopie von Allgemeiner sozialer Dienst 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Mitteilung einer Kindeswohlgef\u00e4hrdung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7973": {
+        "name": "Jugendhilfe im Strafverfahren (Jugendgerichtshilfe)",
+        "services": [
+          "Beratung f\u00fcr Eltern von straff\u00e4llig gewordenen Jugendlichen/jungen Erwachsenen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr straff\u00e4llig gewordene Jugendliche/junge Erwachsene 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7975": {
+        "name": "Allgemeiner sozialer Dienst",
+        "services": [
+          "Beratung bei Trennung und Scheidung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr (werdende) Pflegeeltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr Kinder und Jugendliche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung in Fragen der Erziehung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Beratung zur Eingliederungshilfe nach \u00a7 35a 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Hilfe f\u00fcr junge Vollj\u00e4hrige 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
+          "Kopie von Allgemeiner sozialer Dienst 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Mitteilung einer Kindeswohlgef\u00e4hrdung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7976": {
+        "name": "Tagesbetreuung f\u00fcr Kinder",
+        "services": [
+          "Kindertagespflege - Beratung f\u00fcr Eltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kindertagespflege - Beratung f\u00fcr aktive Kindertagespflegestellen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kindertagespflege - Beratung f\u00fcr potenielle Kindertagespflegestellen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kitaplatz - Beratung zur Antragstellung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kitaplatz - Rechtsanspruch auf einen Betreuungsplatz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kopie von Kitaplatz - Beratung zur Antragstellung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7982": {
+        "name": "Fr\u00fche Hilfen",
+        "services": [
+          "Beratung f\u00fcr Menschen, die beruflichen Kontakt mit Kindern/Jugendlichen haben 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr Schwangere und werdende Eltern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung f\u00fcr junge Familien mit Kindern von 0-3 Jahren 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7986": {
+        "name": "Elternbeitr\u00e4ge",
+        "services": [
+          "Beratung bzgl Nachberechnungen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung im Rahmen des Mahnverfahrens 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratung zum Antrag, Antragsunterlagen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7990": {
+        "name": "UVG - Unterhaltsvorschuss",
+        "services": [
+          "Beratung zu Leistungen nach dem Unterhaltsvorschussgesetz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
+        ]
+      },
+      "434/7993": {
+        "name": "Beistandschaften",
+        "services": [
+          "Anerkennung Mutterschaft/Zustimmungserkl\u00e4rung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Antrag Beistandschaft, Beratung/Unterst\u00fctzung/Vollj\u00e4hrigenberatung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Kopie von Vaterschaft/Vaterschaftsanerkennung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Sorgeerkl\u00e4rung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Vaterschaft/Vaterschaftsanerkennung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Vaterschaft/Vaterschaftsanerkennung/Zustimmung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen",
+          "Verpflichtung Unterhalt 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
       "512/7209": {
@@ -19882,6 +20029,7 @@
           "Abgabe des F\u00fchrerscheins bei Fahrverbot",
           "Abmeldung  (wenn weitere Anliegen ausgew\u00e4hlt werden)",
           "Abmeldung  (zusammen mit einer Zulassung)",
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
           "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
           "Ausfuhrkennzeichen",
           "Beglaubigung",
@@ -19896,7 +20044,9 @@
           "Kurzzeitkennzeichen",
           "Kurzzeitkennzeichen  (wenn weitere Anliegen ausgew\u00e4hlt werden)",
           "Kurzzeitkennzeichen  (zusammen mit einer Zulassung)",
+          "Kurzzeitkennzeichen (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
           "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Neuzulassung / Umschreibung / Wiederzulassung / Kurzzeitkennzeichen  (sonstige Fahrzeuge, ggf. inkl. Abmeldung 1 Alt-Fahrzeug)",
           "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
           "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
           "Verl\u00e4ngerung des LKW-F\u00fchrerscheins  (Klassen C1, C1E, C, CE oder CE79)",
@@ -20492,6 +20642,12 @@
           "Unterschriftsbeglaubigung",
           "Verkauf Ferienkarte"
         ]
+      },
+      "169": {
+        "name": "Zensus 2022",
+        "services": [
+          "Zensus 2022 Kennenlern-Gespr\u00e4che"
+        ]
       }
     }
   },
@@ -20860,6 +21016,21 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Standesamtliche Urkunde"
+        ]
+      },
+      "133/2240": {
+        "name": "Feudenheim: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Begleitetes Fahren ab 17 Jahren",
+          "Beratung bei drohendem Entzug und Neuerteilung nach Entzug",
+          "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
+          "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
+          "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
+          "Internationaler F\u00fchrerschein",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
       },
       "133/3329": {
@@ -23109,10 +23280,13 @@
       "346": {
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
+          "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Beglaubigung f\u00fcr Rentenzwecke",
           "Kopie beglaubigen",
           "Unterschrift beglaubigen",
-          "Unterschrift f\u00fcr Rentenzwecke beglaubigen"
+          "Unterschrift f\u00fcr Rentenzwecke beglaubigen",
+          "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
+          "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
       },
       "348": {
@@ -23201,6 +23375,14 @@
         "services": [
           "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
           "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+        ]
+      },
+      "383": {
+        "name": "Ausweis-, Pass- und Meldeangelegenheiten",
+        "services": [
+          "Kinderreisepass beantragen",
+          "Personalausweis beantragen",
+          "Reisepass beantragen"
         ]
       }
     }
@@ -25366,6 +25548,7 @@
           "Abholung Schnelltests f\u00fcr Mitarbeiter",
           "Beglaubigungen",
           "Briefwahlunterlagen beantragen",
+          "Fundsachen",
           "F\u00fchrerscheinantrag",
           "F\u00fchrungszeugnis",
           "F\u00fchrungszeugnis f\u00fcr Ehrenamtliche",
@@ -25870,6 +26053,7 @@
       "415/7872": {
         "name": "Ticketreservierung Fasnet 2022",
         "services": [
+          "Ticketreservierung Fasnet 2022 01\u00a0\u00a0 Karte",
           "Ticketreservierung Fasnet 2022 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten"
         ]
       },
@@ -27047,6 +27231,8 @@
           "Antrag Fahrgastbef\u00f6rderung/Taxischein abgeben 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
           "Auskunftssperre beantragen 01\u00a0\u00a0 Auskunftssperre2\u00a0\u00a0 Auskunftssperren3\u00a0\u00a0 Auskunftssperren",
           "Beglaubigung 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen6\u00a0\u00a0 Beglaubigungen7\u00a0\u00a0 Beglaubigungen8\u00a0\u00a0 Beglaubigungen9\u00a0\u00a0 Beglaubigungen10\u00a0\u00a0 Beglaubigungen11\u00a0\u00a0 Beglaubigungen12\u00a0\u00a0 Beglaubigungen13\u00a0\u00a0 Beglaubigungen14\u00a0\u00a0 Beglaubigungen15\u00a0\u00a0 Beglaubigungen",
+          "Einb\u00fcrgerungsantrag abgeben 01\u00a0\u00a0 Einb\u00fcrgerungsantrag2\u00a0\u00a0 Einb\u00fcrgerungsantr\u00e4ge3\u00a0\u00a0 Einb\u00fcrgerungsantr\u00e4ge4\u00a0\u00a0 Einb\u00fcrgerungsantr\u00e4ge5\u00a0\u00a0 Einb\u00fcrgerungsantr\u00e4ge",
+          "Elterngeldantrag abgeben 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge",
           "F\u00fchrerscheinantrag abgeben 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge3\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge4\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge5\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge6\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge7\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge8\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge",
           "F\u00fchrungszeugnis 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse",
           "Gewerbezentralregister (GZR) 01\u00a0\u00a0 Gewerbezentralregister2\u00a0\u00a0 Gewerbezentralregister3\u00a0\u00a0 Gewerbezentralregister4\u00a0\u00a0 Gewerbezentralregister",
@@ -27063,6 +27249,22 @@
         "services": [
           "Fundsache abgeben 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen5\u00a0\u00a0 Fundsachen",
           "Fundsache abholen 01\u00a0\u00a0 Fundsache2\u00a0\u00a0 Fundsachen3\u00a0\u00a0 Fundsachen4\u00a0\u00a0 Fundsachen5\u00a0\u00a0 Fundsachen"
+        ]
+      },
+      "489/7820": {
+        "name": "Pass- und Ausweisangelegenheiten",
+        "services": [
+          "48-Seiten-Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse",
+          "Adress\u00e4nderung Reisepass 01\u00a0\u00a0 Adress\u00e4nderung2\u00a0\u00a0 Adress\u00e4nderungen3\u00a0\u00a0 Adress\u00e4nderungen4\u00a0\u00a0 Adress\u00e4nderungen5\u00a0\u00a0 Adress\u00e4nderungen6\u00a0\u00a0 Adress\u00e4nderungen7\u00a0\u00a0 Adress\u00e4nderungen8\u00a0\u00a0 Adress\u00e4nderungen",
+          "Ausweisdokument abholen 01\u00a0\u00a0 Ausweisdokument2\u00a0\u00a0 Ausweisdokumente3\u00a0\u00a0 Ausweisdokumente4\u00a0\u00a0 Ausweisdokumente5\u00a0\u00a0 Ausweisdokumente6\u00a0\u00a0 Ausweisdokumente7\u00a0\u00a0 Ausweisdokumente8\u00a0\u00a0 Ausweisdokumente",
+          "Kinderreisepass beantragen/verl\u00e4ngern/aktualisieren 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "PIN-\u00c4nderung / Freischaltung Online-Ausweisfunktion Personalausweis 01\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.2\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.3\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.4\u00a0\u00a0 PIN-\u00c4nderung/Freischalt.",
+          "Personalausweis beantragen 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
+          "Reisepass (Expressvariante) 01\u00a0\u00a0 Expresspass2\u00a0\u00a0 Expressp\u00e4sse3\u00a0\u00a0 Expressp\u00e4sse4\u00a0\u00a0 Expressp\u00e4sse5\u00a0\u00a0 Expressp\u00e4sse6\u00a0\u00a0 Expressp\u00e4sse7\u00a0\u00a0 Expressp\u00e4sse8\u00a0\u00a0 Expressp\u00e4sse",
+          "Reisepass beantragen 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
+          "Vorl\u00e4ufiger Personalausweis 01\u00a0\u00a0 Vorl\u00e4ufiger Ausweis2\u00a0\u00a0 Vorl\u00e4ufige Ausweise3\u00a0\u00a0 Vorl\u00e4ufige Ausweise4\u00a0\u00a0 Vorl\u00e4ufige Ausweise5\u00a0\u00a0 Vorl\u00e4ufige Ausweise6\u00a0\u00a0 Vorl\u00e4ufige Ausweise7\u00a0\u00a0 Vorl\u00e4ufige Ausweise8\u00a0\u00a0 Vorl\u00e4ufige Ausweise",
+          "Vorl\u00e4ufiger Reisepass 01\u00a0\u00a0 Vorl\u00e4ufiger Reisepass2\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 3\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 4\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 5\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 6\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 7\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse 8\u00a0\u00a0 Vorl\u00e4ufige Reisep\u00e4sse",
+          "Zweitpass/Drittpass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse"
         ]
       }
     }
@@ -28217,6 +28419,7 @@
           "Beantragung vorl\u00e4ufiger Personalausweis",
           "Beglaubigung der Unterschrift",
           "Beglaubigung von Dokumenten (nur f\u00fcr Soester B\u00fcrger/innen)",
+          "Bewerbung Zensusbeauftragte/r",
           "Einfache oder erweiterte Meldebescheinigung",
           "Einfaches oder erweitertes polizeiliches F\u00fchrungszeugnis",
           "Erstantrag Fahrgastbef\u00f6rderungsschein",
@@ -28366,6 +28569,12 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/spitzwegapo",
     "locations": {
+      "128371": {
+        "name": null,
+        "services": [
+          "Antigen Schnelltest (Ag) Covid-19 - kostenlos"
+        ]
+      },
       "98850": {
         "name": null,
         "services": [
@@ -28373,7 +28582,9 @@
           "Antigen Schnelltest (Ag) Covid 19 - kostenpflichtig",
           "Antigen Schnelltest (Ag) Covid-19",
           "Antigen Schnelltest (Ag) Covid-19 - kostenlos",
-          "Antigen Schnelltest (Ag) Covid-19 - kostenpflichtig"
+          "Antigen Schnelltest (Ag) Covid-19 - kostenpflichtig",
+          "Express PCR - Kostenlos",
+          "Express PCR - Kostenpflichtig"
         ]
       }
     }
@@ -31125,6 +31336,30 @@
           "Verlust oder Diebstahl Fahrzeugbrief/Zulassungsbescheinigung Teil II",
           "\u00c4nderung des Familiennamens (Halter bleibt gleich)",
           "\u00c4nderung von Technikdaten"
+        ]
+      },
+      "12/512": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung Personenbef\u00f6rderungsschein",
+          "Begleitetes Fahren ab 17",
+          "Eintrag Schl\u00fcsselzahl B 96/B 196/ B 197",
+          "Ersatzf\u00fchrerschein (nur Namens- oder Auflagen\u00e4nderung oder Diebstahl )",
+          "Ersatzf\u00fchrerschein bei Verlust",
+          "Ersterteilung F\u00fchrerschein",
+          "Erweiterung F\u00fchrerschein",
+          "Fahrerkarte (Voraussetzung: Deutscher Kartenf\u00fchrerschein)",
+          "Fahrerkarte (Voraussetzung: anderer EU-Kartenf\u00fchrerschein)",
+          "Fahrerqualifizierungsnachweis",
+          "Internationaler F\u00fchrerschein (Voraussetzung Kartenf\u00fchrerschein)",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Personenbef\u00f6rderungsschein (Ersterteilung/Erweiterung/Verl\u00e4ngerung)",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins (nicht EU)",
+          "Umtausch (Grau/Rosa) in Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
+          "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE und Fahrerqualifizierungsnachweis",
+          "Vorl\u00e4ufige Fahrberechtigung"
         ]
       },
       "12/520": {
