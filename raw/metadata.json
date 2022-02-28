@@ -7,7 +7,12 @@
       "0": {
         "name": "Amt f\u00fcr Soziale Angelegenheiten",
         "services": [
-          "Erstantrag Grundsicherung im Alter und bei Erwerbsminderung oder Hilfe zum Lebensunterhalt"
+          "Erstantrag AFBG",
+          "Erstantrag BAf\u00f6G",
+          "Erstantrag BayAf\u00f6G",
+          "Erstantrag Grundsicherung im Alter und bei Erwerbsminderung oder Hilfe zum Lebensunterhalt",
+          "Erstantrag Wohngeld Lastenzuschuss",
+          "Erstantrag Wohngeld Mietzuschuss"
         ]
       },
       "108": {
@@ -252,6 +257,30 @@
           "Welcome Center Beratung online",
           "Welcome Center Beratung pers\u00f6nlich"
         ]
+      },
+      "183": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag Rundfunkgeb\u00fchrenbefreiung"
+        ]
+      },
+      "185": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag Bildung-und Teilhabe"
+        ]
+      },
+      "186": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Rentenberatung"
+        ]
+      },
+      "187": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Umtausch des alten grauen oder rosa F\u00fchrerscheins (Papier) in einen EU-Kartenf\u00fchrerschein"
+        ]
       }
     }
   },
@@ -264,6 +293,7 @@
         "name": "PASS-/AUSWEIS\u00adANGELEGEN\u00adHEITEN",
         "services": [
           "Abholung von fertigen Personalausweisen und Reisep\u00e4ssen",
+          "Abholung von fertigen Personalausweisen und Reisep\u00e4ssen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
           "Kinderreisepass beantragen",
           "Kinderreisepass verl\u00e4ngern oder aktualisieren",
           "Neusetzen der PIN-Nummer beim Personalausweis",
@@ -324,6 +354,14 @@
           "Verlust/Diebstahl Zulassungsbescheinigung Teil I (Fahrzeugschein)",
           "Verlust/Diebstahl Zulassungsbescheinigung Teil II (Fahrzeugbrief)",
           "\u00c4nderung von Technikdaten"
+        ]
+      },
+      "255/7816": {
+        "name": "SONSTIGES",
+        "services": [
+          "Beglaubigungen",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauskunft beantragen"
         ]
       },
       "523/7825": {
@@ -5478,6 +5516,7 @@
           "Termin 45 Minuten",
           "Termin 5 Minuten",
           "Termin 60 Minuten",
+          "Testleistung B-D",
           "Ummeldung von Gewerbebetrieben",
           "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
           "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
@@ -5616,6 +5655,7 @@
           "Termin 45 Minuten",
           "Termin 5 Minuten",
           "Termin 60 Minuten",
+          "Testleistung B-D",
           "Ummeldung von Gewerbebetrieben",
           "Verl\u00e4ngerung einer Duldung (ausreisepflichtige Personen)",
           "Verl\u00e4ngerung einer Gestattung (Asylbewerber)",
@@ -7557,6 +7597,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -7613,6 +7655,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -7669,6 +7713,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -7725,6 +7771,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -7837,6 +7885,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -7893,6 +7943,8 @@
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
+          "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
           "Vorl\u00e4ufiger Personalausweis (Beantragung)",
@@ -8537,17 +8589,24 @@
       "19": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Anmeldung Wohnmobil /US-Import /landw.Zugm /LKW /LKW-Anh",
           "Ausfuhrkennzeichen",
           "Au\u00dferbetriebsetzung",
           "Beratungsgespr\u00e4ch in Zulassungsangelegenheiten",
           "Einfuhr eines Fahrzeuges aus dem Ausland",
           "Ersatzkennzeichen siegeln",
+          "Fahrzeug anmelden",
+          "Fahrzeug anmelden (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
+          "Fahrzeug anmelden + Au\u00dferbetriebsetzung des Altfz.",
+          "Fahrzeug au\u00dfer Betrieb setzen (abmelden)",
+          "Fahrzeug zulassen (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Kurzzeitkennzeichen",
           "Neuzulassung oder Einfuhr von Wohnmobilen, US-Importen, landw.Zugm, LKW, LKW-Anh",
           "Neuzulassung, Umschreibung oder Wiederinbetriebnahme eines Fahrzeuges",
           "Verlust / Diebstahl der Kennzeichen",
           "Verlust der ZB I (Fahrzeugschein)",
           "Verlust der ZB II (Fahrzeugbrief)",
+          "Zulassung Wohnmobil, US-Import, landw.Zugm, LKW, LKW-Anh",
           "sonstiges Anliegen",
           "\u00c4nderung der Anschrift innerhalb des Landkreises",
           "\u00c4nderung von Technikdaten am Fahrzeug",
@@ -8557,17 +8616,24 @@
       "20": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Anmeldung Wohnmobil /US-Import /landw.Zugm /LKW /LKW-Anh",
           "Ausfuhrkennzeichen",
           "Au\u00dferbetriebsetzung",
           "Beratungsgespr\u00e4ch in Zulassungsangelegenheiten",
           "Einfuhr eines Fahrzeuges aus dem Ausland",
           "Ersatzkennzeichen siegeln",
+          "Fahrzeug anmelden",
+          "Fahrzeug anmelden (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
+          "Fahrzeug anmelden + Au\u00dferbetriebsetzung des Altfz.",
+          "Fahrzeug au\u00dfer Betrieb setzen (abmelden)",
+          "Fahrzeug zulassen (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Kurzzeitkennzeichen",
           "Neuzulassung oder Einfuhr von Wohnmobilen, US-Importen, landw.Zugm, LKW, LKW-Anh",
           "Neuzulassung, Umschreibung oder Wiederinbetriebnahme eines Fahrzeuges",
           "Verlust / Diebstahl der Kennzeichen",
           "Verlust der ZB I (Fahrzeugschein)",
           "Verlust der ZB II (Fahrzeugbrief)",
+          "Zulassung Wohnmobil, US-Import, landw.Zugm, LKW, LKW-Anh",
           "sonstiges Anliegen",
           "\u00c4nderung der Anschrift innerhalb des Landkreises",
           "\u00c4nderung von Technikdaten am Fahrzeug",
@@ -8784,6 +8850,7 @@
       "28": {
         "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
         "services": [
+          "0500_Neuzulassung",
           "Test Neuzulassung eines PKW",
           "Zulassung eines Neufahrzeuges aus dem Inland"
         ]
@@ -18135,6 +18202,44 @@
           "Offenburg Landratsamt - Dauer 6 Stunden",
           "Schulung in Offenburg Landratsamt"
         ]
+      },
+      "3562": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung in Ettenheim",
+          "Schulung in Ettenheim Stadthalle"
+        ]
+      },
+      "3563": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung Lahr LGS Mehrzweckhalle"
+        ]
+      },
+      "3564": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung in Achern B\u00fcrgersaal im Rathaus",
+          "Schulungin Achern B\u00fcrgersaal im Rathaus"
+        ]
+      },
+      "3565": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung in Fischerbach Gemeindehalle / Brandenkopfhalle"
+        ]
+      },
+      "3566": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung in Oppenau G\u00fcnther-Bimmerle Halle"
+        ]
+      },
+      "3567": {
+        "name": "Zensus Schulung",
+        "services": [
+          "Schulung in Appenweier Schwarzwaldhalle"
+        ]
       }
     }
   },
@@ -23282,7 +23387,12 @@
         "services": [
           "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Beglaubigung f\u00fcr Rentenzwecke",
+          "E-ID f\u00fcr EU- und EWR-B\u00fcrger beantragen",
+          "F\u00fchrungszeugnis beantragen",
+          "Kinderreisepass beantragen",
           "Kopie beglaubigen",
+          "Personalausweis beantragen",
+          "Reisepass beantragen",
           "Unterschrift beglaubigen",
           "Unterschrift f\u00fcr Rentenzwecke beglaubigen",
           "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
@@ -23325,7 +23435,8 @@
           "Auswahl einer Grabstelle f\u00fcr Sargbestattungen",
           "Auswahl einer Grabstelle f\u00fcr Urnenbestattungen",
           "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
-          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen",
+          "Grabstelle ohne Sterbefall / Vorsorge oder Beratung"
         ]
       },
       "353": {
@@ -23342,7 +23453,8 @@
           "Auswahl einer Grabstelle f\u00fcr Sargbestattungen",
           "Auswahl einer Grabstelle f\u00fcr Urnenbestattungen",
           "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
-          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+          "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen",
+          "Grabstelle ohne Sterbefall / Vorsorge oder Beratung"
         ]
       },
       "355": {
@@ -23377,12 +23489,134 @@
           "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
         ]
       },
+      "365": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Bolz"
+        ]
+      },
+      "366": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Brand"
+        ]
+      },
+      "368": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Fr. Friedrich"
+        ]
+      },
+      "369": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Fr. Klose"
+        ]
+      },
+      "370": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Strehle"
+        ]
+      },
+      "371": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Hr. Arends"
+        ]
+      },
+      "372": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Hr. Schmidt"
+        ]
+      },
+      "373": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Herrn Sperber"
+        ]
+      },
+      "374": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Grundey-Schneider"
+        ]
+      },
+      "375": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Heilmann"
+        ]
+      },
+      "376": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau O\u00dfmann"
+        ]
+      },
+      "377": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau R\u00f6schlein"
+        ]
+      },
+      "378": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Sedlmayer"
+        ]
+      },
+      "379": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Strickstrock"
+        ]
+      },
+      "380": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Sulzer-Gscheidl"
+        ]
+      },
+      "381": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Frau Vierbaum"
+        ]
+      },
+      "382": {
+        "name": "Schulen und Ausbildung",
+        "services": [
+          "Ausbildungskontaktgespr\u00e4ch bei Herrn Homa"
+        ]
+      },
       "383": {
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
           "Kinderreisepass beantragen",
           "Personalausweis beantragen",
           "Reisepass beantragen"
+        ]
+      },
+      "384": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Nutzung der Abschiednahmezelle am Fenster",
+          "Nutzung der Trauerhalle f\u00fcr eine Ein\u00e4scherungsfeier",
+          "Nutzung der Trauerhalle f\u00fcr eine Erdbestattung",
+          "Nutzung der Trauerhalle f\u00fcr eine Urnenbeisetzungsfeier",
+          "Nutzung des Abschiednahmeraumes"
+        ]
+      },
+      "385": {
+        "name": "Friedh\u00f6fe und Grabst\u00e4tten",
+        "services": [
+          "Nutzung der Abschiednahmezelle am Fenster",
+          "Nutzung der Trauerhalle f\u00fcr eine Ein\u00e4scherungsfeier",
+          "Nutzung der Trauerhalle f\u00fcr eine Erdbestattung",
+          "Nutzung der Trauerhalle f\u00fcr eine Urnenbeisetzungsfeier",
+          "Nutzung des Abschiednahmeraumes"
         ]
       }
     }
@@ -25180,6 +25414,18 @@
           "Melderegisterauskunft",
           "Ummeldung"
         ]
+      },
+      "223": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "224": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
       }
     }
   },
@@ -26859,6 +27105,55 @@
         "services": [
           "Sorgeerkl\u00e4rung",
           "Unterhaltsverpflichtung"
+        ]
+      },
+      "217": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang zur Landwirtschaft und zum Grundst\u00fccksverkehr"
+        ]
+      },
+      "218": {
+        "name": "Umwelt",
+        "services": [
+          "Allgemeinen Umweltfragen"
+        ]
+      },
+      "219": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang zum Wald"
+        ]
+      },
+      "220": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang mit B\u00f6den"
+        ]
+      },
+      "221": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang mit Angelegenheiten des Klimaschutzes"
+        ]
+      },
+      "222": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang mit Natur- und Artenschutz"
+        ]
+      },
+      "223": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang mit Angelegenheiten, die Grund- und Oberfl\u00e4chengew\u00e4sser betreffen"
+        ]
+      },
+      "224": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang mit Abf\u00e4llen",
+          "Fragen in Zusammenhang mit Immissionen (Ger\u00e4usche/L\u00e4rm/Ersch\u00fctterungen/Licht/Geruch)"
         ]
       },
       "225": {
@@ -28570,13 +28865,15 @@
     "url": "https://www.etermin.net/spitzwegapo",
     "locations": {
       "128371": {
-        "name": null,
+        "name": "PCR Tests",
         "services": [
-          "Antigen Schnelltest (Ag) Covid-19 - kostenlos"
+          "Antigen Schnelltest (Ag) Covid-19 - kostenlos",
+          "Express PCR - Kostenlos",
+          "Express PCR - Kostenpflichtig"
         ]
       },
       "98850": {
-        "name": null,
+        "name": "Schnelltest",
         "services": [
           "Antigen Schnelltest (Ag) Covid 19 - kostenlos",
           "Antigen Schnelltest (Ag) Covid 19 - kostenpflichtig",
@@ -28851,13 +29148,16 @@
           "Anmeldung eines Wohnsitzes in Trier",
           "Anmeldung eines Wohnsitzes in Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Anmeldung eines Wohnsitzes in Trier, deutsche Staatsangeh\u00f6rige",
+          "Beantragung (gleichzeitig) Personalausweis und Reisepass",
           "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)",
           "Beantragung Personalausweis",
+          "Beantragung Personalausweis f\u00fcr Minderj\u00e4hrige unter 16 Jahren",
           "Beantragung Reisepass",
           "Beantragung Reisepass f\u00fcr Minderj\u00e4hrige",
           "Beantragung eID-Karte f\u00fcr Unionsb\u00fcrger*innen und Angeh\u00f6rige aus EWR-Staaten",
           "Beantragung oder Verl\u00e4ngerung Kinderreisepass (G\u00fcltigkeit 1 Jahr)",
           "Beantragung vorl\u00e4ufiger Personalausweis (G\u00fcltigkeit 3 Monate)",
+          "Beantragung vorl\u00e4ufiger Personalausweis (G\u00fcltigkeit 3 Monate) f\u00fcr Minderj\u00e4hrige unter 16 Jahren",
           "Beantragung vorl\u00e4ufiger Reisepass f\u00fcr Minderj\u00e4hrige (G\u00fcltigkeit 1 Jahr)",
           "Beantragung vorl\u00e4ufiger Reisepasses (G\u00fcltigkeit 1 Jahr)",
           "Beglaubigung Unterschrift (amtlich)",
@@ -28865,6 +29165,7 @@
           "Beglaubigungen  Abschrift/Kopie ab 11 Dokumenten",
           "Beglaubigungen  Abschrift/Kopie ab 4 bis 11 Dokumenten",
           "Beglaubigungen  Abschrift/Kopie bis zu 3 Dokumenten",
+          "F\u00fchrungszeugnis (erweitert) Belegart NE/OE",
           "F\u00fchrungszeugnis Belegart N / O",
           "F\u00fchrungszeugnis Belegart N/O",
           "Gewerbezentralregister",
@@ -28884,10 +29185,45 @@
           "\u00c4nderung Adressetikett / elektronischer Aufenthaltstitel nach bereits erfolgter Ummeldung"
         ]
       },
+      "71": {
+        "name": "Jugendamt Beurkundung",
+        "services": [
+          "Erkl\u00e4rung der gemeinsamen elterlichen Sorge",
+          "Erkl\u00e4rung zur Vaterschaftsanerkennung mit Zustimmung der Mutter",
+          "Erkl\u00e4rung zur Vaterschaftsanerkennung mit Zustimmung der Mutter + Erkl\u00e4rung der gemeinsamen elterlichen Sorge"
+        ]
+      },
       "72": {
         "name": "B\u00fcrgeramt_TEST",
         "services": [
-          "F\u00fchrungszeugnis Belegart N/O"
+          "An- oder Abmeldung eines Hundes",
+          "Anerkennung ausl\u00e4ndischer Personenstandsurkunden (Eintrag im Melderegister)",
+          "Anmeldung eines Wohnsitzes in Trier",
+          "Beantragung (gleichzeitig) Personalausweis und Reisepass",
+          "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)",
+          "Beantragung Personalausweis",
+          "Beantragung Personalausweis f\u00fcr Minderj\u00e4hrige unter 16 Jahren",
+          "Beantragung Reisepass",
+          "Beantragung Reisepass f\u00fcr Minderj\u00e4hrige",
+          "Beantragung eID-Karte f\u00fcr Unionsb\u00fcrger*innen und Angeh\u00f6rige aus EWR-Staaten",
+          "Beglaubigung Unterschrift (amtlich)",
+          "Beglaubigung Unterschrift (\u00f6ffentlich)",
+          "Beglaubigungen  Abschrift/Kopie ab 11 Dokumenten",
+          "Beglaubigungen  Abschrift/Kopie ab 4 bis 11 Dokumenten",
+          "Beglaubigungen  Abschrift/Kopie bis zu 3 Dokumenten",
+          "F\u00fchrungszeugnis (erweitert) Belegart NE/OE",
+          "F\u00fchrungszeugnis Belegart N/O",
+          "Gewerbezentralregister",
+          "Haushaltsbescheinigung Luxemburg",
+          "KFZ-Schein-\u00c4nderung",
+          "Lebens-/Meldebescheinigung",
+          "Online-Ausweisfunktion (eID) aktivieren oder PIN setzen",
+          "Online-Ausweisfunktion (eID) entsperren und PIN setzen",
+          "Steuer-ID (Zweitausfertigung)",
+          "Ummeldung eines Wohnsitzes innerhalb von Trier",
+          "Untersuchungsberechtigungsschein",
+          "erweitertes F\u00fchrungszeugnis Belegart NE/OE",
+          "\u00c4nderung Adressetikett / elektronischer Aufenthaltstitel nach bereits erfolgter Ummeldung"
         ]
       },
       "73": {
