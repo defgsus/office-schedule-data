@@ -826,6 +826,7 @@
           "Online-Ausweisfunktion und PIN Setzung/\u00c4nderung/Entsperrung",
           "Personalausweis",
           "Reisepass (auch Express-Reisepass)",
+          "eID-Karte f\u00fcr B\u00fcrgerinnen und B\u00fcrger der EU und des EWR 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten3\u00a0\u00a0 Karten4\u00a0\u00a0 Karten5\u00a0\u00a0 Karten6\u00a0\u00a0 Karten",
           "eID-Karte f\u00fcr EU-B\u00fcrger 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten3\u00a0\u00a0 Karten4\u00a0\u00a0 Karten5\u00a0\u00a0 Karten6\u00a0\u00a0 Karten",
           "vorl\u00e4ufiger Personalausweis",
           "vorl\u00e4ufiger Reisepass"
@@ -2650,6 +2651,30 @@
           "Schulung f\u00fcr ehrenamtliche Erhebungsbeauftragte"
         ]
       },
+      "723": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "724": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "725": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "726": {
+        "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
+        "services": [
+          "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
       "785": {
         "name": "Pop-Up-BSC Versteigerungshalle",
         "services": [
@@ -4279,6 +4304,7 @@
       "81375": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Allgemeine Beratung",
           "Anmeldung/Ummeldung des Wohnsitzes",
           "Beglaubigungen",
           "Bewohnerparkausweis ",
@@ -5989,6 +6015,10 @@
         "name": "Verlust Fahrzeugpapiere / Eid",
         "services": []
       },
+      "verlust-fahrzeugpapiere-eid-zulassung-importfahrzeuge-einfuhren": {
+        "name": "Verlust Fahrzeugpapiere / Eid / Zulassung Importfahrzeuge / Einfuhren",
+        "services": []
+      },
       "zulassungs-und-anderungsantrage": {
         "name": "Zulassungs- und \u00c4nderungsantr\u00e4ge",
         "services": []
@@ -7596,6 +7626,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7629,6 +7660,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -7654,6 +7686,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7687,6 +7720,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -7712,6 +7746,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7745,6 +7780,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -7770,6 +7806,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7803,6 +7840,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -7884,6 +7922,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7917,6 +7956,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -7942,6 +7982,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)",
           "PIN-R\u00fccksetzung und Aktivierung/Entsperrung der Online-Ausweisfunktion (eID-Funk",
@@ -7975,6 +8016,7 @@
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -8589,6 +8631,9 @@
       "19": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Anmeldung Wohnmobil / Einfuhr aus dem Ausland / landw.Zugm / LKW / LKW-Anh",
+          "Anmeldung Wohnmobil / Einfuhr aus dem Ausland / landwirtschliches Fz. / LKW / LKW-Anh",
+          "Anmeldung Wohnmobil / US-Import / landw.Zugm / LKW / LKW-Anh",
           "Anmeldung Wohnmobil /US-Import /landw.Zugm /LKW /LKW-Anh",
           "Ausfuhrkennzeichen",
           "Au\u00dferbetriebsetzung",
@@ -8598,6 +8643,7 @@
           "Fahrzeug anmelden",
           "Fahrzeug anmelden (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Fahrzeug anmelden + Au\u00dferbetriebsetzung des Altfz.",
+          "Fahrzeug anmelden + Ihr Altfz. au\u00dfer Betrieb setzen",
           "Fahrzeug au\u00dfer Betrieb setzen (abmelden)",
           "Fahrzeug zulassen (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Kurzzeitkennzeichen",
@@ -8607,6 +8653,10 @@
           "Verlust der ZB I (Fahrzeugschein)",
           "Verlust der ZB II (Fahrzeugbrief)",
           "Zulassung Wohnmobil, US-Import, landw.Zugm, LKW, LKW-Anh",
+          "rotes H\u00e4ndlerkennzeichen beantragen / verl\u00e4ngern / abmelden",
+          "rotes H\u00e4ndlerkennzeichen: neues Fahrzeugscheinheft beantragen",
+          "rotes Oldtimerkennzeichen (Erstantrag)",
+          "rotes Oldtimerkennzeichen (\u00c4nderung des Fahrzeugbestandes)",
           "sonstiges Anliegen",
           "\u00c4nderung der Anschrift innerhalb des Landkreises",
           "\u00c4nderung von Technikdaten am Fahrzeug",
@@ -8616,6 +8666,9 @@
       "20": {
         "name": "KFZ Zulassungsstelle",
         "services": [
+          "Anmeldung Wohnmobil / Einfuhr aus dem Ausland / landw.Zugm / LKW / LKW-Anh",
+          "Anmeldung Wohnmobil / Einfuhr aus dem Ausland / landwirtschliches Fz. / LKW / LKW-Anh",
+          "Anmeldung Wohnmobil / US-Import / landw.Zugm / LKW / LKW-Anh",
           "Anmeldung Wohnmobil /US-Import /landw.Zugm /LKW /LKW-Anh",
           "Ausfuhrkennzeichen",
           "Au\u00dferbetriebsetzung",
@@ -8625,6 +8678,7 @@
           "Fahrzeug anmelden",
           "Fahrzeug anmelden (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Fahrzeug anmelden + Au\u00dferbetriebsetzung des Altfz.",
+          "Fahrzeug anmelden + Ihr Altfz. au\u00dfer Betrieb setzen",
           "Fahrzeug au\u00dfer Betrieb setzen (abmelden)",
           "Fahrzeug zulassen (incl. ggf. Au\u00dferbetriebsetzung des Altfz.)",
           "Kurzzeitkennzeichen",
@@ -8634,6 +8688,8 @@
           "Verlust der ZB I (Fahrzeugschein)",
           "Verlust der ZB II (Fahrzeugbrief)",
           "Zulassung Wohnmobil, US-Import, landw.Zugm, LKW, LKW-Anh",
+          "rotes H\u00e4ndlerkennzeichen: neues Fahrzeugscheinheft beantragen",
+          "rotes Oldtimerkennzeichen (\u00c4nderung des Fahrzeugbestandes)",
           "sonstiges Anliegen",
           "\u00c4nderung der Anschrift innerhalb des Landkreises",
           "\u00c4nderung von Technikdaten am Fahrzeug",
@@ -8765,7 +8821,10 @@
       "97742": {
         "name": null,
         "services": [
-          "PCR Test"
+          "PCR Test",
+          "PCR Test am Wochenende",
+          "PCR-Test  (Mo. bis Fr.)",
+          "PCR-Test (Sa. bis So.) "
         ]
       }
     }
@@ -8850,9 +8909,35 @@
       "28": {
         "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
         "services": [
+          "0500_Au\u00dferbetriebsetzung",
+          "0500_Ersatzfahrzeugschein",
+          "0500_Erstzulassung eines Gebrauchtfahrzeuges",
+          "0500_Kurzzeitkennzeichen",
+          "0500_Neusiegelung von Kennzeichen",
           "0500_Neuzulassung",
+          "0500_Rotes Dauerkennzeichen - Fahrzeugscheinheft",
+          "0500_Sonstiges",
+          "0500_Umkennzeichnung",
+          "0500_Umschreibung",
+          "0500_Verlust Fahrzeugpapiere",
+          "0500_Wiederzulassung",
+          "0500_\u00c4nderung Technikdaten",
+          "Adress\u00e4nderung",
+          "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Ersatzfahrzeugschein",
+          "Erstzulassung eines Gebrauchtfahrzeuges (Importfahrzeug)",
+          "Kurzzeitkennzeichen",
+          "Neusiegelung von Kennzeichen",
+          "Neuzulassung",
+          "Sonstiges",
           "Test Neuzulassung eines PKW",
-          "Zulassung eines Neufahrzeuges aus dem Inland"
+          "Umkennzeichnung",
+          "Umschreibung",
+          "Verlust Fahrzeugpapiere",
+          "Wiederzulassung (auf den gleichen Halter)",
+          "Zulassung eines Neufahrzeuges aus dem Inland",
+          "\u00c4nderung Halterdaten (Namens\u00e4nderung)",
+          "\u00c4nderung Technikdaten"
         ]
       }
     }
@@ -18612,6 +18697,54 @@
           "Aush\u00e4ndigung eAT / ePASS (A - Z) im Kundencenter"
         ]
       },
+      "396": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Avd - Casa (Frau Aydin)"
+        ]
+      },
+      "398": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Lakkl - Milic (Frau Panettiere)"
+        ]
+      },
+      "399": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Kam - Lakk (Frau Popp)"
+        ]
+      },
+      "400": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Smak - Veh (Frau Sarto)"
+        ]
+      },
+      "401": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Ome - Ris (Frau Schulz)"
+        ]
+      },
+      "402": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Dzb - Hamd (Herr Erhard)"
+        ]
+      },
+      "404": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Vei - Z (Herr Mehringer)"
+        ]
+      },
+      "405": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Milid - Omd (Herr Sellmaier)"
+        ]
+      },
       "407": {
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
@@ -18623,6 +18756,30 @@
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
           "Onlinetermin Verpflichtungserkl\u00e4rung"
+        ]
+      },
+      "409": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung A - Avc (Frau Cetme)"
+        ]
+      },
+      "410": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Casb - Dza (Frau Inac-Laouani)"
+        ]
+      },
+      "412": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Rit - Smaj (Frau Pupcevic)"
+        ]
+      },
+      "413": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Hame - Kal (Frau Reza)"
         ]
       },
       "415": {
@@ -19908,24 +20065,34 @@
       "185/3284": {
         "name": "default",
         "services": [
+          "? Dokumentenabholung",
           "Abholung Personalausweis und / oder Reisepass - bitte die Anzahl angeben",
           "Abmeldung einer Wohnung",
           "Anmeldung in L\u00fcnen nach Zuzug aus dem Ausland - Personenanzahl angeben",
           "Anmeldung in L\u00fcnen nach Zuzug aus einer anderen Stadt - Personenanzahl angeben",
+          "Ausweis- und Passangelegenheiten",
           "Beglaubigungen von Kopien und Unterschriften - Anzahl der Dokumente angeben",
+          "Beim B\u00fcrgerb\u00fcro der Stadt L\u00fcnen werden derzeit keine Termine f\u00fcr Umtauschantr\u00e4ge",
+          "Bescheinigungen",
+          "Dokumentenabholung",
           "Erteilung der Fahrerlaubnis beantragen / Umtausch Papierf\u00fchrerschein beantragen",
           "Fischereischein - Neuausstellung",
           "Fischereischein - Verl\u00e4ngerung",
+          "Fischereischeinangelegenheiten",
+          "F\u00fchrerscheinangelegenheiten",
           "F\u00fchrungszeugnis",
           "KFZ Schein Adress\u00e4nderung - nur nach erfolgter Ummeldung im Kreis Unna",
           "Kinderreisepass aktualisieren - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
           "Kinderreisepass beantragen - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
           "Melde-/Lebensbescheinigungen",
+          "Meldeangelegenheiten",
           "Personalausweis - einen vorl\u00e4ufigen Personalausweis beantragen",
           "Personalausweis beantragen - bitte die Anzahl an Ausweisen angeben",
           "Reisepass - einen vorl\u00e4ufigen Reisepass beantragen",
           "Reisepass beantragen - bitte die Anzahl an Reisep\u00e4ssen angeben",
           "Schwerbehindertenausweis Verl\u00e4ngerung / Neuausstellung",
+          "Sonstiges",
+          "Terminvereinbarung derzeit nicht m\u00f6glich!",
           "Ummeldung innerhalb von L\u00fcnen - bitte die genaue Personenzahl angeben",
           "Untersuchungsberechtigungsschein",
           "eID-Karte f\u00fcr Unionsb\u00fcrger"
@@ -21623,9 +21790,11 @@
         "services": [
           "Abmeldung Gewerbe",
           "Abmeldung Privathaushalt",
+          "An / Abmeldung Privathaushalt",
           "Anmeldung Gewerbe",
           "Anmeldung Privathaushalt",
-          "Ummeldung innerhalb von Mannheim"
+          "Ummeldung innerhalb von Mannheim",
+          "Umzug innerhalb von Mannheim"
         ]
       },
       "191/1765": {
@@ -21644,7 +21813,8 @@
           "Namens- bzw. Stammdaten\u00e4nderung",
           "Rechnungsreklamation /-kl\u00e4rung",
           "Tarifberatung",
-          "Trocknungsma\u00dfnahme"
+          "Trocknungsma\u00dfnahme",
+          "\u00c4nderung des Abschlags"
         ]
       },
       "191/3051": {
@@ -21664,12 +21834,66 @@
           "Strom- und Energieeinsparung"
         ]
       },
+      "191/8023": {
+        "name": "MVV E.forum: Vertragliche Angelegenheiten",
+        "services": [
+          "Abschlag \u00e4ndern",
+          "Einzugserm\u00e4chtigung",
+          "Rechnungsreklamation /-kl\u00e4rung",
+          "Tarifberatung",
+          "Trocknungsma\u00dfnahme"
+        ]
+      },
+      "480/1709": {
+        "name": "MVV Nachbarschaftsoase: An-/Abmeldungen",
+        "services": [
+          "Abmeldung Gewerbe",
+          "Abmeldung Privathaushalt",
+          "An / Abmeldung Privathaushalt",
+          "Anmeldung Gewerbe",
+          "Anmeldung Privathaushalt",
+          "Ummeldung innerhalb von Mannheim",
+          "Umzug innerhalb von Mannheim"
+        ]
+      },
+      "480/1765": {
+        "name": "MVV Nachbarschaftsoase: Finanzservice",
+        "services": [
+          "Ratenplan",
+          "Sperrrelevante Themen (Sperrandrohung, Sperrung, etc.)",
+          "Zahlungsaufschub / Stundung",
+          "Z\u00e4hler\u00f6ffnung"
+        ]
+      },
+      "480/2342": {
+        "name": "MVV Nachbarschaftsoase: Vertragliche Angelegenheiten",
+        "services": [
+          "Einzugserm\u00e4chtigung",
+          "Namens- bzw. Stammdaten\u00e4nderung",
+          "Rechnungsreklamation /-kl\u00e4rung",
+          "Tarifberatung",
+          "Trocknungsma\u00dfnahme",
+          "\u00c4nderung des Abschlags"
+        ]
+      },
       "480/6789": {
         "name": "FRANKLIN Nachbarschaftsoase",
         "services": [
           "Beratung zu MVV Produkten",
+          "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde",
+          "FRANKLIN Mobil - Fahrzeugsharing - Neuregistrierung",
           "FRANKLIN Mobil Bestandskunde",
           "FRANKLIN Mobil Neukunde"
+        ]
+      },
+      "480/8023": {
+        "name": "MVV Nachbarschaftsoase: Vertragliche Angelegenheiten",
+        "services": [
+          "Abschlag \u00e4ndern",
+          "Einzugserm\u00e4chtigung",
+          "Rechnungsreklamation /-kl\u00e4rung",
+          "Tarifberatung",
+          "Trocknungsma\u00dfnahme"
         ]
       }
     }
@@ -22137,9 +22361,12 @@
           "Abmeldung eines Fahrzeug",
           "Ausfuhrkennzeichen (KEIN Import)",
           "Ersatz-Fahrzeugbrief (Zulassungsbescheinigung Teil II)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
           "Firmenzulassung",
           "H\u00e4ndlerkennzeichen (rotes Dauerkennzeichen)",
           "K-Abmeldung Fahrzeug",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Kein Importfahrzeug)",
           "Oldtimerkennzeichen / Historische Fahrzeuge",
           "Rotes Fahrzeugscheinheft f\u00fcr Dauerkennzeichen (H\u00e4ndler*innen)",
           "Technische \u00c4nderungen in den Fahrzeugpapieren",
@@ -28708,6 +28935,7 @@
           "Abholung Ausweise",
           "Abholung Personalausweis/ Reisepass",
           "Abmeldung des Wohnsitzes",
+          "Ausstellung Kinderreisepass",
           "Ausstellung/ Verl\u00e4ngerung Kinderreisepass",
           "Beantragung Personalausweis",
           "Beantragung eines Reisepasses",
