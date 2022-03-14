@@ -281,6 +281,12 @@
         "services": [
           "Umtausch des alten grauen oder rosa F\u00fchrerscheins (Papier) in einen EU-Kartenf\u00fchrerschein"
         ]
+      },
+      "188": {
+        "name": "Standes- und Friedhofsamt",
+        "services": [
+          "Kirchenaustritte"
+        ]
       }
     }
   },
@@ -4287,6 +4293,814 @@
         "services": [
           "Hausbegehungen M\u00fcllenbach"
         ]
+      },
+      "850": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "851": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "852": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "853": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "854": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "855": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "856": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "859": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "860": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "861": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "862": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "863": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "864": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "865": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "868": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "869": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "870": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "871": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "872": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "873": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "874": {
+        "name": "Termine Schnellteststation NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation",
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "875": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "877": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "878": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "879": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "880": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "881": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "882": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "883": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "887": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "888": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "889": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "890": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "891": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "892": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "894": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "895": {
+        "name": "Termine Schnellteststation PCR NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation",
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "897": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "898": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "899": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "900": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "901": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "902": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "904": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "905": {
+        "name": "Termine Schnellteststation PCR NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation",
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "907": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "908": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "909": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "910": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "911": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "912": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "914": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "915": {
+        "name": "Termine Schnellteststation PCR NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation",
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "917": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "918": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "919": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "920": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "921": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "922": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "923": {
+        "name": "Termine Schnellteststation PCR NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "924": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "925": {
+        "name": "Termine Schnellteststation POC NUR TEST KEINE BUCHUNG",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "927": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "928": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "929": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "930": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "931": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "932": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "933": {
+        "name": "Termine Schnellteststation PCR NUR TEST KEINE BUCHUNG",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "934": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "935": {
+        "name": "Termine Schnellteststation POC NUR TEST KEINE BUCHUNG",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "947": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "948": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "949": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "950": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "951": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "952": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "953": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "954": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "955": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "957": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "958": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "959": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "960": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "961": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "962": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "963": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "964": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "965": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "967": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "968": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "969": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "970": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "971": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "972": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "973": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "974": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "975": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
       }
     }
   },
@@ -6011,12 +6825,24 @@
         "name": "Kurzzeitkennzeichen (5 Tage)",
         "services": []
       },
+      "verlust-fahrzeugpapiere-abnahme-eid": {
+        "name": "Verlust Fahrzeugpapiere / Abnahme Eid",
+        "services": []
+      },
+      "verlust-fahrzeugpapiere-abnahme-eid-abholung-fahrzeugbrief": {
+        "name": "Verlust Fahrzeugpapiere / Abnahme Eid / Abholung Fahrzeugbrief",
+        "services": []
+      },
       "verlust-fahrzeugpapiere-eid": {
         "name": "Verlust Fahrzeugpapiere / Eid",
         "services": []
       },
       "verlust-fahrzeugpapiere-eid-zulassung-importfahrzeuge-einfuhren": {
         "name": "Verlust Fahrzeugpapiere / Eid / Zulassung Importfahrzeuge / Einfuhren",
+        "services": []
+      },
+      "zulassung-importfahrzeuge-einfuhren": {
+        "name": "Zulassung Importfahrzeuge / Einfuhren",
         "services": []
       },
       "zulassungs-und-anderungsantrage": {
@@ -6365,6 +7191,7 @@
       "211/2252": {
         "name": "KundenCenter Barmen: default",
         "services": [
+          "(Bitte ausfuellen)",
           "Anmeldung Gewerbekunden",
           "Hauseigent\u00fcmerwechsel",
           "Rechnungserl\u00e4uterung",
@@ -6615,7 +7442,10 @@
         "services": [
           "1.Impfung",
           "2. Impfung",
-          "Booster Impfung"
+          "Booster Impfung",
+          "Ich unterliege der einrichtungsbezogenen Impfpflicht",
+          "Impfen mit Novavax",
+          "Impfen mit Novawax"
         ]
       },
       "68": {
@@ -6673,6 +7503,7 @@
           "Befreiung/Erm\u00e4\u00dfigung von den Rundfunkgeb\u00fchren beantragen",
           "Elterngeld beantragen \u2013 mit Beratung",
           "Elterngeld beantragen \u2013 ohne Beratung",
+          "Grundsicherung / Hilfe zum Lebensunterhalt nach dem SGB XII beantragen - Erstantrag",
           "Grundsicherung / Hilfe zum Lebensunterhalt nach dem SGB XII beantragen - Erstantrag ",
           "Grundsicherung / Hilfe zum Lebensunterhalt nach dem SGB XII beantragen - Folgeantrag",
           "Hilfe zur Pflege beantragen au\u00dferhalb Einrichtungen (ambulant)",
@@ -6693,7 +7524,30 @@
           "Wohnberechtigungsschein beantragen",
           "Wohngeld Antrag - Unterlagen nachreichen",
           "Wohngeld Antrag stellen",
+          "\u00dcbernahme Bestattungskosten beantragen",
           "\u00dcbernahme Bestattungskosten beantragen "
+        ]
+      },
+      "71": {
+        "name": "Rente",
+        "services": [
+          "Altersrente beantragen",
+          "Halb- oder Vollwaisenrente beantragen",
+          "Halb- oder Vollwaisenrente beantragen ",
+          "Lebensbescheinigung",
+          "Rente wegen Erwerbsminderung beantragen",
+          "Rentenversicherung - Rentenauskunft und Kontenkl\u00e4rung beantragen",
+          "Rentenversicherung - Rentenauskunft und Kontenkl\u00e4rung beantragen ",
+          "Witwen-/Witwerrente beantragen",
+          "\u00c4nderungen an die Rentenversicherung melden"
+        ]
+      },
+      "72": {
+        "name": "Senioren- und Pflegeberatung",
+        "services": [
+          "Senioren-/ Pflegeberatung - Widerspruch einreichen / zu Protokoll geben",
+          "Senioren-/ Pflegeberatung -Pflegegrad / H\u00f6herstufung beantragen",
+          "Senioren-/Pflegeberatung Beratungstermin vereinbaren"
         ]
       }
     }
@@ -7672,6 +8526,7 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -7732,6 +8587,8 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -7792,6 +8649,8 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -7852,6 +8711,8 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -7968,6 +8829,7 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -8028,6 +8890,7 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -8702,6 +9565,7 @@
           "Abholung von F\u00fchrerscheinen / Fahrerkarten",
           "Antr\u00e4ge von Fahrschulen f\u00fcr Fahrsch\u00fcler/innen",
           "Ausstellung Fahrerkarte",
+          "Ausstellung Fahrerqualifizierungsnachweis (FQN)",
           "Ausstellung Personenbef\u00f6rderungsschein",
           "Begleitetes Fahren mit 17 Jahren",
           "Eintrag Berufskraftfahrerqualifikation (SZ95)",
@@ -8897,6 +9761,10 @@
       "26": {
         "name": "Fachdienst Stra\u00dfenverkehr - H\u00fcnfeld",
         "services": [
+          "Abgabe von Unterlagen",
+          "Erstberatung",
+          "Kosten der Unterkunft",
+          "Ortsabwesenheit",
           "Weiterbewillgungsantrag"
         ]
       },
@@ -8933,6 +9801,7 @@
           "Test Neuzulassung eines PKW",
           "Umkennzeichnung",
           "Umschreibung",
+          "Vergabe/L\u00f6schung Saisonkennzeichen",
           "Verlust Fahrzeugpapiere",
           "Wiederzulassung (auf den gleichen Halter)",
           "Zulassung eines Neufahrzeuges aus dem Inland",
@@ -9133,6 +10002,7 @@
           "Neuerteilung der Fahrerlaubnis nach vorangegangenem Entzug",
           "Neusiegelung der Kennzeichen wegen Unleserlichkeit",
           "Neuzulassung eines Fahrzeuges",
+          "PIK Erfassung",
           "Parkerleichterung f\u00fcr Schwerbehinderte",
           "Personalausweis beantragen",
           "Personalausweis beantragen - vorl\u00e4ufig",
@@ -9164,6 +10034,7 @@
           "Zuteilung, \u00c4nderung oder L\u00f6schung eines Saisonkennzeichens",
           "eAT-Ausgabe (Ausl\u00e4nderbeh\u00f6rde)",
           "eID-Karte beantragen",
+          "\u00a724 Ukraine",
           "\u00c4nderung des Kfz-Scheines nach erfolgter Ummeldung",
           "\u00dcbertrag Aufenthaltserlaubnis/Niederlassungserlaubnis (ABH)",
           "\u00dcbertrag NE",
@@ -9395,6 +10266,12 @@
         "name": "Stra\u00dfenverkehrsbeh\u00f6rde",
         "services": [
           "Pflichtumtausch F\u00fchrerscheine der Jahrg\u00e4nge 1953 - 1958"
+        ]
+      },
+      "104": {
+        "name": "Asylbewerberleistungsgesetz",
+        "services": [
+          "AsylbLG-Antr\u00e4ge f\u00fcr Ukrainische Fl\u00fcchtlinge"
         ]
       },
       "88": {
@@ -9921,6 +10798,20 @@
           "KFA - Versicherungsschutz"
         ]
       },
+      "74084": {
+        "name": "Sozialamt",
+        "services": [
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "SozialCard",
+          "Sozialunterst\u00fctzung"
+        ]
+      },
       "74086": {
         "name": "Sozialamt",
         "services": [
@@ -10309,6 +11200,20 @@
           "Unterst\u00fctzungserkl\u00e4rung",
           "Verlustmeldung",
           "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "74826": {
+        "name": "Sozialamt",
+        "services": [
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "SozialCard",
+          "Sozialunterst\u00fctzung"
         ]
       },
       "74833": {
@@ -11603,6 +12508,7 @@
           "Abholung Personalausweis, Reisepass oder Kinderreisepass",
           "Abmeldung",
           "Adress- oder Namens\u00e4nderung, Kennzeichen unleserlich",
+          "Alte F\u00fchrerscheine - Pflichtumtausch in EU-Kartenf\u00fchrerschein",
           "Anmeldung, Ummeldung innerhalb Heidelbergs",
           "Annahme von Antr\u00e4gen und Fundsachen",
           "Anwohner- oder Schwerbehindertenparkausweis, Besucherkarten",
@@ -11638,6 +12544,7 @@
       "29": {
         "name": "B\u00fcrgerdienste",
         "services": [
+          "Alte F\u00fchrerscheine - Pflichtumtausch in EU-Kartenf\u00fchrerschein",
           "Ersatzf\u00fchrerschein bei Verlust/Diebstahl",
           "Ersterteilung, Neuerteilung, Erweiterung oder Verl\u00e4ngerung F\u00fchrerschein",
           "Ersterteilung, Verl\u00e4ngerung der Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
@@ -11681,6 +12588,12 @@
         "name": "Zensus",
         "services": [
           "Zensus-Erhebung"
+        ]
+      },
+      "38": {
+        "name": "Pflegest\u00fctzpunkt",
+        "services": [
+          "Information und Beratung"
         ]
       },
       "4010": {
@@ -18786,12 +19699,18 @@
         "name": "Einb\u00fcrgerungsbeh\u00f6rde",
         "services": [
           "Familienname mit  Am, Bel - Bog, Mas - Pon Beratung/Antragstellung Einb\u00fcrgerung",
+          "Familienname mit Am - An, Be - Bog Abholung Urkunde/Zusicherung, Sonstiges",
+          "Familienname mit Am - An, Be - Bog Beratung/Antragstellung Einb\u00fcrgerung",
+          "Familienname mit Am - An, Be - Bog, Mas - Pon Abholung Urkunde/Zusicherung, Sonstiges",
+          "Familienname mit Am - An, Be - Bog, Mas - Pon Beratung/Antragstellung Einb\u00fcrgerung",
           "Familienname mit Am, Bel - Bog, Mas - Pon Abholung Urkunde/Zusicherung, Sonstiges"
         ]
       },
       "416": {
         "name": "Einb\u00fcrgerungsbeh\u00f6rde",
         "services": [
+          "Familienname mit  Ali - Alz, Ba - Bd, Boh - E  Beratung/Antragstellung Einb\u00fcrgerung",
+          "Familienname mit  Ali - Alz, Ba - Bd, Boh - E,   Abholung Urkunde/Zusicherung, Sonstiges",
           "Familienname mit  Ali - Alz, Boh - Br, Bs - E  Beratung/Antragstellung Einb\u00fcrgerung",
           "Familienname mit  Ali - Alz, Boh - Br, Bs - E,   Abholung Urkunde/Zusicherung, Sonstiges"
         ]
@@ -18806,6 +19725,8 @@
       "419": {
         "name": "Einb\u00fcrgerungsbeh\u00f6rde",
         "services": [
+          "Familienname mit Ai - Alh, Ao - Az, Stb - Z Abholung Urkunde/Zusicherung, Sonstiges",
+          "Familienname mit Ai - Alh, Ao - Az, Stb - Z Beratung/Antragstellung Einb\u00fcrgerung",
           "Familienname mit Ai - Alh, Stb - Z Abholung Urkunde/Zusicherung, Sonstiges",
           "Familienname mit Ai - Alh, Stb - Z Beratung/Antragstellung Einb\u00fcrgerung"
         ]
@@ -18821,7 +19742,9 @@
         "name": "Einb\u00fcrgerungsbeh\u00f6rde",
         "services": [
           "Familienname mit Ba - Bek, F - Jl  Abholung Urkunde/Zusicherung, Sonstiges",
-          "Familienname mit Ba - Bek, F - Jl Beratung/Antragstellung Einb\u00fcrgerung"
+          "Familienname mit Ba - Bek, F - Jl Beratung/Antragstellung Einb\u00fcrgerung",
+          "Familienname mit F - Ji, Poo - Sta Abholung Urkunde/Zusicherung, Sonstiges",
+          "Familienname mit F - Ji, Poo - Sta Beratung/Antragstellung Einb\u00fcrgerung"
         ]
       },
       "422": {
@@ -19055,6 +19978,12 @@
         "services": [
           "Telefonische Beratung",
           "Telefonische Beratung Integrationskoordination"
+        ]
+      },
+      "462": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Ukraine Fl\u00fcchtlinge"
         ]
       }
     }
@@ -20382,6 +21311,10 @@
         "name": "Ausf\u00fcllhilfe",
         "services": []
       },
+      "bestattungskostenbeihilfe": {
+        "name": "Bestattungskostenbeihilfe",
+        "services": []
+      },
       "bildung-und-teilhabe": {
         "name": "Bildung und Teilhabe",
         "services": []
@@ -20506,6 +21439,7 @@
           "Anmeldung (Zuzug aus dem Ausland)",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
           "Anmeldung f\u00fcr Unionsb\u00fcrger und Ausl\u00e4nder (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Beglaubigungen ab 11 Dokumente",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20531,6 +21465,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20556,6 +21491,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20581,6 +21517,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20606,6 +21543,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20631,6 +21569,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20656,6 +21595,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20681,6 +21621,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20706,6 +21647,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20731,6 +21673,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20756,6 +21699,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20781,6 +21725,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20806,6 +21751,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20831,6 +21777,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20856,6 +21803,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -20896,6 +21844,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anwohnerparkausweis beantragen/verl\u00e4ngern",
           "Ausweis\u00e4nderung nach bereits erfolgter An-, Ummeldung",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
@@ -22048,6 +22997,7 @@
           "Ummeldung innerhalb von Minden",
           "Untersuchungsberechtigungsschein",
           "Untersuchungsberechtigungsschein beantragen",
+          "Wohnsitzanmeldung aus der Ukraine",
           "vorl\u00e4ufigen Personalausweis beantragen"
         ]
       },
@@ -22079,6 +23029,12 @@
         "name": "Zentraler Steuerungsdienst (ZSD)",
         "services": [
           "Shooting Presse-und \u00d6ffentlichkeitsarbeit"
+        ]
+      },
+      "158": {
+        "name": "Ukrainehilfe",
+        "services": [
+          "Anmeldung in Minden"
         ]
       }
     }
@@ -23365,7 +24321,8 @@
       "324": {
         "name": "F\u00fchrerscheine und Fahrerlaubnisse",
         "services": [
-          "Alten deutschen Papier-F\u00fchrerschein in Kartenf\u00fchrerschein umtauschen"
+          "Alten deutschen Papier-F\u00fchrerschein in Kartenf\u00fchrerschein umtauschen",
+          "F\u00fchrerschein abholen"
         ]
       },
       "325": {
@@ -23845,6 +24802,16 @@
           "Nutzung der Trauerhalle f\u00fcr eine Urnenbeisetzungsfeier",
           "Nutzung des Abschiednahmeraumes"
         ]
+      },
+      "386": {
+        "name": "F\u00fchrerscheine und Fahrerlaubnisse",
+        "services": [
+          "Ersatzf\u00fchrerschein f\u00fcr einen deutschen F\u00fchrerschein beantragen ohne zus\u00e4tzlichen FQN (95\u00e8r)",
+          "Fahrerlaubnis aus einem Anlage 11 - Staat umschreiben",
+          "Fahrerlaubnis aus einem EU / EWR - Staat umschreiben",
+          "Fahrerlaubnis aus einem sonstigen Drittstaat umschreiben (au\u00dferhalb EU/EWR oder Anlage 11 - Staaten)",
+          "Sonstige Schl\u00fcsselzahl auf deutschen F\u00fchrerschein eintragen (z.B. B96, B196, B197) ohne zus. FQN - Karte (95\u00e8r)"
+        ]
       }
     }
   },
@@ -23991,6 +24958,7 @@
       "205/2134": {
         "name": "Weitere Termine inGummersbach: Umschreibung, Erst- oder Wiederzulassung",
         "services": [
+          "Info",
           "Neuzulassung (fabrikneues Kfz mit deutschen Papieren)",
           "Neuzulassung fabrikneues Import-Kfz (Ausland)",
           "Neuzulassung mit \u00a7 13 EG-FGV Gutachten",
@@ -24003,6 +24971,7 @@
         "name": "Weitere Termine inGummersbach: Sonderkennzeichen",
         "services": [
           "Ausfuhrkennzeichen",
+          "Info",
           "Kurzzeitkennzeichen",
           "Saison- oder Oldtimerkennzeichen (eintragen oder l\u00f6schen)",
           "Umkennzeichnung (auf Wunsch)"
@@ -24014,6 +24983,7 @@
           "Abmeldung (ohne Termin!)",
           "Abmeldung mit Verwertungsnachweis (ohne Termin!)",
           "Eintragung technische \u00c4nderung",
+          "Info",
           "Namens\u00e4nderung z.B. nach Heirat",
           "\u00c4nderung der Anschrift (innerhalb OBK)"
         ]
@@ -24021,6 +24991,7 @@
       "205/2169": {
         "name": "Weitere Termine inGummersbach: Verlust Fahrzeugdokumente und Kennzeichen",
         "services": [
+          "Info",
           "Neusiegelung Kennzeichen (ohne Termin!)",
           "Verlust/Diebstahl Betriebserlaubnis (zulassungsfreies Kfz)",
           "Verlust/Diebstahl Kennzeichen",
@@ -24031,6 +25002,7 @@
       "206/2134": {
         "name": "Weitere Termine inH\u00fcckeswagen: Umschreibung, Erst- oder Wiederzulassung",
         "services": [
+          "Info",
           "Neuzulassung (fabrikneues Kfz mit deutschen Papieren)",
           "Neuzulassung fabrikneues Import-Kfz (Ausland)",
           "Neuzulassung mit \u00a7 13 EG-FGV Gutachten",
@@ -24043,6 +25015,7 @@
         "name": "Weitere Termine inH\u00fcckeswagen: Sonderkennzeichen",
         "services": [
           "Ausfuhrkennzeichen",
+          "Info",
           "Kurzzeitkennzeichen",
           "Saison- oder Oldtimerkennzeichen (eintragen oder l\u00f6schen)",
           "Umkennzeichnung (auf Wunsch)"
@@ -24054,6 +25027,7 @@
           "Abmeldung (ohne Termin!)",
           "Abmeldung mit Verwertungsnachweis (ohne Termin!)",
           "Eintragung technische \u00c4nderung",
+          "Info",
           "Namens\u00e4nderung z.B. nach Heirat",
           "\u00c4nderung der Anschrift (innerhalb OBK)"
         ]
@@ -24061,6 +25035,7 @@
       "206/2169": {
         "name": "Weitere Termine inH\u00fcckeswagen: Verlust Fahrzeugdokumente und Kennzeichen",
         "services": [
+          "Info",
           "Neusiegelung Kennzeichen (ohne Termin!)",
           "Verlust/Diebstahl Betriebserlaubnis (zulassungsfreies Kfz)",
           "Verlust/Diebstahl Kennzeichen",
@@ -24071,6 +25046,7 @@
       "207/2134": {
         "name": "Weitere Termine inWaldbr\u00f6l: Umschreibung, Erst- oder Wiederzulassung",
         "services": [
+          "Info",
           "Neuzulassung (fabrikneues Kfz mit deutschen Papieren)",
           "Neuzulassung fabrikneues Import-Kfz (Ausland)",
           "Neuzulassung mit \u00a7 13 EG-FGV Gutachten",
@@ -24083,6 +25059,7 @@
         "name": "Weitere Termine inWaldbr\u00f6l: Sonderkennzeichen",
         "services": [
           "Ausfuhrkennzeichen",
+          "Info",
           "Kurzzeitkennzeichen",
           "Saison- oder Oldtimerkennzeichen (eintragen oder l\u00f6schen)",
           "Umkennzeichnung (auf Wunsch)"
@@ -24094,6 +25071,7 @@
           "Abmeldung (ohne Termin!)",
           "Abmeldung mit Verwertungsnachweis (ohne Termin!)",
           "Eintragung technische \u00c4nderung",
+          "Info",
           "Namens\u00e4nderung z.B. nach Heirat",
           "\u00c4nderung der Anschrift (innerhalb OBK)"
         ]
@@ -24101,6 +25079,7 @@
       "207/2169": {
         "name": "Weitere Termine inWaldbr\u00f6l: Verlust Fahrzeugdokumente und Kennzeichen",
         "services": [
+          "Info",
           "Neusiegelung Kennzeichen (ohne Termin!)",
           "Verlust/Diebstahl Betriebserlaubnis (zulassungsfreies Kfz)",
           "Verlust/Diebstahl Kennzeichen",
@@ -24278,6 +25257,7 @@
       "53167": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24309,6 +25289,7 @@
       "57314": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24340,6 +25321,7 @@
       "57315": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24371,6 +25353,7 @@
       "57316": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24402,6 +25385,7 @@
       "57317": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24433,6 +25417,7 @@
       "57318": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24464,6 +25449,7 @@
       "57319": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24495,6 +25481,7 @@
       "57320": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24526,6 +25513,7 @@
       "57321": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24557,6 +25545,7 @@
       "57322": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24588,6 +25577,7 @@
       "57323": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24619,6 +25609,7 @@
       "57324": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24650,6 +25641,7 @@
       "57325": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24681,6 +25673,7 @@
       "57326": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24712,6 +25705,7 @@
       "57327": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24743,6 +25737,7 @@
       "57328": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24774,6 +25769,7 @@
       "57329": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24805,6 +25801,7 @@
       "57330": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24836,6 +25833,7 @@
       "57331": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24867,6 +25865,7 @@
       "57333": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24898,6 +25897,7 @@
       "57334": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -24929,6 +25929,7 @@
       "72363": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Familiengesundheitstag Ybbs",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
@@ -25328,6 +26329,7 @@
           "Abholung einer abholbereiten Duldung",
           "Abholung eines fertigen / abholbereiten Aufenthaltstitel (eAT)/ Reiseausweis",
           "Abholung/ Einreichung von Antragsunterlagen",
+          "Anmeldung/Registrierung von ukrainischen Fl\u00fcchtlingen",
           "Beantragung/\u00c4nderung einer Arbeitserlaubnis",
           "Erteilung/ Verl\u00e4ngerung Aufenthaltserlaubnis, Visum, Blaue Karte EU,Fiktion",
           "Neuer Pass / \u00dcbertrag neue Passnummer in Aufenthaltskarte (eAT)",
@@ -25370,6 +26372,13 @@
         "name": "Waffenrecht",
         "services": [
           "Waffenrechtliche Angelegenheiten"
+        ]
+      },
+      "539/8109": {
+        "name": "Anmeldung/Registrierung von ukrainischen Fl\u00fcchtlingen",
+        "services": [
+          "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine",
+          "Registrierung Fl\u00fcchtlinge aus der Ukraine"
         ]
       }
     }
@@ -26530,6 +27539,24 @@
           "Ticketreservierung Fasnet 2022 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten"
         ]
       },
+      "415/8029": {
+        "name": "Erhebungsstelle Zensus 2022",
+        "services": [
+          "Allgemeines / Ausk\u00fcnfte 01",
+          "Allgemeines 01",
+          "Ausgabe der Erhebungsunterlagen 01",
+          "Gemeinsames Ausf\u00fcllen der Erhebungsunterlagen mit der Erhebungsstelle 01",
+          "R\u00fcckgabe der Erhebungsunterlagen 01"
+        ]
+      },
+      "415/8030": {
+        "name": "Gemeinsames Ausf\u00fcllen der Erhebungsunterlagen mit der Erhebungsstelle",
+        "services": [
+          "Allgemeines 01",
+          "Ausgabe der Erhebungsunterlagen 01",
+          "R\u00fcckgabe der Erhebungsunterlagen 01"
+        ]
+      },
       "425/5936": {
         "name": "Rathaus Foyer - Raum hinten rechts (A018): Corona-Schnelltest (Spucktest)",
         "services": [
@@ -27009,6 +28036,7 @@
         "services": [
           "Abgabe Neuantrag",
           "Abgabe Neuantrag Hilfe zum Lebensunterhalt",
+          "Abgabe des Weiterbewilligungsantrages",
           "Abgabe von Fundsachen",
           "Akteneinsicht bei Fahrerlaubnisentzug",
           "Anh\u00f6rung zur beabsichtigten Gewerbeuntersagung",
@@ -27331,7 +28359,8 @@
         "name": "Kinder, Jugend und Familie",
         "services": [
           "Sorgeerkl\u00e4rung",
-          "Unterhaltsverpflichtung"
+          "Unterhaltsverpflichtung",
+          "Vaterschaftsanerkennung"
         ]
       },
       "217": {
@@ -28738,6 +29767,7 @@
           "Eintragung ge\u00e4nderter technischer Daten",
           "Ersatz / Erneuerung der Siegel",
           "Neuzulassung",
+          "Umkennzeichnung",
           "Ummeldung bei Zuzug",
           "Verlust Zulassungsbescheinigung Teil II",
           "Verlust der Zulassungsbescheinigung Teil I",
@@ -28758,6 +29788,7 @@
           "Eintragung ge\u00e4nderter technischer Daten",
           "Ersatz / Erneuerung der Siegel",
           "Neuzulassung",
+          "Umkennzeichnung",
           "Ummeldung bei Zuzug",
           "Verlust Zulassungsbescheinigung Teil II",
           "Verlust der Zulassungsbescheinigung Teil I",
@@ -29383,10 +30414,15 @@
           "Beantragung Reisepass",
           "Beantragung Reisepass f\u00fcr Minderj\u00e4hrige",
           "Beantragung eID-Karte f\u00fcr Unionsb\u00fcrger*innen und Angeh\u00f6rige aus EWR-Staaten",
+          "Beantragung oder Verl\u00e4ngerung Kinderreisepass",
           "Beantragung oder Verl\u00e4ngerung Kinderreisepass (G\u00fcltigkeit 1 Jahr)",
+          "Beantragung vorl\u00e4ufiger Personalausweis",
           "Beantragung vorl\u00e4ufiger Personalausweis (G\u00fcltigkeit 3 Monate)",
           "Beantragung vorl\u00e4ufiger Personalausweis (G\u00fcltigkeit 3 Monate) f\u00fcr Minderj\u00e4hrige unter 16 Jahren",
+          "Beantragung vorl\u00e4ufiger Personalausweis f\u00fcr Minderj\u00e4hrige unter 16 Jahren",
+          "Beantragung vorl\u00e4ufiger Reisepass f\u00fcr Minderj\u00e4hrige",
           "Beantragung vorl\u00e4ufiger Reisepass f\u00fcr Minderj\u00e4hrige (G\u00fcltigkeit 1 Jahr)",
+          "Beantragung vorl\u00e4ufiger Reisepasses",
           "Beantragung vorl\u00e4ufiger Reisepasses (G\u00fcltigkeit 1 Jahr)",
           "Beglaubigung Unterschrift (amtlich)",
           "Beglaubigung Unterschrift (\u00f6ffentlich)",
@@ -29459,6 +30495,12 @@
         "services": [
           "Abholung Personalausweis",
           "Beantragung Personalausweis"
+        ]
+      },
+      "74": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)"
         ]
       }
     }
