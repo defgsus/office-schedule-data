@@ -7,6 +7,8 @@
       "0": {
         "name": "Amt f\u00fcr Soziale Angelegenheiten",
         "services": [
+          "Abholung elektr. Aufenthaltstitel",
+          "Adress\u00e4nderung elektronischer Aufenthaltstitel",
           "Erstantrag AFBG",
           "Erstantrag BAf\u00f6G",
           "Erstantrag BayAf\u00f6G",
@@ -155,6 +157,7 @@
           "Lebensbescheinigung f\u00fcr Rente",
           "Melderegisterauskunft einholen",
           "Personalausweis PIN setzen",
+          "Personalausweis PIN setzen / Onlinefunktion aktivieren",
           "Personalausweis beantragen",
           "Personalausweis und Reisepass beantragen",
           "Reisepass beantragen",
@@ -2439,6 +2442,7 @@
       "684": {
         "name": "PN Workshop",
         "services": [
+          "Schulung - Einf\u00fchrung der elektronischen Personalakte",
           "Workshop: Vorstellung der neuen F\u00fchrungsgrunds\u00e4tze"
         ]
       },
@@ -11677,6 +11681,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11689,6 +11694,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11701,6 +11707,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11713,6 +11720,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11725,6 +11733,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11737,6 +11746,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11749,6 +11759,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11761,6 +11772,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11773,6 +11785,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11785,6 +11798,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
@@ -11801,6 +11815,7 @@
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       }
@@ -12162,6 +12177,8 @@
         "name": "Fachdienst Soziales",
         "services": [
           "Erst- oder Folgeantrag stellen",
+          "Erst- oder Folgeantrag stellen / ????????? ??????????",
+          "Erst- oder Folgeantrag stellen / Leistungen f\u00fcr Kriegsfl\u00fcchtlinge (Ukraine)",
           "Hilfe zum Lebensunterhalt - Antragsstellung & Antragseinreichung",
           "Hilfe zum Lebensunterhalt: Unterlagen nachreichen, Sonstiges"
         ]
@@ -12989,11 +13006,15 @@
           "Anmeldung (Zuzug aus dem Ausland) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Anmeldung - Nebenwohnsitz 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen",
+          "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen10\u00a0\u00a0 Personen",
           "Anmeldung - Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Anmeldung - Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen10\u00a0\u00a0 Personen",
           "Kopie von Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Statuswechsel - Wechsel vom Haupt- und Nebenwohnung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Ummeldung (Umzug innerhalbs Herborns) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen10\u00a0\u00a0 Personen",
           "Ummeldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen"
         ]
       },
@@ -18507,6 +18528,7 @@
           "Abgabe Unterlagen -mit Beratung",
           "Alle ausl\u00e4nderrechtliche Anliegen",
           "Anschlussunterbringung",
+          "Antragstellung",
           "Arbeitsaufnahme,Einkommensanrechnung und ggf. R\u00fcckforderung",
           "Aush\u00e4ndigung Einb\u00fcrgerungsurkunde",
           "Fragen zu gew\u00e4hrten Leistungen bzw. zum Auszahlungsbetrag",
@@ -21904,6 +21926,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -21945,6 +21968,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -21982,6 +22006,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22023,6 +22048,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22060,6 +22086,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22080,6 +22107,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22102,6 +22130,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22122,6 +22151,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22159,6 +22189,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22179,6 +22210,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22216,6 +22248,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22236,6 +22269,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22273,6 +22307,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22330,6 +22365,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22350,6 +22386,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22387,6 +22424,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22428,6 +22466,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22465,6 +22504,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22561,6 +22601,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22598,6 +22639,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22618,6 +22660,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22655,6 +22698,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22675,6 +22719,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22712,6 +22757,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -22781,6 +22827,12 @@
           "R\u00fcckbau, Baustellenversorgung oder Neuanschluss",
           "Solar-Anlage, Batteriespeicher und Lades\u00e4ule",
           "Strom- und Energieeinsparung"
+        ]
+      },
+      "191/4703": {
+        "name": "Energieausweis",
+        "services": [
+          "VorabB BEEGY"
         ]
       },
       "191/8023": {
@@ -23125,6 +23177,7 @@
           "Antrag F\u00fchrungszeugnis und Auskunft aus dem Gewerbezentralregister",
           "Ausstellen von Bescheinigungen",
           "Beantragung F\u00fchrerschein",
+          "Beantragung F\u00fchrerschein(kein Umtausch alter F\u00fchrerscheine)",
           "Erstellung  von Beglaubigungen",
           "Gewerbe: Abmeldung",
           "Gewerbe: Anmeldung",
@@ -23408,6 +23461,106 @@
         ]
       },
       "191": {
+        "name": "Jobcenter M\u00fclheim",
+        "services": [
+          "Negativbescheinigung",
+          "Neuantrag allgemein",
+          "Wohnungsgenehmigung"
+        ]
+      },
+      "192": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abholung Personalausweis/Reisepass",
+          "Personalausweis- PIN \u00c4nderung/Aktivierung"
+        ]
+      },
+      "193": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeug",
+          "Ausfuhrkennzeichen (KEIN Import)",
+          "Ersatz-Fahrzeugbrief (Zulassungsbescheinigung Teil II)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Firmenzulassung",
+          "H\u00e4ndlerkennzeichen (rotes Dauerkennzeichen)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Oldtimerkennzeichen / Historische Fahrzeuge",
+          "Rotes Fahrzeugscheinheft f\u00fcr Dauerkennzeichen (H\u00e4ndler*innen)",
+          "Technische \u00c4nderungen in den Fahrzeugpapieren",
+          "Unbedenklichkeitsbescheinigung f\u00fcr eine neue Betriebserlaubnis",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Zulassung eines Import- / Re-Import-Fahrzeuges"
+        ]
+      },
+      "194": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeug",
+          "Elektronische Identifikationskarte (eID)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Feinstaubplakette f\u00fcr Umweltzonen",
+          "Firmenzulassung",
+          "Kurzzeitkennzeichen",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Saisonkennzeichen",
+          "Umschreibung eines Fahrzeugs",
+          "Verlust / Diebstahl von Kennzeichen",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden",
+          "unlesbare oder besch\u00e4digte Kennzeichenschilder"
+        ]
+      },
+      "195": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Elektronische Identifikationskarte (eID)",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden"
+        ]
+      },
+      "196": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beglaubigung von Dokumenten oder Unterschriften",
+          "F\u00fchrungszeugnis oder Auszug aus dem Gewerbezentralregister",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Personalausweis/Reisepass bei Namens\u00e4nderung, Einb\u00fcrgerung oder f\u00fcr Auslandsdeutsche"
+        ]
+      },
+      "197": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Reisepass oder Personalausweis (auch vorl\u00e4ufig)"
+        ]
+      },
+      "198": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung F\u00fchrerschein od. Fahrerkarte",
+          "Abholung F\u00fchrerschein unter Vorlage einer T\u00dcV-Pr\u00fcfbescheinigung",
+          "Auflage B196, B197 oder B96 eintragen",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "Ersatz-F\u00fchrerschein wegen Diebstahl oder Verlust",
+          "Erstmalige Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Fahrerkarte zur G\u00fcter- und Personenbef\u00f6rderung",
+          "Fahrerqualifikationsnachweis (FQN)",
+          "Fahrgastbef\u00f6rderung - Ersterteilung (Taxi, Mietwagen, B\u00fcrgerbus)",
+          "F\u00fchrerschein ab 17 ab 3 Begleitern",
+          "F\u00fchrerschein ab 17 mit bis zu 2 Begleitern",
+          "F\u00fchrerschein-Umtausch, alt gegen neu oder Namens\u00e4nderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Verl\u00e4ngerung LKW-/Bus - FS"
+        ]
+      },
+      "199": {
         "name": "Jobcenter M\u00fclheim",
         "services": [
           "Negativbescheinigung",
@@ -26342,7 +26495,9 @@
           "Ausstellung einer Urkunde (nicht Neubeurkundung)",
           "Informationsgespr\u00e4ch ohne Anmeldung der Eheschlie\u00dfung",
           "Kirchenaustritt",
+          "R\u00fcckruf zur Terminvereinbarung",
           "Sortiererkl\u00e4rung Vorname",
+          "Vaterschaftsanerkennung",
           "Vaterschaftsanerkennung ohne Anmeldung der Eheschlie\u00dfung",
           "Wiederaufnahme des Geburtsnamens"
         ]
@@ -26378,6 +26533,10 @@
         "name": "Anmeldung/Registrierung von ukrainischen Fl\u00fcchtlingen",
         "services": [
           "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine",
+          "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine Kinder bis zum 14",
+          "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine ab dem 14 LJ",
+          "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder ab dem 14. Lebensjahr",
+          "Fl\u00fcchtlinge aus der Ukraine, Kinder bis zum 14. Lebensjahr",
           "Registrierung Fl\u00fcchtlinge aus der Ukraine"
         ]
       }
@@ -27583,6 +27742,13 @@
         "services": [
           "Neuinstallation I-Pad oder I-Phone 01",
           "Neuinstallation I-Pad und I-Phone 01"
+        ]
+      },
+      "425/8115": {
+        "name": "Hilfe f\u00fcr ukrainische Gefl\u00fcchtete",
+        "services": [
+          "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "428/5936": {
