@@ -626,7 +626,8 @@
           "Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung",
           "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen",
           "Melderegisterauskunft 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte",
-          "Ummeldung innerhalb von Beckum"
+          "Ummeldung innerhalb von Beckum",
+          "Zuzug aus dem Ausland"
         ]
       },
       "278/3295": {
@@ -686,7 +687,8 @@
           "Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung",
           "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen",
           "Melderegisterauskunft 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte",
-          "Ummeldung innerhalb von Beckum"
+          "Ummeldung innerhalb von Beckum",
+          "Zuzug aus dem Ausland"
         ]
       },
       "279/3295": {
@@ -1510,6 +1512,18 @@
           "Neubestimmung des Geburtsnamens des Kindes"
         ]
       },
+      "186/5996": {
+        "name": "Namensf\u00fchrung",
+        "services": [
+          "Angleichung der Namensf\u00fchrung an das deutsche Namensrecht",
+          "Anschlusserkl\u00e4rung an Ehenamen der Eltern/an die Namens\u00e4nderung eines Elternteil",
+          "Ehenamensbestimmung",
+          "Einbenennung (Namens\u00e4nderung des Kindes nach Wiederheirat eines Elternteils)",
+          "Erkl\u00e4rung zur Geschlechtsangabe und Vornamensf\u00fchrung (\u00a7 45b PStG)",
+          "Wiederannahme Geburtsname / fr\u00fcherer Familienname nach Eheaufl\u00f6sung",
+          "\u00c4nderung der Reihenfolge der Vornamen"
+        ]
+      },
       "186/6004": {
         "name": "Urkundenstelle",
         "services": [
@@ -2206,6 +2220,7 @@
           "Beglaubigungen weiterer Dokumente",
           "Fischereischein beantragen",
           "F\u00fchrerschein ersetzen",
+          "F\u00fchrerschein ersetzen (Diebstahl / Verlust)",
           "Internationalen F\u00fchrerschein beantragen",
           "Kinderreisepass beantragen (Verl\u00e4ngerung)",
           "Namens\u00e4nderung im F\u00fchrerschein",
@@ -2246,6 +2261,7 @@
           "Beglaubigungen weiterer Dokumente",
           "Fischereischein beantragen",
           "F\u00fchrerschein ersetzen",
+          "F\u00fchrerschein ersetzen (Diebstahl / Verlust)",
           "Internationalen F\u00fchrerschein beantragen",
           "Kinderreisepass beantragen (Verl\u00e4ngerung)",
           "Namens\u00e4nderung im F\u00fchrerschein",
@@ -2408,6 +2424,7 @@
         "services": [
           "Austragung der Sehhilfe bzw. \u00c4nderungen von Auflagen und Beschr\u00e4nkungen",
           "Dienstfahrerlaubnis (Bundeswehr, Polizei) umschreiben",
+          "Dienstfahrerlaubnis (Bundeswehr, Polizei) umtauschen",
           "Eintrag der Klasse B mit der Schl\u00fcsselzahl 196 in den Kartenf\u00fchrerschein",
           "Eintrag der Klasse B mit der Schl\u00fcsselzahl 197 in den Kartenf\u00fchrerschein",
           "Eintrag der Klasse B mit der Schl\u00fcsselzahl 96 in den Kartenf\u00fchrerschein",
@@ -2415,6 +2432,7 @@
           "Fahrerqualifizierungsnachweis",
           "F\u00fchrerschein der Klassen C1, C1E, C und CE verl\u00e4ngern",
           "F\u00fchrerschein ersetzen",
+          "F\u00fchrerschein ersetzen (Diebstahl / Verlust)",
           "F\u00fchrerschein zur Fahrgastbef\u00f6rderung beantragen",
           "Internationalen F\u00fchrerschein beantragen",
           "Namens\u00e4nderung im F\u00fchrerschein",
@@ -5179,6 +5197,13 @@
           "Fahrschule (Inhaber/Mitarbeiter)",
           "Fahrschulen (max. 10 Antr\u00e4ge)"
         ]
+      },
+      "8": {
+        "name": "EPS Web Sichtung",
+        "services": [
+          "EPS Web Sichtung (5 Stunden)",
+          "EPS Web Sichtung (6 Stunden)"
+        ]
       }
     }
   },
@@ -7552,6 +7577,13 @@
           "Senioren-/ Pflegeberatung - Widerspruch einreichen / zu Protokoll geben",
           "Senioren-/ Pflegeberatung -Pflegegrad / H\u00f6herstufung beantragen",
           "Senioren-/Pflegeberatung Beratungstermin vereinbaren"
+        ]
+      },
+      "73": {
+        "name": "Zensus 2022 Erhebungsstelle",
+        "services": [
+          "Auskunftserteilung",
+          "Informationsbedarf"
         ]
       }
     }
@@ -12147,6 +12179,7 @@
       "143": {
         "name": "Fachdienst Soziales",
         "services": [
+          "Erst- oder Folgeantrag stellen / Leistungen f\u00fcr Kriegsfl\u00fcchtlinge (Ukraine)",
           "Unterlagen einreichen / Busticket, Krankenscheine, Gutscheine abholen"
         ]
       },
@@ -13008,6 +13041,7 @@
           "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen",
           "Anmeldung - Umzug innerhalb von Deutschland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen10\u00a0\u00a0 Personen",
+          "Anmeldung - Zuzug aus dem Ausland",
           "Anmeldung - Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
           "Anmeldung - Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen9\u00a0\u00a0 Personen10\u00a0\u00a0 Personen",
           "Kopie von Ummeldung - Umzug innerhalbs Herborns 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
@@ -13608,7 +13642,9 @@
           "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen",
           "Abmeldung ins Ausland 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen",
           "Anmeldung Hauptwohnsitz / Nebenwohnsitz",
+          "Anmeldung von ukrainischen Personen 01\u00a0\u00a0 Anmeldung2\u00a0\u00a0 Anmeldungen3\u00a0\u00a0 Anmeldungen4\u00a0\u00a0 Anmeldungen5\u00a0\u00a0 Anmeldungen",
           "Bescheinigung Steuer-ID 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
+          "Kopie von Anmeldung Hauptwohnsitz / Nebenwohnsitz",
           "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen",
           "Ummeldung in Ilvesheim"
         ]
@@ -14445,6 +14481,25 @@
     "url": "https://termine-reservieren.de/termine/ingelheim",
     "locations": {
       "1": {
+        "name": "Einwohnermeldeamt",
+        "services": [
+          "Abholung neues Ausweisdokument/Pass",
+          "Anmeldung (Zuzug aus dem Ausland)",
+          "Anmeldung deutsche Staatsb\u00fcrger (Umzug innerhalb von Deutschland)",
+          "Anmeldung f\u00fcr Unionsb\u00fcrger und Ausl\u00e4nder (Umzug innerhalb Deutschland)",
+          "Fischereischein",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregister f\u00fcr Privatperson",
+          "Kinderreisepass",
+          "Personalausweis / vorl\u00e4ufiger Personalausweis",
+          "Personalausweis und Reisepass (gleichzeitige Beantragung)",
+          "Reisepass",
+          "Ummeldung des Wohnsitzes innerhalb von Ingelheim, Unionsb\u00fcrger und Ausl\u00e4nder",
+          "Ummeldung des Wohnsitzes innerhalb von Ingelheim, deutsche Staatangeh\u00f6rige",
+          "eID-Karte f\u00fcr B\u00fcrger*innen der EU und des EWR"
+        ]
+      },
+      "3": {
         "name": "Einwohnermeldeamt",
         "services": [
           "Abholung neues Ausweisdokument/Pass",
@@ -21891,6 +21946,18 @@
         "services": [
           "Zensus 2022 Kennenlern-Gespr\u00e4che"
         ]
+      },
+      "170": {
+        "name": "Zensus 2022",
+        "services": [
+          "Zensus 2022 - Schulung Haushalte"
+        ]
+      },
+      "171": {
+        "name": "Zensus 2022",
+        "services": [
+          "Zensus 2022 - Schulung Wohnheime"
+        ]
       }
     }
   },
@@ -21904,6 +21971,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22544,6 +22612,7 @@
         "services": [
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
+          "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
           "Standesamtliche Urkunde"
         ]
       },
@@ -22581,6 +22650,7 @@
           "Fischereischein",
           "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
         ]
@@ -24111,6 +24181,259 @@
         "services": [
           "Fischereischein mit Termin"
         ]
+      },
+      "155": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette",
+          "eID-Karte"
+        ]
+      },
+      "156": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette"
+        ]
+      },
+      "157": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette",
+          "eID-Karte"
+        ]
+      },
+      "158": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette",
+          "eID-Karte"
+        ]
+      },
+      "159": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette",
+          "eID-Karte"
+        ]
+      },
+      "160": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung pro Person",
+          "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Bewohnerparkausweis",
+          "Fischereischein",
+          "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
+          "Gewerbezentralregister Auskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Parkberechtigung f\u00fcr Schwerbehinderte",
+          "Personalausweis",
+          "Reisepass",
+          "Sonstiges",
+          "Ummeldung pro Person",
+          "Umweltplakette",
+          "eID-Karte"
+        ]
+      },
+      "161": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beglaubigungen Servicezentrum",
+          "F\u00fchrungszeugnis Servicezentrum"
+        ]
+      },
+      "162": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Personalausweis",
+          "Reisepass",
+          "eID-Karte"
+        ]
+      },
+      "163": {
+        "name": "Einb\u00fcrgerungsstelle",
+        "services": [
+          "Termin in der Einb\u00fcrgerungsstelle (Einzelperson)",
+          "Termin in der Einb\u00fcrgerungsstelle (Familie)"
+        ]
+      },
+      "164": {
+        "name": "Energieberatung",
+        "services": [
+          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung"
+        ]
+      },
+      "165": {
+        "name": "KFZ-Zulassungsstelle, F\u00fchrerscheine, Fahrschulen",
+        "services": [
+          "Privatkunde"
+        ]
+      },
+      "166": {
+        "name": "Standesamt",
+        "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
+          "Bestimmung des Ehe-/Lebenspartnerschaftsnamens",
+          "Beurkundung der Mutterschaft",
+          "Beurkundung eines Sterbefalles",
+          "Eintragung eines Doppelnamens",
+          "Leichenpass",
+          "Namensbescheinigung",
+          "Namens\u00e4nderung nach Scheidung",
+          "Telefontermin - Annerkennung einer ausl\u00e4ndischen Scheidung",
+          "Telefontermin - Deutsche Urkunden f\u00fcr ein im Ausland geborenes Kind",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland geschlossene Ehe",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland registrierte Lebenspartnerschaft",
+          "Telefontermin - Deutsche Urkunden f\u00fcr eine im Ausland verstorbene Person",
+          "Telefontermin - Ehef\u00e4higkeitszeugnis zur Heirat im Ausland",
+          "Telefontermin - Korrektur im Eheregister",
+          "Telefontermin - Korrektur im Geburtenregister",
+          "Telefontermin - Neufestlegung des Familiennamens des Kindes",
+          "Telefontermin - Streichung von Namensteilen/Vereinfachung des Namens",
+          "Telefontermin - Vorbereitung einer Eheschlie\u00dfung mit Auslandsbezug",
+          "Vaterschaftsanerkennung",
+          "\u00c4nderung der Reihenfolge der Vornamen",
+          "\u00c4nderung des Geschlechtseintrages/Streichung des Geschlechtes/Eintragung \"divers\""
+        ]
+      },
+      "167": {
+        "name": "Standesamt",
+        "services": [
+          "Telefontermin - \u00c4nderung von Vor-/Familiennamen"
+        ]
+      },
+      "168": {
+        "name": "Standesamt",
+        "services": [
+          "Abschrift Geburtenregister f\u00fcr die Eheschlie\u00dfung",
+          "Auskunft \u00fcber die Geburtszeit",
+          "Bei Eheschlie\u00dfung ab 2009 - Beglaubigte Abschrift Eheregister (f\u00fcr Heirat)",
+          "Bei Eheschlie\u00dfung vor 2009 - Eheurkunde mit Aufl\u00f6sungsvermerk (f\u00fcr Heirat bei geschiedenen Personen oder verwitweten Personen)",
+          "Eheurkunde",
+          "Geburtsurkunden f\u00fcr Rentenzwecke",
+          "Geburtsurkunden f\u00fcr private Zwecke",
+          "Internationale Eheurkunde (unabh\u00e4ngig vom Eheschlie\u00dfungsdatum)",
+          "Internationale Geburtsurkunde",
+          "Internationale Sterbeurkunden",
+          "Lebenspartnerschaftsurkunden",
+          "Sterbeurkunden"
+        ]
+      },
+      "169": {
+        "name": "Versicherungsamt",
+        "services": [
+          "Antrag auf Altersrente (ca. 3 bis 6 Monate vor Rentenbeginn - keine Beratung)",
+          "Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
+          "Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
+          "Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
+          "Antrag auf Waisenrente nach dem 18. Lebensjahr",
+          "Antrag auf Waisenrente vor dem 18. Lebensjahr",
+          "Antrag auf Witwenrente/Witwerrente",
+          "Antrag auf freiwillige Beitragszahlungen/ Beitragserstattungen",
+          "Antrag auf medizinische Rehabilitation",
+          "Telefontermin - Antrag auf Altersrente (Antragstellung ca. 3 bis 6 Monate vor dem gew\u00fcnschten Rentenbeginn - keine Beratung)",
+          "Telefontermin - Antrag auf Erziehungsrente",
+          "Telefontermin - Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
+          "Telefontermin - Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
+          "Telefontermin - Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
+          "Telefontermin - Antrag auf Waisenrente nach dem 18. Lebensjahr",
+          "Telefontermin - Antrag auf Waisenrente vor dem 18. Lebensjahr",
+          "Telefontermin - Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
+          "Telefontermin - Antrag auf Witwenrente/Witwerrente",
+          "Telefontermin - Antrag auf freiwillige Beitragszahlung/Beitragserstattung",
+          "Telefontermin - Antrag auf medizinische Rehabilitation"
+        ]
+      },
+      "170": {
+        "name": "Gesundheitsamt - Lebensmittelbelehrung",
+        "services": [
+          "Lebensmittelbelehrung"
+        ]
+      },
+      "171": {
+        "name": "Abfallwirtschaftsbetriebe M\u00fcnster",
+        "services": [
+          "Besuch des Deponie-Erlebnispfades"
+        ]
       }
     }
   },
@@ -24468,6 +24791,7 @@
         "name": "F\u00fchrerscheine und Fahrerlaubnisse",
         "services": [
           "Fahrerlaubnis erstmals beantragen",
+          "Fahrerlaubnis f\u00fcr begleitetes Fahren ab 17 beantragen",
           "Vorhandene EU-Fahrerlaubnis erweitern (um PKW-, Traktor- oder Motorradklassen - B, BE, L, T, AM, A1, A2, A)"
         ]
       },
@@ -25271,8 +25595,10 @@
       "305/4230": {
         "name": "Standesamtsangelegenheiten",
         "services": [
+          "Ab dem 01. April 2022 sind Termine f\u00fcr das Standesamt Oberding nur noch \u00fcber",
           "Anmeldung zur Eheschlie\u00dfung (deutsche Staatsangeh\u00f6rige)",
           "Austritt aus einer Kirchengemeinschaft 01\u00a0\u00a0 Kirchenaustritt2\u00a0\u00a0 Kirchenaustritte",
+          "BITTE BEACHTEN!",
           "Beantragung Ehef\u00e4higkeitszeugnis f\u00fcr deutsche Staatsangeh\u00f6rige 01\u00a0\u00a0 Ehef\u00e4higkeitszeugnis",
           "Bei ausl\u00e4ndischer Staatsangeh\u00f6rigkeit vereinbaren Sie bitte einen Termin unter",
           "Beurkundung Geburt 01\u00a0\u00a0 Geburt",
@@ -25280,7 +25606,9 @@
           "Namenserteilung Kind 01\u00a0\u00a0 Namenserteilung",
           "Tel. 08122 / 9701 - 15 od. -16",
           "Vaterschaftsanerkennung 01\u00a0\u00a0 Vaterschaftsanerkennung",
-          "Wiederannahme des Geburtsnamens 01\u00a0\u00a0 Wiederannahme"
+          "Wiederannahme des Geburtsnamens 01\u00a0\u00a0 Wiederannahme",
+          "das Standesamt Erding (Tel. Nr. 08122/408-0) m\u00f6glich!",
+          "das Standesamt Erding (Tel. Nr. 408-0) m\u00f6glich!"
         ]
       },
       "305/4271": {
@@ -26510,6 +26838,7 @@
           "Erwerbsminderungsrente",
           "Kontenkl\u00e4rung Rentenangelegenheit",
           "Lebensbescheinigung",
+          "R\u00fcckruf",
           "Waisenrente",
           "Witwen-/Witwerrente"
         ]
@@ -27677,6 +28006,20 @@
           "Verpflichtungserkl\u00e4rung (Einladung) abgeben 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
+      "314/8137": {
+        "name": "Standesamt",
+        "services": [
+          "Erstbeurkundung Geburt - Hausgeburt",
+          "Erstbeurkundung Sterbefall",
+          "Kirchenaustritt",
+          "Mutterschaftsanerkennung",
+          "Namenserkl\u00e4rung - Ehename, Wiederannahme, Vornamenssortierung etc. 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Namenserkl\u00e4rung - Ehename, Wiederannahme, Vornamenssortierung etc. 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Urkundenanforderung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Urkundenanforderung 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
+          "Vaterschaftsanerkennung"
+        ]
+      },
       "415/5936": {
         "name": "WTG Rottenburg: Corona-Schnelltest (Spucktest)",
         "services": [
@@ -27713,6 +28056,15 @@
         "services": [
           "Allgemeines 01",
           "Ausgabe der Erhebungsunterlagen 01",
+          "R\u00fcckgabe der Erhebungsunterlagen 01"
+        ]
+      },
+      "415/8032": {
+        "name": "Erhebungsstelle Zensus 2022",
+        "services": [
+          "Allgemeines / Ausk\u00fcnfte 01",
+          "Ausgabe der Erhebungsunterlagen 01",
+          "Gemeinsames Ausf\u00fcllen der Erhebungsunterlagen mit der Erhebungsstelle 01",
           "R\u00fcckgabe der Erhebungsunterlagen 01"
         ]
       },
@@ -28659,6 +29011,14 @@
         "services": [
           "Auskunft aus dem Baulastenverzeichnis und Eintragungen",
           "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen"
+        ]
+      },
+      "240": {
+        "name": "Kinder, Jugend und Familie",
+        "services": [
+          "Gespr\u00e4ch zur Ermittlung der Vaterschaft meines Kindes",
+          "Unterhaltsvorschussantrag einreichen",
+          "Unterlagen abgeben"
         ]
       }
     }
