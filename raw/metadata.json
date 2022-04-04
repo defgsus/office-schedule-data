@@ -2422,6 +2422,9 @@
       "680": {
         "name": "Fahrerlaubnisse",
         "services": [
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben - Anlage 11 FeV",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben - EU/EWR",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben - Nicht-EU/EWR",
           "Austragung der Sehhilfe bzw. \u00c4nderungen von Auflagen und Beschr\u00e4nkungen",
           "Dienstfahrerlaubnis (Bundeswehr, Polizei) umschreiben",
           "Dienstfahrerlaubnis (Bundeswehr, Polizei) umtauschen",
@@ -5170,6 +5173,21 @@
     "scraper": "tevis",
     "url": "https://termine.landratsamt-dachau.de/tevis",
     "locations": {
+      "10": {
+        "name": "EPS Web Sichtung",
+        "services": [
+          "EPS Web Sichtung (10 Stunden (Doppelschicht))",
+          "EPS Web Sichtung (10 Stunden)",
+          "EPS Web Sichtung Ganztag"
+        ]
+      },
+      "11": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Au\u00dferbetriebsetzung KFZ (Abmeldung)",
+          "Zulassung / Umschreibung (Kfz) usw."
+        ]
+      },
       "5": {
         "name": "Zulassungsstelle",
         "services": [
@@ -5203,6 +5221,12 @@
         "services": [
           "EPS Web Sichtung (5 Stunden)",
           "EPS Web Sichtung (6 Stunden)"
+        ]
+      },
+      "9": {
+        "name": "EPS Web Sichtung",
+        "services": [
+          "EPS Web Sichtung (5 Stunden)"
         ]
       }
     }
@@ -16447,6 +16471,7 @@
           "Abmeldung (Au\u00dferbetriebsetzung)",
           "Abmeldung bei Verlust ZB I (Fahrzeugschein)",
           "Abmeldung bei Verlust/Diebstahl Kennzeichen",
+          "Adress\u00e4nderung gebr. Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Ausfuhrkennzeichen",
           "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen (Neusiegelung)",
           "Kurzzeitkennzeichen",
@@ -16488,6 +16513,7 @@
           "Abmeldung (Au\u00dferbetriebsetzung)",
           "Abmeldung bei Verlust ZB I (Fahrzeugschein)",
           "Abmeldung bei Verlust/Diebstahl Kennzeichen",
+          "Adress\u00e4nderung gebr. Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Ausfuhrkennzeichen",
           "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen (Neusiegelung)",
           "Kurzzeitkennzeichen",
@@ -21520,6 +21546,7 @@
           "Beglaubigungen ab 11 Dokumente",
           "Beglaubigungen ab 4 Dokumente",
           "Beglaubigungen bis 3 Dokumente",
+          "Familienstand aktualisieren",
           "F\u00fchrungszeugnis",
           "Gewerbezentralregister f\u00fcr Privatperson",
           "Gewerbezentralregister f\u00fcr juristische Person",
@@ -21957,6 +21984,12 @@
         "name": "Zensus 2022",
         "services": [
           "Zensus 2022 - Schulung Wohnheime"
+        ]
+      },
+      "172": {
+        "name": "Abteilung Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "ED-Behandlung f\u00fcr Fl\u00fcchtlinge aus der Ukraine (\u00a724 AufenthG)"
         ]
       }
     }
@@ -24434,6 +24467,13 @@
         "services": [
           "Besuch des Deponie-Erlebnispfades"
         ]
+      },
+      "173": {
+        "name": "Wahlamt",
+        "services": [
+          "Information f\u00fcr Schriftf\u00fchrende",
+          "Information f\u00fcr Wahlvorstehende"
+        ]
       }
     }
   },
@@ -26865,8 +26905,23 @@
           "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine Kinder bis zum 14",
           "Anmeldung/ Registrierung/ Beratung Fl\u00fcchtlinge aus der Ukraine ab dem 14 LJ",
           "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder ab dem 14. Lebensjahr",
+          "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder ab dem 6. Lebensjahr",
           "Fl\u00fcchtlinge aus der Ukraine, Kinder bis zum 14. Lebensjahr",
+          "Fl\u00fcchtlinge aus der Ukraine, Kinder bis zum 5. Lebensjahr",
           "Registrierung Fl\u00fcchtlinge aus der Ukraine"
+        ]
+      },
+      "539/8216": {
+        "name": "Aufenthaltserlaubnisse f\u00fcr Ukrainer NACH REGISTRIERUNG",
+        "services": [
+          "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder ab dem 6. Lebensjahr",
+          "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder bis zum 5. Lebensjahr"
+        ]
+      },
+      "545/8209": {
+        "name": "Erhebungsstelle Ostfildern",
+        "services": [
+          "Vorsprache Zensus"
         ]
       }
     }
@@ -29146,6 +29201,7 @@
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Abholung eID 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Kinderreisepass beantragen / verl\u00e4ngern",
+          "Online-Ausweisfunktion des Personalausweises entsperren / Neusetzen einer PIN",
           "Personalausweis beantragen",
           "Reisepass oder Expressreisepass beantragen",
           "Verlustanzeige Personalausweis / Reisepass",
@@ -29364,6 +29420,7 @@
           "Umschreibung Gebrauchtwagen (auf anderen Halter)",
           "Wiederzulassung (gleicher Halter)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
+          "\u00c4nderung Fahrzeug auf Oldtimer (H)",
           "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "\u00c4nderung Zulassungszeitraum (Vergabe/L\u00f6schung Saison)"
         ]
@@ -29430,6 +29487,7 @@
           "Umschreibung Gebrauchtwagen (auf anderen Halter)",
           "Wiederzulassung (gleicher Halter)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
+          "\u00c4nderung Fahrzeug auf Oldtimer (H)",
           "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "\u00c4nderung Zulassungszeitraum (Vergabe/L\u00f6schung Saison)"
         ]
@@ -30926,6 +30984,7 @@
       "70": {
         "name": "B\u00fcrgeramt_TEST",
         "services": [
+          "Abholung (gleichzeitig) Personalausweis und Reisepass",
           "Abholung Personalausweis",
           "Abholung Reisepass",
           "An- oder Abmeldung eines Hundes",
@@ -31943,6 +32002,14 @@
         "services": [
           "Einschulung regul\u00e4r",
           "Einschulung vorzeitig"
+        ]
+      },
+      "27": {
+        "name": "Corona-Tests",
+        "services": [
+          "Covid-19-Symptome u./o. positiver Schnelltest",
+          "Haushaltskontakt - Freitestung",
+          "Positive Person - Freitestung"
         ]
       }
     }
@@ -33525,6 +33592,7 @@
           "Abmeldung bei Verlust von Dokumenten oder Kennzeichen",
           "Abmeldung und gleichzeitig Zulassung eines Fahrzeuges",
           "Ausfuhrkennzeichen (Zoll)",
+          "Ausfuhrkennzeichen (Zoll) Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Feinstaubplakette",
           "Gebrauchtfahrzeug mit Wuppertaler Kennzeichen",
           "Gebrauchtfahrzeug mit ausw\u00e4rtigem Kennzeichen",
@@ -33535,6 +33603,7 @@
           "Saisonzeitraum eintragen/\u00e4ndern (gleicher Halter)",
           "Wiederzulassung eines Wuppertaler Fahrzeuges (Halter und Fahrzeug gleich)",
           "Zulassung eines Kfz aus dem Ausland",
+          "Zulassung eines Kfz aus dem Ausland, Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Zuzug nach Wuppertal und Mitnahme Kennzeichen (Halter und Fahrzeug gleich)"
         ]
       }
