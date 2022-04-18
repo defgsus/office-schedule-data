@@ -290,6 +290,156 @@
         "services": [
           "Kirchenaustritte"
         ]
+      },
+      "194": {
+        "name": "Einwohneramt",
+        "services": [
+          "Abholung Pass und/oder Personalausweis",
+          "Abmeldung Nebenwohnsitz",
+          "Abmeldung in das Ausland",
+          "Anmeldung Einzelperson - Zuzug nach Amberg",
+          "Anmeldung Familie - Zuzug nach Amberg",
+          "Anmeldung bei Zuzug aus dem Ausland",
+          "Auskunftssperre beantragen",
+          "Beglaubigung von Dokumenten",
+          "Beglaubigung von Unterschriften",
+          "Einfache Meldebescheinigung",
+          "Erweiterte Meldebescheinigung",
+          "Erweitertes F\u00fchrungszeugnis",
+          "F\u00fchrungszeugnis (soll nach Hause geschickt werden)",
+          "F\u00fchrungszeugnis zur Vorlage bei einer Beh\u00f6rde",
+          "Gewerbezentralregisterauszug f\u00fcr eine juristische Person",
+          "Gewerbezentralregisterauszug f\u00fcr eine nat\u00fcrliche Person",
+          "Kinderreisepass beantragen",
+          "Kinderreisepass verl\u00e4ngern",
+          "Lebensbescheinigung f\u00fcr Rente",
+          "Melderegisterauskunft einholen",
+          "Personalausweis PIN setzen / Onlinefunktion aktivieren",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Reisepass beantragen",
+          "Sorgeberechtigte Elternteile in P\u00e4sse Minderj\u00e4hriger eintragen",
+          "Ummeldung innerhalb Amberg",
+          "Verlust / Diebstahl eines Dokumentes melden",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "Wahlhelfer werden",
+          "Wiederauffinden eines verlorenen Ausweisdokumentes",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen",
+          "\u00c4nderung Nebenwohnung zur Hauptwohnung in Amberg",
+          "\u00dcbermittlungssperre beantragen"
+        ]
+      },
+      "209": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Abmeldung eines KFZ",
+          "Adress\u00e4nderung innerhalb des Stadtgebietes",
+          "Ausfuhrkennzeichen",
+          "Kauf eines Kfz mit ausw\u00e4rtigen Kennzeichen",
+          "Kurzzeitkennzeichen",
+          "Technische \u00c4nderung",
+          "Umschreibung im Stadtbereich mit Halterwechsel",
+          "Umzug von au\u00dferhalb in das Stadtgebiet mit oder ohne Kennzeichenbeibehalt",
+          "Verlust der Zulassungsbescheinigung Teil I",
+          "Verlust der Zulassungsbescheinigung Teil II",
+          "Verlust oder Diebstahl des Kennzeichen",
+          "Wiederzulassung auf gleichen Halter",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "\u00c4nderung Saisonkennzeichen"
+        ]
+      },
+      "210": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung eines Kartenf\u00fchrerscheins / BF17",
+          "Allgemeine Anliegen F\u00fchrerscheinstelle",
+          "Anliegen Fahrlehrert\u00e4tigkeit",
+          "Ausstellung Fahrgastbef\u00f6rderungsschein",
+          "Ausstellung Internationaler F\u00fchrerschein",
+          "B196 (Zweirad)",
+          "B96 (Anh\u00e4nger)",
+          "Beantragung der Teilnahme am \"Begleiteten Fahren mit 17\"",
+          "Beantragung der Verl\u00e4ngerung der Geltungsdauer Fahrerlaubnis LKW, Bus, SZ95",
+          "Ersatzf\u00fchrerschein nach Verlust/Diebstahl oder bei Unbrauchbarkeit",
+          "Erstantrag / Erweiterung einer Fahrerlaubnis",
+          "Erweiterung auf LKW, BUS, SZ95 (erstmalig)",
+          "SZ 95",
+          "Umschreibung einer Dienstfahrerlaubnis",
+          "Umtausch alter Kartenf\u00fchrerschein in neuen Kartenf\u00fchrerschein (ab 2025)",
+          "Umtausch einer Fahrerlaubnis aus einem Drittstaat",
+          "Umtausch einer Fahrerlaubnis aus einem EU-Mitgliedsstaat",
+          "Verl\u00e4ngerung Fahrgastbef\u00f6rderungsschein"
+        ]
+      },
+      "211": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Beantragung einer Neuerteilung nach Entzug"
+        ]
+      },
+      "212": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Umtausch des alten grauen oder rosa F\u00fchrerscheins (Papier) in einen EU-Kartenf\u00fchrerschein"
+        ]
+      },
+      "214": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Familienpass beantragen",
+          "Familienpass verl\u00e4ngern"
+        ]
+      },
+      "218": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag auf \u00dcbernahme der Bestattungskosten"
+        ]
+      },
+      "219": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Schwerbehinderten-Parkausweis beantragen",
+          "Schwerbehinderten-Parkausweis verl\u00e4ngern"
+        ]
+      },
+      "222": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag Bildung-und Teilhabe"
+        ]
+      },
+      "223": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Rentenberatung"
+        ]
+      },
+      "224": {
+        "name": "Amt f\u00fcr Soziale Angelegenheiten",
+        "services": [
+          "Antrag Rundfunkgeb\u00fchrenbefreiung"
+        ]
+      },
+      "226": {
+        "name": "Grippeschutzimpfung f\u00fcr St\u00e4dtische Mitarbeiter",
+        "services": [
+          "Grippeschutzimpfung f\u00fcr St\u00e4dtische Mitarbeiter"
+        ]
+      },
+      "227": {
+        "name": "Welcome Center Amberg",
+        "services": [
+          "Welcome Center Beratung online",
+          "Welcome Center Beratung pers\u00f6nlich"
+        ]
+      },
+      "228": {
+        "name": "Standes- und Friedhofsamt",
+        "services": [
+          "Kirchenaustritte"
+        ]
       }
     }
   },
@@ -2737,6 +2887,25 @@
         "name": "Ortspolizeibeh\u00f6rde Bremerhaven",
         "services": [
           "Aufnahme einer Strafanzeige (Bremerhaven)"
+        ]
+      },
+      "727": {
+        "name": "Zensus 2022 Rekrutierung",
+        "services": [
+          "Ausgabe Erhebungsunterlagen HHST"
+        ]
+      },
+      "728": {
+        "name": "Zensus 2022 Rekrutierung",
+        "services": [
+          "Ausgabe Erhebungsunterlagen WH"
+        ]
+      },
+      "729": {
+        "name": "Statistisches Landesamt Bremen - Zensus",
+        "services": [
+          "Zensus 2022: Geb\u00e4ude- und Wohnungsz\u00e4hlung (GWZ)",
+          "Zensus 2022: Haushaltebefragung auf Stichprobenbasis"
         ]
       },
       "785": {
@@ -5212,6 +5381,7 @@
         "services": [
           "EPS Web Sichtung (10 Stunden (Doppelschicht))",
           "EPS Web Sichtung (10 Stunden)",
+          "EPS Web Sichtung (8 Stunden (Doppelschicht))",
           "EPS Web Sichtung Ganztag"
         ]
       },
@@ -5253,6 +5423,7 @@
       "8": {
         "name": "EPS Web Sichtung",
         "services": [
+          "EPS Web Sichtung (4 Stunden)",
           "EPS Web Sichtung (5 Stunden)",
           "EPS Web Sichtung (6 Stunden)"
         ]
@@ -5260,6 +5431,7 @@
       "9": {
         "name": "EPS Web Sichtung",
         "services": [
+          "EPS Web Sichtung (4 Stunden)",
           "EPS Web Sichtung (5 Stunden)"
         ]
       }
@@ -6906,6 +7078,10 @@
     "locations": {
       "ausserbetriebsetzung": {
         "name": "Au\u00dferbetriebsetzung",
+        "services": []
+      },
+      "ausserbetriebsetzung-abmeldung": {
+        "name": "Au\u00dferbetriebsetzung (Abmeldung)",
         "services": []
       },
       "kurzzeitkennzeichen-5-tage": {
@@ -10361,7 +10537,8 @@
       "100": {
         "name": "Stra\u00dfenverkehrsbeh\u00f6rde",
         "services": [
-          "Pflichtumtausch F\u00fchrerscheine der Jahrg\u00e4nge 1953 - 1958"
+          "Pflichtumtausch F\u00fchrerscheine der Jahrg\u00e4nge 1953 - 1958",
+          "Pflichtumtausch F\u00fchrerscheine der Jahrg\u00e4nge 1953 - 1964"
         ]
       },
       "104": {
@@ -12558,6 +12735,54 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/halberstadt",
     "locations": {
+      "131531": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Anmeldung Eheschlie\u00dfung",
+          "Beantragung Untersuchungsberechtigungsschein",
+          "Beglaubigungen",
+          "Bewohnerparkausweis beantragen/verl\u00e4ngern",
+          "F\u00fchrungszeugnis/Gewerbezentralregisterauszug beantragen",
+          "Kinderreisepass beantragen/verl\u00e4ngern",
+          "Kirchenaustrittserkl\u00e4rung",
+          "Meldebescheinigung einfach/erweitert",
+          "Melderegisterauskunft beantragen",
+          "Personalausweis/Reisepass abholen",
+          "Personalausweis/Reisepass beantragen",
+          "Steueridentifikationsnummer ausstellen",
+          "Steuerliche Hundeanmeldung/-abmeldung",
+          "Vaterschaftsanerkennung",
+          "Verkauf Fahrscheine, graue S\u00e4cke, Gr\u00fcnschnitts\u00e4cke",
+          "Verlustanzeige f\u00fcr Personalausweis/Reisepass",
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnsitz anmelden/ummelden ",
+          "Zahlung von Steuern/Geb\u00fchren"
+        ]
+      },
+      "131538": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Anmeldung Eheschlie\u00dfung",
+          "Beantragung Untersuchungsberechtigungsschein",
+          "Beglaubigungen",
+          "Bewohnerparkausweis beantragen/verl\u00e4ngern",
+          "F\u00fchrungszeugnis/Gewerbezentralregisterauszug beantragen",
+          "Kinderreisepass beantragen/verl\u00e4ngern",
+          "Kirchenaustrittserkl\u00e4rung",
+          "Meldebescheinigung einfach/erweitert",
+          "Melderegisterauskunft beantragen",
+          "Personalausweis/Reisepass abholen",
+          "Personalausweis/Reisepass beantragen",
+          "Steueridentifikationsnummer ausstellen",
+          "Steuerliche Hundeanmeldung/-abmeldung",
+          "Vaterschaftsanerkennung",
+          "Verkauf Fahrscheine, graue S\u00e4cke, Gr\u00fcnschnitts\u00e4cke",
+          "Verlustanzeige f\u00fcr Personalausweis/Reisepass",
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnsitz anmelden/ummelden ",
+          "Zahlung von Steuern/Geb\u00fchren"
+        ]
+      },
       "83869": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
@@ -13099,6 +13324,13 @@
           "Erstellung Verlustanzeige elektronische Aufenthaltskarte (eAT)",
           "\u00c4nderung Zusatzblatt",
           "\u00c4nderung der Adresse - elektronische Aufenthaltskarte (eAT) / Reisausweis"
+        ]
+      },
+      "41": {
+        "name": "B\u00fcrgerdienste - virtuell",
+        "services": [
+          "Abmeldung",
+          "Anmeldung, Ummeldung innerhalb Heidelbergs"
         ]
       },
       "4103": {
@@ -16703,6 +16935,7 @@
           "Zulassung gebrauchtes Kfz aus dem Kreis Unna",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
+          "\u00c4nderung Adresse/Name gebr. Kfz mit ausw\u00e4rtigem Kennz.(Halter \u00e4ndert sich nicht)",
           "\u00c4nderung Name/Adresse (zugelassenes Kfz Kreis Unna) z.B. nach Heirat oder Umzug",
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
         ]
@@ -16745,6 +16978,7 @@
           "Zulassung gebrauchtes Kfz aus dem Kreis Unna",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
+          "\u00c4nderung Adresse/Name gebr. Kfz mit ausw\u00e4rtigem Kennz.(Halter \u00e4ndert sich nicht)",
           "\u00c4nderung Name/Adresse (zugelassenes Kfz Kreis Unna) z.B. nach Heirat oder Umzug",
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
         ]
@@ -27162,11 +27396,14 @@
         "services": [
           "Adresse / Chip \u00e4ndern auf Personalausweis",
           "Kinderreisepass beantragen / verl\u00e4ngern / Foto aktualisieren",
+          "Kopie von Pass-/Ausweisangelegenheiten",
           "Onlinefunktion Personalausweis nachtr\u00e4glich einschalten",
           "Personalausweis abholen",
           "Personalausweis beantragen",
+          "Personalausweis ohne PIN-\u00c4nderung abholen",
           "Reisepass abholen",
           "Reisepass beantragen",
+          "Reisepass ohne PIN-\u00c4nderung abholen",
           "Wohnort \u00e4ndern im Reisepass / Kinderreisepass"
         ]
       },
