@@ -2401,6 +2401,7 @@
         "name": "B\u00fcrgerServiceCenter-Mitte",
         "services": [
           "Ausweispflichtbefreiung beantragen",
+          "Beglaubigung von Arbeits- bzw. Ausbildungszeugnissen",
           "Beglaubigung von Kopien/Abschriften",
           "Beglaubigung von Schriftst\u00fccken f\u00fcr Rentenangelegenheiten",
           "Beglaubigung von Schulzeugnissen",
@@ -2449,6 +2450,7 @@
         "services": [
           "Ausweispflichtbefreiung beantragen",
           "Beglaubigung von Arbeits- bzw. Ausbildungszeugnissen",
+          "Beglaubigung von Kopien/Abschriften",
           "Beglaubigung von Schriftst\u00fccken f\u00fcr Rentenangelegenheiten",
           "Beglaubigung von Schulzeugnissen",
           "Beglaubigung von Unterschriften",
@@ -2534,6 +2536,7 @@
         "name": "B\u00fcrgerServiceCenter-Stresemannstra\u00dfe",
         "services": [
           "Ausweispflichtbefreiung beantragen",
+          "Beglaubigung von Arbeits- bzw. Ausbildungszeugnissen",
           "Beglaubigung von Kopien/Abschriften",
           "Beglaubigung von Schriftst\u00fccken f\u00fcr Rentenangelegenheiten",
           "Beglaubigung von Schulzeugnissen",
@@ -2546,6 +2549,7 @@
       "677": {
         "name": "B\u00fcrgerServiceCenter-Stresemannstra\u00dfe",
         "services": [
+          "Beglaubigung von Arbeits- bzw. Ausbildungszeugnissen",
           "Personalausweis / Reisepass / eID-Karte abholen"
         ]
       },
@@ -5417,6 +5421,7 @@
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
           "Fahrschule (Inhaber/Mitarbeiter)",
+          "Fahrschule max. 20 Vorg\u00e4nge (Inhaber/Mitarbeiter)",
           "Fahrschulen (max. 10 Antr\u00e4ge)"
         ]
       },
@@ -10914,6 +10919,378 @@
           "Wohnsitz - An-, Ab- und Ummeldung"
         ]
       },
+      "131887": {
+        "name": "Servicestellen der Stadt Graz",
+        "services": [
+          "Ausbildungsbescheinigung PSMG",
+          "Fotoregistrierung E-Card",
+          "Heizkostenzuschuss Land Steiermark",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "131889": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
+        ]
+      },
+      "131890": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "131895": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "131896": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "131897": {
+        "name": "Geriatrische Gesundheitszentren - GGZ",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
+      "131898": {
+        "name": "Stadtplanungsamt",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Kinderbetreuung",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
       "73739": {
         "name": "Abteilung f\u00fcr Bildung und Integration",
         "services": [
@@ -12090,6 +12467,21 @@
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
+      "131758": {
+        "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
+        "services": [
+          "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
+          "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
+          "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
+          "Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
+          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
+          "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
+          "ID Austria",
+          "Namens\u00e4nderung/Namensbestimmung",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
+          "Staatsb\u00fcrgerschaftsnachweis"
+        ]
+      },
       "82814": {
         "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
         "services": [
@@ -12751,6 +13143,7 @@
           "Personalausweis/Reisepass beantragen",
           "Steueridentifikationsnummer ausstellen",
           "Steuerliche Hundeanmeldung/-abmeldung",
+          "Termin buchen",
           "Vaterschaftsanerkennung",
           "Verkauf Fahrscheine, graue S\u00e4cke, Gr\u00fcnschnitts\u00e4cke",
           "Verlustanzeige f\u00fcr Personalausweis/Reisepass",
@@ -13656,6 +14049,12 @@
           "Verlust eines Kennzeichens",
           "Wiederzulassung eines stillgelegten Fahrzeugs",
           "\u00c4nderung von Adress-, Halter- oder technischen Daten"
+        ]
+      },
+      "71": {
+        "name": "Asylstelle",
+        "services": [
+          "Vorsprache f\u00fcr Leistungen"
         ]
       }
     }
@@ -19939,6 +20338,99 @@
         "services": [
           "Umstellung in einen EU-Kartenf\u00fchrerschein"
         ]
+      },
+      "183": {
+        "name": "Zulassungsstelle Werdau",
+        "services": [
+          "Au\u00dferbetriebsetzung",
+          "Ersatz von Fahrzeugpapieren (Verlust oder Diebstahl)",
+          "Erstzulassung eines gebrauchten Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Fabrikneues Fahrzeug)",
+          "Umkennzeichnung (Verlust, Diebstahl oder auf Wunsch)",
+          "Umschreibung auf einen anderen Halter im Landkreis Zwickau",
+          "Umschreibung eines Fahrzeuges - Wechsel Zulassungsbezirk",
+          "Wiederzulassung eines au\u00dfer Betrieb gesetzten Fahrzeuges",
+          "Zuteilung Ausfuhrkennzeichen",
+          "rote Kennzeichen (H\u00e4ndler bzw. Oldtimer)",
+          "technische \u00c4nderung",
+          "\u00c4nderung der Adresse",
+          "\u00c4nderung des Namens"
+        ]
+      },
+      "184": {
+        "name": "Zulassungsstelle Glauchau",
+        "services": [
+          "Au\u00dferbetriebsetzung",
+          "Ersatz von Fahrzeugpapieren (Verlust oder Diebstahl)",
+          "Erstzulassung eines gebrauchten Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Fabrikneues Fahrzeug)",
+          "Umkennzeichnung (Verlust, Diebstahl oder auf Wunsch)",
+          "Umschreibung auf einen anderen Halter im Landkreis Zwickau",
+          "Umschreibung eines Fahrzeuges - Wechsel Zulassungsbezirk",
+          "Wiederzulassung eines au\u00dfer Betrieb gesetzten Fahrzeuges",
+          "Zuteilung Ausfuhrkennzeichen",
+          "rote Kennzeichen (H\u00e4ndler bzw. Oldtimer)",
+          "technische \u00c4nderung",
+          "\u00c4nderung der Adresse",
+          "\u00c4nderung des Namens"
+        ]
+      },
+      "185": {
+        "name": "Zulassungsstelle Zwickau",
+        "services": [
+          "Au\u00dferbetriebsetzung",
+          "Ersatz von Fahrzeugpapieren (Verlust oder Diebstahl)",
+          "Erstzulassung eines gebrauchten Fahrzeuges",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Fabrikneues Fahrzeug)",
+          "Umkennzeichnung (Verlust, Diebstahl oder auf Wunsch)",
+          "Umschreibung auf einen anderen Halter im Landkreis Zwickau",
+          "Umschreibung eines Fahrzeuges - Wechsel Zulassungsbezirk",
+          "Wiederzulassung eines au\u00dfer Betrieb gesetzten Fahrzeuges",
+          "Zuteilung Ausfuhrkennzeichen",
+          "rote Kennzeichen (H\u00e4ndler bzw. Oldtimer)",
+          "technische \u00c4nderung",
+          "\u00c4nderung der Adresse",
+          "\u00c4nderung des Namens"
+        ]
+      },
+      "186": {
+        "name": "Fahrerlaubnisbeh\u00f6rde Glauchau",
+        "services": [
+          "Erweiterung auf die Schl\u00fcsselzahl B96 und B196",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "Neuerteilung einer Fahrerlaubnis",
+          "Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Umstellung in einen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung der Fahrerlaubnis",
+          "Verl\u00e4ngerung einer Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "sonstige Fahrerlaubnisangelegenheiten"
+        ]
+      },
+      "188": {
+        "name": "Fahrerlaubnisbeh\u00f6rde Glauchau",
+        "services": [
+          "Begleitetes Fahren mit 17",
+          "Ersatzf\u00fchrerschein",
+          "Erwerb oder Erweiterung einer Fahrerlaubnis",
+          "Internationaler F\u00fchrerschein",
+          "Moped-F\u00fchrerschein mit 15 Jahren",
+          "Umschreibung einer Dienstfahrerlaubnis"
+        ]
+      },
+      "189": {
+        "name": "Fahrerlaubnisbeh\u00f6rde Glauchau",
+        "services": [
+          "Umstellung in einen EU-Kartenf\u00fchrerschein"
+        ]
+      },
+      "190": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Belehrung gem\u00e4\u00df \u00a7\u00a7 42/43 Infektionsschutzgesetz zum Umgang mit Lebensmitteln"
+        ]
       }
     }
   },
@@ -19954,6 +20446,7 @@
           "An- und Ummeldungen",
           "Anderes Anliegen (B\u00fcrgerb\u00fcro)",
           "Ausl\u00e4nder-Angelegenheiten",
+          "Ausweisdokumente oder Kinderreisep\u00e4sse",
           "Beantragung von Ausweisdokumenten",
           "Beantragung von Kinderausweisen",
           "Beglaubigungen",
@@ -20550,6 +21043,13 @@
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
           "Ukraine Fl\u00fcchtlinge"
+        ]
+      },
+      "463": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Antragstellung Milid - Omd (Frau K\u00f6se)",
+          "Antragstellung Milid - Omd (Herr Sellmaier)"
         ]
       }
     }
@@ -21400,6 +21900,7 @@
         "services": [
           "Ausfuhr-/Exportzulassung",
           "Au\u00dferbetriebsetzung",
+          "Au\u00dferbetriebsetzung (Abmeldung)",
           "Ersatz-KFZ-Papiere / Kennzeichenverlust/-diebstahl",
           "Import-Zulassung",
           "Kfz-Zulassung / Umschreibung",
@@ -21601,6 +22102,36 @@
     "scraper": "tevis",
     "url": "https://terminvergabe.maerkischer-kreis.de",
     "locations": {
+      "1": {
+        "name": "FD 22 - Elterngeldstelle",
+        "services": [
+          "FD 22 - Antragstellung nach der Geburt",
+          "FD 22 - Beratung vor der Geburt",
+          "FD 22 - Nachreichen von Unterlagen"
+        ]
+      },
+      "2": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
+          "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
       "258": {
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
@@ -21863,6 +22394,63 @@
         "services": [
           "Erstimpfung Corona 12-18 Jahre L\u00fcdenscheid"
         ]
+      },
+      "4": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung  (ohne weitere Anliegen)",
+          "Adress- oder Namens\u00e4nderung",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein",
+          "Feinstaubplakette"
+        ]
+      },
+      "6": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abgabe des F\u00fchrerscheins bei Fahrverbot",
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein oder Namens\u00e4nderung",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Feinstaubplakette",
+          "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins  (Klassen C1, C1E, C, CE oder CE79)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "8": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abmeldung  (einzeln, am Infoschalter)",
+          "Adress- oder Namens\u00e4nderung  (kein Halterwechsel)",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein  (nach Diebstahl oder Verlust)",
+          "Feinstaubplakette",
+          "Kurzzeitkennzeichen  (am Infoschalter)"
+        ]
+      },
+      "9": {
+        "name": "FD 62 - Kundenzentrum Kasterbeh\u00f6rde",
+        "services": [
+          "Amtliche Basiskarte / ABK",
+          "Entfernungsbescheinigung (Antragsannahme)",
+          "FD62 - Eigentumsnachweis",
+          "Flurkarte / Liegenschaftskarte / Katasterkarte",
+          "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
+          "Grundst\u00fccksrecherche",
+          "Orthofoto / Luftbildkarte"
+        ]
       }
     }
   },
@@ -22028,6 +22616,7 @@
           "Reisepass / vorl\u00e4ufiger Reisepass",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Ummeldung des Wohnsitzes innerhalb von Mainz, deutsche Staatsangeh\u00f6rige",
+          "Umtausch F\u00fchrerschein - Abgabe aller Unterlagen und Formalien",
           "Unterschriftsbeglaubigung",
           "Untersuchungsberechtigungsschein",
           "eID-Karte"
@@ -23658,7 +24247,9 @@
       "158": {
         "name": "Ukrainehilfe",
         "services": [
-          "Anmeldung in Minden"
+          "Anmeldung in Minden",
+          "F\u00fchrungszeugnis beantragen",
+          "erweitertes F\u00fchrungszeugnis beantragen"
         ]
       }
     }
@@ -24233,6 +24824,108 @@
         ]
       },
       "207": {
+        "name": "Jobcenter M\u00fclheim",
+        "services": [
+          "Negativbescheinigung",
+          "Neuantrag allgemein",
+          "Wohnungsgenehmigung"
+        ]
+      },
+      "208": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abholung Personalausweis/Reisepass",
+          "Personalausweis- PIN \u00c4nderung/Aktivierung"
+        ]
+      },
+      "209": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeug",
+          "Abmeldung eines Fahrzeuges",
+          "Ausfuhrkennzeichen (KEIN Import)",
+          "Ersatz-Fahrzeugbrief (Zulassungsbescheinigung Teil II)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Firmenzulassung",
+          "H\u00e4ndlerkennzeichen (rotes Dauerkennzeichen)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Oldtimerkennzeichen / Historische Fahrzeuge",
+          "Rotes Fahrzeugscheinheft f\u00fcr Dauerkennzeichen (H\u00e4ndler*innen)",
+          "Technische \u00c4nderungen in den Fahrzeugpapieren",
+          "Unbedenklichkeitsbescheinigung f\u00fcr eine neue Betriebserlaubnis",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Zulassung eines Import- / Re-Import-Fahrzeuges"
+        ]
+      },
+      "210": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeug",
+          "Abmeldung eines Fahrzeuges",
+          "Elektronische Identifikationskarte (eID)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Feinstaubplakette f\u00fcr Umweltzonen",
+          "Firmenzulassung",
+          "Kurzzeitkennzeichen",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Saisonkennzeichen",
+          "Umschreibung eines Fahrzeugs",
+          "Verlust / Diebstahl von Kennzeichen",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden",
+          "unlesbare oder besch\u00e4digte Kennzeichenschilder"
+        ]
+      },
+      "211": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Elektronische Identifikationskarte (eID)",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden"
+        ]
+      },
+      "212": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beglaubigung von Dokumenten oder Unterschriften",
+          "F\u00fchrungszeugnis oder Auszug aus dem Gewerbezentralregister",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Personalausweis/Reisepass bei Namens\u00e4nderung, Einb\u00fcrgerung oder f\u00fcr Auslandsdeutsche"
+        ]
+      },
+      "213": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Reisepass oder Personalausweis (auch vorl\u00e4ufig)"
+        ]
+      },
+      "214": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung F\u00fchrerschein od. Fahrerkarte",
+          "Abholung F\u00fchrerschein unter Vorlage einer T\u00dcV-Pr\u00fcfbescheinigung",
+          "Auflage B196, B197 oder B96 eintragen",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "Ersatz-F\u00fchrerschein wegen Diebstahl oder Verlust",
+          "Erstmalige Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Fahrerkarte zur G\u00fcter- und Personenbef\u00f6rderung",
+          "Fahrerqualifikationsnachweis (FQN)",
+          "Fahrgastbef\u00f6rderung - Ersterteilung (Taxi, Mietwagen, B\u00fcrgerbus)",
+          "F\u00fchrerschein ab 17 ab 3 Begleitern",
+          "F\u00fchrerschein ab 17 mit bis zu 2 Begleitern",
+          "F\u00fchrerschein-Umtausch, alt gegen neu oder Namens\u00e4nderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Verl\u00e4ngerung LKW-/Bus - FS"
+        ]
+      },
+      "215": {
         "name": "Jobcenter M\u00fclheim",
         "services": [
           "Negativbescheinigung",
@@ -26008,6 +26701,7 @@
           "<font color=91b80f>Kinderreisepass Neuaustellung</font>",
           "<font color=91b80f>Kinderreisepass Verl\u00e4ngerung</font>",
           "<font color=91b80f>Kinderreisepass bis zum 12. Lebensjahr<br>ausstellen/verl\u00e4ngern/aktualisieren</font>",
+          "<font color=91b80f>Meldebescheinigung - auch erweitert -<br>Lebensbescheinigungen nur f\u00fcr Versicherung, keine Rentenangelegenheiten!</font>",
           "<font color=91b80f>Personalausweis beantragen</font>",
           "<font color=91b80f>Personalausweis unter 24 Jahre</font>",
           "<font color=91b80f>Personalausweis \u00fcber 24 Jahre</font>",
@@ -26038,6 +26732,7 @@
           "<font color=91b80f>Kinderreisepass Neuaustellung</font>",
           "<font color=91b80f>Kinderreisepass Verl\u00e4ngerung</font>",
           "<font color=91b80f>Kinderreisepass bis zum 12. Lebensjahr<br>ausstellen/verl\u00e4ngern/aktualisieren</font>",
+          "<font color=91b80f>Meldebescheinigung - auch erweitert -<br>Lebensbescheinigungen nur f\u00fcr Versicherung, keine Rentenangelegenheiten!</font>",
           "<font color=91b80f>Personalausweis beantragen</font>",
           "<font color=91b80f>Personalausweis unter 24 Jahre</font>",
           "<font color=91b80f>Personalausweis \u00fcber 24 Jahre</font>",
@@ -27426,6 +28121,14 @@
           "Ticketverkauf"
         ]
       },
+      "169/8237": {
+        "name": "Abholung Ausweisedokumente ohne PIN-\u00c4nderung",
+        "services": [
+          "Personalausweis abholen",
+          "Personalausweis ohne PIN-\u00c4nderung abholen",
+          "Reisepass abholen"
+        ]
+      },
       "328/5150": {
         "name": "Einladung f\u00fcr ausl\u00e4ndische G\u00e4ste",
         "services": [
@@ -27515,8 +28218,10 @@
         "services": [
           "Kl\u00e4rung Fragestellung Zensus",
           "R\u00fcckfrage zu Erhebung",
+          "R\u00fcckfrage/n zu Erhebung",
           "R\u00fcckgabe Erhebungsunterlagen",
           "R\u00fcckgabe Erhebungsunterlagen und Kl\u00e4ren Fragestellungen",
+          "R\u00fcckgabe Erhebungsunterlagen und R\u00fcckfrage/n zur Erhebung",
           "Termine f\u00fcr Erhebungsbeauftragte",
           "Vorsprache Zensus"
         ]
@@ -28661,6 +29366,7 @@
           "Neuer Reisepass - \u00dcbertrag Niederlassungserlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Sonstiges 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verl\u00e4ngerung einer Aufenthaltsgestattung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Verl\u00e4ngerung einer Duldung / Aufenthaltsgestattung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verl\u00e4ngerung einer Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verpflichtungserkl\u00e4rung (Einladung) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verpflichtungserkl\u00e4rung (Einladung) abgeben 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
@@ -31350,6 +32056,7 @@
           "Aufstiegs-Baf\u00f6g f\u00fcr Teilzeit",
           "Aufstiegs-Baf\u00f6g f\u00fcr Vollzeit",
           "Ausstellung Fahrerqualifikationsnachweis (Schl\u00fcsselzahl 95)/Module",
+          "Beratung und Antragsstellung Elterngeld",
           "Eintrag der Schl\u00fcsselzahl 95 (Module).",
           "Ersatz der Fahrerlaubnis (Verlust, Diebstahl, Brille, Namens\u00e4nderung \u2026)",
           "Ersterteilung ab 17 (Begleitendes Fahren) inkl. 1 Begleitperson",
@@ -31692,6 +32399,28 @@
         "services": [
           "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)"
         ]
+      },
+      "84": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abholung (gleichzeitig) Personalausweis und Reisepass",
+          "Abholung Personalausweis",
+          "Abholung Reisepass"
+        ]
+      },
+      "85": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "F\u00fchrungszeugnis (erweitert) Belegart NE/OE",
+          "F\u00fchrungszeugnis Belegart N/O",
+          "Gewerbezentralregister",
+          "Haushaltsbescheinigung Luxemburg",
+          "Lebens-/Meldebescheinigung",
+          "Online-Ausweisfunktion (eID) aktivieren oder PIN setzen",
+          "Online-Ausweisfunktion (eID) entsperren und PIN setzen",
+          "Steuer-ID (Zweitausfertigung)",
+          "Untersuchungsberechtigungsschein"
+        ]
       }
     }
   },
@@ -31898,12 +32627,20 @@
       "318/6340": {
         "name": "Beantragung Aufenthaltstitel",
         "services": [
+          "Aufenthalt aus humanit\u00e4ren Gr\u00fcnden (\u00a7\u00a7 22, 23, 23a, 24, 25, 25a, 25b AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt aus humanit\u00e4ren Gr\u00fcnden 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Arbeitsplatzsuche (\u00a720 AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Arbeitsplatzsuche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7 s. weiter)  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7\u00a7 16a, 16d,  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Familienzusammenf\u00fchrung (\u00a7\u00a7 28, 30, 31, 32, 33, 34 36, 36a Auf 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Familienzusammenf\u00fchrung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Studium/Promotion (\u00a7\u00a7 16b, 16e Aufenthaltsgesetz) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Studium/Promotion 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Teilnahme an einem Sprachkurs (\u00a7\u00a7 16b Abs. 5, 16f AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Teilnahme an einem Sprachkurs 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks selbst\u00e4ndiger T\u00e4tigkeit (\u00a7 21 AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks selbst\u00e4ndiger T\u00e4tigkeit 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
@@ -33431,7 +34168,10 @@
           "Melde- / Aufenthaltsbescheinigung",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Untersuchungsberechtigungsschein"
+          "Setzung einer neuen PIN des Personalausweises/Aktivierung der Onlinefunktion",
+          "Steuer ID-Bescheinigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustmeldung Personalausweis / Reisepass"
         ]
       },
       "102": {
@@ -33446,7 +34186,10 @@
           "Melde- / Aufenthaltsbescheinigung",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Untersuchungsberechtigungsschein"
+          "Setzung einer neuen PIN des Personalausweises/Aktivierung der Onlinefunktion",
+          "Steuer ID-Bescheinigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustmeldung Personalausweis / Reisepass"
         ]
       },
       "103": {
@@ -33478,7 +34221,10 @@
           "Melde- / Aufenthaltsbescheinigung",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Untersuchungsberechtigungsschein"
+          "Setzung einer neuen PIN des Personalausweises/Aktivierung der Onlinefunktion",
+          "Steuer ID-Bescheinigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustmeldung Personalausweis / Reisepass"
         ]
       },
       "105": {
@@ -33493,7 +34239,10 @@
           "Melde- / Aufenthaltsbescheinigung",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Untersuchungsberechtigungsschein"
+          "Setzung einer neuen PIN des Personalausweises/Aktivierung der Onlinefunktion",
+          "Steuer ID-Bescheinigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustmeldung Personalausweis / Reisepass"
         ]
       },
       "106": {
@@ -33508,7 +34257,10 @@
           "Melde- / Aufenthaltsbescheinigung",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Untersuchungsberechtigungsschein"
+          "Setzung einer neuen PIN des Personalausweises/Aktivierung der Onlinefunktion",
+          "Steuer ID-Bescheinigung",
+          "Untersuchungsberechtigungsschein",
+          "Verlustmeldung Personalausweis / Reisepass"
         ]
       },
       "107": {
