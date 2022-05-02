@@ -993,6 +993,7 @@
           "Online-Ausweisfunktion und PIN Setzung/\u00c4nderung/Entsperrung",
           "Personalausweis",
           "Reisepass (auch Express-Reisepass)",
+          "eID-Karte f\u00fcr B\u00fcrgerinnen und B\u00fcrger der EU und des EWR",
           "eID-Karte f\u00fcr B\u00fcrgerinnen und B\u00fcrger der EU und des EWR 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten3\u00a0\u00a0 Karten4\u00a0\u00a0 Karten5\u00a0\u00a0 Karten6\u00a0\u00a0 Karten",
           "eID-Karte f\u00fcr EU-B\u00fcrger 01\u00a0\u00a0 Karte2\u00a0\u00a0 Karten3\u00a0\u00a0 Karten4\u00a0\u00a0 Karten5\u00a0\u00a0 Karten6\u00a0\u00a0 Karten",
           "vorl\u00e4ufiger Personalausweis",
@@ -8747,6 +8748,16 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=3",
     "locations": {
+      "105/1098": {
+        "name": "Zentrales B\u00fcrgeramt:: Abholung von Dokumenten",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
       "105/2272": {
         "name": "Zentrales B\u00fcrgeramt:: Ausweis- und Passangelegenheiten (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
         "services": [
@@ -8806,6 +8817,16 @@
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
+      },
+      "111/1098": {
+        "name": "H\u00f6chst:: Abholung von Dokumenten",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
         ]
       },
       "111/2272": {
@@ -8870,6 +8891,16 @@
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
+      "117/1098": {
+        "name": "Sachsenhausen:: Abholung von Dokumenten (Bitte einzeln beantragen)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
       "117/2272": {
         "name": "Sachsenhausen:: Ausweis- und Passangelegenheiten (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
         "services": [
@@ -8930,6 +8961,16 @@
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
+      },
+      "118/1098": {
+        "name": "Nordwest:: Abholung von Dokumenten",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
         ]
       },
       "118/2272": {
@@ -9050,6 +9091,16 @@
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
+      "120/1098": {
+        "name": "Bergen-Enkheim:: Abholung von Dokumenten",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
       "120/2272": {
         "name": "Bergen-Enkheim:: Ausweis- und Passangelegenheiten (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
         "services": [
@@ -9109,6 +9160,16 @@
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
+      },
+      "121/1098": {
+        "name": "Dornbusch:: Abholung von Dokumenten (Bitte einzeln beantragen)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
         ]
       },
       "121/2272": {
@@ -10565,6 +10626,7 @@
           "An-, Ab-, Ummeldung Wohnsitz",
           "Beantragung F\u00fchrungszeugnis",
           "Beantragung Personalausweis/Reisepass",
+          "Beantragung/\u00c4nderung Kinderreisepass",
           "Beglaubigungen",
           "Meldebescheinigung",
           "Untersuchungsberechtigungsschein"
@@ -14054,6 +14116,7 @@
       "71": {
         "name": "Asylstelle",
         "services": [
+          "Leistungen f\u00fcr ukrainische Gefl\u00fcchtete",
           "Vorsprache f\u00fcr Leistungen"
         ]
       }
@@ -17276,6 +17339,12 @@
           "Leicht gesagt! Wie wir richtig r\u00fcberbringen, was nicht falsch ankommen soll.",
           "Nicole Staudinger Lesung zum Weltfrauentag - Leicht gesagt! Wie wir richtig r\u00fcberbringen, was nicht falsch ankommen soll."
         ]
+      },
+      "98": {
+        "name": "Fahrerlaubnisangelegenheiten",
+        "services": [
+          "Umtausch des F\u00fchrerscheins"
+        ]
       }
     }
   },
@@ -17857,7 +17926,9 @@
           "Ausfuhrkennzeichen",
           "Ausstellung KFZ-Brief",
           "Briefaufbietung",
+          "Ersatzschein innerhalb der Region",
           "Ersatzschein innerhalb der Region zugelassen",
+          "KFZ-Brief Ersatz bei Verlust",
           "Kurzzeitkennzeichen",
           "Neusiegelung Kennzeichen",
           "Neuzulassung",
@@ -17881,7 +17952,9 @@
           "Ausfuhrkennzeichen",
           "Ausstellung KFZ-Brief",
           "Briefaufbietung",
+          "Ersatzschein innerhalb der Region",
           "Ersatzschein innerhalb der Region zugelassen",
+          "KFZ-Brief Ersatz bei Verlust",
           "Kurzzeitkennzeichen",
           "Neusiegelung Kennzeichen",
           "Neuzulassung",
@@ -21151,6 +21224,79 @@
         "services": [
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
+      },
+      "480": {
+        "name": "Fahreignung",
+        "services": [
+          "Inhaber/Bewerber bei Drogen/Medikamenten"
+        ]
+      },
+      "484": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "485": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "487": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "490": {
+        "name": "Fahreignung",
+        "services": [
+          "Inhaber/Bewerber bei Drogen/Medikamenten"
+        ]
+      },
+      "492": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "495": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "497": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "498": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "499": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "500": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
       }
     }
   },
@@ -21982,6 +22128,12 @@
         "services": [
           "Anmeldung zur Eheschlie\u00dfung",
           "Testanliegen"
+        ]
+      },
+      "530/7648": {
+        "name": "Anmeldung zur Eheschlie\u00dfung",
+        "services": [
+          "Beantragung Ehef\u00e4higkeitszeugnis"
         ]
       },
       "530/7650": {
@@ -24932,6 +25084,106 @@
           "Neuantrag allgemein",
           "Wohnungsgenehmigung"
         ]
+      },
+      "216": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abholung Personalausweis/Reisepass",
+          "Personalausweis- PIN \u00c4nderung/Aktivierung"
+        ]
+      },
+      "217": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeuges",
+          "Ausfuhrkennzeichen (KEIN Import)",
+          "Ersatz-Fahrzeugbrief (Zulassungsbescheinigung Teil II)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Firmenzulassung",
+          "H\u00e4ndlerkennzeichen (rotes Dauerkennzeichen)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Oldtimerkennzeichen / Historische Fahrzeuge",
+          "Rotes Fahrzeugscheinheft f\u00fcr Dauerkennzeichen (H\u00e4ndler*innen)",
+          "Technische \u00c4nderungen in den Fahrzeugpapieren",
+          "Unbedenklichkeitsbescheinigung f\u00fcr eine neue Betriebserlaubnis",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Zulassung eines Import- / Re-Import-Fahrzeuges"
+        ]
+      },
+      "218": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeuges",
+          "Elektronische Identifikationskarte (eID)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Feinstaubplakette f\u00fcr Umweltzonen",
+          "Firmenzulassung",
+          "Kurzzeitkennzeichen",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Saisonkennzeichen",
+          "Umschreibung eines Fahrzeugs",
+          "Verlust / Diebstahl von Kennzeichen",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden",
+          "unlesbare oder besch\u00e4digte Kennzeichenschilder"
+        ]
+      },
+      "219": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Elektronische Identifikationskarte (eID)",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden"
+        ]
+      },
+      "220": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beglaubigung von Dokumenten oder Unterschriften",
+          "F\u00fchrungszeugnis oder Auszug aus dem Gewerbezentralregister",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Personalausweis/Reisepass bei Namens\u00e4nderung, Einb\u00fcrgerung oder f\u00fcr Auslandsdeutsche"
+        ]
+      },
+      "221": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Reisepass oder Personalausweis (auch vorl\u00e4ufig)"
+        ]
+      },
+      "222": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung F\u00fchrerschein od. Fahrerkarte",
+          "Abholung F\u00fchrerschein unter Vorlage einer T\u00dcV-Pr\u00fcfbescheinigung",
+          "Auflage B196, B197 oder B96 eintragen",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "Ersatz-F\u00fchrerschein wegen Diebstahl oder Verlust",
+          "Erstmalige Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Fahrerkarte zur G\u00fcter- und Personenbef\u00f6rderung",
+          "Fahrerqualifikationsnachweis (FQN)",
+          "Fahrgastbef\u00f6rderung - Ersterteilung (Taxi, Mietwagen, B\u00fcrgerbus)",
+          "F\u00fchrerschein ab 17 ab 3 Begleitern",
+          "F\u00fchrerschein ab 17 mit bis zu 2 Begleitern",
+          "F\u00fchrerschein-Umtausch, alt gegen neu oder Namens\u00e4nderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Verl\u00e4ngerung LKW-/Bus - FS"
+        ]
+      },
+      "223": {
+        "name": "Jobcenter M\u00fclheim",
+        "services": [
+          "Negativbescheinigung",
+          "Neuantrag allgemein",
+          "Wohnungsgenehmigung"
+        ]
       }
     }
   },
@@ -25743,6 +25995,24 @@
         "services": [
           "Aufnahme W\u00e4hlerverzeichnis",
           "Termin im Hauptwahlb\u00fcro"
+        ]
+      },
+      "176": {
+        "name": "TEST - STI-Beratungen im Gesundheitsamt",
+        "services": [
+          "Gesundheitsberatung f\u00fcr Prostituierte"
+        ]
+      },
+      "177": {
+        "name": "TEST - STI-Beratungen im Gesundheitsamt",
+        "services": [
+          "Beratungstermin zu sexuell \u00fcbertragbaren Infektionen (STI)"
+        ]
+      },
+      "178": {
+        "name": "Recyclinghof der AWM",
+        "services": [
+          "Recyclinghof-F\u00fchrung"
         ]
       }
     }
@@ -26608,6 +26878,12 @@
           "Brandbek\u00e4mpfungstraining 1",
           "Brandbek\u00e4mpfungstraining 2",
           "Brandbek\u00e4mpfungstraining 3"
+        ]
+      },
+      "388": {
+        "name": "Schulen, Aus- und Weiterbildung",
+        "services": [
+          "Schulanmeldung Realschule und Gymnasium"
         ]
       }
     }
@@ -28792,6 +29068,7 @@
       "326": {
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
+          "STADTFRIEDHOF - Abschiedsfeier Einsegnungshalle",
           "Stadtfriedhof_Abschiedsfeier Einsegnungshalle",
           "Waldfriedhof_Abschiedsfeier Einsegnungshalle"
         ]
@@ -28806,6 +29083,7 @@
       "328": {
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
+          "STADTFRIEDHOF - Urnenbeisetzung",
           "Stadtfriedhof_Urnenbeisetzung",
           "Waldfriedhof_Urnenbeisetzung"
         ]
@@ -28828,12 +29106,14 @@
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
           "Stadtfriedhof_Beerdigung",
+          "WALDFRIEDHOF - Beerdigung",
           "Waldfriedhof_Beerdigung"
         ]
       },
       "332": {
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
+          "STADTFRIEDHOF - Urnenbeisetzung",
           "Stadtfriedhof_Urnenbeisetzung",
           "Waldfriedhof_Urnenbeisetzung"
         ]
@@ -28842,7 +29122,14 @@
         "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
         "services": [
           "Stadtfriedhof_Urnentrauerfeier Einsegnungshalle",
+          "WALDFRIEDHOF - Urnentrauerfeier Einsegnungshalle",
           "Waldfriedhof_Urnentrauerfeier Einsegnungshalle"
+        ]
+      },
+      "334": {
+        "name": "Kundenbereich Friedh\u00f6fe ++++TESTBETRIEB++++",
+        "services": [
+          "Beerdigung"
         ]
       }
     }
@@ -31730,6 +32017,9 @@
       "9": {
         "name": "F\u00fchrerscheinstelle",
         "services": [
+          "Antrag Ersatzf\u00fchrerschein (Verlust oder Diebstahl)",
+          "Antrag Ersatzf\u00fchrerschein (sonstiges)",
+          "Ausstellung internationaler F\u00fchrerschein",
           "Umtausch F\u00fchrerschein"
         ]
       }
@@ -32627,19 +32917,25 @@
       "318/6340": {
         "name": "Beantragung Aufenthaltstitel",
         "services": [
+          "Aufenthalt aus humanit\u00e4ren Gr\u00fcnden  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt aus humanit\u00e4ren Gr\u00fcnden (\u00a7\u00a7 22, 23, 23a, 24, 25, 25a, 25b AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt aus humanit\u00e4ren Gr\u00fcnden 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Arbeitsplatzsuche  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Arbeitsplatzsuche (\u00a720 AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Arbeitsplatzsuche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7 s. weiter)  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7\u00a7 16a, 16d,  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Familienzusammenf\u00fchrung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Familienzusammenf\u00fchrung (\u00a7\u00a7 28, 30, 31, 32, 33, 34 36, 36a Auf 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Familienzusammenf\u00fchrung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Studium/Promotion  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Studium/Promotion (\u00a7\u00a7 16b, 16e Aufenthaltsgesetz) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Studium/Promotion 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Teilnahme an einem Sprachkurs  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Teilnahme an einem Sprachkurs (\u00a7\u00a7 16b Abs. 5, 16f AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Teilnahme an einem Sprachkurs 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks selbst\u00e4ndiger T\u00e4tigkeit  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks selbst\u00e4ndiger T\u00e4tigkeit (\u00a7 21 AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks selbst\u00e4ndiger T\u00e4tigkeit 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
@@ -33439,6 +33735,7 @@
         "services": [
           "Anwohnerparkausweise",
           "Besucherparkausweise  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Familienkarte/Elternteilkarte Waidsee",
           "Fischereischein",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "F\u00fchrerschein",
@@ -34728,6 +35025,94 @@
       },
       "173/1578": {
         "name": "Einwohnermeldeamt: Ausweisangelegenheiten",
+        "services": [
+          "Abholung der fertigen eID-Karte f\u00fcr EU-Ausl\u00e4nder",
+          "Abholung von fertigen Ausweisen und P\u00e4ssen",
+          "Beantragung Personalausweis",
+          "Beantragung Reisepass",
+          "Beantragung eID-Karte f\u00fcr EU-Ausl\u00e4nder",
+          "Kinderreisepass",
+          "Kinderreisepass - Verl\u00e4ngerung/Aktualisierung",
+          "Neusetzen der PIN-Nummer",
+          "Personalausweis und Reisepass",
+          "Personalausweis und vorl\u00e4ufiger Personalausweis",
+          "Vorl\u00e4ufiger Personalausweis",
+          "Vorl\u00e4ufiger Reisepass"
+        ]
+      },
+      "174/1568": {
+        "name": "B\u00fcrgerb\u00fcro Langerfeld: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung",
+          "Anmeldung aus dem Ausland",
+          "Anmeldung aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung",
+          "\u00c4nderung KFZ-Schein bei Ummeldung innerhalb Wuppertal"
+        ]
+      },
+      "174/1571": {
+        "name": "B\u00fcrgerb\u00fcro Langerfeld: Sonstiges",
+        "services": [
+          "F\u00fchrungszeugnis",
+          "Nachreichen von Urkunden",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "174/1576": {
+        "name": "B\u00fcrgerb\u00fcro Langerfeld: Bescheinigungen",
+        "services": [
+          "Amtliche Beglaubigung",
+          "Lebens-, Aufenthalts- und Meldebescheinigung",
+          "Unterschriftsbeglaubigung"
+        ]
+      },
+      "174/1578": {
+        "name": "B\u00fcrgerb\u00fcro Langerfeld: Ausweisangelegenheiten",
+        "services": [
+          "Abholung der fertigen eID-Karte f\u00fcr EU-Ausl\u00e4nder",
+          "Abholung von fertigen Ausweisen und P\u00e4ssen",
+          "Beantragung Personalausweis",
+          "Beantragung Reisepass",
+          "Beantragung eID-Karte f\u00fcr EU-Ausl\u00e4nder",
+          "Kinderreisepass",
+          "Kinderreisepass - Verl\u00e4ngerung/Aktualisierung",
+          "Neusetzen der PIN-Nummer",
+          "Personalausweis und Reisepass",
+          "Personalausweis und vorl\u00e4ufiger Personalausweis",
+          "Vorl\u00e4ufiger Personalausweis",
+          "Vorl\u00e4ufiger Reisepass"
+        ]
+      },
+      "175/1568": {
+        "name": "B\u00fcrgerb\u00fcro Cronenberg: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung",
+          "Anmeldung aus dem Ausland",
+          "Anmeldung aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung",
+          "\u00c4nderung KFZ-Schein bei Ummeldung innerhalb Wuppertal"
+        ]
+      },
+      "175/1571": {
+        "name": "B\u00fcrgerb\u00fcro Cronenberg: Sonstiges",
+        "services": [
+          "F\u00fchrungszeugnis",
+          "Nachreichen von Urkunden",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "175/1576": {
+        "name": "B\u00fcrgerb\u00fcro Cronenberg: Bescheinigungen",
+        "services": [
+          "Amtliche Beglaubigung",
+          "Lebens-, Aufenthalts- und Meldebescheinigung",
+          "Unterschriftsbeglaubigung"
+        ]
+      },
+      "175/1578": {
+        "name": "B\u00fcrgerb\u00fcro Cronenberg: Ausweisangelegenheiten",
         "services": [
           "Abholung der fertigen eID-Karte f\u00fcr EU-Ausl\u00e4nder",
           "Abholung von fertigen Ausweisen und P\u00e4ssen",
