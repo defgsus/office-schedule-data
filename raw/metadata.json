@@ -2903,12 +2903,14 @@
       "728": {
         "name": "Zensus 2022 Rekrutierung",
         "services": [
+          "Ausgabe Erhebungsunterlagen Bremen Vegesack",
           "Ausgabe Erhebungsunterlagen WH"
         ]
       },
       "729": {
         "name": "Statistisches Landesamt Bremen - Zensus",
         "services": [
+          "Allgemeine Informationen zum Zensus",
           "Zensus 2022: Geb\u00e4ude- und Wohnungsz\u00e4hlung (GWZ)",
           "Zensus 2022: Haushaltebefragung auf Stichprobenbasis"
         ]
@@ -7082,12 +7084,56 @@
     "scraper": "netappoint",
     "url": "https://termine.dresden.de/netappoint/index.php?company=stadtdresden-kfz",
     "locations": {
+      "1-zulassungs-und-anderungsantrage": {
+        "name": "(1.) Zulassungs- und \u00c4nderungsantr\u00e4ge",
+        "services": []
+      },
+      "2-ausserbetriebsetzung-abmeldung": {
+        "name": "(2.) Au\u00dferbetriebsetzung (Abmeldung)",
+        "services": []
+      },
+      "3-zulassung-importfahrzeuge-einfuhren": {
+        "name": "(3.) Zulassung Importfahrzeuge / Einfuhren",
+        "services": []
+      },
+      "4-verlust-fahrzeugpapiere-abnahme-eid-abholung-fahrzeugbrief": {
+        "name": "(4.) Verlust Fahrzeugpapiere / Abnahme Eid / Abholung Fahrzeugbrief",
+        "services": []
+      },
+      "4-verlust-fahrzeugpapiere-abnahme-eid-abholung-neuer-fahrzeugbrief": {
+        "name": "(4.) Verlust Fahrzeugpapiere (Abnahme Eid / Abholung neuer Fahrzeugbrief)",
+        "services": []
+      },
+      "5-kurzzeitkennzeichen-5-tage": {
+        "name": "(5.) Kurzzeitkennzeichen (5 Tage)",
+        "services": []
+      },
+      "a-zulassungs-und-anderungsantrage": {
+        "name": "(a) - Zulassungs- und \u00c4nderungsantr\u00e4ge",
+        "services": []
+      },
       "ausserbetriebsetzung": {
         "name": "Au\u00dferbetriebsetzung",
         "services": []
       },
       "ausserbetriebsetzung-abmeldung": {
         "name": "Au\u00dferbetriebsetzung (Abmeldung)",
+        "services": []
+      },
+      "b-ausserbetriebsetzung-abmeldung": {
+        "name": "(b) - Au\u00dferbetriebsetzung (Abmeldung)",
+        "services": []
+      },
+      "c-zulassung-importfahrzeuge-einfuhren": {
+        "name": "(c) - Zulassung Importfahrzeuge / Einfuhren",
+        "services": []
+      },
+      "d-verlust-fahrzeugpapiere-abnahme-eid-abholung-fahrzeugbrief": {
+        "name": "(d) - Verlust Fahrzeugpapiere / Abnahme Eid / Abholung Fahrzeugbrief",
+        "services": []
+      },
+      "e-kurzzeitkennzeichen-5-tage": {
+        "name": "(e) - Kurzzeitkennzeichen (5 Tage)",
         "services": []
       },
       "kurzzeitkennzeichen-5-tage": {
@@ -10340,6 +10386,10 @@
           "Neuerteilung der Fahrerlaubnis nach vorangegangenem Entzug",
           "Neusiegelung der Kennzeichen wegen Unleserlichkeit",
           "Neuzulassung eines Fahrzeuges",
+          "Notfall Verpflichtungserkl\u00e4rung",
+          "Notfall Vignette",
+          "Notfall Vignette und EAT",
+          "Notfall Vignette und EAT mit RA",
           "PIK Erfassung",
           "Parkerleichterung f\u00fcr Schwerbehinderte",
           "Personalausweis beantragen",
@@ -11008,21 +11058,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
-          "1.3 ABI Videoberatung Schule",
-          "1.4 Videoberatung - IBOBB-Caf\u00e9",
-          "1.5 Anmeldung leicht gemacht",
-          "1.8 Beratung - IBOBB-Caf\u00e9",
-          "1.9 ABI Beratung Schule",
-          "2.0 ABI Beratung Kinderbetreuung",
-          "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
-        ]
-      },
-      "131890": {
-        "name": "Abteilung f\u00fcr Bildung und Integration",
-        "services": [
-          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
-          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11031,6 +11068,25 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+        ]
+      },
+      "131890": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Abgabe von Einreichunterlagen zu Bauansuchen",
           "Andere Impfung Kinder",
           "Anmeldung Zuschuss Feriencamps",
@@ -11291,6 +11347,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11299,6 +11357,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Abgabe von Einreichunterlagen zu Bauansuchen",
           "Andere Impfung Kinder",
           "Anmeldung Zuschuss Feriencamps",
@@ -11358,6 +11417,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11367,6 +11428,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11388,22 +11450,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
-          "1.3 ABI Videoberatung Schule",
-          "1.4 Videoberatung - IBOBB-Caf\u00e9",
-          "1.5 Anmeldung leicht gemacht",
-          "1.6 IBOBB Wednesday - Volkschule",
-          "1.8 Beratung - IBOBB-Caf\u00e9",
-          "1.9 ABI Beratung Schule",
-          "2.0 ABI Beratung Kinderbetreuung",
-          "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
-        ]
-      },
-      "73752": {
-        "name": "Abteilung f\u00fcr Bildung und Integration",
-        "services": [
-          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
-          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11413,6 +11461,26 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+        ]
+      },
+      "73752": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.6 IBOBB Wednesday - Volkschule",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11434,6 +11502,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11443,6 +11513,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11464,6 +11535,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11473,6 +11546,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11494,22 +11568,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
-          "1.3 ABI Videoberatung Schule",
-          "1.4 Videoberatung - IBOBB-Caf\u00e9",
-          "1.5 Anmeldung leicht gemacht",
-          "1.6 IBOBB Wednesday - Volkschule",
-          "1.8 Beratung - IBOBB-Caf\u00e9",
-          "1.9 ABI Beratung Schule",
-          "2.0 ABI Beratung Kinderbetreuung",
-          "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
-        ]
-      },
-      "74015": {
-        "name": "Abteilung f\u00fcr Bildung und Integration",
-        "services": [
-          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
-          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11519,6 +11579,26 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+        ]
+      },
+      "74015": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.6 IBOBB Wednesday - Volkschule",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11540,6 +11620,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11549,6 +11631,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11570,6 +11653,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11579,6 +11664,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11600,6 +11686,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11609,6 +11697,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11715,6 +11804,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11723,7 +11814,8 @@
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
         ]
       },
       "74206": {
@@ -11731,6 +11823,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11739,7 +11833,8 @@
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
         ]
       },
       "74207": {
@@ -11747,6 +11842,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11755,7 +11852,8 @@
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
         ]
       },
       "74208": {
@@ -11763,6 +11861,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11771,7 +11871,8 @@
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
         ]
       },
       "74249": {
@@ -11801,22 +11902,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
-          "1.3 ABI Videoberatung Schule",
-          "1.4 Videoberatung - IBOBB-Caf\u00e9",
-          "1.5 Anmeldung leicht gemacht",
-          "1.6 IBOBB Wednesday - Volkschule",
-          "1.8 Beratung - IBOBB-Caf\u00e9",
-          "1.9 ABI Beratung Schule",
-          "2.0 ABI Beratung Kinderbetreuung",
-          "2.1 Verrechnung Schulische Tagesbetreuung",
-          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort"
-        ]
-      },
-      "74799": {
-        "name": "Abteilung f\u00fcr Bildung und Integration",
-        "services": [
-          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
-          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11826,6 +11913,26 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+        ]
+      },
+      "74799": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.6 IBOBB Wednesday - Volkschule",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11847,6 +11954,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11856,6 +11965,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11877,6 +11987,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11886,6 +11998,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11907,6 +12020,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11916,6 +12031,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11937,6 +12053,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11946,6 +12064,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11967,6 +12086,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -11976,6 +12097,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -11997,6 +12119,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12006,6 +12130,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12027,6 +12152,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12036,6 +12163,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Behindertenhilfe",
           "Beratung zu Pflegefragen",
@@ -12129,6 +12257,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12138,6 +12268,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12159,6 +12290,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12168,6 +12301,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12189,6 +12323,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12198,6 +12334,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12219,6 +12356,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12228,6 +12367,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12249,6 +12389,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12258,6 +12400,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12309,6 +12452,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12318,6 +12463,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Fotoregistrierung E-Card",
@@ -12339,6 +12485,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12348,6 +12496,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Behindertenhilfe",
           "Beratung zu Pflegefragen",
@@ -12377,6 +12526,8 @@
         "services": [
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Abgabe Unterlagen f\u00fcr Beitragserm\u00e4\u00dfigung Kinderbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.2 Beitragsberechnung f\u00fcr Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
@@ -12386,6 +12537,7 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
           "Ausbildungsbescheinigung PSMG",
           "Behindertenhilfe",
           "Beratung zu Pflegefragen",
@@ -12530,6 +12682,21 @@
         ]
       },
       "131758": {
+        "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
+        "services": [
+          "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
+          "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
+          "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
+          "Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
+          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
+          "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
+          "ID Austria",
+          "Namens\u00e4nderung/Namensbestimmung",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
+          "Staatsb\u00fcrgerschaftsnachweis"
+        ]
+      },
+      "132527": {
         "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
         "services": [
           "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
@@ -15451,6 +15618,13 @@
           "Ummeldung des Wohnsitzes innerhalb von Ingelheim, deutsche Staatangeh\u00f6rige",
           "eID-Karte f\u00fcr B\u00fcrger*innen der EU und des EWR"
         ]
+      },
+      "4": {
+        "name": "Test EDV R\u00fcckgabe",
+        "services": [
+          "Corona Schnelltest",
+          "R\u00fcckgabe Ausstattung Homeoffice"
+        ]
       }
     }
   },
@@ -15781,6 +15955,24 @@
           "Antrag Umtausch ausl\u00e4ndischer F\u00fchrerschein",
           "Antrag Verl\u00e4ngerung C-/D-Klassen",
           "Sonstiges"
+        ]
+      },
+      "214": {
+        "name": "Familienservice",
+        "services": [
+          "Termin Elterngeld"
+        ]
+      },
+      "215": {
+        "name": "Familienservice",
+        "services": [
+          "Termin Kita- und Hortgeb\u00fchren"
+        ]
+      },
+      "216": {
+        "name": "Familienservice",
+        "services": [
+          "Termin Sch\u00fcler-BAf\u00f6G"
         ]
       }
     }
@@ -17634,6 +17826,12 @@
           "Abholung einer Kontrollger\u00e4tekarte (Fahrerkarte, Unternehmenskarte, Werkstattkarte)",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines vorl\u00e4ufigen F\u00fchrerscheins"
+        ]
+      },
+      "41": {
+        "name": "Einb\u00fcrgerung_Test",
+        "services": [
+          "Beratungstermin"
         ]
       }
     }
@@ -20237,7 +20435,8 @@
         "name": "Zensus Schulung",
         "services": [
           "Schulung in Ettenheim",
-          "Schulung in Ettenheim Stadthalle"
+          "Schulung in Ettenheim Stadthalle",
+          "Zensus-Erhebungsstelle"
         ]
       },
       "3563": {
@@ -22254,6 +22453,17 @@
     "scraper": "tevis",
     "url": "https://terminvergabe.maerkischer-kreis.de",
     "locations": {
+      "0": {
+        "name": "FD36 Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "FD36 - Ausl\u00e4ndischen F\u00fchrerschein Umschreiben",
+          "FD36 - Bundeswehr F\u00fchrerschein Umschreiben",
+          "FD36 - Bus Erteilung/Verl\u00e4ngerung",
+          "FD36 - Eignungs\u00fcberpr\u00fcfung Pers. Vorsprache wg. k\u00f6rperlicher M\u00e4ngel",
+          "FD36 - Neuerteilung",
+          "FD36 - Taxi/Mietwagen Erteilung/Verl\u00e4ngerung"
+        ]
+      },
       "1": {
         "name": "FD 22 - Elterngeldstelle",
         "services": [
@@ -22410,6 +22620,16 @@
           "Austausch von Kennzeichen  bei Besch\u00e4digung",
           "Ersatz-Fahrzeugschein   (nach Diebstahl oder Verlust)",
           "Feinstaubplakette"
+        ]
+      },
+      "27": {
+        "name": "FD36 Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "FD36 - Abholung/Bezahlung/Pr\u00fcfung",
+          "FD36 - Akteneinsicht",
+          "FD36 - Aush\u00e4ndigung",
+          "FD36 - Bus Abholung/Bezahlung",
+          "FD36 - Bus inkl. LKW und FQN"
         ]
       },
       "296": {
@@ -23257,19 +23477,27 @@
         "name": "Innenstadt: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Dauerrote Kfz-Kennzeichen",
           "Ersatz KFZ-Kennzeichen",
+          "Ersatz Kfz-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
+          "Feinstaubplakette oder Besiegelung defekter Kfz-Kennzeichen",
           "KfZ Abmeldung",
+          "Kfz Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
           "Umkennzeichnung KFZ-Kennzeichen",
+          "Umkennzeichnung Kfz-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
           "Zulassung Importfahrzeug",
           "Zulassung fabrikneue sonstige KfZ (z.B. Anh\u00e4nger, Quad, Motorrad, LKW, Wohnmobil",
+          "Zulassung fabrikneue sonstige Kfz (z.B. Anh\u00e4nger, Quad, Motorrad, Lkw, Wohnmobil",
           "Zulassung fabrikneuer PKW",
+          "Zulassung fabrikneuer Pkw",
           "Zulassung fabrikneues KfZ mit unvollst\u00e4ndiger ZB II",
+          "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
           "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
         ]
@@ -23291,7 +23519,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23337,19 +23567,27 @@
         "name": "Waldhof: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Dauerrote Kfz-Kennzeichen",
           "Ersatz KFZ-Kennzeichen",
+          "Ersatz Kfz-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
+          "Feinstaubplakette oder Besiegelung defekter Kfz-Kennzeichen",
           "KfZ Abmeldung",
+          "Kfz Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
           "Umkennzeichnung KFZ-Kennzeichen",
+          "Umkennzeichnung Kfz-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
           "Zulassung Importfahrzeug",
           "Zulassung fabrikneue sonstige KfZ (z.B. Anh\u00e4nger, Quad, Motorrad, LKW, Wohnmobil",
+          "Zulassung fabrikneue sonstige Kfz (z.B. Anh\u00e4nger, Quad, Motorrad, Lkw, Wohnmobil",
           "Zulassung fabrikneuer PKW",
+          "Zulassung fabrikneuer Pkw",
           "Zulassung fabrikneues KfZ mit unvollst\u00e4ndiger ZB II",
+          "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
           "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
         ]
@@ -23371,7 +23609,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23474,7 +23714,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23592,7 +23834,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23650,7 +23894,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23709,7 +23955,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23755,19 +24003,27 @@
         "name": "Lindenhof: KFZ Angelegenheiten",
         "services": [
           "Dauerrote KFZ-Kennzeichen",
+          "Dauerrote Kfz-Kennzeichen",
           "Ersatz KFZ-Kennzeichen",
+          "Ersatz Kfz-Kennzeichen",
           "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
           "Feinstaubplakette oder Besiegelung defekter KFZ-Kennzeichen",
+          "Feinstaubplakette oder Besiegelung defekter Kfz-Kennzeichen",
           "KfZ Abmeldung",
+          "Kfz Abmeldung",
           "Namens\u00e4nderung in ZBI /ZB II",
           "Umkennzeichnung KFZ-Kennzeichen",
+          "Umkennzeichnung Kfz-Kennzeichen",
           "Umkennzeichnung und Ersatz KFZ-Kennzeichen",
           "Verlust / Ersatz ZB II",
           "Zulassung Gebrauchtfahrzeug",
           "Zulassung Importfahrzeug",
           "Zulassung fabrikneue sonstige KfZ (z.B. Anh\u00e4nger, Quad, Motorrad, LKW, Wohnmobil",
+          "Zulassung fabrikneue sonstige Kfz (z.B. Anh\u00e4nger, Quad, Motorrad, Lkw, Wohnmobil",
           "Zulassung fabrikneuer PKW",
+          "Zulassung fabrikneuer Pkw",
           "Zulassung fabrikneues KfZ mit unvollst\u00e4ndiger ZB II",
+          "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
           "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
         ]
@@ -23789,7 +24045,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23867,7 +24125,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23926,7 +24186,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -23985,7 +24247,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -24044,7 +24308,9 @@
           "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
           "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
           "Erteilung und Erweiterung PKW und Motorrad",
+          "Erteilung und Erweiterung Pkw und Motorrad",
           "Erteilung, Erweiterung und Verl\u00e4ngerung LKW, Bus, Taxi und Mietwagen",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
           "F\u00fchrerschein abholen",
           "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
           "Internationaler F\u00fchrerschein",
@@ -24114,6 +24380,24 @@
           "Z\u00e4hler\u00f6ffnung"
         ]
       },
+      "191/1767": {
+        "name": "MVV E.forum: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen",
+          "Sperrandrohung, Sperrung",
+          "Zahlungsvereinbarung / Ratenplan",
+          "Z\u00e4hler\u00f6ffnung"
+        ]
+      },
+      "191/1770": {
+        "name": "MVV E.forum: Sie m\u00f6chten sich an/abmelden.",
+        "services": [
+          "Abmeldung Gewerbe",
+          "Anmeldung Gewerbe",
+          "Einzug / Umzug privat",
+          "Einzug/Umzug innerhalb von Mannheim"
+        ]
+      },
       "191/2342": {
         "name": "Vertragliche Angelegenheiten",
         "services": [
@@ -24179,6 +24463,24 @@
           "Z\u00e4hler\u00f6ffnung"
         ]
       },
+      "480/1767": {
+        "name": "MVV Nachbarschaftsoase: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen",
+          "Sperrandrohung, Sperrung",
+          "Zahlungsvereinbarung / Ratenplan",
+          "Z\u00e4hler\u00f6ffnung"
+        ]
+      },
+      "480/1770": {
+        "name": "MVV Nachbarschaftsoase: Sie m\u00f6chten sich an/abmelden.",
+        "services": [
+          "Abmeldung Gewerbe",
+          "Anmeldung Gewerbe",
+          "Einzug / Umzug privat",
+          "Einzug/Umzug innerhalb von Mannheim"
+        ]
+      },
       "480/2342": {
         "name": "MVV Nachbarschaftsoase: Vertragliche Angelegenheiten",
         "services": [
@@ -24195,6 +24497,7 @@
         "services": [
           "Beratung zu MVV Produkten",
           "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde",
+          "FRANKLIN Mobil - Fahrzeugsharing - Neuanmeldung",
           "FRANKLIN Mobil - Fahrzeugsharing - Neuregistrierung",
           "FRANKLIN Mobil Bestandskunde",
           "FRANKLIN Mobil Neukunde"
@@ -25769,7 +26072,8 @@
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
-          "Umweltplakette"
+          "Umweltplakette",
+          "eID-Karte"
         ]
       },
       "157": {
@@ -25987,6 +26291,7 @@
         "name": "Wahlamt",
         "services": [
           "Information f\u00fcr Schriftf\u00fchrende",
+          "Information f\u00fcr Wahlhelfende im Salzhof",
           "Information f\u00fcr Wahlvorstehende"
         ]
       },
@@ -26013,6 +26318,12 @@
         "name": "Recyclinghof der AWM",
         "services": [
           "Recyclinghof-F\u00fchrung"
+        ]
+      },
+      "179": {
+        "name": "Wahlamt",
+        "services": [
+          "Information f\u00fcr Wahlhelfende im Salzhof"
         ]
       }
     }
@@ -26302,6 +26613,7 @@
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
           "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
+          "Beglaubigung f\u00fcr Rentenzwecke",
           "Bescheinigung f\u00fcr Kindergeld",
           "E-ID f\u00fcr EU- und EWR-B\u00fcrger beantragen",
           "F\u00fchrungszeugnis beantragen",
@@ -26884,6 +27196,12 @@
         "name": "Schulen, Aus- und Weiterbildung",
         "services": [
           "Schulanmeldung Realschule und Gymnasium"
+        ]
+      },
+      "389": {
+        "name": "Bildung, Kultur und Freizeit",
+        "services": [
+          "60 Minuten Lesesaal inkl. PC buchen"
         ]
       }
     }
@@ -29401,6 +29719,32 @@
           "Umtausch F\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerscheinumtausch2\u00a0\u00a0 F\u00fchrerscheinumtausch"
         ]
       },
+      "308/4493": {
+        "name": "KFZ-Angelegenheiten (aktuell nur f\u00fcr R\u00f6srather B\u00fcrger!)",
+        "services": [
+          "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen",
+          "Adress\u00e4nderung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Adress\u00e4nderung2\u00a0\u00a0 Adress\u00e4nderungen3\u00a0\u00a0 Adress\u00e4nderungen4\u00a0\u00a0 Adress\u00e4nderungen",
+          "Ausfuhrkennzeichen  01\u00a0\u00a0 Ausfuhr2\u00a0\u00a0 Ausfuhren",
+          "Bescheinigung / KfZ 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ersatzpapiere bei Verlust ZB I (fr\u00fcher Fahrzeugschein) 01\u00a0\u00a0 ZB I2\u00a0\u00a0 ZB I",
+          "Erwerb Feinstaubplakette 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten",
+          "Fahrzeugscheinheft 01\u00a0\u00a0 2\u00a0\u00a0 3",
+          "Kurzzeitkennzeichen 01\u00a0\u00a0 Kurzzeitkennzeichen2\u00a0\u00a0 Kurzzeitkennzeichen3\u00a0\u00a0 Kurzzeitkennzeichen",
+          "Namens\u00e4nderung bei gleichem Halter 01\u00a0\u00a0 Namens\u00e4nderung 2\u00a0\u00a0 Namens\u00e4nderungen",
+          "Neuzulassung mit deutscher ZB II (fr\u00fcher Fahrzeugbrief) 01\u00a0\u00a0 Neuzulassung2\u00a0\u00a0 Neuzulassungen",
+          "Plakettenausgabe wegen Entsiegelung wegen fehlendem Versicherungsschutz 01\u00a0\u00a0 Wiederbesiegelung",
+          "Plakettenausgabe wegen defektem Kennzeichen 01\u00a0\u00a0 Plakettenausgabe2\u00a0\u00a0 Plakettenausgaben",
+          "Technische \u00c4nderung 01\u00a0\u00a0 \u00c4nderung2\u00a0\u00a0 \u00c4nderungen3\u00a0\u00a0 \u00c4nderungen",
+          "Umkennzeichnung bei gleichem Halter 01\u00a0\u00a0 Umkennzeichnung2\u00a0\u00a0 Umkennzeichnungen",
+          "Umschreibung eines Gebrauchtfahrzeuges mit ausl\u00e4ndischen Fahrzeugpapieren 01\u00a0\u00a0 Umschreibung2\u00a0\u00a0 Umschreibungen",
+          "Umschreibung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Umschreibung2\u00a0\u00a0 Umschreibungen",
+          "Umschreibung von au\u00dferhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Umschreibung2\u00a0\u00a0 Umschreibungen",
+          "Wiederzulassung ohne Halterwechsel 01\u00a0\u00a0 Wiederzulassung2\u00a0\u00a0 Wiederzulassungen",
+          "Zulassung Gebrauchtfahrzeug (l\u00e4nger als 7,5 Jahre abgemeldet) 01\u00a0\u00a0 Zulassung",
+          "Zulassung Wohnmobile, Sonderfahrzeuge etc. 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen",
+          "\u00c4nderung Saisonzeitraum 01\u00a0\u00a0 \u00c4nderung 2\u00a0\u00a0 \u00c4nderungen"
+        ]
+      },
       "308/4497": {
         "name": "KFZ-Angelegenheiten (aktuell nur f\u00fcr R\u00f6srather B\u00fcrger!)",
         "services": [
@@ -30219,6 +30563,7 @@
           "Aush\u00e4ndigung von Fundsachen",
           "Barauszahlung",
           "Beantragung der einmaligen Leistungen",
+          "Beantragung einer einmaligen Leistung",
           "Beratung Wochenmarktbeschicker",
           "Beratung bzgl. Bezirksschornsteinfeger (Claas, Michelbrink, Pultar, Soyk)",
           "Beratung bzgl. Bezirksschornsteinfeger (Knappe, Ordowski, Rieck, Sock)",
@@ -30534,9 +30879,22 @@
           "Vaterschaftsanerkennung"
         ]
       },
+      "214": {
+        "name": "Stadtplanung",
+        "services": [
+          "Einsichtnahme/Bestellung von Bebauungspl\u00e4nen"
+        ]
+      },
+      "215": {
+        "name": "Stadtplanung",
+        "services": [
+          "Einsichtnahme/Bestellung von Fl\u00e4chennutzungsplanausz\u00fcgen"
+        ]
+      },
       "217": {
         "name": "Umwelt",
         "services": [
+          "Fragen in Zusammenhang mit Angelegenheiten, die Grund- und Oberfl\u00e4chengew\u00e4sser betreffen",
           "Fragen in Zusammenhang zur Landwirtschaft und zum Grundst\u00fccksverkehr"
         ]
       },
@@ -30555,6 +30913,7 @@
       "220": {
         "name": "Umwelt",
         "services": [
+          "Allgemeinen Umweltfragen",
           "Fragen in Zusammenhang mit B\u00f6den"
         ]
       },
@@ -30605,7 +30964,8 @@
       "228": {
         "name": "Bauordnung und Denkmalschutz",
         "services": [
-          "Einsichtnahme in Bauakten (S\u00fcd)"
+          "Einsichtnahme in Bauakten (S\u00fcd)",
+          "Einsichtnahme in Bauakten f\u00fcr: Bad, Barum, Beddingen, Bleckenstedt, Dr\u00fctte, Engelnstedt, Gitter, Gro\u00df Mahner, Hallendorf, Heerte, Hohenrode, Immendorf, Ringelheim, Sauingen, Thiede, \u00dcfingen, Watenstedt"
         ]
       },
       "229": {
@@ -30617,7 +30977,8 @@
       "230": {
         "name": "Bauordnung und Denkmalschutz",
         "services": [
-          "Einsichtnahme in Bauakten (Nord)"
+          "Einsichtnahme in Bauakten (Nord)",
+          "Einsichtnahme in Bauakten f\u00fcr: Beinum, Bruchmachtersen, Calbecht, Engerode, Flachst\u00f6ckheim, Gebhardshagen, Lebenstedt, Lesse, Lichtenberg, Lobmachtersen, Ohlendorf, Osterlinde, Reppner, Salder"
         ]
       },
       "231": {
@@ -30642,28 +31003,36 @@
         "name": "Bauordnung und Denkmalschutz",
         "services": [
           "Auskunft aus dem Baulastenverzeichnis und Eintragungen",
-          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen"
+          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Baulasten"
         ]
       },
       "236": {
         "name": "Bauordnung und Denkmalschutz",
         "services": [
           "Auskunft aus dem Baulastenverzeichnis und Eintragungen",
-          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen"
+          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Baulasten"
         ]
       },
       "237": {
         "name": "Bauordnung und Denkmalschutz",
         "services": [
           "Auskunft aus dem Baulastenverzeichnis und Eintragungen",
-          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen"
+          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Baulasten"
         ]
       },
       "238": {
         "name": "Bauordnung und Denkmalschutz",
         "services": [
           "Auskunft aus dem Baulastenverzeichnis und Eintragungen",
-          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen"
+          "Auskunft und Erteilung von Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Abgeschlossenheitsbescheinigungen",
+          "Beratung zu Baulasten"
         ]
       },
       "240": {
@@ -30672,6 +31041,12 @@
           "Gespr\u00e4ch zur Ermittlung der Vaterschaft meines Kindes",
           "Unterhaltsvorschussantrag einreichen",
           "Unterlagen abgeben"
+        ]
+      },
+      "242": {
+        "name": "Umwelt",
+        "services": [
+          "Fragen in Zusammenhang zur Landwirtschaft und zum Grundst\u00fccksverkehr"
         ]
       }
     }
@@ -32364,6 +32739,7 @@
           "Neuerteilung der Fahrerlaubnis (nach Entzug) C, C1, CE, C1E, CE79",
           "Neuerteilung der Fahrerlaubnis (nach Entzug) D, D1, D1E, DE",
           "Umf\u00e4rbung der Kennzeichen",
+          "Umschreibung einer Dienstfahrerlaubnis in eine zivile Fahrerlaubnis",
           "Umtausch der alten deutschen Fahrerlaubnis  (Modell rosa/grau) in Kartenf\u00fchrerschein",
           "Umtausch der ausl\u00e4ndischen Fahrerlaubnis (EU)",
           "Umtausch der ausl\u00e4ndischen Fahrerlaubnis (Nicht EU) A, A1, A2, B, BE",
@@ -32695,17 +33071,24 @@
         "services": [
           "Abholung (gleichzeitig) Personalausweis und Reisepass",
           "Abholung Personalausweis",
+          "Abholung Personalausweis und/oder Reisepass",
+          "Abholung Personalausweis und/oder Reisepass (nur einzeln buchbar)",
           "Abholung Reisepass"
         ]
       },
       "85": {
         "name": "B\u00fcrgeramt",
         "services": [
+          "F\u00fchrungszeugnis (Belegart N/NE) und/oder Gewerbezentralregisterauskunft (Belegart 1)",
+          "F\u00fchrungszeugnis (Belegart O/OE) und/oder Gewerbezentralregisterauskunft (Belegart 9)",
           "F\u00fchrungszeugnis (erweitert) Belegart NE/OE",
+          "F\u00fchrungszeugnis Belegart N/NE und/oder Gewerbezentralregisterauskunft Belegart 1",
           "F\u00fchrungszeugnis Belegart N/O",
+          "F\u00fchrungszeugnis Belegart O/OE und/oder Gewerbezentralregisterauskunft Belegart 9",
           "Gewerbezentralregister",
           "Haushaltsbescheinigung Luxemburg",
           "Lebens-/Meldebescheinigung",
+          "Meldebescheinigung (f\u00fcr alle Zwecke)",
           "Online-Ausweisfunktion (eID) aktivieren oder PIN setzen",
           "Online-Ausweisfunktion (eID) entsperren und PIN setzen",
           "Steuer-ID (Zweitausfertigung)",
@@ -33421,6 +33804,15 @@
           "Walldorf-Pass f\u00fcr Alleinerziehende oder f\u00fcr Familien mit 3 oder mehr kindergeldberechtigten Kindern/Abholung von Gutscheinen",
           "Walldorf-Pass f\u00fcr Rentner ab dem 55. LJ mit einer Schwerbehinderung von mind. 80%",
           "Walldorf-Pass f\u00fcr Rentner ab dem 60 LJ"
+        ]
+      },
+      "132420": {
+        "name": "Gewerbeamt",
+        "services": [
+          "Antrag f\u00fcr eine vor\u00fcbergehende Wirtschaftserlaubnis",
+          "Antragstellung f\u00fcr die Neuerrichtung oder \u00dcbernahme einer Gastst\u00e4tte",
+          "Beantragung von einem Gewerbezentralregisterauszug",
+          "Bearbeitung von Gewerbeanzeigen"
         ]
       },
       "78012": {
