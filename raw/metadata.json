@@ -2904,7 +2904,8 @@
         "name": "Zensus 2022 Rekrutierung",
         "services": [
           "Ausgabe Erhebungsunterlagen Bremen Vegesack",
-          "Ausgabe Erhebungsunterlagen WH"
+          "Ausgabe Erhebungsunterlagen WH",
+          "R\u00fcckgabe / Ausgabe Erhebungsunterlagen HHST / WH"
         ]
       },
       "729": {
@@ -2930,6 +2931,12 @@
         "name": "SJISRegistrierung - NOTFALL",
         "services": [
           "Notfall - Registrierung"
+        ]
+      },
+      "732": {
+        "name": "Zensus 2022 R\u00fcckgabe",
+        "services": [
+          "R\u00fcckgabe / Ausgabe Erhebungsunterlagen HHST / WH"
         ]
       },
       "785": {
@@ -10093,6 +10100,12 @@
           "Verl\u00e4ngerung Fahrerlaubnis (LKW / Bus)",
           "Verl\u00e4ngerung Personenbef\u00f6rderungsschein",
           "\u00c4nderung von Auflagen (z. B. Sehhilfe)"
+        ]
+      },
+      "42": {
+        "name": "Jobcenter",
+        "services": [
+          "JC-Testanliegen"
         ]
       }
     }
@@ -19861,6 +19874,7 @@
           "Antragstellung",
           "Arbeitsaufnahme,Einkommensanrechnung und ggf. R\u00fcckforderung",
           "Aush\u00e4ndigung Einb\u00fcrgerungsurkunde",
+          "Beratung",
           "Fragen zu gew\u00e4hrten Leistungen bzw. zum Auszahlungsbetrag",
           "Kostenzusage Krankenhilfe",
           "MIG_Abgabe Unterlagen -mit Beratung",
@@ -19869,6 +19883,8 @@
           "MIG_Fragen zu gew\u00e4hrten Leistungen bzw. zum Auszahlungsbetrag",
           "MIG_Kostenzusage Krankenhilfe",
           "MIG_Umstellung auf \u00a72 AsylblG",
+          "Negativbescheinigung",
+          "Staatsangeh\u00f6rigkeitsausweis",
           "Umstellung auf \u00a72 AsylblG",
           "Verpflichtungserkl\u00e4rung",
           "alle ausl\u00e4nderrechtliche Anliegen"
@@ -20463,7 +20479,8 @@
       "3423": {
         "name": "Migrationsamt",
         "services": [
-          "Verpflichtungserkl\u00e4rung"
+          "Verpflichtungserkl\u00e4rung",
+          "Verpflichtungserkl\u00e4rung (Einladung)"
         ]
       },
       "3426": {
@@ -22565,6 +22582,7 @@
           "Reisepass beantragen",
           "Verlustmeldung/Wiederauffinden eines Bundespersonalausweises oder Reisepasses 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Vorl\u00e4ufigen Bundespersonalausweis beantragen",
+          "eID Karte abholen",
           "eID-Karte beantragen"
         ]
       },
@@ -22651,20 +22669,28 @@
       "0": {
         "name": "FD36 Fahrerlaubnisbeh\u00f6rde",
         "services": [
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "Bundeswehr F\u00fchrerschein Umschreiben",
+          "Bus Erteilung/Verl\u00e4ngerung",
           "FD36 - Ausl\u00e4ndischen F\u00fchrerschein Umschreiben",
           "FD36 - Bundeswehr F\u00fchrerschein Umschreiben",
           "FD36 - Bus Erteilung/Verl\u00e4ngerung",
           "FD36 - Eignungs\u00fcberpr\u00fcfung Pers. Vorsprache wg. k\u00f6rperlicher M\u00e4ngel",
           "FD36 - Neuerteilung",
-          "FD36 - Taxi/Mietwagen Erteilung/Verl\u00e4ngerung"
+          "FD36 - Taxi/Mietwagen Erteilung/Verl\u00e4ngerung",
+          "Neuerteilung",
+          "Taxi/Mietwagen Erteilung/Verl\u00e4ngerung"
         ]
       },
       "1": {
         "name": "FD 22 - Elterngeldstelle",
         "services": [
+          "Antragstellung nach der Geburt",
+          "Beratung vor der Geburt",
           "FD 22 - Antragstellung nach der Geburt",
           "FD 22 - Beratung vor der Geburt",
-          "FD 22 - Nachreichen von Unterlagen"
+          "FD 22 - Nachreichen von Unterlagen",
+          "Nachreichen von Unterlagen"
         ]
       },
       "2": {
@@ -22820,6 +22846,10 @@
       "27": {
         "name": "FD36 Fahrerlaubnisbeh\u00f6rde",
         "services": [
+          "Abholung/ Bezahlung/ Pr\u00fcfung",
+          "Aush\u00e4ndigung",
+          "Bus Abholung/ Bezahlung",
+          "Bus inkl. LKW und FQN",
           "FD36 - Abholung/Bezahlung/Pr\u00fcfung",
           "FD36 - Akteneinsicht",
           "FD36 - Aush\u00e4ndigung",
@@ -23628,10 +23658,13 @@
       "125/1066": {
         "name": "Innenstadt: Standesamt",
         "services": [
+          "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
-          "Standesamtliche Urkunde"
+          "Standesamtliche Urkunde",
+          "Sterbefall anzeigen"
         ]
       },
       "125/3329": {
@@ -23703,6 +23736,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -23796,6 +23830,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -23860,6 +23895,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -23907,6 +23943,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -23971,6 +24008,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -24033,6 +24071,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -24157,6 +24196,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -24250,6 +24290,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -24331,10 +24372,13 @@
       "137/1066": {
         "name": "Sandhofen: Standesamt",
         "services": [
+          "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
-          "Standesamtliche Urkunde"
+          "Standesamtliche Urkunde",
+          "Sterbefall anzeigen"
         ]
       },
       "137/2240": {
@@ -24392,10 +24436,13 @@
       "138/1066": {
         "name": "Sch\u00f6nau: Standesamt",
         "services": [
+          "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
-          "Standesamtliche Urkunde"
+          "Standesamtliche Urkunde",
+          "Sterbefall anzeigen"
         ]
       },
       "138/2240": {
@@ -24455,6 +24502,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -24519,6 +24567,7 @@
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
@@ -26528,6 +26577,13 @@
           "Termin im Hauptwahlb\u00fcro"
         ]
       },
+      "175": {
+        "name": "Energieberatung",
+        "services": [
+          "pers\u00f6nliche  - Energieberatung der Verbraucherzentrale (vor Ort)",
+          "telefonische - Energieberatung der Verbraucherzentrale"
+        ]
+      },
       "176": {
         "name": "TEST - STI-Beratungen im Gesundheitsamt",
         "services": [
@@ -26950,8 +27006,10 @@
           "F\u00fchrerschein abholen",
           "F\u00fchrerschein abholen sowie einen Fahrerqualifizierungs- nachweis (FQN) beantragen (95`er - Karte)",
           "Namen auf einem deutschen F\u00fchrerschein \u00e4ndern",
+          "Schl\u00fcsselzahl B197 auf deutschen F\u00fchrerschein eintragen bzw. Antrag auf B197 umstellen",
           "Sehhilfe aus einem deutschen F\u00fchrerschein austragen",
           "Sonstige Anliegen (z.B. Aush\u00e4ndigung verwahrter F\u00fchrerschein, Stundungsantrag)",
+          "Sonstige Schl\u00fcsselzahl auf deutschen F\u00fchrerschein eintragen (z.B. B96, B196) mit zus. FQN - Karte (95\u00e8r)",
           "Sonstige Schl\u00fcsselzahl auf deutschen F\u00fchrerschein eintragen (z.B. B96, B196, B197)",
           "Sonstige Schl\u00fcsselzahl auf deutschen F\u00fchrerschein eintragen (z.B. B96, B196, B197) mit zus. FQN - Karte (95\u00e8r)",
           "Sonstige Schl\u00fcsselzahl auf deutschen F\u00fchrerschein eintragen (z.B. B96, B196, B197) ohne zus. FQN - Karte (95\u00e8r)",
@@ -27270,6 +27328,12 @@
         "services": [
           "Grabstelle f\u00fcr Sargbestattungen ausw\u00e4hlen",
           "Grabstelle f\u00fcr Urnenbestattungen ausw\u00e4hlen"
+        ]
+      },
+      "364": {
+        "name": "Zeitlich begrenzte Sonderaktionen",
+        "services": [
+          "Ausgabe Schulmittelaktion"
         ]
       },
       "365": {
@@ -30380,9 +30444,15 @@
       "314/4328": {
         "name": "Ausl\u00e4nderangelegenheiten",
         "services": [
+          "Abholung Aufenthaltstitel (eAT) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung einer Niederlassungserlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Antrag auf Erteilung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Antrag auf Erteilung eines unbefristeten Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Antrag auf Verl\u00e4ngerung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Asylverfahren - Aufenthaltsgestattung/ Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthaltstitel (eAT) abholen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Neuer Reisepass - \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Neuer Reisepass - \u00dcbertrag Niederlassungserlaubnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Sonstiges 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verl\u00e4ngerung einer Aufenthaltsgestattung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
@@ -30487,6 +30557,13 @@
         "services": [
           "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
+      "425/8310": {
+        "name": "Rechtsberatung f\u00fcr ukrainische Gefl\u00fcchtete",
+        "services": [
+          "Rechtsberatung - Ausl\u00e4nderrecht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen",
+          "Rechtsberatung - Ausl\u00e4nderrecht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "428/5936": {
@@ -31499,6 +31576,7 @@
       "143": {
         "name": "Fahrerlaubnisbeh\u00f6rde",
         "services": [
+          "Ersterteilung / Erweiterung NUR f\u00fcr Fahrsch\u00fcler",
           "FEB - Ersterteilung F\u00fchrerschein"
         ]
       }
@@ -31934,6 +32012,7 @@
         "services": [
           "Abholung des neu ausgestellten Personalausweises/Reisepasses/Kinderreisepasses 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Kindereisepass (nur f\u00fcr Kinder unter 12 Jahren) Neuausstellung/Aktualisierung/Ve 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kindereisepass Neuausstellung/Aktualisierung/Verl\u00e4ngerung 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kopie von blo\u00dfe Adress\u00e4nderung auf dem Personalausweis/Reisepass/Kinderreisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
@@ -32713,6 +32792,12 @@
     "scraper": "tevis",
     "url": "https://termine-reservieren.de/termine/stade",
     "locations": {
+      "10": {
+        "name": "Teststellung",
+        "services": [
+          "Abholung F\u00fchrerschein"
+        ]
+      },
       "5": {
         "name": "Zulassungsstelle",
         "services": [
