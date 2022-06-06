@@ -1129,6 +1129,21 @@
           "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
           "\u043a\u043e\u043b\u0435\u043a\u0446\u0456\u044f"
         ]
+      },
+      "167/8419": {
+        "name": "default",
+        "services": [
+          "Abholung des Aufenthaltstitels",
+          "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
+          "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
+          "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
+          "F\u00fcr Asylbewerber - Duldung / Gestattung",
+          "Reiseausweis oder Sonstiges Anliegen",
+          "Visaangelegenheiten (keine Ersterteilung/Verl\u00e4ngerung v. Aufenthaltserl.)",
+          "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
+          "\u0412\u0438\u0434\u0430\u0447\u0430",
+          "\u043a\u043e\u043b\u0435\u043a\u0446\u0456\u044f"
+        ]
       }
     }
   },
@@ -13339,6 +13354,7 @@
       "143": {
         "name": "Fachdienst Soziales",
         "services": [
+          "Erst- oder Folgeantrag stellen",
           "Erst- oder Folgeantrag stellen / Leistungen f\u00fcr Kriegsfl\u00fcchtlinge (Ukraine)",
           "Unterlagen einreichen / Busticket, Krankenscheine, Gutscheine abholen"
         ]
@@ -13381,6 +13397,7 @@
         "services": [
           "BuT-Leistungen /M\u00fcnsterlandkarte",
           "Wohnberechtigungsschein / Einkommensbescheinigung",
+          "Wohngeld - Antrag stellen / Allgemeine Anfragen",
           "Wohngeld - Antragstellung / Allgemeine Anfragen",
           "Wohngeld - Antragsunterlagen einreichen"
         ]
@@ -14095,9 +14112,16 @@
       "41": {
         "name": "B\u00fcrgerdienste - virtuell",
         "services": [
+          "15_Schwerbehindertenparkausweis (blau und orange)",
           "Abmeldung",
           "Anmeldung, Ummeldung innerhalb Heidelbergs",
-          "Melde- und Aufenthaltsbescheinigung, Melderegisterauskunft"
+          "Anwohnerparkausweis, Besucherkarten (Nicht f\u00fcr Altstadt)",
+          "F\u00fchrungszeugnis",
+          "Heidelberg-Pass / Heidelberg-Pass + mit Kulturpass und Feriengutscheinen",
+          "Landesfamilienpass, Jugendkulturpass",
+          "Melde- und Aufenthaltsbescheinigung, Melderegisterauskunft",
+          "Schwerbehindertenparkausweis (blau und orange)",
+          "Wohnberechtigungsschein"
         ]
       },
       "4103": {
@@ -20602,8 +20626,10 @@
       "3562": {
         "name": "Zensus Schulung",
         "services": [
+          "Abgabe Erhebungsunterlagen",
           "Schulung in Ettenheim",
           "Schulung in Ettenheim Stadthalle",
+          "Vorsprache Auskunftspflichtige",
           "Zensus-Erhebungsstelle"
         ]
       },
@@ -20642,6 +20668,12 @@
         "name": "Migrationsamt",
         "services": [
           "Antragstellung"
+        ]
+      },
+      "3571": {
+        "name": "Zensus-Erhebungsstelle",
+        "services": [
+          "Abgabe Erhebungsunterlagen"
         ]
       }
     }
@@ -23693,6 +23725,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -23770,6 +23803,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -23864,6 +23898,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -23929,6 +23964,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -23977,6 +24013,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24042,6 +24079,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24105,6 +24143,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24230,6 +24269,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24324,6 +24364,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24407,6 +24448,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24471,6 +24513,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24536,6 +24579,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -24601,6 +24645,7 @@
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
         ]
@@ -25792,6 +25837,12 @@
           "Neuantrag allgemein",
           "Wohnungsgenehmigung"
         ]
+      },
+      "224": {
+        "name": "Bauberatung / Bauaufsicht",
+        "services": [
+          "Bauberatung"
+        ]
       }
     }
   },
@@ -26638,6 +26689,14 @@
         "services": [
           "Information f\u00fcr Wahlhelfende im Salzhof"
         ]
+      },
+      "180": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Personalausweis",
+          "Reisepass"
+        ]
       }
     }
   },
@@ -27260,12 +27319,14 @@
         "services": [
           "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Beglaubigung f\u00fcr Rentenzwecke",
+          "Bescheinigung f\u00fcr Kindergeld",
           "E-ID f\u00fcr EU- und EWR-B\u00fcrger beantragen",
           "F\u00fchrungszeugnis beantragen",
           "Kinderreisepass beantragen",
           "Kinderreisepass verl\u00e4ngern oder aktualisieren",
           "Kopie beglaubigen",
           "Personalausweis beantragen",
+          "Personalausweis: Online-Ausweisfunktion nachtr\u00e4glich aktivieren, entsperren (nach Ausweis-Verlust), PIN erneuern",
           "Reisepass beantragen",
           "Unterschrift beglaubigen",
           "Unterschrift f\u00fcr Rentenzwecke beglaubigen",
@@ -27541,6 +27602,21 @@
         "name": "Bildung, Kultur und Freizeit",
         "services": [
           "60 Minuten Lesesaal inkl. PC buchen"
+        ]
+      },
+      "391": {
+        "name": "Zeitlich begrenzte Sonderaktionen",
+        "services": [
+          "Ausgabe Schulmittelaktion"
+        ]
+      },
+      "392": {
+        "name": "Ausweis-, Pass- und Meldeangelegenheiten",
+        "services": [
+          "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
+          "Unterschrift f\u00fcr Rentenzwecke beglaubigen",
+          "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
+          "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
       }
     }
@@ -29236,6 +29312,7 @@
           "Kurzzeitkennzeichen 01\u00a0\u00a0 Kurzzeitkennzeichen2\u00a0\u00a0 Kurzzeitkennzeichen3\u00a0\u00a0 Kurzzeitkennzeichen",
           "Namens\u00e4nderung bei gleichem Halter 01\u00a0\u00a0 Namens\u00e4nderung 2\u00a0\u00a0 Namens\u00e4nderungen",
           "Neuzulassung mit deutscher ZB II (fr\u00fcher Fahrzeugbrief) 01\u00a0\u00a0 Neuzulassung2\u00a0\u00a0 Neuzulassungen",
+          "Plakettenausgabe aufgrund defektem Kennzeichen/defektem Siegel 01\u00a0\u00a0 Plakettenausgabe2\u00a0\u00a0 Plakettenausgaben",
           "Plakettenausgabe wegen defektem Kennzeichen 01\u00a0\u00a0 Plakettenausgabe2\u00a0\u00a0 Plakettenausgaben",
           "Technische \u00c4nderung 01\u00a0\u00a0 \u00c4nderung2\u00a0\u00a0 \u00c4nderungen3\u00a0\u00a0 \u00c4nderungen",
           "Umkennzeichnung bei gleichem Halter 01\u00a0\u00a0 Umkennzeichnung2\u00a0\u00a0 Umkennzeichnungen",
@@ -31560,6 +31637,12 @@
         "name": "Umwelt",
         "services": [
           "Fragen in Zusammenhang zur Landwirtschaft und zum Grundst\u00fccksverkehr"
+        ]
+      },
+      "248": {
+        "name": "AutoService",
+        "services": [
+          "Au\u00dferbetriebsetzung"
         ]
       }
     }
@@ -34164,6 +34247,24 @@
           "Zweitimpfung Kind"
         ]
       },
+      "17": {
+        "name": "Versicherungsstelle",
+        "services": [
+          "Altersrente",
+          "Beratung und Auskunft",
+          "Erziehungsrente",
+          "Kindererziehungs-/Kinderber\u00fccksichtigungszeiten",
+          "Kl\u00e4rung von Versicherungszeiten",
+          "Nachreichungen zum Antrag",
+          "Rente wegen Erwerbsminderung",
+          "Sonstiges",
+          "Waisenrente",
+          "Weiterzahlung einer Rente wegen Erwerbsminderung",
+          "Weiterzahlung einer Waisenrente",
+          "Widerspruch",
+          "Witwen-/Witwerrente"
+        ]
+      },
       "9": {
         "name": "B\u00fcrgerservice",
         "services": [
@@ -34572,6 +34673,12 @@
           "Covid-19-Symptome u./o. positiver Schnelltest",
           "Haushaltskontakt - Freitestung",
           "Positive Person - Freitestung"
+        ]
+      },
+      "28": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Ausgabe Sozialticket"
         ]
       }
     }
