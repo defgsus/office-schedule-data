@@ -5378,6 +5378,78 @@
         "services": [
           "POC (Schnelltests)Termin Schnellteststation"
         ]
+      },
+      "977": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "978": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "979": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "980": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "981": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "982": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "983": {
+        "name": "Hausbegehungen M\u00fcllenbach",
+        "services": [
+          "Hausbegehungen M\u00fcllenbach"
+        ]
+      },
+      "984": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "985": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
       }
     }
   },
@@ -5558,6 +5630,14 @@
           "Ersatzdokumente/Bescheinigungen",
           "Zulassung mit techn. Gutachten/Oldtimer/Kr\u00e4ne/Maschinen",
           "Zulassungen/Umschreibungen/neu, gebraucht"
+        ]
+      },
+      "81047": {
+        "name": "Welche Leistung m\u00f6chten Sie buchen?",
+        "services": [
+          "F\u00fchrerschein - Antr\u00e4ge von Fahrschulen",
+          "F\u00fchrerschein - Sonstiges",
+          "F\u00fchrerschein - Umtausch Alt-Fahrerlaubnis in Scheckkartenformat"
         ]
       },
       "89856": {
@@ -14207,6 +14287,7 @@
       "142/1216": {
         "name": "Kfz-Angelegenheiten",
         "services": [
+          "Kfz-Abmeldung 01\u00a0\u00a0 Abmeldung",
           "Kfz-Abmeldung 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen",
           "Kfz-Adress\u00e4nderung 01\u00a0\u00a0 Kfz-Adress\u00e4nderung2\u00a0\u00a0 Kfz-Adress\u00e4nderungen3\u00a0\u00a0 Kfz-Adress\u00e4nderungen4\u00a0\u00a0 Kfz-Adress\u00e4nderungen",
           "Kfz-Neuzulassung 01\u00a0\u00a0 Kfz-Neuzulassung",
@@ -16078,6 +16159,7 @@
           "Abmeldung ins Ausland",
           "Anmeldung einer Hauptwohnung",
           "Anmeldung einer Nebenwohnung",
+          "Auskunft aus dem Melderegister beantragen",
           "Au\u00dferbetriebsetzung (Abmeldung) eines in Jena zugelassenen Kraftfahrzeuges/Anh\u00e4ngers",
           "Bewohnerparkausweis \u00e4ndern oder Verlust anzeigen",
           "Eintragung technischer \u00c4nderungen",
@@ -16085,6 +16167,7 @@
           "F\u00fchrungszeugnis beantragen",
           "Kinderreisepass / Reisepass f\u00fcr Person unter 18 Jahren",
           "Meldebescheinigung beantragen",
+          "Online-Ausweisfunktion einschalten und/oder PIN \u00e4ndern",
           "Personalausweis f\u00fcr Person ab 16 Jahren",
           "Personalausweis f\u00fcr Person unter 16 Jahren",
           "Reisepass f\u00fcr Person ab 18 Jahren",
@@ -16148,6 +16231,9 @@
       "214": {
         "name": "Familienservice",
         "services": [
+          "Abgabe Elterngeldantrag",
+          "Abgabe/Nachreichung Unterlagen Elterngeldantrag",
+          "Beratung Elterngeld",
           "Termin Elterngeld"
         ]
       },
@@ -16160,6 +16246,9 @@
       "216": {
         "name": "Familienservice",
         "services": [
+          "Abgabe Sch\u00fcler-BAf\u00f6G-Antrag",
+          "Abgabe/Nachreichung Unterlagen Sch\u00fcler-BAf\u00f6G-Antrag",
+          "Beratung Sch\u00fcler-BAf\u00f6G",
           "Termin Sch\u00fcler-BAf\u00f6G"
         ]
       }
@@ -18122,6 +18211,7 @@
         "services": [
           "Abholung eines Kartenf\u00fchrerscheins 01\u00a0\u00a0 Kartenf\u00fchrerschein2\u00a0\u00a0 Kartenf\u00fchrerscheine",
           "Ausfuhrkennzeichen",
+          "Ausstellen eines Fahrerqualifizierungsnachweises FQN 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
           "Begleitetes Fahren ab 17 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Eintragung der Schl\u00fcsselzahl 95 f\u00fcr Berufskraftfahrer 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
           "Ersatzf\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge",
@@ -22525,14 +22615,19 @@
           "Kfz-Zulassung / Umschreibung",
           "Kurzzeitkennzeichen",
           "Namens-/Adress\u00e4nderung des bisherigen Halters innerhalb LU",
-          "\u00c4nderung technische Daten"
+          "\u00c4nderung technische Daten",
+          "\u00c4nderung technische Daten & Oldtimer H-Kennzeichen",
+          "\u00c4nderung technische Daten & Oldtimer-Kennzeichen"
         ]
       },
       "171": {
         "name": "Kfz-Zulassung",
         "services": [
           "Ersatz Rotes Heft H\u00e4ndlerkennzeichen",
+          "Ersatz- & Erteilung der Betriebserlaubnis f\u00fcr Roller/Mofas/...",
+          "Ersatz-Betriebserlaubnis f\u00fcr Roller/Mofas/...",
           "Ersatz-Betriebserlaubnis f\u00fcr Roller/Mofas/Sportanh\u00e4nger",
+          "Rote Dauerkennzeichen (06/07) beantragen/verl\u00e4ngern/abmelden",
           "Rote Dauerkennzeichen f\u00fcr H\u00e4ndler/Oldtimer beantragen/verl\u00e4ngern/abmelden"
         ]
       },
@@ -24776,6 +24871,14 @@
           "Strom- und Energieeinsparung"
         ]
       },
+      "191/3062": {
+        "name": "Unterst\u00fctzung von gesetzlichen Vorgaben und Antragsstellung",
+        "services": [
+          "Erstberatung \u00fcber m\u00f6gliche F\u00f6rdergelder",
+          "L\u00f6sungsans\u00e4tze zur Erf\u00fcllung gesetzlicher Vorgaben (z.B. EW\u00e4rmeG)",
+          "Unterst\u00fctzung bei der online-/offline Antragsstellung"
+        ]
+      },
       "191/4703": {
         "name": "Energieausweis",
         "services": [
@@ -24790,6 +24893,34 @@
           "Rechnungsreklamation /-kl\u00e4rung",
           "Tarifberatung",
           "Trocknungsma\u00dfnahme"
+        ]
+      },
+      "191/8425": {
+        "name": "Beratung zu unseren W\u00e4rmel\u00f6sungen",
+        "services": [
+          "Beratung zu unseren W\u00e4rmeprodukten (Fernw\u00e4rme, W\u00e4rmepumpe, Holzpellet, Gas)",
+          "Fernw\u00e4rme",
+          "Gasheizung",
+          "Holzpellet-Heizung",
+          "W\u00e4rmepumpe"
+        ]
+      },
+      "191/8426": {
+        "name": "MVV Wasser- und W\u00e4rmewelt",
+        "services": [
+          "Beratung zu unseren W\u00e4rmeprodukten (Fernw\u00e4rme, W\u00e4rmepumpe, Holzpellet, Gas)",
+          "MVV Wasserprodukte - (Wasser-Entkalkungsanlagen)",
+          "MVV Wasserprodukte - (Wasserfilter, Wasser-Entkalkungsanlagen)"
+        ]
+      },
+      "191/8430": {
+        "name": "Beratung zu unseren W\u00e4rmel\u00f6sungen",
+        "services": [
+          "Fernw\u00e4rme",
+          "Gasheizung",
+          "Holzpellet-Heizung",
+          "MVV W\u00e4rmel\u00f6sungen (Fernw\u00e4rme, W\u00e4rmepumpe, Holzpellet, Gas)",
+          "W\u00e4rmepumpe"
         ]
       },
       "480/1709": {
@@ -27330,6 +27461,7 @@
           "Reisepass beantragen",
           "Unterschrift beglaubigen",
           "Unterschrift f\u00fcr Rentenzwecke beglaubigen",
+          "Vorl\u00e4ufiger Personalausweis beantragen",
           "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
           "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
@@ -27602,6 +27734,12 @@
         "name": "Bildung, Kultur und Freizeit",
         "services": [
           "60 Minuten Lesesaal inkl. PC buchen"
+        ]
+      },
+      "390": {
+        "name": "Bauen, Stadt- und Verkehrsplanung",
+        "services": [
+          "F\u00fchrung K\u00fcnstlerhaus (ab 13.06. buchbar)"
         ]
       },
       "391": {
@@ -32285,6 +32423,14 @@
           "Untersuchungsberechtigungsschein",
           "Verl\u00e4ngerung Schwerbehindertenausweis"
         ]
+      },
+      "73721": {
+        "name": "Bauen",
+        "services": [
+          "Akteneinsicht",
+          "Bauberatung",
+          "Baulastenauskunft"
+        ]
       }
     }
   },
@@ -32926,6 +33072,46 @@
         "name": "Teststellung",
         "services": [
           "Abholung F\u00fchrerschein"
+        ]
+      },
+      "11": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Ersatz / Erneuerung der Siegel",
+          "Verlust der Zulassungsbescheinigung Teil I",
+          "Zulassung mit Ausfuhrkennzeichen",
+          "\u00c4nderung des Namens und/oder der Anschrift"
+        ]
+      },
+      "12": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Ersatz / Erneuerung der Siegel",
+          "Verlust der Zulassungsbescheinigung Teil I",
+          "Zulassung mit Ausfuhrkennzeichen",
+          "\u00c4nderung des Namens und/oder der Anschrift"
+        ]
+      },
+      "13": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung von Fahrzeugen",
+          "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Ersatz / Erneuerung der Siegel",
+          "Kurzzeitkennzeichen",
+          "Verlust der Zulassungsbescheinigung Teil I",
+          "Zulassung mit Ausfuhrkennzeichen",
+          "\u00c4nderung des Namens und/oder der Anschrift"
+        ]
+      },
+      "14": {
+        "name": "Zulassungsstelle",
+        "services": [
+          "Abmeldung von Fahrzeugen",
+          "Ersatz / Erneuerung der Siegel",
+          "Kurzzeitkennzeichen",
+          "Zulassung mit Ausfuhrkennzeichen",
+          "\u00c4nderung des Namens und/oder der Anschrift"
         ]
       },
       "5": {
@@ -34605,6 +34791,24 @@
           "Zulassung (neu oder gebraucht) mit deutschen Fahrzeugbrief ",
           "Zulassung (neu oder gebraucht) ohne deutschen Fahrzeugbrief",
           "Zulassung (neu oder gebraucht) ohne deutschen Fahrzeugbrief  "
+        ]
+      },
+      "13": {
+        "name": "6 Gesundheitsamt",
+        "services": [
+          "Untersuchung Tbc-Screening"
+        ]
+      },
+      "14": {
+        "name": "6 Gesundheitsamt",
+        "services": [
+          "Belehrung"
+        ]
+      },
+      "15": {
+        "name": "6 Gesundheitsamt",
+        "services": [
+          "Belehrung"
         ]
       },
       "9": {
