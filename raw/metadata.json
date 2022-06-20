@@ -2460,6 +2460,8 @@
           "Stockangelschein beantragen",
           "Verpflichtungserkl\u00e4rung beantragen (Zweck: Erteilung eines Besuchs- oder Gesch\u00e4ftsvisums)",
           "Vorl\u00e4ufigen Reisepass beantragen",
+          "Wohnsitz abmelden",
+          "Wohnsitz anmelden, Zuzug aus dem Ausland",
           "eID-Karte beantragen"
         ]
       },
@@ -2474,6 +2476,7 @@
           "Beglaubigung von Unterschriften",
           "Beglaubigungen von Ausweisdokumenten",
           "Beglaubigungen weiterer Dokumente",
+          "Personalausweis / Reisepass / eID-Karte abholen",
           "\u00c4nderung der Adresse auf dem Personalausweis/Reisepass/elektronischen Aufenthaltstitel"
         ]
       },
@@ -2561,6 +2564,7 @@
           "Beglaubigung von Unterschriften",
           "Beglaubigungen von Ausweisdokumenten",
           "Beglaubigungen weiterer Dokumente",
+          "Personalausweis / Reisepass / eID-Karte abholen",
           "\u00c4nderung der Adresse auf dem Personalausweis/Reisepass/elektronischen Aufenthaltstitel"
         ]
       },
@@ -2592,6 +2596,8 @@
           "Stockangelschein beantragen",
           "Verpflichtungserkl\u00e4rung beantragen (Zweck: Erteilung eines Besuchs- oder Gesch\u00e4ftsvisums)",
           "Vorl\u00e4ufigen Reisepass beantragen",
+          "Wohnsitz abmelden",
+          "Wohnsitz anmelden, Zuzug aus dem Ausland",
           "eID-Karte beantragen"
         ]
       },
@@ -2954,6 +2960,35 @@
         "name": "Zensus 2022 R\u00fcckgabe",
         "services": [
           "R\u00fcckgabe / Ausgabe Erhebungsunterlagen HHST / WH"
+        ]
+      },
+      "733": {
+        "name": "B\u00fcrgerServiceCenter-Stresemannstra\u00dfe",
+        "services": [
+          "Wohnsitz abmelden",
+          "Wohnsitz anmelden, Zuzug aus dem Ausland",
+          "Wohnsitz anmelden, Zuzug aus dem Inland (Alleinige, Haupt- oder Nebenwohnung)",
+          "Wohnsitz ummelden (Alleinige, Haupt- oder Nebenwohnung)",
+          "Zulassungsbescheinigung I \u00e4ndern"
+        ]
+      },
+      "734": {
+        "name": "B\u00fcrgerServiceCenter-Nord",
+        "services": [
+          "Wohnsitz abmelden",
+          "Wohnsitz anmelden, Zuzug aus dem Ausland",
+          "Wohnsitz anmelden, Zuzug aus dem Inland (Alleinige, Haupt- oder Nebenwohnung)",
+          "Wohnsitz ummelden (Alleinige, Haupt- oder Nebenwohnung)"
+        ]
+      },
+      "735": {
+        "name": "B\u00fcrgerServiceCenter-Mitte",
+        "services": [
+          "Wohnsitz abmelden",
+          "Wohnsitz anmelden, Zuzug aus dem Ausland",
+          "Wohnsitz anmelden, Zuzug aus dem Inland (Alleinige, Haupt- oder Nebenwohnung)",
+          "Wohnsitz ummelden (Alleinige, Haupt- oder Nebenwohnung)",
+          "Zulassungsbescheinigung I \u00e4ndern"
         ]
       },
       "785": {
@@ -5530,6 +5565,7 @@
           "Allg. Angelegenheiten (F\u00fchrerschein-Umtausch /-Verl\u00e4ngerung usw.)",
           "Allg. Fahrerlaubnisangelegenheit",
           "Antrag BF17",
+          "Fahr-LEHRER-angelegenheit",
           "Fahrschulen",
           "Internat. F\u00fchrerschein (f\u00fcr Fahrten im EU-Ausland)"
         ]
@@ -14197,6 +14233,7 @@
           "Anmeldung, Ummeldung innerhalb Heidelbergs",
           "Anwohnerparkausweis, Besucherkarten (Nicht f\u00fcr Altstadt)",
           "F\u00fchrungszeugnis",
+          "Heidelberg-Pass / Heidelberg-Pass + (nur Neuausstellung)",
           "Heidelberg-Pass / Heidelberg-Pass + mit Kulturpass und Feriengutscheinen",
           "Landesfamilienpass, Jugendkulturpass",
           "Melde- und Aufenthaltsbescheinigung, Melderegisterauskunft",
@@ -16679,6 +16716,159 @@
           "Schl\u00fcsselzahl B197 in den F\u00fchrerschein eintragen",
           "Umtausch/Umstellung",
           "Verl\u00e4ngerung der Klassen C,D,E"
+        ]
+      }
+    }
+  },
+  "kielema": {
+    "name": "Kiel Einwohnermeldeamt",
+    "scraper": "tevis",
+    "url": "https://terminvergabe-ema-zulassung.kiel.de/tevisema",
+    "locations": {
+      "100": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Elmschenhagen - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Elmschenhagen - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "101": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Hassee - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Hassee - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "102": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Mettenhof - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Mettenhof - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "103": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Pries / Friedrichsort - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Pries / Friedrichsort - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "104": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Rathaus - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Rathaus - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "105": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Suchsdorf - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Suchsdorf - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "108": {
+        "name": "KFZ-Zulassungs-Angelegenheiten",
+        "services": [
+          "Kfz - Zulassungsangelegenheiten"
+        ]
+      },
+      "109": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Eignungs\u00fcberpr\u00fcfungsverfahren"
+        ]
+      },
+      "110": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Ersterteilung und begleitetes Fahren ab 17 (BF17)"
+        ]
+      },
+      "111": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Sonstige Fahrerlaubnisangelegenheiten"
+        ]
+      },
+      "88": {
+        "name": "KFZ-Zulassungs-Angelegenheiten",
+        "services": [
+          "Kfz - Zulassungsangelegenheiten"
+        ]
+      },
+      "89": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Eignungs\u00fcberpr\u00fcfungsverfahren"
+        ]
+      },
+      "90": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Ersterteilung und begleitetes Fahren ab 17 (BF17)"
+        ]
+      },
+      "91": {
+        "name": "Fahrerlaubnis-Angelegenheiten",
+        "services": [
+          "Sonstige Fahrerlaubnisangelegenheiten"
+        ]
+      },
+      "92": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Neum\u00fchlen-Dietrichsdorf - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Neum\u00fchlen-Dietrichsdorf - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "93": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Elmschenhagen - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Elmschenhagen - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "94": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Hassee - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Hassee - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "95": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Mettenhof - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Mettenhof - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "96": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Pries / Friedrichsort - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Pries / Friedrichsort - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "97": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Rathaus - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Rathaus - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "98": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Suchsdorf - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Suchsdorf - Einwohnerangelegenheiten f\u00fcr zwei Personen"
+        ]
+      },
+      "99": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Neum\u00fchlen-Dietrichsdorf - Einwohnerangelegenheiten f\u00fcr eine Person",
+          "Neum\u00fchlen-Dietrichsdorf - Einwohnerangelegenheiten f\u00fcr zwei Personen"
         ]
       }
     }
@@ -24916,6 +25106,7 @@
       "191/8430": {
         "name": "Beratung zu unseren W\u00e4rmel\u00f6sungen",
         "services": [
+          "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen",
           "Fernw\u00e4rme",
           "Gasheizung",
           "Holzpellet-Heizung",
@@ -27739,6 +27930,7 @@
       "390": {
         "name": "Bauen, Stadt- und Verkehrsplanung",
         "services": [
+          "F\u00fchrung K\u00fcnstlerhaus",
           "F\u00fchrung K\u00fcnstlerhaus (ab 13.06. buchbar)"
         ]
       },
@@ -29432,6 +29624,7 @@
       "297/3911": {
         "name": "F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge",
           "F\u00fchrerscheinantrag 01\u00a0\u00a0 F\u00fchrerscheinantrag2\u00a0\u00a0 F\u00fchrerscheinantr\u00e4ge",
           "Umtausch F\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerscheinumtausch2\u00a0\u00a0 F\u00fchrerscheinumtausch"
         ]
@@ -33427,6 +33620,12 @@
         ]
       },
       "212": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde",
+        "services": [
+          "Gestattung"
+        ]
+      },
+      "220": {
         "name": "Ausl\u00e4nderbeh\u00f6rde",
         "services": [
           "Gestattung"
