@@ -1139,6 +1139,7 @@
           "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
           "F\u00fcr Asylbewerber - Duldung / Gestattung",
           "Reiseausweis oder Sonstiges Anliegen",
+          "Sondertermine Ukraine",
           "Visaangelegenheiten (keine Ersterteilung/Verl\u00e4ngerung v. Aufenthaltserl.)",
           "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
           "\u0412\u0438\u0434\u0430\u0447\u0430",
@@ -1638,6 +1639,7 @@
           "Umkennzeichnung",
           "Umschreibung eines Fahrzeugs von au\u00dferhalb nach Bielefeld",
           "Wiederzulassung nach Au\u00dferbetriebsetzung f\u00fcr denselben Halter",
+          "Zulassung Kleinkraftrad",
           "Zulassung eines 'gel\u00f6schten' Fahrzeugs (>7 Jahre au\u00dfer Betrieb)"
         ]
       }
@@ -13268,6 +13270,25 @@
           "Vaterschaftsanerkennung"
         ]
       },
+      "38": {
+        "name": "Allgemeine Ordnungsaufgaben",
+        "services": [
+          "Anmeldung zur Fischereischeinpr\u00fcfung",
+          "Antrag auf Erteilung einer Erlaubnis zum Halten und F\u00fchren eines gef\u00e4hrlichen Hundes",
+          "Antrag auf Leinenbefreiung",
+          "Anzeige eines Fundes und Abgabe des Fundgegenstandes",
+          "Anzeige eines ordnungswidrigen Zustandes",
+          "Ausgabe der Fangb\u00fccher f\u00fcr das Winterlager",
+          "Ausgabe eines Fundgegenstandes",
+          "Ausstellung einer Angelerlaubnis (Gew\u00e4sserberechtigung)",
+          "Ausstellung einer Negativ-Bescheinigung f\u00fcr die Versicherung",
+          "Ausstellung eines Fischereischeines auf Lebenszeit (unbefristet)",
+          "Ausstellung eines Touristenfischereischeines (befristet)",
+          "Einweisung in die Obdachlosenunterkunft",
+          "Erwerb einer Fischereiabgabemarke",
+          "Vergleichbarkeitspr\u00fcfung von Fischereischeinen"
+        ]
+      },
       "39": {
         "name": "Allgemeine Ordnungsaufgaben",
         "services": [
@@ -18871,6 +18892,7 @@
           "Abmeldung ins Ausland (max. 1 Woche im voraus) (Dauer ca. 10 Min) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Anmeldung Haupt- und Nebenwohnsitz (Dauer ca. 10 Min) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Anmeldung aus dem Ausland bzw. ausl. Staatsb\u00fcrger (Dauer ca. 20 Min) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Anmeldung aus dem Ausland bzw. ausl. Staatsb\u00fcrger (Dauer ca. 30 Min) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalts- und Meldebescheinigung (Dauer ca. 10 Min) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Ummeldung innerhalb von Leimen (Dauer ca. 10 Min) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
@@ -18899,6 +18921,7 @@
         "services": [
           "Abholung Personalausweis / Reisepass (Dauer ca. 5  Min) 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Kinderreisepass beantragen / verl\u00e4ngern (Dauer ca. 15 Min) 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kinderreisepass beantragen / verl\u00e4ngern (Dauer ca. 20 Min) 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Nachtr\u00e4gliche Einschaltung eID Funktion Personalausweis (Dauer ca. 5  Min.) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Nachtr\u00e4gliche \u00c4nderung Pin Personalausweis (Dauer ca. 5 Min.) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Personalausweis beantragen (Dauer ca. 15 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
@@ -18906,7 +18929,9 @@
           "Reisepass beantragen (Dauer ca. 15 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Reisepass beantragen bei Verlust / Einb\u00fcrgerung (Dauer ca. 20 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Vorl\u00e4ufigen Personalausweis beantragen (Dauer ca. 10 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
+          "Vorl\u00e4ufigen Personalausweis beantragen (Dauer ca. 25 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Vorl\u00e4ufigen Reisepass beantragen (Dauer ca. 10 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
+          "Vorl\u00e4ufigen Reisepass beantragen (Dauer ca. 25 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "eID Karte Unionsb\u00fcrger / Angeh\u00f6rige des Europ. Wirtschaftsrr. (Dauer ca 15 Min) 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten6\u00a0\u00a0 eID Karten7\u00a0\u00a0 eID Karten8\u00a0\u00a0 eID Karten"
         ]
       },
@@ -18934,6 +18959,7 @@
         "services": [
           "Abholung Personalausweis / Reisepass (Dauer ca. 5  Min) 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Kinderreisepass beantragen / verl\u00e4ngern (Dauer ca. 15 Min) 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kinderreisepass beantragen / verl\u00e4ngern (Dauer ca. 20 Min) 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Nachtr\u00e4gliche Einschaltung eID Funktion Personalausweis (Dauer ca. 5  Min.) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Nachtr\u00e4gliche \u00c4nderung Pin Personalausweis (Dauer ca. 5 Min.) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Personalausweis beantragen (Dauer ca. 15 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
@@ -18941,7 +18967,9 @@
           "Reisepass beantragen (Dauer ca. 15 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Reisepass beantragen bei Verlust / Einb\u00fcrgerung (Dauer ca. 20 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Vorl\u00e4ufigen Personalausweis beantragen (Dauer ca. 10 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
+          "Vorl\u00e4ufigen Personalausweis beantragen (Dauer ca. 25 Min) 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Vorl\u00e4ufigen Reisepass beantragen (Dauer ca. 10 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
+          "Vorl\u00e4ufigen Reisepass beantragen (Dauer ca. 25 Min) 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "eID Karte Unionsb\u00fcrger / Angeh\u00f6rige des Europ. Wirtschaftsrr. (Dauer ca 15 Min) 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten6\u00a0\u00a0 eID Karten7\u00a0\u00a0 eID Karten8\u00a0\u00a0 eID Karten"
         ]
       }
@@ -24254,6 +24282,21 @@
           "Sterbefall anzeigen"
         ]
       },
+      "130/2240": {
+        "name": "Neckarstadt: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Begleitetes Fahren ab 17 Jahren",
+          "Beratung bei drohendem Entzug und Neuerteilung nach Entzug",
+          "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
+          "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
+          "Erteilung und Erweiterung Pkw und Motorrad",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
+          "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
+          "Internationaler F\u00fchrerschein",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
+        ]
+      },
       "130/3329": {
         "name": "Neckarstadt: Ausweise und P\u00e4sse",
         "services": [
@@ -25112,6 +25155,27 @@
           "Holzpellet-Heizung",
           "MVV W\u00e4rmel\u00f6sungen (Fernw\u00e4rme, W\u00e4rmepumpe, Holzpellet, Gas)",
           "W\u00e4rmepumpe"
+        ]
+      },
+      "191/8440": {
+        "name": "Hausanschluss - Was k\u00f6nnen wir f\u00fcr Sie tun?",
+        "services": [
+          "Allgemein",
+          "Baulicher W\u00e4rmeschutz",
+          "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser- oder Gas)",
+          "Erneuerbare Energien / neue Technologien",
+          "F\u00f6rderprogramme",
+          "F\u00f6rderungsm\u00f6glichkeiten",
+          "Heiz- und L\u00fcftungstechnik",
+          "Informationen tun um Neubau- und Geb\u00e4udesanierungsma\u00dfnahmen",
+          "Klimaschutzagentur - Zu welchen Themen w\u00fcnschen Sie eine Beratung?",
+          "M\u00f6glichkeiten im Bereich Photovoltaik & Elektromobilit\u00e4t",
+          "M\u00f6glichkeiten zur Energieeinsparung bei Ihnen Zuhause",
+          "M\u00f6glichkeiten zur klimafreundlichen W\u00e4rme/Heizungs- und L\u00fcftungsl\u00f6sungen",
+          "R\u00fcckbau, Baustellenversorgung oder Neuanschluss",
+          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule",
+          "Sonstige Themen",
+          "Strom- und Energieeinsparung"
         ]
       },
       "480/1709": {
@@ -29662,6 +29726,7 @@
           "Abholung Personalausweis/Reisepass/Kinderreisepass 01\u00a0\u00a0 Personaldokument2\u00a0\u00a0 Personaldokumente3\u00a0\u00a0 Personaldokumente4\u00a0\u00a0 Personaldokumente5\u00a0\u00a0 Personaldokumente",
           "Abholung Personalausweis/Reisepass/Kinderreisepass/eID-Karte 01\u00a0\u00a0 Personaldokument2\u00a0\u00a0 Personaldokumente3\u00a0\u00a0 Personaldokumente4\u00a0\u00a0 Personaldokumente5\u00a0\u00a0 Personaldokumente",
           "Antrag Kinderreisepass 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Antrag Kinderreisepass bzw. Verl\u00e4ngerung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Antrag Personalausweis 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise",
           "Antrag Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Antrag eID-Karte 01\u00a0\u00a0 eID-Karte2\u00a0\u00a0 eID-Karten",
@@ -33481,6 +33546,34 @@
     "scraper": "tevis",
     "url": "https://termine-reservieren.de/termine/stadtsoest",
     "locations": {
+      "10": {
+        "name": "B\u00fcrger B\u00fcro",
+        "services": [
+          "Abgabe Unterlagen GEZ",
+          "Abgabe/ Abholung Fundsache",
+          "Abholung Personalausweis/ Reisepass",
+          "Abmeldung des Wohnsitzes",
+          "Ausstellung Kinderreisepass",
+          "Beantragung Personalausweis",
+          "Beantragung eines Reisepasses",
+          "Beantragung vorl\u00e4ufiger Personalausweis",
+          "Beglaubigung der Unterschrift",
+          "Beglaubigung von Dokumenten (nur f\u00fcr Soester B\u00fcrger/innen)",
+          "Bewerbung Zensusbeauftragte/r",
+          "Einfache oder erweiterte Meldebescheinigung",
+          "Einfaches oder erweitertes polizeiliches F\u00fchrungszeugnis",
+          "Erstantrag Fahrgastbef\u00f6rderungsschein",
+          "Ersterteilung, Erweiterung oder Wiedererteilung einer Fahrerlaubnis",
+          "Gewerbezentralregisterauskunft",
+          "Lebensbescheinigung f\u00fcr die Rente",
+          "Negativbescheinigung Fundsache",
+          "Neuanmeldung in Soest (pro Person)",
+          "Neuausstellung oder Verl\u00e4ngerung Fischereischein",
+          "Setzen der PIN f\u00fcr den Personalausweis",
+          "Ummeldung innerhalb von Soest",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
       "8": {
         "name": "B\u00fcrger B\u00fcro",
         "services": [
@@ -34087,7 +34180,8 @@
           "Online-Ausweisfunktion (eID) aktivieren oder PIN setzen",
           "Online-Ausweisfunktion (eID) entsperren und PIN setzen",
           "Steuer-ID (Zweitausfertigung)",
-          "Untersuchungsberechtigungsschein"
+          "Untersuchungsberechtigungsschein",
+          "\u00c4nderung Adressetikett / elektronischer Aufenthaltstitel"
         ]
       }
     }
