@@ -3018,6 +3018,12 @@
           "Zulassungsbescheinigung I \u00e4ndern"
         ]
       },
+      "736": {
+        "name": "Zensus 2022 Schulung",
+        "services": [
+          "Ausgabe WDH-Adresse"
+        ]
+      },
       "785": {
         "name": "Pop-Up-BSC Versteigerungshalle",
         "services": [
@@ -7593,15 +7599,24 @@
       "80156": {
         "name": "Online-Veranstaltungen",
         "services": [
+          "Arbeitsrecht f\u00fcr F\u00fchrungskr\u00e4fte",
+          "Ausbalancieren der Grundbed\u00fcrfnisse im F\u00fchrungsprozess",
           "Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "EXCEL - Fit f\u00fcrs B\u00fcro",
           "Einstieg in die Bildbearbeitung mit GIMP",
+          "Erfolgreich F\u00fchren u. Motivieren",
           "GIMP f\u00fcr Fortgeschrittene",
+          "Konfliktbew\u00e4ltigung",
+          "Methoden zur Ansprache u. zum Umgang mit besonderen Problemlagen",
+          "Moderation u. Verhandlungsf\u00fchrung",
           "OUTLOOK - Fit f\u00fcrs B\u00fcro",
           "POWERPOINT - Fit f\u00fcrs B\u00fcro",
+          "Professionell f\u00fchren I",
+          "Professionell f\u00fchren II",
           "Projekte initiieren, planen, durchf\u00fchren",
           "Tastschreiben heute - multisensorisch lernen",
           "Telefonische und Online-Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
+          "Trainingsseminar Mitarbeiter-Beurteilung/ Beurteilungsgespr\u00e4ch",
           "WORD - Fit f\u00fcrs B\u00fcro",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende"
@@ -17387,6 +17402,7 @@
           "Abmeldung ins Ausland",
           "Anmeldung einer Hauptwohnung",
           "Anmeldung einer Nebenwohnung",
+          "Ausfuhrkennzeichen beantragen",
           "Auskunft aus dem Melderegister beantragen",
           "Au\u00dferbetriebsetzung (Abmeldung) eines in Jena zugelassenen Kraftfahrzeuges/Anh\u00e4ngers",
           "Bewohnerparkausweis \u00e4ndern oder Verlust anzeigen",
@@ -17394,6 +17410,7 @@
           "Ersatzdokumente beantragen",
           "F\u00fchrungszeugnis beantragen",
           "Kinderreisepass / Reisepass f\u00fcr Person unter 18 Jahren",
+          "Kurzzeitkennzeichen beantragen",
           "Meldebescheinigung beantragen",
           "Online-Ausweisfunktion einschalten und/oder PIN \u00e4ndern",
           "Personalausweis f\u00fcr Person ab 16 Jahren",
@@ -23118,8 +23135,10 @@
       "0": {
         "name": "Fahreignung",
         "services": [
+          "Abholung F\u00fchrerschein bei Neuerteilung nach Entzug",
           "Bewerber auf eine Fahrerlaubnis",
           "Inhaber alle weiteren Anliegen",
+          "Inhaber/Bewerber bei Drogen/Medikamenten",
           "Neuerteilung nach Entzug/Verzicht"
         ]
       },
@@ -23208,6 +23227,12 @@
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
       },
+      "473": {
+        "name": "Fahreignung",
+        "services": [
+          "Abholung F\u00fchrerschein bei Neuerteilung nach Entzug"
+        ]
+      },
       "480": {
         "name": "Fahreignung",
         "services": [
@@ -23285,6 +23310,146 @@
         "name": "Fahreignung",
         "services": [
           "Punktema\u00dfnahmen"
+        ]
+      },
+      "505": {
+        "name": "Fahreignung",
+        "services": [
+          "Abholung F\u00fchrerschein bei Neuerteilung nach Entzug"
+        ]
+      },
+      "506": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "516": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "517": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "518": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "525": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "528": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "530": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "531": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "532": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "533": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
+      },
+      "538": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "548": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "549": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "550": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "557": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "560": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "562": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "563": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "564": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "565": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
       }
     }
@@ -24579,6 +24744,12 @@
         "name": "Corona Impfung Kinder/Jugendliche L\u00fcdenscheid",
         "services": [
           "Erstimpfung Corona 12-18 Jahre L\u00fcdenscheid"
+        ]
+      },
+      "37": {
+        "name": "FD30 - Ordnungsrecht",
+        "services": [
+          "Anmeldung zur Fischereipr\u00fcfung"
         ]
       },
       "4": {
@@ -27451,6 +27622,109 @@
         "services": [
           "Bauberatung"
         ]
+      },
+      "225": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abholung Personalausweis/Reisepass",
+          "Personalausweis- PIN \u00c4nderung/Aktivierung"
+        ]
+      },
+      "226": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeuges",
+          "Ausfuhrkennzeichen (KEIN Import)",
+          "Ersatz-Fahrzeugbrief (Zulassungsbescheinigung Teil II)",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Firmenzulassung",
+          "H\u00e4ndlerkennzeichen (rotes Dauerkennzeichen)",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Oldtimerkennzeichen / Historische Fahrzeuge",
+          "Rotes Fahrzeugscheinheft f\u00fcr Dauerkennzeichen (H\u00e4ndler*innen)",
+          "Technische \u00c4nderungen in den Fahrzeugpapieren",
+          "Unbedenklichkeitsbescheinigung f\u00fcr eine neue Betriebserlaubnis",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "Zulassung eines Import- / Re-Import-Fahrzeuges"
+        ]
+      },
+      "227": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Abmeldung eines Fahrzeuges",
+          "Ersatz-Fahrzeugschein (Zulassungsbescheinigung Teil I)",
+          "Feinstaubplakette f\u00fcr Umweltzonen",
+          "Firmenzulassung",
+          "Kurzzeitkennzeichen",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Neuzulassung (Kein Importfahrzeug)",
+          "Saisonkennzeichen",
+          "Umschreibung eines Fahrzeugs",
+          "Verlust / Diebstahl von Kennzeichen",
+          "Wechselkennzeichen (Kombinationskennzeichen)",
+          "unlesbare oder besch\u00e4digte Kennzeichenschilder"
+        ]
+      },
+      "228": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Elektronische Identifikationskarte (eID)",
+          "Namens- oder Adress\u00e4nderung (innerhalb M\u00fclheims) in den Fahrzeugpapieren",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Wohnsitz anmelden, Zuzug aus einer anderen Stadt",
+          "Wohnsitz in MH um- oder abmelden"
+        ]
+      },
+      "229": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Beglaubigung von Dokumenten oder Unterschriften",
+          "F\u00fchrungszeugnis oder Auszug aus dem Gewerbezentralregister",
+          "Parkausweis f\u00fcr Schwerbehinderte (Blauer Parkausweis)",
+          "Personalausweis/Reisepass bei Namens\u00e4nderung, Einb\u00fcrgerung oder f\u00fcr Auslandsdeutsche"
+        ]
+      },
+      "230": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Kinderreisepass",
+          "Reisepass oder Personalausweis (auch vorl\u00e4ufig)"
+        ]
+      },
+      "231": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung F\u00fchrerschein od. Fahrerkarte",
+          "Abholung F\u00fchrerschein unter Vorlage einer T\u00dcV-Pr\u00fcfbescheinigung",
+          "Auflage B196, B197 oder B96 eintragen",
+          "Ausl\u00e4ndischen F\u00fchrerschein umschreiben",
+          "Ersatz-F\u00fchrerschein wegen Diebstahl oder Verlust",
+          "Erstmalige Erteilung oder Erweiterung einer Fahrerlaubnis",
+          "Fahrerkarte zur G\u00fcter- und Personenbef\u00f6rderung",
+          "Fahrerqualifikationsnachweis (FQN)",
+          "Fahrgastbef\u00f6rderung - Ersterteilung (Taxi, Mietwagen, B\u00fcrgerbus)",
+          "F\u00fchrerschein ab 17 ab 3 Begleitern",
+          "F\u00fchrerschein ab 17 mit bis zu 2 Begleitern",
+          "F\u00fchrerschein-Umtausch, alt gegen neu oder Namens\u00e4nderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Verl\u00e4ngerung LKW-/Bus - FS"
+        ]
+      },
+      "232": {
+        "name": "Jobcenter M\u00fclheim",
+        "services": [
+          "Negativbescheinigung",
+          "Neuantrag allgemein",
+          "Wohnungsgenehmigung"
+        ]
+      },
+      "233": {
+        "name": "Bauberatung / Bauaufsicht",
+        "services": [
+          "Bauberatung"
+        ]
       }
     }
   },
@@ -28001,6 +28275,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -28023,6 +28298,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -28045,6 +28321,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -28067,6 +28344,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -28089,6 +28367,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -28111,6 +28390,7 @@
         "services": [
           "Abmeldung pro Person",
           "Anmeldung pro Person",
+          "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
@@ -29254,6 +29534,20 @@
           "F\u00fchrungszeugnis beantragen",
           "Kopie beglaubigen",
           "Meldebescheinigung beantragen"
+        ]
+      },
+      "395": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausfuhrkennzeichen beantragen (Wohn- oder Firmensitz in N\u00fcrnberg)",
+          "Ersatzpapiere/Ersatzkennzeichen bei Verlust beantragen",
+          "Fabrikneues Fahrzeug zulassen",
+          "Fahrzeug abmelden",
+          "Fahrzeugpapiere \u00e4ndern (Adress- und technische Daten, Namens\u00e4nderung)",
+          "Gebrauchtfahrzeug aus dem Ausland zulassen",
+          "Gebrauchtfahrzeug aus dem Inland umschreiben oder zulassen",
+          "Kurzzeitkennzeichen beantragen (Wohn- oder Firmensitz innerhalb Deutschlands)",
+          "Sonstige Kfz-Angelegenheiten"
         ]
       }
     }
@@ -30761,6 +31055,7 @@
           "F\u00fchrungszeugnis",
           "F\u00fchrungszeugnis II",
           "Gewerbezentralregisterauskunft (nat\u00fcrliche Personen)",
+          "Kartenverkauf Flammende Sterne",
           "Landesfamilienpass",
           "Melde-, Aufenthalts-, Lebensbescheinigung",
           "Melderegisterauskunft",
@@ -32414,7 +32709,10 @@
       "425/8445": {
         "name": "PIK-Registrierung",
         "services": [
-          "PIK-Registrierung  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+          "Abholung Aufenthaltstitel (eAT) f\u00fcr ukrainische Fl\u00fcchtlinge 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Erteilung eines Aufenthaltstitels f\u00fcr ukrainische Gefl\u00fcchtete 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "PIK-Registrierung  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "PIK-Registrierung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "428/5936": {
@@ -33889,11 +34187,13 @@
       "443/6584": {
         "name": "Sonstiges (F\u00fchrungszeugnisse/Beglaubigungen/Meldebescheinigungen)",
         "services": [
+          "(erweiterte) Meldebescheinigung/ Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Auskunft aus dem Gewerbezentralregister Beh\u00f6rde",
           "Auskunft aus dem Gewerbezentralregister privat",
           "Auskunft \u00fcber die Steueridentifikationsnummer",
           "Auskunftssperre Beantragung/Verl\u00e4ngerung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Beglaubigung von Kopien (keine Personenstandsurkunden) 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Beglaubigung von Kopien (keine Personenstandsurkunden, keine notariellen Dokumen 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Beglaubigung von Unterschriften 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "F\u00fchrungszeugnis Beh\u00f6rde (Belegart OB oder OE)",
           "F\u00fchrungszeugnis erweitert (Belegart NE)",
