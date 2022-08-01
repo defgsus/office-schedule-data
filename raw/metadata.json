@@ -1135,6 +1135,7 @@
         "services": [
           "Abholung des Aufenthaltstitels",
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
+          "Beratung UKR",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
           "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
           "F\u00fcr Asylbewerber - Duldung / Gestattung",
@@ -1143,6 +1144,7 @@
           "Visaangelegenheiten (keine Ersterteilung/Verl\u00e4ngerung v. Aufenthaltserl.)",
           "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
           "\u0412\u0438\u0434\u0430\u0447\u0430",
+          "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0456",
           "\u043a\u043e\u043b\u0435\u043a\u0446\u0456\u044f"
         ]
       }
@@ -3718,6 +3720,7 @@
           "Ummeldung",
           "Unterschriftsbeglaubigung",
           "Untersuchungsberechtigungsschein",
+          "Untersuchungsberechtigungsschein (Nachuntersuchung)",
           "Verlustanzeige Ausweisdokument",
           "Wiederspruch gegen \u00dcbermittlungssperren",
           "Wohnberechtigungsschein",
@@ -3752,6 +3755,7 @@
           "Ummeldung",
           "Unterschriftsbeglaubigung",
           "Untersuchungsberechtigungsschein",
+          "Untersuchungsberechtigungsschein (Nachuntersuchung)",
           "Verlustanzeige Ausweisdokument",
           "Wiederspruch gegen \u00dcbermittlungssperren",
           "Wohnberechtigungsschein",
@@ -5542,6 +5546,72 @@
         ]
       },
       "985": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "987": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "988": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "989": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "990": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "991": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "992": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "993": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "994": {
         "name": "Termin Schnellteststation POC (Schnelltest)",
         "services": [
           "POC (Schnelltests)Termin Schnellteststation"
@@ -7614,6 +7684,7 @@
           "Professionell f\u00fchren I",
           "Professionell f\u00fchren II",
           "Projekte initiieren, planen, durchf\u00fchren",
+          "Schwierige F\u00fchrungssituationen: Fehlzeiten \u2013 Leistungsm\u00e4ngel \u2013 Innere K\u00fcndigung",
           "Tastschreiben heute - multisensorisch lernen",
           "Telefonische und Online-Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "Trainingsseminar Mitarbeiter-Beurteilung/ Beurteilungsgespr\u00e4ch",
@@ -23137,6 +23208,7 @@
         "services": [
           "Abholung F\u00fchrerschein bei Neuerteilung nach Entzug",
           "Bewerber auf eine Fahrerlaubnis",
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern",
           "Inhaber alle weiteren Anliegen",
           "Inhaber/Bewerber bei Drogen/Medikamenten",
           "Neuerteilung nach Entzug/Verzicht"
@@ -23400,6 +23472,7 @@
       "549": {
         "name": "Fahreignung",
         "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern",
           "Punktema\u00dfnahmen"
         ]
       },
@@ -24441,6 +24514,18 @@
           "Nachreichen von Unterlagen"
         ]
       },
+      "109": {
+        "name": "FD62 - Kundenzentrum Katasterbeh\u00f6rde",
+        "services": [
+          "Amtliche Basiskarte / ABK",
+          "Entfernungsbescheinigung (Antragsannahme)",
+          "FD62 - Eigentumsnachweis",
+          "Flurkarte / Liegenschaftskarte / Katasterkarte",
+          "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
+          "Grundst\u00fccksrecherche",
+          "Orthofoto / Luftbildkarte"
+        ]
+      },
       "2": {
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
@@ -24752,6 +24837,35 @@
           "Anmeldung zur Fischereipr\u00fcfung"
         ]
       },
+      "38": {
+        "name": "FD22 - Elterngeldstelle",
+        "services": [
+          "Antragstellung nach der Geburt",
+          "Beratung vor der Geburt",
+          "Nachreichen von Unterlagen"
+        ]
+      },
+      "39": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
+          "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
       "4": {
         "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
         "services": [
@@ -24762,7 +24876,149 @@
           "Feinstaubplakette"
         ]
       },
+      "40": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein"
+        ]
+      },
+      "41": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung  (ohne weitere Anliegen)",
+          "Adress- oder Namens\u00e4nderung",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein",
+          "Feinstaubplakette"
+        ]
+      },
+      "43": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abgabe des F\u00fchrerscheins bei Fahrverbot",
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein oder Namens\u00e4nderung",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Feinstaubplakette",
+          "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins  (Klassen C1, C1E, C, CE oder CE79)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "45": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abmeldung  (einzeln, am Infoschalter)",
+          "Adress- oder Namens\u00e4nderung  (kein Halterwechsel)",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein  (nach Diebstahl oder Verlust)",
+          "Feinstaubplakette",
+          "Kurzzeitkennzeichen  (am Infoschalter)"
+        ]
+      },
       "6": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abgabe des F\u00fchrerscheins bei Fahrverbot",
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung  (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein oder Namens\u00e4nderung",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Feinstaubplakette",
+          "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins  (Klassen C1, C1E, C, CE oder CE79)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "63": {
+        "name": "FD36 - Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Abholung/ Bezahlung/ Pr\u00fcfung",
+          "Aush\u00e4ndigung",
+          "Bus Abholung/ Bezahlung",
+          "Bus inkl. LKW und FQN",
+          "FD36 - Akteneinsicht"
+        ]
+      },
+      "73": {
+        "name": "FD62 - Kundenzentrum Katasterbeh\u00f6rde",
+        "services": [
+          "Amtliche Basiskarte / ABK",
+          "Entfernungsbescheinigung (Antragsannahme)",
+          "FD62 - Eigentumsnachweis",
+          "Flurkarte / Liegenschaftskarte / Katasterkarte",
+          "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
+          "Grundst\u00fccksrecherche",
+          "Orthofoto / Luftbildkarte"
+        ]
+      },
+      "74": {
+        "name": "FD22 - Elterngeldstelle",
+        "services": [
+          "Antragstellung nach der Geburt",
+          "Beratung vor der Geburt",
+          "Nachreichen von Unterlagen"
+        ]
+      },
+      "75": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
+          "Auflagen\u00e4nderung (z.B. B96, B196, Sehhilfe)",
+          "Ausfuhrkennzeichen",
+          "Beglaubigung",
+          "Ersatz-Fahrzeugbrief",
+          "Ersatz-F\u00fchrerschein",
+          "Ersatz-Kennzeichen  (nach Diebstahl oder Verlust)",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
+          "Internationaler F\u00fchrerschein",
+          "Kurzzeitkennzeichen",
+          "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
+          "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
+          "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
+          "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
+          "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
+        ]
+      },
+      "76": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Umtausch eines deutschen F\u00fchrerscheins (ausgestellt bis 18.01.2013) in den neuen EU-Kartenf\u00fchrerschein"
+        ]
+      },
+      "77": {
+        "name": "FD33 - B\u00fcrgerb\u00fcro Iserlohn",
+        "services": [
+          "Abmeldung  (ohne weitere Anliegen)",
+          "Adress- oder Namens\u00e4nderung",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein",
+          "Feinstaubplakette"
+        ]
+      },
+      "79": {
         "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
         "services": [
           "Abgabe des F\u00fchrerscheins bei Fahrverbot",
@@ -24797,6 +25053,17 @@
           "Kurzzeitkennzeichen  (am Infoschalter)"
         ]
       },
+      "81": {
+        "name": "FD35 - B\u00fcrgerb\u00fcro L\u00fcdenscheid",
+        "services": [
+          "Abmeldung  (einzeln, am Infoschalter)",
+          "Adress- oder Namens\u00e4nderung  (kein Halterwechsel)",
+          "Austausch von Kennzeichen  bei Besch\u00e4digung",
+          "Ersatz-Fahrzeugschein  (nach Diebstahl oder Verlust)",
+          "Feinstaubplakette",
+          "Kurzzeitkennzeichen  (am Infoschalter)"
+        ]
+      },
       "9": {
         "name": "FD 62 - Kundenzentrum Kasterbeh\u00f6rde",
         "services": [
@@ -24807,6 +25074,16 @@
           "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
           "Grundst\u00fccksrecherche",
           "Orthofoto / Luftbildkarte"
+        ]
+      },
+      "99": {
+        "name": "FD36 - Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Abholung/ Bezahlung/ Pr\u00fcfung",
+          "Aush\u00e4ndigung",
+          "Bus Abholung/ Bezahlung",
+          "Bus inkl. LKW und FQN",
+          "FD36 - Akteneinsicht"
         ]
       }
     }
@@ -29549,6 +29826,12 @@
           "Kurzzeitkennzeichen beantragen (Wohn- oder Firmensitz innerhalb Deutschlands)",
           "Sonstige Kfz-Angelegenheiten"
         ]
+      },
+      "396": {
+        "name": "Bauen, Stadt- und Verkehrsplanung",
+        "services": [
+          "Grundfl\u00e4chenberechnung f\u00fcr Grundsteuererkl\u00e4rung"
+        ]
       }
     }
   },
@@ -32039,6 +32322,73 @@
         "name": "Kundenbereich B\u00fcrgerb\u00fcro ++++TESTBETRIEB++++",
         "services": [
           "Kirchenaustritt"
+        ]
+      },
+      "394": {
+        "name": "Ortsverwaltung Niederb\u00fchl",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Niederb\u00fchl"
+        ]
+      },
+      "398": {
+        "name": "Ortsverwaltung Niederb\u00fchl",
+        "services": [
+          "Kirchenaustritt - OV Niederb\u00fchl"
+        ]
+      },
+      "409": {
+        "name": "Kundenbereich Ausl\u00e4nderwesen",
+        "services": [
+          "Abholung elektronische Aufenthaltserlaubnis (Ausweis)"
+        ]
+      },
+      "417": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "STADTFRIEDHOF - Abschiedsfeier Einsegnungshalle"
+        ]
+      },
+      "418": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "Stadtfriedhof_Beerdigung"
+        ]
+      },
+      "419": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "STADTFRIEDHOF - Urnenbeisetzung"
+        ]
+      },
+      "420": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "Stadtfriedhof_Urnentrauerfeier Einsegnungshalle"
+        ]
+      },
+      "421": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "Waldfriedhof_Abschiedsfeier Einsegnungshalle"
+        ]
+      },
+      "422": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "WALDFRIEDHOF - Beerdigung"
+        ]
+      },
+      "423": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "STADTFRIEDHOF - Urnenbeisetzung",
+          "Waldfriedhof_Urnenbeisetzung"
+        ]
+      },
+      "424": {
+        "name": "Kundenbereich Friedh\u00f6fe",
+        "services": [
+          "WALDFRIEDHOF - Urnentrauerfeier Einsegnungshalle"
         ]
       }
     }
