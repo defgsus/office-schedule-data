@@ -1145,6 +1145,7 @@
           "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
           "\u0412\u0438\u0434\u0430\u0447\u0430",
           "\u041a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0456",
+          "\u041f\u043e\u0440\u0430\u0434\u0438",
           "\u043a\u043e\u043b\u0435\u043a\u0446\u0456\u044f"
         ]
       }
@@ -14755,6 +14756,7 @@
       "145": {
         "name": "Fachdienst Soziales",
         "services": [
+          "Grundsicherung im Alter und bei Erwerbsminderung",
           "Grundsicherung im Alter und bei Erwerbsminderung - Antragsstellung & Antragseinreichung",
           "Grundsicherung im Alter und bei Erwerbsminderung: Unterlagen nachreichen, Sonstiges"
         ]
@@ -14775,6 +14777,7 @@
           "Erst- oder Folgeantrag stellen",
           "Erst- oder Folgeantrag stellen / ????????? ??????????",
           "Erst- oder Folgeantrag stellen / Leistungen f\u00fcr Kriegsfl\u00fcchtlinge (Ukraine)",
+          "Hilfe zum Lebensunterhalt",
           "Hilfe zum Lebensunterhalt - Antragsstellung & Antragseinreichung",
           "Hilfe zum Lebensunterhalt: Unterlagen nachreichen, Sonstiges"
         ]
@@ -22557,6 +22560,66 @@
           "Verweigernde Haltung",
           "Verweigernde Haltung \u2013 eine Herausforderung (nicht nur) f\u00fcr die Jugendhilfe"
         ]
+      },
+      "201": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Humor in p\u00e4dagogischen Handlungsfeldern"
+        ]
+      },
+      "202": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Jugendhilfe im Kontext zunehmender Nutzung digitaler Medien"
+        ]
+      },
+      "203": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Lebensweltorientierung in der Medienbildung"
+        ]
+      },
+      "204": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Praxisforschungsprojekt \u201eSchule@home - Systeme im Homeschooling-Modus"
+        ]
+      },
+      "205": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Rechtskompetenz und Datenschutz"
+        ]
+      },
+      "206": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Soziale Arbeit in der Kita"
+        ]
+      },
+      "207": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Jugendhilfe in Ver\u00e4nderte Lebenswelten"
+        ]
+      },
+      "208": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Ver\u00e4nderter Suchtmittelkonsum \u2013 Neue Abh\u00e4ngigkeitsstrukturen"
+        ]
+      },
+      "209": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Verweigernde Haltung \u2013 eine Herausforderung (nicht nur) f\u00fcr die Jugendhilfe"
+        ]
+      },
+      "210": {
+        "name": "Jugendhilfetag",
+        "services": [
+          "Wer ist hier krank? Psychische Auff\u00e4lligkeiten bei Kindern und Jugendlichen und deren Eltern\u2026"
+        ]
       }
     }
   },
@@ -22762,6 +22825,7 @@
           "Ersterteilung",
           "Erweiterung",
           "Fahrgastbef\u00f6rderung",
+          "Feuerwehrf\u00fchrerschein",
           "Internationaler F\u00fchrerschein",
           "Sonstiges",
           "Umtausch ALT-FE in Scheckkartenformat",
@@ -23194,6 +23258,13 @@
         "services": [
           "Antragstellung Milid - Omd (Frau K\u00f6se)",
           "Antragstellung Milid - Omd (Herr Sellmaier)"
+        ]
+      },
+      "464": {
+        "name": "Einb\u00fcrgerungsbeh\u00f6rde",
+        "services": [
+          "Familienname mit Ai - Alh, Ao - Az, Stb - Z Abholung Urkunde/Zusicherung, Sonstiges",
+          "Familienname mit Ai - Alh, Ao - Az, Stb - Z Beratung/Antragstellung Einb\u00fcrgerung"
         ]
       }
     }
@@ -29472,6 +29543,7 @@
       "344": {
         "name": "Standesamt",
         "services": [
+          "Abholen von Sterbeurkunden durch Bestattungsunternehmen",
           "Sterbefall anzeigen",
           "Sterbefall mit \u00dcberf\u00fchrung ins Ausland anzeigen"
         ]
@@ -37203,6 +37275,12 @@
         "services": [
           "Ausgabe Sozialticket"
         ]
+      },
+      "29": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Ausgabe Sozialticket"
+        ]
       }
     }
   },
@@ -37261,7 +37339,9 @@
           "Meldebescheinigung",
           "Melderegisterauskunft",
           "Nebenwohnsitz wird zum Hauptwohnsitz",
-          "Ummeldung innerhalb Weinheim"
+          "Ummeldung innerhalb Weinheim",
+          "Wohnsitzanmeldung",
+          "Wohnsitzummeldung"
         ]
       },
       "221/2435": {
@@ -37276,7 +37356,8 @@
           "Jagdscheine",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund von Beh\u00f6rdenanschreiben  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Landesfamilienpass",
-          "Sonstiges"
+          "Sonstiges",
+          "Sonstiges  01\u00a0\u00a0 2"
         ]
       },
       "221/2447": {
@@ -37294,6 +37375,49 @@
           "F\u00fchrerschein Neuerteilung",
           "Steuer-ID Bescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Waidseekartenverkauf"
+        ]
+      },
+      "550/2393": {
+        "name": "B\u00fcrgerb\u00fcro Weststadt: Ausweise und P\u00e4sse",
+        "services": [
+          "Adress\u00e4nderung/PIN-\u00c4nderung Personalausweis",
+          "Ausweis/Pass nur abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Kinderreisepass beantragen/verl\u00e4ngern",
+          "Personalausweis beantragen",
+          "Reisepass oder Expressreisepass beantragen",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen"
+        ]
+      },
+      "550/2394": {
+        "name": "B\u00fcrgerb\u00fcro Weststadt: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung ins Ausland",
+          "Abmeldung/Anmeldung Nebenwohnsitz",
+          "Erweiterte Melderegisterauskunft",
+          "Lebensbescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Meldebescheinigung",
+          "Melderegisterauskunft",
+          "Nebenwohnsitz wird zum Hauptwohnsitz",
+          "Wohnsitzanmeldung",
+          "Wohnsitzummeldung"
+        ]
+      },
+      "550/2435": {
+        "name": "B\u00fcrgerb\u00fcro Weststadt: Weitere Anliegen",
+        "services": [
+          "Amtliche Best\u00e4tigung",
+          "Antrag Einb\u00fcrgerungsverfahren",
+          "Einzahlungen an die Stadtkasse 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "F\u00fchrungszeugnis",
+          "F\u00fchrungszeugnis (erweitert)",
+          "Gewerbezentralregisterauszug",
+          "Jagdscheine",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund von Beh\u00f6rdenanschreiben  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Landesfamilienpass",
+          "Sonstiges",
+          "Sonstiges  01\u00a0\u00a0 2"
         ]
       }
     }
