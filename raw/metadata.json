@@ -9250,6 +9250,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -9321,6 +9322,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -9393,6 +9395,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -9465,6 +9468,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -9593,6 +9597,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -9664,6 +9669,7 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
@@ -10762,6 +10768,7 @@
           "Auflagenfestsetzung / Beschr\u00e4nkung Fahrerlaubnis (aufgrund Behinderung)",
           "Ausfuhrkennzeichen Buchungen nur Mo-Do bis 11 Uhr, Fr. bis 09.30 Uhr",
           "Aush\u00e4ndigung Zulassungsbescheinigung Teil II nach erfolgloser Aufbietung",
+          "Aush\u00e4ndigung Zulassungsbescheinigung Teil II nach erfolgter Aufbietung",
           "Ausstellung Fahrerqualifizierungsnachweis (Schl\u00fcsselzahl 95)",
           "Ausstellung Reiseausweis (ABH)",
           "Ausstellung Vignette",
@@ -14981,7 +14988,11 @@
         "name": "Standesamt",
         "services": [
           "Anmeldung Eheschlie\u00dfung",
+          "Eheurkunde",
+          "Geburtsurkunde",
           "Kirchenaustrittserkl\u00e4rung",
+          "Lebenspartnerschaftsurkunde",
+          "Sterbeurkunde",
           "Vaterschaftsanerkennung"
         ]
       }
@@ -20152,6 +20163,14 @@
         "services": [
           "Aufbauhilfeantrag 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge"
         ]
+      },
+      "512/8546": {
+        "name": "energetisches Sanierungsmanagement",
+        "services": [
+          "Energieberatung bei Ihnen am Geb\u00e4ude 01\u00a0\u00a0 1 Beratung am Geb\u00e4ude",
+          "Energieberatung im Quartiersb\u00fcro  01\u00a0\u00a0 Energieberatung im Quarti",
+          "Teilnahme an einem Seminar 01\u00a0\u00a0 Teilnahme an einem Semina"
+        ]
       }
     }
   },
@@ -22803,6 +22822,12 @@
           "Anfrage zum Zivilschutz",
           "allgemeine Anfrage (Ordnungsangelegenheiten)"
         ]
+      },
+      "467": {
+        "name": "Verkehrsangelegenheiten und Baustellenantr\u00e4ge",
+        "services": [
+          "Baustellenantr\u00e4ge"
+        ]
       }
     }
   },
@@ -23591,6 +23616,62 @@
         ]
       },
       "565": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
+      },
+      "570": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "580": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "581": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern",
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "582": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "594": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "595": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "596": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "597": {
         "name": "Fahrerlaubnis",
         "services": [
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
@@ -24595,6 +24676,12 @@
           "Grenzabst\u00e4nde / Grundst\u00fccksgrenzen (Auskunft)",
           "Grundst\u00fccksrecherche",
           "Orthofoto / Luftbildkarte"
+        ]
+      },
+      "110": {
+        "name": "FD30 - Ordnungsrecht",
+        "services": [
+          "Anmeldung zur Fischereipr\u00fcfung"
         ]
       },
       "2": {
@@ -29144,34 +29231,43 @@
       "309": {
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
+          "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Kinderreisepass beantragen",
           "Kinderreisepass verl\u00e4ngern oder aktualisieren",
           "Neuen Personalausweis/ Reisepass aufgrund Verlust oder Diebstahl beantragen",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Vorl\u00e4ufiger Personalausweis beantragen"
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
+          "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
       },
       "310": {
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
+          "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Kinderreisepass beantragen",
           "Kinderreisepass verl\u00e4ngern oder aktualisieren",
           "Neuen Personalausweis/ Reisepass aufgrund Verlust oder Diebstahl beantragen",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Vorl\u00e4ufiger Personalausweis beantragen"
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
+          "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
       },
       "311": {
         "name": "Ausweis-, Pass- und Meldeangelegenheiten",
         "services": [
+          "Abmeldung der Nebenwohnung oder Wegzug ins Ausland",
           "Kinderreisepass beantragen",
           "Kinderreisepass verl\u00e4ngern oder aktualisieren",
           "Neuen Personalausweis/ Reisepass aufgrund Verlust oder Diebstahl beantragen",
           "Personalausweis beantragen",
           "Reisepass beantragen",
-          "Vorl\u00e4ufiger Personalausweis beantragen"
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnung anmelden (Zuzug nach N\u00fcrnberg)",
+          "Wohnung ummelden (Umzug innerhalb N\u00fcrnberg)"
         ]
       },
       "312": {
@@ -33025,12 +33121,20 @@
       "314/8137": {
         "name": "Standesamt",
         "services": [
+          "Eheurkunde beantragen",
+          "Eheurkunde beantragen 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
           "Erstbeurkundung Geburt - Hausgeburt",
           "Erstbeurkundung Sterbefall",
+          "Geburtsurkunde beantragen",
+          "Geburtsurkunde beantragen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Kirchenaustritt",
           "Mutterschaftsanerkennung",
+          "Namenserkl\u00e4rung - Ehename, Wiederannahme, Vornamenssortierung etc.",
           "Namenserkl\u00e4rung - Ehename, Wiederannahme, Vornamenssortierung etc. 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Namenserkl\u00e4rung - Ehename, Wiederannahme, Vornamenssortierung etc. 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Sonstige Urkundenanforderung 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
+          "Sterbeurkunde beantragen",
+          "Sterbeurkunde beantragen 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
           "Urkundenanforderung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Urkundenanforderung 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
           "Vaterschaftsanerkennung"
@@ -37417,6 +37521,48 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund von Beh\u00f6rdenanschreiben  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Landesfamilienpass",
           "Sonstiges",
+          "Sonstiges  01\u00a0\u00a0 2"
+        ]
+      },
+      "551/2393": {
+        "name": "Ortsverwaltung L\u00fctzelsachsen: Ausweise und P\u00e4sse",
+        "services": [
+          "Adress\u00e4nderung/PIN-\u00c4nderung Personalausweis",
+          "Ausweis/Pass nur abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Kinderreisepass beantragen/verl\u00e4ngern",
+          "Personalausweis beantragen",
+          "Reisepass oder Expressreisepass beantragen",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen"
+        ]
+      },
+      "551/2394": {
+        "name": "Ortsverwaltung L\u00fctzelsachsen: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung ins Ausland",
+          "Abmeldung/Anmeldung Nebenwohnsitz",
+          "Erweiterte Melderegisterauskunft",
+          "Lebensbescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Meldebescheinigung",
+          "Melderegisterauskunft",
+          "Nebenwohnsitz wird zum Hauptwohnsitz",
+          "Wohnsitzanmeldung",
+          "Wohnsitzummeldung"
+        ]
+      },
+      "551/2435": {
+        "name": "Ortsverwaltung L\u00fctzelsachsen: Weitere Anliegen",
+        "services": [
+          "Amtliche Best\u00e4tigung",
+          "Antrag Einb\u00fcrgerungsverfahren",
+          "Einzahlungen an die Stadtkasse 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "F\u00fchrungszeugnis",
+          "F\u00fchrungszeugnis (erweitert)",
+          "Gewerbezentralregisterauszug",
+          "Jagdscheine",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund von Beh\u00f6rdenanschreiben  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Landesfamilienpass",
           "Sonstiges  01\u00a0\u00a0 2"
         ]
       }
