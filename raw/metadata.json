@@ -10613,6 +10613,12 @@
           "\u00c4nderung Halterdaten (Namens\u00e4nderung)",
           "\u00c4nderung Technikdaten"
         ]
+      },
+      "29": {
+        "name": "5100 Soziale Leistungen",
+        "services": [
+          "Antrag Hilfe zur Pflege station\u00e4r-Heime au\u00dferhalb LK Fulda"
+        ]
       }
     }
   },
@@ -10828,7 +10834,9 @@
           "Technische \u00c4nderung in den Fahrzeugpapieren",
           "Umkennzeichnung eines Fahrzeuges (z.B. Diebstahl/Verlust)",
           "Ummeldung einer Wohnung innerhalb von Gelsenkirchen",
+          "Ummeldung einer Wohnung innerhalb von Gelsenkirchen (Personenzahl angeben)",
           "Ummeldung einer Wohnung mit \u00c4nderung des Kfz-Scheines",
+          "Ummeldung einer Wohnung mit \u00c4nderung des Kfz-Scheines (Personenzahl angeben)",
           "Umschreibung ausl\u00e4ndische F\u00fchrerscheine",
           "Umschreibung einer Dienstfahrerlaubnis/Bundeswehrf\u00fchrerschein",
           "Umschreibung eines Fahrzeuges innerhalb Gelsenkirchens",
@@ -17485,6 +17493,7 @@
         "services": [
           "Abmeldung einer Nebenwohnung",
           "Abmeldung ins Ausland",
+          "Amtliche Beglaubigungen von Dokumenten und Unterschriften",
           "Anmeldung einer Hauptwohnung",
           "Anmeldung einer Nebenwohnung",
           "Ausfuhrkennzeichen beantragen",
@@ -20168,6 +20177,7 @@
         "name": "energetisches Sanierungsmanagement",
         "services": [
           "Energieberatung bei Ihnen am Geb\u00e4ude 01\u00a0\u00a0 1 Beratung am Geb\u00e4ude",
+          "Energieberatung bei Ihnen am Geb\u00e4ude 01\u00a0\u00a0 Beratung am Geb\u00e4ude",
           "Energieberatung im Quartiersb\u00fcro  01\u00a0\u00a0 Energieberatung im Quarti",
           "Teilnahme an einem Seminar 01\u00a0\u00a0 Teilnahme an einem Semina"
         ]
@@ -24306,6 +24316,7 @@
           "Schl\u00fcsselzahl 196",
           "Schl\u00fcsselzahl 95",
           "Schl\u00fcsselzahl 96",
+          "Schl\u00fcsselzahl 96 + 196",
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
           "Verl\u00e4ngerung Fahrerlaubnis Klassen C + D"
         ]
@@ -25157,6 +25168,7 @@
           "Parkausweis f\u00fcr Behinderte mit Merkzeichen aG oder Bl",
           "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
           "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
+          "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen, Traktoren)",
           "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
         ]
       },
@@ -25191,6 +25203,7 @@
           "Fahrerqualifizierungsnacheis  (nur f\u00fcr G\u00fcterkraftverkehr)",
           "Feinstaubplakette",
           "Importfahrzeuge, Sattelzugmaschinen, Eigenbauten",
+          "Importfahrzeuge, Sattelzugmaschinen, Traktoren, Eigenbauten",
           "Internationaler F\u00fchrerschein",
           "Kurzzeitkennzeichen (nicht einzeln buchen,nur zusammen mit der Auswahl weiterer Anliegen)",
           "Neuzulassung / Umschreibung / Wiederzulassung  (sonstige Fahrzeuge)",
@@ -25854,13 +25867,30 @@
         "name": "Innenstadt: Standesamt",
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
+        ]
+      },
+      "125/2240": {
+        "name": "Innenstadt: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Begleitetes Fahren ab 17 Jahren",
+          "Beratung bei drohendem Entzug und Neuerteilung nach Entzug",
+          "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
+          "Erteilung und Erweiterung Pkw und Motorrad",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
+          "F\u00fchrerschein abholen",
+          "F\u00fchrerscheinabgabe f\u00fcr Seniorenticket",
+          "Internationaler F\u00fchrerschein",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
         ]
       },
       "125/3329": {
@@ -25933,9 +25963,11 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26028,9 +26060,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26094,9 +26129,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26158,9 +26196,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26224,9 +26265,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26290,9 +26334,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26416,9 +26463,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26511,9 +26561,11 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26594,10 +26646,14 @@
         "name": "Sandhofen: Standesamt",
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26659,10 +26715,14 @@
         "name": "Sch\u00f6nau: Standesamt",
         "services": [
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
+          "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26726,9 +26786,11 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -26792,9 +26854,12 @@
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
+          "Ehef\u00e4higkeitszeugnis",
           "Kirchenaustritt",
           "Nachlasserkl\u00e4rung",
           "Nachlasserkl\u00e4rung 01\u00a0\u00a0 Erkl\u00e4rung2\u00a0\u00a0 Erkl\u00e4rungen3\u00a0\u00a0 Erkl\u00e4rungen4\u00a0\u00a0 Erkl\u00e4rungen5\u00a0\u00a0 Erkl\u00e4rungen6\u00a0\u00a0 Erkl\u00e4rungen7\u00a0\u00a0 Erkl\u00e4rungen8\u00a0\u00a0 Erkl\u00e4rungen",
+          "Namens\u00e4nderung",
+          "Namens\u00e4nderung 01\u00a0\u00a0 Person",
           "Namens\u00e4nderung oder Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Standesamtliche Urkunde",
           "Sterbefall anzeigen"
@@ -30477,6 +30542,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30509,6 +30576,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30541,6 +30610,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30573,6 +30644,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30605,6 +30678,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30637,6 +30712,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30669,6 +30746,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30701,6 +30780,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30733,6 +30814,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30765,6 +30848,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30797,6 +30882,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30829,6 +30916,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30861,6 +30950,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30893,6 +30984,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30925,6 +31018,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30957,6 +31052,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -30989,6 +31086,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -31021,6 +31120,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -31053,6 +31154,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -31085,6 +31188,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -31117,6 +31222,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       },
@@ -31149,6 +31256,8 @@
           "Vortrag \"Obst und Gem\u00fcse\"<br>Referentin: Mag. Nicole Seiler (Ern\u00e4hrungswissenschaftlerin)",
           "Vortrag \u201eBalance zwischen Pflege- und Lebensalltag\u201c",
           "Vortrag\" Grenzen setzen\"",
+          "Vortragsreihe \"Meine Gesundheit in der digitalen Welt\"",
+          "Vortragsreihe \"Zeit f\u00fcr mich - Abschalten bei Mehrfachbelastung\"",
           "Workshop \"Home-Workouts\""
         ]
       }
@@ -31511,7 +31620,8 @@
           "Melde-, Aufenthalts-, Lebensbescheinigung",
           "Melderegisterauskunft",
           "Ostfildernpass",
-          "Ticketverkauf"
+          "Ticketverkauf",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen (pro Person)"
         ]
       },
       "169/8237": {
@@ -31520,6 +31630,25 @@
           "Personalausweis abholen",
           "Personalausweis ohne PIN-\u00c4nderung abholen",
           "Reisepass abholen"
+        ]
+      },
+      "169/8559": {
+        "name": "Verschiedenes",
+        "services": [
+          "Amtliche Beglaubigung von Fotokopien (pro Seite)",
+          "Amtliche Beglaubigung von Unterschriften (pro Unterschrift)",
+          "Einb\u00fcrgerungsantrag (pro Person) nur Mo.-Fr. m\u00f6glich!",
+          "Fischereischein beantragen / verl\u00e4ngern",
+          "Fundsachen",
+          "F\u00fchrerschein beantragen",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft (nat\u00fcrliche Personen)",
+          "Landesfamilienpass",
+          "Melde-, Aufenthalts-, Lebensbescheinigung",
+          "Melderegisterauskunft",
+          "Ostfildernpass",
+          "Ticketverkauf",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen (pro Person)"
         ]
       },
       "328/5150": {
