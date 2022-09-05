@@ -15295,9 +15295,11 @@
           "Fragen bzw. Hilfestellung bei Antr\u00e4gen (der gesetzlichen Pflegeversicherung)",
           "Information und Beratung",
           "Informationen, -materialien, Kontaktdaten zur h\u00e4uslichen Versorgung",
+          "Informationen, -materialien, Kontaktdaten zur h\u00e4uslichen oder station\u00e4ren Versorgung",
           "Informationen, -materialien, Kontaktdaten zur station\u00e4ren Versorgung",
           "Sonstige Themen als Kurzauskunft",
           "zu Pflegegrad und Leistungen der Pflegeversicherung",
+          "zu Pflegegrad und Leistungen der gesetzlichen Pflegeversicherung",
           "zum Thema Kurzzeitpflege (keine Vermittlung \u2013 hierzu bitte Kontaktaufnahme unter Tel.: 58 38390)",
           "zur Versorgung in Pflegeheimen in Heidelberg",
           "zur h\u00e4uslichen Versorgung in Heidelberg"
@@ -15609,6 +15611,13 @@
         "services": [
           "Men\u00fc 1 togo",
           "Men\u00fc 2 togo"
+        ]
+      },
+      "53": {
+        "name": "Pflegest\u00fctzpunkt",
+        "services": [
+          "Auskunft und Beratung zu Pflegethemen",
+          "Fragen bzw. Hilfestellung bei Antr\u00e4gen (der gesetzlichen Pflegeversicherung)"
         ]
       },
       "7": {
@@ -23701,6 +23710,67 @@
         "services": [
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
+      },
+      "612": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "613": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "614": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "622": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "625": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "626": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "627": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "628": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "629": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
       }
     }
   },
@@ -28794,6 +28864,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28817,6 +28888,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28840,6 +28912,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28863,6 +28936,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28886,6 +28960,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28909,6 +28984,7 @@
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
+          "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
           "Fischereischein",
           "F\u00fchrungszeugnis in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Gewerbezentralregister Auskunft",
@@ -28981,6 +29057,7 @@
           "Telefontermin - Streichung von Namensteilen/Vereinfachung des Namens",
           "Telefontermin - Vorbereitung einer Eheschlie\u00dfung mit Auslandsbezug",
           "Vaterschaftsanerkennung",
+          "Vorbereitung einer Eheschlie\u00dfung",
           "\u00c4nderung der Reihenfolge der Vornamen",
           "\u00c4nderung des Geschlechtseintrages/Streichung des Geschlechtes/Eintragung \"divers\""
         ]
@@ -36563,7 +36640,11 @@
           "Abholung Reisepass",
           "An- oder Abmeldung eines Hundes",
           "Anerkennung ausl\u00e4ndischer Personenstandsurkunden (Eintrag im Melderegister)",
+          "Anmeldung aus dem Ausland (Einzelperson)",
+          "Anmeldung aus dem Ausland (Familie)",
           "Anmeldung eines Wohnsitzes in Trier",
+          "Anmeldung eines Wohnsitzes in Trier (Einzelperson)",
+          "Anmeldung eines Wohnsitzes in Trier (Familie)",
           "Anmeldung eines Wohnsitzes in Trier, Unionsb\u00fcrger und Ausl\u00e4nder",
           "Anmeldung eines Wohnsitzes in Trier, deutsche Staatsangeh\u00f6rige",
           "Beantragung (gleichzeitig) Personalausweis und Reisepass",
@@ -36621,7 +36702,11 @@
         "services": [
           "An- oder Abmeldung eines Hundes",
           "Anerkennung ausl\u00e4ndischer Personenstandsurkunden (Eintrag im Melderegister)",
+          "Anmeldung aus dem Ausland (Einzelperson)",
+          "Anmeldung aus dem Ausland (Familie)",
           "Anmeldung eines Wohnsitzes in Trier",
+          "Anmeldung eines Wohnsitzes in Trier (Einzelperson)",
+          "Anmeldung eines Wohnsitzes in Trier (Familie)",
           "Beantragung (gleichzeitig) Personalausweis und Reisepass",
           "Beantragung Ausweisdokument f\u00fcr Deutsche mit Wohnsitz im Ausland (Auslandsdeutsche)",
           "Beantragung Personalausweis",
@@ -36675,6 +36760,8 @@
       "85": {
         "name": "B\u00fcrgeramt",
         "services": [
+          "Beglaubigungen  Abschrift/Kopie (1 Dokument)",
+          "Beglaubigungen  Abschrift/Kopie von einem Dokument",
           "F\u00fchrungszeugnis (Belegart N/NE) und/oder Gewerbezentralregisterauskunft (Belegart 1)",
           "F\u00fchrungszeugnis (Belegart O/OE) und/oder Gewerbezentralregisterauskunft (Belegart 9)",
           "F\u00fchrungszeugnis (erweitert) Belegart NE/OE",
@@ -38138,6 +38225,8 @@
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
           "Umtausch F\u00fchrerschein",
           "Umtausch/Ersatzf\u00fchrerschein",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil I (Fahrzeugschein) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil II (Fahrzeugbrief) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugbriefs",
           "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugscheins",
@@ -38262,6 +38351,8 @@
           "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
           "Umtausch F\u00fchrerschein",
           "Umtausch/Ersatzf\u00fchrerschein",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil I (Fahrzeugschein) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil II (Fahrzeugbrief) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugbriefs",
           "Verlust / Diebstahl des Fahrzeugbriefs 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Verlust / Diebstahl des Fahrzeugscheins",
