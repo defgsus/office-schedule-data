@@ -2124,7 +2124,9 @@
         "services": [
           "Bis zu zwei Erwachsene und zwei Kinder (unter 15 Jahren)",
           "Drei Personen \u00fcber 15 Jahre",
-          "Eine Person"
+          "Eine Person",
+          "Ich bin mittellos und m\u00f6chte einen Neuantrag stellen",
+          "Ich m\u00f6chte einen Neuantrag stellen"
         ]
       },
       "74360": {
@@ -2150,7 +2152,9 @@
         "services": [
           "Bis zu zwei Erwachsene und zwei Kinder (unter 15 Jahren)",
           "Drei Personen \u00fcber 15 Jahre",
-          "Eine Person"
+          "Eine Person",
+          "Ich bin mittellos und m\u00f6chte einen Neuantrag stellen",
+          "Ich m\u00f6chte einen Neuantrag stellen"
         ]
       }
     }
@@ -7691,6 +7695,7 @@
           "Tastschreiben heute - multisensorisch lernen",
           "Telefonische und Online-Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "Trainingsseminar Mitarbeiter-Beurteilung/ Beurteilungsgespr\u00e4ch",
+          "Vortrag Geoscopia - Klimaexpedition",
           "WORD - Fit f\u00fcrs B\u00fcro",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende"
@@ -10299,6 +10304,7 @@
           "Einfuhr eines Fahrzeuges aus dem Ausland",
           "Ersatzkennzeichen siegeln",
           "Fahrzeug an-/ummelden",
+          "Fahrzeug an-/ummelden + bisheriges Fz. abmelden",
           "Fahrzeug an-/ummelden + bisheriges Fz. au\u00dfer Betrieb setzen",
           "Fahrzeug an-/ummelden + bisheriges Fz. au\u00dfer Betrieb setzen (abmelden)",
           "Fahrzeug anmelden",
@@ -10337,6 +10343,7 @@
           "Einfuhr eines Fahrzeuges aus dem Ausland",
           "Ersatzkennzeichen siegeln",
           "Fahrzeug an-/ummelden",
+          "Fahrzeug an-/ummelden + bisheriges Fz. abmelden",
           "Fahrzeug an-/ummelden + bisheriges Fz. au\u00dfer Betrieb setzen",
           "Fahrzeug an-/ummelden + bisheriges Fz. au\u00dfer Betrieb setzen (abmelden)",
           "Fahrzeug anmelden",
@@ -10392,6 +10399,18 @@
         ]
       },
       "42": {
+        "name": "Jobcenter",
+        "services": [
+          "JC-Testanliegen"
+        ]
+      },
+      "48": {
+        "name": "Jobcenter",
+        "services": [
+          "Arbeitgeberservice"
+        ]
+      },
+      "49": {
         "name": "Jobcenter",
         "services": [
           "JC-Testanliegen"
@@ -14713,6 +14732,7 @@
       "141": {
         "name": "Rathaus-Service",
         "services": [
+          "Abholung Dokumente",
           "Abholung Personalausweis / Reisepass / eID-Card",
           "Abmeldung Nebenwohnung",
           "Abmeldung ins Ausland",
@@ -14738,6 +14758,7 @@
       "142": {
         "name": "Rathaus-Service",
         "services": [
+          "Abholung Dokumente",
           "Abholung Personalausweis / Reisepass / eID-Card",
           "Abmeldung Nebenwohnung",
           "Abmeldung ins Ausland",
@@ -18121,6 +18142,12 @@
         "name": "Fahrerlaubnis-Angelegenheiten",
         "services": [
           "Sonstige Fahrerlaubnisangelegenheiten"
+        ]
+      },
+      "112": {
+        "name": "Einwohner-Angelegenheiten",
+        "services": [
+          "Studiale 4.0"
         ]
       },
       "88": {
@@ -22862,6 +22889,12 @@
         "services": [
           "Baustellenantr\u00e4ge"
         ]
+      },
+      "468": {
+        "name": "Digitalisierung (VA 10/12)",
+        "services": [
+          "Test-Anliegen Digi"
+        ]
       }
     }
   },
@@ -24697,6 +24730,9 @@
         "services": [
           "? Dokumentenabholung",
           "Abholung Personalausweis und / oder Reisepass - bitte die Anzahl angeben",
+          "Abholung von fertigen Ausweisen, P\u00e4ssen und eID-Karten",
+          "Abholung von fertigen Ausweisen, P\u00e4ssen und eID-Karten- bitte die",
+          "Abholung von fertigen Ausweisen,P\u00e4ssen und eID-Karten- bitte die Anzahl a",
           "Abmeldung einer Wohnung",
           "Anmeldung in L\u00fcnen nach Zuzug aus dem Ausland - Personenanzahl angeben",
           "Anmeldung in L\u00fcnen nach Zuzug aus einer anderen Stadt - Personenanzahl angeben",
@@ -30157,6 +30193,12 @@
         "services": [
           "Grundfl\u00e4chenberechnung f\u00fcr Grundsteuererkl\u00e4rung"
         ]
+      },
+      "397": {
+        "name": "Wartungsarbeiten - Bitte haben Sie Geduld",
+        "services": [
+          "Wartungsarbeiten"
+        ]
       }
     }
   },
@@ -32908,6 +32950,78 @@
         "name": "Kundenbereich Friedh\u00f6fe",
         "services": [
           "WALDFRIEDHOF - Urnentrauerfeier Einsegnungshalle"
+        ]
+      },
+      "425": {
+        "name": "Kundenbereich B\u00fcrgerb\u00fcro",
+        "services": [
+          "An-, Ab- und Ummeldung"
+        ]
+      },
+      "426": {
+        "name": "Kundenbereich B\u00fcrgerb\u00fcro",
+        "services": [
+          "Kirchenaustritt"
+        ]
+      },
+      "427": {
+        "name": "Ortsverwaltung Niederb\u00fchl",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Niederb\u00fchl"
+        ]
+      },
+      "428": {
+        "name": "Ortsverwaltung Niederb\u00fchl",
+        "services": [
+          "Kirchenaustritt - OV Niederb\u00fchl"
+        ]
+      },
+      "429": {
+        "name": "Ortsverwaltung Ottersdorf",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Ottersdorf"
+        ]
+      },
+      "430": {
+        "name": "Ortsverwaltung Ottersdorf",
+        "services": [
+          "Kirchenaustritt - OV Ottersdorf"
+        ]
+      },
+      "431": {
+        "name": "Ortsverwaltung Plittersdorf",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Plittersdorf"
+        ]
+      },
+      "432": {
+        "name": "Ortsverwaltung Plittersdorf",
+        "services": [
+          "Kirchenaustritt - OV Plittersdorf"
+        ]
+      },
+      "433": {
+        "name": "Ortsverwaltung Rauental",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Rauental"
+        ]
+      },
+      "434": {
+        "name": "Ortsverwaltung Rauental",
+        "services": [
+          "Kirchenaustritt - OV Rauental"
+        ]
+      },
+      "435": {
+        "name": "Ortsverwaltung Wintersdorf",
+        "services": [
+          "An-, Ab- und Ummeldung - OV Wintersdorf"
+        ]
+      },
+      "436": {
+        "name": "Ortsverwaltung Wintersdorf",
+        "services": [
+          "Kirchenaustritt - OV Wintersdorf"
         ]
       }
     }
@@ -37366,10 +37480,12 @@
           "F\u00fchrerscheinumtausch/-erstausstellung (Antragsannahme)",
           "F\u00fchrungszeugnis",
           "F\u00fchrungszeugnis zur Vorlage bei einer Beh\u00f6rde Belegart O",
+          "Kfz-Schein \u00c4nderung",
           "Kinderreisepass aktualisieren/verl\u00e4ngern",
           "Kinderreisepass beantragen",
           "Lebensbescheinigung",
           "Meldebescheinigung",
+          "PIN setzen (Onlinefunktion Personalausweis)",
           "Personalausweis beantragen",
           "Personalausweis/Reisepass abholen",
           "Reisepass beantragen",
