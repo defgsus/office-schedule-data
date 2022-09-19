@@ -2055,7 +2055,8 @@
           "F\u00fchrerschein Neuantrag mit begleitendem Fahren",
           "F\u00fchrerschein-Umtausch",
           "KZF-Abmeldung",
-          "KZF-Schein\u00e4nderung"
+          "KZF-Schein\u00e4nderung",
+          "KZF-Schein\u00e4nderung 01\u00a0\u00a0 KFZ-Schein2\u00a0\u00a0 KFZ-Schein3\u00a0\u00a0 KFZ-Schein4\u00a0\u00a0 KFZ-Schein"
         ]
       },
       "413/6184": {
@@ -3702,8 +3703,10 @@
       "83569": {
         "name": "B\u00fcrger-Service-Zentrum",
         "services": [
+          "Abholung Personalausweis",
           "Abholung Personalausweis / Reisepass",
           "Abholung Personalausweis/ Reisepass",
+          "Abholung Reisepass",
           "Abmeldung Hauptwohnsitz, Abmeldung Nebenwohnsitz",
           "Anmeldung",
           "Auszug aus dem Gewerbezentralregister f\u00fcr Firmen (eingetragen beim Amtsgericht)",
@@ -3737,8 +3740,10 @@
       "83595": {
         "name": "B\u00fcrger-Service-Zentrum",
         "services": [
+          "Abholung Personalausweis",
           "Abholung Personalausweis / Reisepass",
           "Abholung Personalausweis/ Reisepass",
+          "Abholung Reisepass",
           "Abmeldung Hauptwohnsitz, Abmeldung Nebenwohnsitz",
           "Anmeldung",
           "Auszug aus dem Gewerbezentralregister f\u00fcr Firmen (eingetragen beim Amtsgericht)",
@@ -8186,8 +8191,10 @@
           "1.Impfung",
           "2. Impfung",
           "Booster Impfung",
+          "Boosterimpfung mit Omikron Variante BA1",
           "Ich unterliege der einrichtungsbezogenen Impfpflicht",
-          "Impfen mit Novavax"
+          "Impfen mit Novavax",
+          "Impfen mit Omikron Variante BA1"
         ]
       },
       "76": {
@@ -14275,6 +14282,38 @@
           "Staatsb\u00fcrgerschaftsnachweis"
         ]
       },
+      "148356": {
+        "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
+        "services": [
+          "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
+          "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
+          "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
+          "Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
+          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
+          "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
+          "ID Austria",
+          "Namens\u00e4nderung/Namensbestimmung",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
+          "Schulung Sprengelwahlbeh\u00f6rden",
+          "Staatsb\u00fcrgerschaftsnachweis",
+          "Wahlbeh\u00f6rdenschulung"
+        ]
+      },
+      "148476": {
+        "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
+        "services": [
+          "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
+          "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
+          "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
+          "Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
+          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
+          "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
+          "ID Austria",
+          "Namens\u00e4nderung/Namensbestimmung",
+          "Reisepass/Personalausweis (inkl. ID Austria)",
+          "Staatsb\u00fcrgerschaftsnachweis"
+        ]
+      },
       "82814": {
         "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
         "services": [
@@ -19430,6 +19469,7 @@
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "\u00c4nderung Adresse/Name gebr. Kfz mit ausw\u00e4rtigem Kennz.(Halter \u00e4ndert sich nicht)",
           "\u00c4nderung Name/Adresse (zugelassenes Kfz Kreis Unna) z.B. nach Heirat oder Umzug",
+          "\u00c4nderung Name/Adresse, Kfz mit ausw\u00e4rtigem Kennz,Umzug in den Kreis Unna",
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
         ]
       },
@@ -19474,6 +19514,7 @@
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "\u00c4nderung Adresse/Name gebr. Kfz mit ausw\u00e4rtigem Kennz.(Halter \u00e4ndert sich nicht)",
           "\u00c4nderung Name/Adresse (zugelassenes Kfz Kreis Unna) z.B. nach Heirat oder Umzug",
+          "\u00c4nderung Name/Adresse, Kfz mit ausw\u00e4rtigem Kennz,Umzug in den Kreis Unna",
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
         ]
       },
@@ -24163,6 +24204,17 @@
           "Fischereischein",
           "Landesfamilienpass / L-Card",
           "polizeiliches F\u00fchrungszeugnis"
+        ]
+      },
+      "276/8528": {
+        "name": "Namenserkl\u00e4rungen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+        "services": [
+          "Einbenennung",
+          "Nachtr\u00e4gliche Ehenamensbestimmung",
+          "Namenserteilung/ oder -bestimmung des Kindes",
+          "Namens\u00e4nderung nach Einb\u00fcrgerung",
+          "Wiederannahme Geburtsname",
+          "\u00c4nderung der Reihenfolge der Vornamen"
         ]
       },
       "79/3770": {
@@ -29061,7 +29113,10 @@
       "164": {
         "name": "Energieberatung",
         "services": [
-          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung"
+          "Thermografiebefliegung, telefonische Einstiegs-Energieberatung",
+          "telefonische Einstiegs-Energieberatung (Energiethemen allgemein)",
+          "telefonische Einstiegs-Energieberatung (Thermografiebefliegung)",
+          "telefonische Einstiegs-Energieberatung (alle Energiethemen)"
         ]
       },
       "165": {
@@ -29180,6 +29235,7 @@
         "services": [
           "Energieberatung der Verbraucherzentrale (Telefonisch)",
           "Energieberatung der Verbraucherzentrale (Vor Ort im Stadthaus 3)",
+          "Energieberatung im Stadthaus 3 (Verbraucherzentrale zu Geb\u00e4udethemen)",
           "pers\u00f6nliche  - Energieberatung der Verbraucherzentrale (vor Ort)",
           "pers\u00f6nliche Energieberatung der Verbraucherzentrale (vor Ort)",
           "telefonische - Energieberatung der Verbraucherzentrale",
@@ -35006,6 +35062,8 @@
           "Eintragung technische \u00c4nderung (z.B.: Tieferlegung, Reifen, \u00c4nderung Fahrzeugart",
           "Ersatz-Zulassungsbescheinigung Teil I (Fahrzeugschein)",
           "Ersatz-Zulassungsbescheinigung Teil II (Fahrzeugbrief) Beantragung oder Ausstell",
+          "Freiwillige Zulassung E-Roller",
+          "Kopie von Neuzulassung (fabrikneues Fahrzeug)",
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
           "Umkennzeichnung",
@@ -35089,6 +35147,8 @@
           "Eintragung technische \u00c4nderung (z.B.: Tieferlegung, Reifen, \u00c4nderung Fahrzeugart",
           "Ersatz-Zulassungsbescheinigung Teil I (Fahrzeugschein)",
           "Ersatz-Zulassungsbescheinigung Teil II (Fahrzeugbrief) Beantragung oder Ausstell",
+          "Freiwillige Zulassung E-Roller",
+          "Kopie von Neuzulassung (fabrikneues Fahrzeug)",
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
           "Umkennzeichnung",
@@ -35292,6 +35352,30 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/stadtselm",
     "locations": {
+      "73393": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Allgemeine Beratung",
+          "Anmeldung, Einzelperson ",
+          "Antrag F\u00fchrerschein",
+          "Beglaubigungen",
+          "F\u00fchrerscheinumtausch",
+          "F\u00fchrungszeugnis",
+          "Kinderreisepass ausstellen",
+          "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
+          "Lebensbescheinigung",
+          "Meldebescheinigung",
+          "Parkausweis",
+          "Personalausweis abholen",
+          "Personalausweis ausstellen",
+          "Reisepass abholen",
+          "Reisepass ausstellen",
+          "Rundfunkgeb\u00fchren, Befreiung oder Erm\u00e4\u00dfigung",
+          "Ummeldung, Einzelperson",
+          "Untersuchungsberechtigungsschein",
+          "Verl\u00e4ngerung Schwerbehindertenausweis"
+        ]
+      },
       "73396": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
