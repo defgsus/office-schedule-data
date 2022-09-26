@@ -3807,6 +3807,277 @@
           "Zulassung eines nicht serienm\u00e4\u00dfigen Fahrzeuges - mit Einzelgenehmigung (Gutachten)"
         ]
       },
+      "1005": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "1006": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1007": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "1008": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1009": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1010": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1011": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1012": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1014": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "1015": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1016": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "1017": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1018": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1019": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1020": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1021": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1032": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "1033": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1034": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "1035": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1036": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1037": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1038": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1039": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1050": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "Ersatzdokumente",
+          "Technische \u00c4nderungen am Fahrzeug",
+          "Wiederzulassung auf denselben Fahrzeughalter",
+          "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "Zulassung eines EU-Neufahrzeuges (Import)",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "Zuteilung eines Kurzzeitkennzeichen",
+          "Zuteilung von Ausfuhrkennzeichen",
+          "\u00c4nderung Wohnanschrift oder Name"
+        ]
+      },
+      "1051": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1052": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asy - Freiwillige R\u00fcckkehr ins Heimatland",
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+        ]
+      },
+      "1053": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1054": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1055": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1056": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1057": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1058": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "F\u00fchrerschein Wiedererteilung",
+          "F\u00fchrerscheinwesen Erstantrag"
+        ]
+      },
       "549": {
         "name": "KFZ-Zulassung",
         "services": [
@@ -10408,19 +10679,28 @@
       "42": {
         "name": "Jobcenter",
         "services": [
-          "JC-Testanliegen"
+          "JC-Testanliegen",
+          "pers\u00f6nlicher Termin - alle Anliegen"
         ]
       },
       "48": {
         "name": "Jobcenter",
         "services": [
-          "Arbeitgeberservice"
+          "Arbeitgeberservice",
+          "Videoberatung - alle Anliegen"
         ]
       },
       "49": {
         "name": "Jobcenter",
         "services": [
-          "JC-Testanliegen"
+          "JC-Testanliegen",
+          "pers\u00f6nlicher Termin - alle Anliegen"
+        ]
+      },
+      "50": {
+        "name": "Jobcenter",
+        "services": [
+          "Videoberatung - alle Anliegen"
         ]
       }
     }
@@ -10803,6 +11083,7 @@
           "Ausfuhrkennzeichen Buchungen nur Mo-Do bis 11 Uhr, Fr. bis 09.30 Uhr",
           "Aush\u00e4ndigung Zulassungsbescheinigung Teil II nach erfolgloser Aufbietung",
           "Aush\u00e4ndigung Zulassungsbescheinigung Teil II nach erfolgter Aufbietung",
+          "Auskunft Punktestand (Fahreignungsregister)",
           "Ausstellung Fahrerqualifizierungsnachweis (Schl\u00fcsselzahl 95)",
           "Ausstellung Reiseausweis (ABH)",
           "Ausstellung Vignette",
@@ -10823,9 +11104,13 @@
           "Ersatz einer Zulassungsbescheinigung Teil I",
           "Ersatz einer Zulassungsbescheinigung Teil II",
           "Ersatzf\u00fchrerschein nach Diebstahl/Verlust",
+          "Ersterteilung oder Erweiterung einer Fahrerlaubnis",
           "Erteilung einer Fahrerlaubnis mit 17 Jahren (begleitetes Fahren)",
           "Erteilung oder Erweiterung einer Fahrerlaubnis",
           "Erteilung oder Verl\u00e4ngerung eines Personenbef\u00f6rderungsscheins",
+          "Fahrerkarte",
+          "Fahrerqualifizierungsnachweis (FQN, Schl\u00fcsselzahl 95)",
+          "Fahrschulwechsel",
           "Fiktionsbescheinigung - Erteilung/Verl\u00e4ngerung (ABH)",
           "Fischereischein - Verl\u00e4ngerung / Neuausstellung",
           "Fundsachen Abholung",
@@ -10835,6 +11120,7 @@
           "Gewerbeanmeldung",
           "Gewerbeummeldung",
           "Grenz\u00fcbertrittsbescheinigung - Ausstellung (ABH)",
+          "Internationaler F\u00fchrerschein",
           "Kinderreisepass beantragen",
           "Kurzzeitkennzeichen",
           "Meldebescheinigungen und Lebensbescheinigungen",
@@ -10855,7 +11141,9 @@
           "Parkerleichterung f\u00fcr Schwerbehinderte",
           "Personalausweis beantragen",
           "Personalausweis beantragen - vorl\u00e4ufig",
+          "Personenbef\u00f6rderungsschein (Fahrgastbef\u00f6rderung)",
           "Reisepass beantragen",
+          "Schl\u00fcsselzahl 96, 196 oder 197",
           "Sonstige Beratung/Ausstellung von Bescheinigung/Kl\u00e4rung des Status (ABH, 25 min)",
           "Sonstige nicht aufgef\u00fchrte Zulassungsvorg\u00e4nge",
           "Sonstiges",
@@ -10865,7 +11153,9 @@
           "Ummeldung einer Wohnung innerhalb von Gelsenkirchen (Personenzahl angeben)",
           "Ummeldung einer Wohnung mit \u00c4nderung des Kfz-Scheines",
           "Ummeldung einer Wohnung mit \u00c4nderung des Kfz-Scheines (Personenzahl angeben)",
+          "Umschreibung Dienstfahrerlaubnis (z.B. Bundeswehrf\u00fchrerschein)",
           "Umschreibung ausl\u00e4ndische F\u00fchrerscheine",
+          "Umschreibung ausl\u00e4ndischer F\u00fchrerschein",
           "Umschreibung einer Dienstfahrerlaubnis/Bundeswehrf\u00fchrerschein",
           "Umschreibung eines Fahrzeuges innerhalb Gelsenkirchens",
           "Umschreibung eines registrierten Fahrzeuges (mit Halterwechsel)",
@@ -10875,6 +11165,7 @@
           "Untersuchungsberechtigungsscheine",
           "Verl\u00e4ngerung Visum (ABH)",
           "Verl\u00e4ngerung der Fahrerlaubnis Klassen C und D",
+          "Verl\u00e4ngerung einer Fahrerlaubnis (Klassen C / D)",
           "Verl\u00e4ngerung eines Schengen Visum",
           "Verpflichtungserkl\u00e4rung  (ABH)",
           "Verpflichtungserkl\u00e4rung \u2013 einzuladendes Ehepaar (ABH)",
@@ -16127,6 +16418,36 @@
           "DRK Testzentrum Eslohe",
           "DRK Testzentrum Meschede",
           "DRK Testzentrum Schmallenberg"
+        ]
+      },
+      "124667": {
+        "name": "Impfungen Brilon",
+        "services": [
+          "Impfung Brilon",
+          "Impfung mit Biontech Comirnaty\u00ae 15/15 Original/Omicron BA 1",
+          "Impfung mit Biontech Comirnaty\u00ae 15/15 Original/Omicron BA 4/5",
+          "Impfung mit Biontech Comirnaty\u00ae ab 12 Jahre",
+          "Moderna Spikevax\u00ae Original/Omicron BA 1",
+          "Moderna Spikevax\u00ae Original/Omicron BA 4/5",
+          "Moderna Spikevax\u00ae ab 30 Jahre",
+          "Novaras Nuvaxovid\u00ae ab 12 Jahre, nur Grundimmunisierung",
+          "Valneva \u2022\tVal2001\u00ae f\u00fcr Personen von 18-50 Jahre, nur Grundimmunisierung"
+        ]
+      },
+      "124668": {
+        "name": "Impfungen Schmallenberg",
+        "services": [
+          "Impfung Schmallenberg",
+          "Impfung mit Biontech Comirnaty\u00ae 15/15 Original/Omicron BA 1",
+          "Impfung mit Biontech Comirnaty\u00ae 15/15 Original/Omicron BA 4/5",
+          "Impfung mit Biontech Comirnaty\u00ae ab 12 Jahre",
+          "Impfung mit Biontech Comirnaty\u00ae f\u00fcr Kinder ab 12 Jahre",
+          "Impfung mit Biontech Comirnaty\u00ae f\u00fcr Kinder von 5-11 Jahre",
+          "Moderna Spikevax\u00ae Original/Omicron BA 1",
+          "Moderna Spikevax\u00ae Original/Omicron BA 4/5",
+          "Moderna Spikevax\u00ae ab 30 Jahre",
+          "Novaras Nuvaxovid\u00ae ab 12 Jahre, nur Grundimmunisierung",
+          "Valneva \u2022\tVal2001\u00ae f\u00fcr Personen von 18-50 Jahre, nur Grundimmunisierung"
         ]
       },
       "96407": {
@@ -32092,6 +32413,80 @@
           "allg. Beratungsgespr\u00e4ch"
         ]
       },
+      "1": {
+        "name": "Amt f\u00fcr \u00f6ffentliche Ordnung",
+        "services": [
+          "Neuausstellung Bewohnerparkausweis",
+          "Verl\u00e4ngerung Bewohnerparkausweis",
+          "\u00c4nderung Bewohnerparkausweis"
+        ]
+      },
+      "10": {
+        "name": "Stadtbibliothek",
+        "services": [
+          "Abholung Medien"
+        ]
+      },
+      "11": {
+        "name": "Stadtbibliothek",
+        "services": [
+          "Abholung Medien"
+        ]
+      },
+      "12": {
+        "name": "Stadtbibliothek",
+        "services": [
+          "Abholung Medien"
+        ]
+      },
+      "13": {
+        "name": "Standesamt",
+        "services": [
+          "Anmeldung Eheschlie\u00dfung",
+          "Anmeldung von Geburten",
+          "Namens\u00e4nderung",
+          "Sonstiges / Allgemeine Auskunft",
+          "Sterbefallbeurkundung",
+          "Urkundenausstellung",
+          "Vaterschaftsanerkennung"
+        ]
+      },
+      "14": {
+        "name": "Trautermine",
+        "services": [
+          "Trautermin"
+        ]
+      },
+      "15": {
+        "name": "Trautermine",
+        "services": [
+          "Trautermin"
+        ]
+      },
+      "16": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "17": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "18": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "19": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
       "199": {
         "name": "Standesamt",
         "services": [
@@ -32102,6 +32497,29 @@
           "Sterbefallbeurkundung",
           "Urkundenausstellung",
           "Vaterschaftsanerkennung"
+        ]
+      },
+      "2": {
+        "name": "Einwohneramt",
+        "services": [
+          "Abmeldung",
+          "Anmeldung",
+          "Ausweisdokumente beantragen",
+          "Ausweisdokumente verloren/wiedergefunden",
+          "Beglaubigung (1-5 St\u00fcck)",
+          "Fischereischein",
+          "F\u00fchrungszeugnis",
+          "KFZ-Schein Adress\u00e4nderung",
+          "Meldebescheinigung",
+          "Melderegisterauskunft",
+          "Ummeldung",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "20": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
         ]
       },
       "200": {
@@ -32178,6 +32596,12 @@
           "\u00c4nderung Bewohnerparkausweis"
         ]
       },
+      "21": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
       "210": {
         "name": "Haupt- und Personalamt",
         "services": [
@@ -32232,6 +32656,12 @@
         "name": "Stadtbibliothek",
         "services": [
           "Abholung Medien"
+        ]
+      },
+      "22": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
         ]
       },
       "220": {
@@ -32303,6 +32733,12 @@
           "Schulanmeldung"
         ]
       },
+      "23": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
       "230": {
         "name": "Schulen",
         "services": [
@@ -32363,6 +32799,12 @@
           "Schulanmeldung"
         ]
       },
+      "24": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
       "240": {
         "name": "Schulen",
         "services": [
@@ -32379,6 +32821,120 @@
         "name": "Schulen",
         "services": [
           "Schulanmeldung"
+        ]
+      },
+      "25": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "26": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "27": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "28": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "29": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "3": {
+        "name": "Einwohneramt",
+        "services": [
+          "Abmeldung",
+          "Anmeldung",
+          "Anmeldung EU-Staatsangeh\u00f6rige",
+          "Ausweisdokumente beantragen",
+          "Ausweisdokumente verloren/wiedergefunden",
+          "Beglaubigung (1-5 St\u00fcck)",
+          "Fischereischein",
+          "F\u00fchrungszeugnis",
+          "KFZ-Schein Adress\u00e4nderung",
+          "Meldebescheinigung",
+          "Melderegisterauskunft",
+          "Ummeldung",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "30": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "31": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "32": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "33": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "34": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "35": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "36": {
+        "name": "Schulen",
+        "services": [
+          "Schulanmeldung"
+        ]
+      },
+      "4": {
+        "name": "Einwohneramt",
+        "services": [
+          "Ausweisdokumente abholen"
+        ]
+      },
+      "5": {
+        "name": "Einwohneramt",
+        "services": [
+          "Pr\u00fcfung von ausl\u00e4ndischen Urkunden"
+        ]
+      },
+      "6": {
+        "name": "Einwohneramt",
+        "services": [
+          "Verpflichtungserkl\u00e4rung (Einladung)"
+        ]
+      },
+      "9": {
+        "name": "Stadtbibliothek",
+        "services": [
+          "Abholung Medien"
         ]
       }
     }
@@ -32607,6 +33163,8 @@
           "Beantragung einer Aufenthaltserlaubnis / Niederlassungserlaubnis",
           "Stadtfriedhof_Urnenbeisetzung",
           "Verpflichtungserkl\u00e4rung/Einladung von ausl\u00e4ndischen Besuchern",
+          "\u00dcbertragung eines Aufenthaltstitels (Verlust Reisepass / Aufenthaltstitel)",
+          "\u00dcbertragung eines Aufenthaltstitels (neuer Reisepass liegt vor)",
           "\u00dcbertragung eines Aufenthaltstitels in neuen Pass"
         ]
       },
@@ -36345,6 +36903,7 @@
           "Bewerbung Zensusbeauftragte/r",
           "Einfache oder erweiterte Meldebescheinigung",
           "Einfaches oder erweitertes polizeiliches F\u00fchrungszeugnis",
+          "Einmaliges Begr\u00fc\u00dfungsgeld f\u00fcr Studentinnen und Studenten",
           "Erstantrag Fahrgastbef\u00f6rderungsschein",
           "Ersterteilung, Erweiterung oder Wiedererteilung einer Fahrerlaubnis",
           "Gewerbezentralregisterauskunft",
@@ -37993,6 +38552,36 @@
         "services": [
           "Ausgabe Sozialticket"
         ]
+      },
+      "30": {
+        "name": "Fahrerlaubnisbeh\u00f6rde",
+        "services": [
+          "Abholung F\u00fchrerschein/Fahrerkarte/FQN/FzF",
+          "Antrag auf begleitetes Fahren mit 17 Jahren",
+          "Ausstellung einer Fahrerkarte",
+          "Ausstellung eines Fahrerqualifizierungsnachweises",
+          "Eintragung der Schl\u00fcsselzahlen B96,B196 oder B197",
+          "Ersatzf\u00fchrerschein",
+          "Erstmalige Erteilung einer Fahrerlaubnis",
+          "Erstmalige Erteilung einer FzF",
+          "Erweiterung auf die Klassen A1,A2,A,B,BE oder T",
+          "Erweiterung auf die Klassen C1, C1E,C,CE",
+          "Erweiterung auf die Klassen D1,D1E,D,DE",
+          "Erweiterung einer FzF",
+          "Internationaler F\u00fchrerschein",
+          "Nachtr\u00e4glicher Eintrag einer Begleitperson",
+          "Neuerteilung einer Fahrerlaubnis nach Entziehung/Verzicht/Versagung",
+          "Sonstige Anliegen",
+          "Umtausch F\u00fchrerschein in einen EU-Kartenf\u00fchrerschein",
+          "Umtausch ausl\u00e4ndischer F\u00fchrerscheine EU/EWR",
+          "Umtausch ausl\u00e4ndischer F\u00fchrerscheine aus der Staatenliste Anlage 11 FeV",
+          "Umtausch ausl\u00e4ndischer F\u00fchrerscheine aus einem Drittstaat",
+          "Umtausch eines F\u00fchrerscheines der Bundeswehr",
+          "Umtausch eines F\u00fchrerscheins der Polizei",
+          "Verl\u00e4ngerung der Klassen C1,C1E,C oder CE",
+          "Verl\u00e4ngerung der Klassen D1, D1E,D oder DE",
+          "Verl\u00e4ngerung einer FzF"
+        ]
       }
     }
   },
@@ -38352,6 +38941,32 @@
           "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
+      "109/764": {
+        "name": "Stra\u00dfenverkehrsbeh\u00f6rde Eschwege: Zulassungsangelegenheiten",
+        "services": [
+          "100 km/h Plakette 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
+          "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
+          "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Neuzulassung eines Fahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Technische \u00c4nderung bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil I (Fahrzeugschein) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil II (Fahrzeugbrief) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Wiederzulassung eines Fahrzeuges auf dieselbe Person 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zulassung/Umschreibung eines Gebrauchtfahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
+        ]
+      },
       "109/808": {
         "name": "Eschwege: default",
         "services": [
@@ -38476,6 +39091,32 @@
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "sonstige F\u00fchrerscheinangelegenheiten",
           "sonstige F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge"
+        ]
+      },
+      "110/764": {
+        "name": "Stra\u00dfenverkehrsbeh\u00f6rde Witzenhausen: Zulassungsangelegenheiten",
+        "services": [
+          "100 km/h Plakette 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
+          "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
+          "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Neuzulassung eines Fahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Technische \u00c4nderung bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Umkennzeichnung bei Kennzeichenverlust o. -diebstahl 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Umkennzeichnung eines Fahrzeuges 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil I (Fahrzeugschein) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Verlust / Diebstahl der Zulassungsbescheinigung Teil II (Fahrzeugbrief) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Wiederzulassung eines Fahrzeuges auf dieselbe Person 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zulassung eines Gebrauchtfahrzeuges aus dem Ausland 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zulassung/Umschreibung eines Gebrauchtfahrzeuges 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen3\u00a0\u00a0 Zulassungen4\u00a0\u00a0 Zulassungen5\u00a0\u00a0 Zulassungen6\u00a0\u00a0 Zulassungen7\u00a0\u00a0 Zulassungen8\u00a0\u00a0 Zulassungen",
+          "Zuteilung/Verl\u00e4ngerung rotes Dauerkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
       "110/808": {
