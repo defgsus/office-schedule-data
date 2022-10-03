@@ -2197,6 +2197,10 @@
         "name": "Grippeschutzimpfung",
         "services": []
       },
+      "impfungen": {
+        "name": "Impfungen",
+        "services": []
+      },
       "kfz-zulassungsangelegenheiten": {
         "name": "Kfz-Zulassungsangelegenheiten",
         "services": []
@@ -8462,6 +8466,7 @@
           "1.Impfung",
           "2. Impfung",
           "Booster Impfung",
+          "Boosterimpfung mit BioNtech BA 4/5",
           "Boosterimpfung mit Omikron Variante BA1",
           "Ich unterliege der einrichtungsbezogenen Impfpflicht",
           "Impfen mit Novavax",
@@ -18480,6 +18485,18 @@
           "Suchsdorf - Einwohnerangelegenheiten f\u00fcr zwei Personen"
         ]
       },
+      "106": {
+        "name": "KFZ-Zulassungs-Angelegenheiten",
+        "services": [
+          "Kfz - Rote Kennzeichen (keine Kurzzeitkennzeichen)"
+        ]
+      },
+      "107": {
+        "name": "KFZ-Zulassungs-Angelegenheiten",
+        "services": [
+          "Kfz - Versicherungsangelegenheiten"
+        ]
+      },
       "108": {
         "name": "KFZ-Zulassungs-Angelegenheiten",
         "services": [
@@ -20108,6 +20125,7 @@
         "name": "Eheschlie\u00dfung von deutschen Staatsangeh\u00f6rigen im Ausland",
         "services": [
           "Antrag auf Ausstellung eines Ehef\u00e4higkeitszeugnisses zur Eheschlie\u00dfung im Auslan 01\u00a0\u00a0 Antrag",
+          "Antrag auf Ausstellung eines Ehef\u00e4higkeitzeugnisses zur Eheschlie\u00dfung im Ausland 01\u00a0\u00a0 Antrag",
           "Antrag auf Nachbeurkundung einer Geburt oder Eheschlie\u00dfung im Ausland 01\u00a0\u00a0 Antrag"
         ]
       },
@@ -24124,7 +24142,19 @@
           "Probezeitma\u00dfnahmen"
         ]
       },
+      "621": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
       "622": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "624": {
         "name": "Fahreignung",
         "services": [
           "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
