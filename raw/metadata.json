@@ -3649,17 +3649,21 @@
         "name": "KFZ-Wesen (aktuell nur f\u00fcr Burscheider B\u00fcrger!)",
         "services": [
           "Adress\u00e4nderung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
+          "Ausfuhrkennzeichen (zzt. ausschlie\u00dflich f\u00fcr B\u00fcrger aus Burscheid) 01\u00a0\u00a0 Fahrzeug",
           "Ausfuhrkennzeichen zz. ausschlie\u00dflich f\u00fcr B\u00fcrger aus Burscheid 01\u00a0\u00a0 Fahrzeug",
           "Ersatzausstellung ZB I nach Verlust (fr\u00fcher Fahrzeugschein) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge",
           "Fahrzeugabmeldung 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Fahrzeugabmeldung 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
           "Fahrzeugscheinheft f\u00fcr rote Kennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "Fahrzeugummeldung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Fahrzeugummeldung innerhalb des Rhein.-Berg.Kreises 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
+          "Fahrzeugummeldung von au\u00dferhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Fahrzeugummeldung von au\u00dferhalb des Rhein.-Berg.Kreises 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Feinstaubplakette zuteilen 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Feinstaubplakette zuteilen 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
           "Kennzeichen erneuern wegen defektem Schild 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
           "Kurzzeitkennzeichen 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge",
+          "Namens\u00e4nderung in den Fahrzeugpapieren (z. B. nach Eheschlie\u00dfung) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Namens\u00e4nderung in den Fahrzeugpapieren (z.B. nach Eheschlie\u00dfung) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge",
           "Neuzulassung Wohnmobil 01",
           "Neuzulassung Wohnmobil 01\u00a0\u00a0 Wohnmobil",
@@ -4014,6 +4018,14 @@
         "services": [
           "Ausserbetriebsetzung",
           "Ersatzdokumente",
+          "KFZ: Ersatzdokumente",
+          "KFZ: Technische \u00c4nderungen am Fahrzeug",
+          "KFZ: Wiederzulassung auf denselben Fahrzeughalter",
+          "KFZ: Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "KFZ: Zulassung eines EU-Neufahrzeuges (Import)",
+          "KFZ: Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "KFZ: Zuteilung von Ausfuhrkennzeichen",
+          "KFZ: \u00c4nderung Wohnanschrift oder Name",
           "Technische \u00c4nderungen am Fahrzeug",
           "Wiederzulassung auf denselben Fahrzeughalter",
           "Zulassung bzw Ummeldung Gebrauchtfahrzeug",
@@ -4039,7 +4051,8 @@
           "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
           "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
           "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
-          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen"
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen",
+          "Asyl - Freiwillige R\u00fcckkehr ins Heimatland"
         ]
       },
       "1053": {
@@ -25100,6 +25113,12 @@
           "Teste1 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
         ]
       },
+      "530/8282": {
+        "name": "Eheschlie\u00dfungstermine",
+        "services": [
+          "Trautermine"
+        ]
+      },
       "86/586": {
         "name": "Meldeangelegenheiten",
         "services": [
@@ -25120,6 +25139,9 @@
         "name": "Ausweis- und Passangelegenheiten",
         "services": [
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
+          "Bundespersonalausweis / eID Karte Aktivierung Onlineausweisfunktion 01\u00a0\u00a0 Aktivierung 2\u00a0\u00a0 Aktivierungen3\u00a0\u00a0 Aktivierungen4\u00a0\u00a0 Aktivierungen5\u00a0\u00a0 Aktivierungen6\u00a0\u00a0 Aktivierungen7\u00a0\u00a0 Aktivierungen8\u00a0\u00a0 Aktivierungen",
+          "Bundespersonalausweis Aktivierung Onlineausweisfunktion",
+          "Bundespersonalausweis Pin Nummer setzen und / oder Onlinefunktion aktivieren 01\u00a0\u00a0 Pin2\u00a0\u00a0 Pin3\u00a0\u00a0 Pin4\u00a0\u00a0 Pin5\u00a0\u00a0 Pin6\u00a0\u00a0 Pin7\u00a0\u00a0 Pin8\u00a0\u00a0 Pin",
           "Bundespersonalausweis abholen",
           "Bundespersonalausweis beantragen",
           "Expressreisepass beantragen",
@@ -26441,6 +26463,7 @@
       "125/1066": {
         "name": "Innenstadt: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -26535,6 +26558,7 @@
       "127/1066": {
         "name": "Waldhof: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -26632,6 +26656,7 @@
       "129/1066": {
         "name": "Neckarau: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -26701,6 +26726,7 @@
       "130/1066": {
         "name": "Neckarstadt: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -26768,6 +26794,7 @@
       "131/1066": {
         "name": "Rheinau: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -26837,6 +26864,7 @@
       "132/1066": {
         "name": "Seckenheim: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -27035,6 +27063,7 @@
       "135/1066": {
         "name": "Lindenhof: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -27220,6 +27249,7 @@
       "137/1066": {
         "name": "Sandhofen: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -27358,6 +27388,7 @@
       "139/1066": {
         "name": "Vogelstang: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -27426,6 +27457,7 @@
       "140/1066": {
         "name": "Wallstadt: Standesamt",
         "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
           "Anmeldung einer gleichgeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung",
           "Anmeldung einer verschiedengeschlechtlichen Eheschlie\u00dfung/Ehef\u00e4higkeitszeugnis",
@@ -29537,6 +29569,7 @@
           "Eintragung eines Doppelnamens",
           "Leichenpass",
           "Namensbescheinigung",
+          "Namenserkl\u00e4rung",
           "Namens\u00e4nderung nach Scheidung",
           "Telefontermin - Annerkennung einer ausl\u00e4ndischen Scheidung",
           "Telefontermin - Deutsche Urkunden f\u00fcr ein im Ausland geborenes Kind",
@@ -34912,6 +34945,7 @@
           "Unterlagenabgabe",
           "Unterlagenabgabe mit Fertigung der Kopien",
           "Vaterschaftsanerkennung / Mutterschaftsanerkennung",
+          "Vaterschaftsanerkennung / Mutterschaftsanerkennung nach Geburt",
           "Waffe ein- oder austragen",
           "Waffenbesitzkarte (J\u00e4ger) beantragen und/oder abholen",
           "Waffenbesitzkarte (Sonstige) beantragen und/oder abholen",
@@ -38276,6 +38310,12 @@
           "Zulassungsvorg\u00e4nge"
         ]
       },
+      "5": {
+        "name": "Gesundheitsamt",
+        "services": [
+          "Belehrung nach Infektionsschutzgesetz"
+        ]
+      },
       "6": {
         "name": "Fachdienst Bauordnung KEIN ECHTBETRIEB!",
         "services": [
@@ -39804,6 +39844,12 @@
         "name": "Nelly-Sachs-IGS",
         "services": [
           "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+        ]
+      },
+      "109": {
+        "name": "Nelly-Sachs-IGS",
+        "services": [
+          "Tag der offenen T\u00fcr"
         ]
       },
       "62": {
