@@ -11161,6 +11161,7 @@
           "Notfall Vignette und EAT mit RA",
           "PIK Erfassung",
           "Parkerleichterung f\u00fcr Schwerbehinderte",
+          "Personalausweis (auch vorl\u00e4ufig) und Reisepass beantragen",
           "Personalausweis beantragen",
           "Personalausweis beantragen - vorl\u00e4ufig",
           "Personenbef\u00f6rderungsschein (Fahrgastbef\u00f6rderung)",
@@ -16359,7 +16360,9 @@
           "Duldung oder Aufenthaltsgestattung abholen",
           "Duldung oder Aufenthaltsgestattung verl\u00e4ngern",
           "Fiktionsbescheinigung - Antrag auf Verl\u00e4ngerung",
+          "Fiktionsbescheinigung - Antrag auf Verl\u00e4ngerung / Zayava na podovzhennia",
           "Fiktionsbescheinigung abholen",
+          "Fiktionsbescheinigung abholen / Otrymaty",
           "Fischereischein (Ausstellung oder Verl\u00e4ngerung)",
           "F\u00fchrungszeugnis",
           "Identifikationsnummer/Steuer-ID",
@@ -29718,6 +29721,9 @@
       "163": {
         "name": "Einb\u00fcrgerungsstelle",
         "services": [
+          "Antragsabgabe (Einzelperson)",
+          "Antragsabgabe (Familie)",
+          "Beratung",
           "Termin in der Einb\u00fcrgerungsstelle (Einzelperson)",
           "Termin in der Einb\u00fcrgerungsstelle (Familie)"
         ]
@@ -32473,6 +32479,7 @@
           "Melderegisterauskunft",
           "Ostfildernpass",
           "Ticketverkauf",
+          "Unterst\u00fctzungsunterschrift Wahl/Volksbegehren",
           "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen (pro Person)"
         ]
       },
@@ -34391,6 +34398,19 @@
           "Jugendfischereischein (Ausstellung/Verl\u00e4ngerung)"
         ]
       },
+      "281/7366": {
+        "name": "Rentenangelegenheiten",
+        "services": [
+          "Altersrente beantragen",
+          "Erwerbsminderungsrente Erstantrag",
+          "Erwerbsminderungsrente Weitergew\u00e4hrung beantragen",
+          "Kontenkl\u00e4rung beantragen",
+          "Sonstiges (z.B. Hilfe, um Formulare auszuf\u00fcllen) 01\u00a0\u00a0 Person",
+          "Waisenrente beantragen",
+          "Widerspruch einlegen  01\u00a0\u00a0 Person",
+          "Witwenrente / Witwerrente beantragen"
+        ]
+      },
       "281/7867": {
         "name": "weitere Dienstleistungen",
         "services": [
@@ -34627,6 +34647,7 @@
           "Abmeldung ukrainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "PIK-Registrierung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Ummeldung ukrainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
@@ -34644,6 +34665,12 @@
           "Erteilung eines Aufenthaltstitels f\u00fcr ukrainische Gefl\u00fcchtete 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "PIK-Registrierung  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "PIK-Registrierung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
+      "425/8525": {
+        "name": "Ausl\u00e4nderangelegenheiten - Ukrainische Gefl\u00fcchtete",
+        "services": [
+          "Erteilung eines Aufenthaltstitels f\u00fcr ukrainische Gefl\u00fcchtete 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "425/8526": {
@@ -34781,6 +34808,19 @@
           "Neuinstallation I-Pad und I-Phone 01",
           "Neuinstallation iPad oder iPhone 01",
           "Neuinstallation iPad und iPhone 01"
+        ]
+      },
+      "581/7366": {
+        "name": "Rentenangelegenheiten",
+        "services": [
+          "Altersrente beantragen",
+          "Erwerbsminderungsrente Erstantrag",
+          "Erwerbsminderungsrente Weitergew\u00e4hrung beantragen",
+          "Kontenkl\u00e4rung beantragen",
+          "Sonstiges (z.B. Hilfe, um Formulare auszuf\u00fcllen) 01\u00a0\u00a0 Person",
+          "Waisenrente beantragen",
+          "Widerspruch einlegen  01\u00a0\u00a0 Person",
+          "Witwenrente / Witwerrente beantragen"
         ]
       }
     }
@@ -36147,7 +36187,9 @@
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Kindereisepass (nur f\u00fcr Kinder unter 12 Jahren) Neuausstellung/Aktualisierung/Ve 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kindereisepass Neuausstellung/Aktualisierung/Verl\u00e4ngerung 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
+          "Kopie von Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern",
           "Kopie von blo\u00dfe Adress\u00e4nderung auf dem Personalausweis/Reisepass/Kinderreisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern",
           "Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Personalausweis",
           "Reisepass/Expressreisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
@@ -36186,6 +36228,7 @@
           "Abgabe eines Einb\u00fcrgerungsantrags",
           "Abholung der neu ausgestellten eID-Karte 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag/Verl\u00e4ngerung Aufenthaltstitel",
+          "Online-Funktion/PIN in der eID-Karte setzen/\u00e4ndern",
           "blo\u00dfe Adress\u00e4nderung elektronischer Aufenthaltstitel/eID-Karte 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "eID-Karte f\u00fcr nichtdeutsche EU-Staatsangeh\u00f6rige",
           "\u00dcbertrag Aufenthaltstitel vom alten Pass in das neue Dokument 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
