@@ -1781,6 +1781,7 @@
       "131286": {
         "name": "Klima & Umwelt",
         "services": [
+          "Altbau - Was tun?",
           "Photovoltaikanlagen, Batteriespeicher und Wallboxen f\u00fcr Ein- und Zweifamilienh\u00e4user"
         ]
       },
@@ -4097,6 +4098,72 @@
         "services": [
           "F\u00fchrerschein Wiedererteilung",
           "F\u00fchrerscheinwesen Erstantrag"
+        ]
+      },
+      "1060": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "KFZ: Ersatzdokumente",
+          "KFZ: Technische \u00c4nderungen am Fahrzeug",
+          "KFZ: Wiederzulassung auf denselben Fahrzeughalter",
+          "KFZ: Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "KFZ: Zulassung eines EU-Neufahrzeuges (Import)",
+          "KFZ: Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "KFZ: Zuteilung von Ausfuhrkennzeichen",
+          "KFZ: \u00c4nderung Wohnanschrift oder Name",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zuteilung eines Kurzzeitkennzeichen"
+        ]
+      },
+      "1061": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1062": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen",
+          "Asyl - Freiwillige R\u00fcckkehr ins Heimatland"
+        ]
+      },
+      "1063": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1064": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1065": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1066": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1067": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
         ]
       },
       "549": {
@@ -29893,6 +29960,27 @@
           "Personalausweis",
           "Reisepass"
         ]
+      },
+      "183": {
+        "name": "Jobcenter M\u00fcnster",
+        "services": [
+          "Beantragung von Arbeitslosengeld 2 (ALG 2)",
+          "Leistungen f\u00fcr Bildung und Teilhabe"
+        ]
+      },
+      "185": {
+        "name": "Jobcenter M\u00fcnster",
+        "services": [
+          "Beantragung von Arbeitslosengeld 2 (ALG 2)",
+          "Leistungen f\u00fcr Bildung und Teilhabe"
+        ]
+      },
+      "186": {
+        "name": "Jobcenter M\u00fcnster",
+        "services": [
+          "Beantragung von Arbeitslosengeld 2 (ALG 2)",
+          "Leistungen f\u00fcr Bildung und Teilhabe"
+        ]
       }
     }
   },
@@ -38671,6 +38759,19 @@
           "Antragstellung f\u00fcr die Neuerrichtung oder \u00dcbernahme einer Gastst\u00e4tte",
           "Beantragung von einem Gewerbezentralregisterauszug",
           "Bearbeitung von Gewerbeanzeigen"
+        ]
+      },
+      "150694": {
+        "name": "Standesamt",
+        "services": [
+          "Ehef\u00e4higkeitszeugnis",
+          "Ehenamensbestimmung nach der Eheschlie\u00dfung \u2028oder nach Eheschlie\u00dfung im Ausland\t",
+          "Hochzeitstermine",
+          "Kirchenaustritt",
+          "Urkunden",
+          "Vaterschaftsanerkennung",
+          "Vornamenssortierung gem\u00e4\u00df \u00a7 45a Personenstandsgesetz",
+          "Wiederannahme eines Namens nach Eheaufl\u00f6sung"
         ]
       },
       "78012": {
