@@ -1048,6 +1048,7 @@
           "Rundfunkgeb\u00fchrenbefreiung",
           "Steueridentifikationsnummer",
           "Untersuchungsberechtigungsschein f\u00fcr Jugendliche",
+          "Verkauf von Souvenirs der Stadt Bergkamen",
           "Verkauf von Werbemitteln der Stadt Bergkamen",
           "Zugangsberechtigung Fahrradstation"
         ]
@@ -4243,6 +4244,12 @@
         "name": "Termin Schnellteststation POC (Schnelltest)",
         "services": [
           "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1077": {
+        "name": "Beglaubigungen",
+        "services": [
+          "Ausweisdokument"
         ]
       },
       "549": {
@@ -10143,6 +10150,126 @@
           "Ummeldung einer Wohnung",
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
+      },
+      "321/1098": {
+        "name": "Au\u00dfenstelle Fechenheim:: Abholung von Dokumenten (Nur separat buchbar!)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
+      "321/2272": {
+        "name": "Au\u00dfenstelle Fechenheim:: Ausweis- und Passbeantragungen (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
+        "services": [
+          "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
+          "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "Personalausweis (Beantragung)",
+          "Reisepass (Beantragung)",
+          "Vorl\u00e4ufiger Personalausweis (Beantragung)",
+          "Vorl\u00e4ufiger Reisepass (Beantragung)",
+          "eID-Karte (Beantragung)"
+        ]
+      },
+      "321/982": {
+        "name": "Au\u00dfenstelle Fechenheim:: Verschiedenes",
+        "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
+          "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
+          "Feinstaubplakette",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauszug (f\u00fcr nat\u00fcrliche Personen)",
+          "Kirchenaustritt",
+          "Melderegisterauskunft",
+          "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "321/987": {
+        "name": "Au\u00dfenstelle Fechenheim:: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
+          "F\u00fchrerschein - Erstantrag / Ersterteilung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
+          "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
+          "Internationaler F\u00fchrerschein"
+        ]
+      },
+      "321/998": {
+        "name": "Au\u00dfenstelle Fechenheim:: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung einer Wohnung",
+          "Anmeldung einer Wohnung",
+          "Meldebescheinigung / Lebensbescheinigung",
+          "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
+      },
+      "324/1098": {
+        "name": "Au\u00dfenstelle Kalbach:: Abholung von Dokumenten (Nur separat buchbar!)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
+      "324/2272": {
+        "name": "Au\u00dfenstelle Kalbach:: Ausweis- und Passbeantragungen (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
+        "services": [
+          "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
+          "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "Personalausweis (Beantragung)",
+          "Reisepass (Beantragung)",
+          "Vorl\u00e4ufiger Personalausweis (Beantragung)",
+          "Vorl\u00e4ufiger Reisepass (Beantragung)",
+          "eID-Karte (Beantragung)"
+        ]
+      },
+      "324/982": {
+        "name": "Au\u00dfenstelle Kalbach:: Verschiedenes",
+        "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
+          "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
+          "Feinstaubplakette",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauszug (f\u00fcr nat\u00fcrliche Personen)",
+          "Kirchenaustritt",
+          "Melderegisterauskunft",
+          "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "324/987": {
+        "name": "Au\u00dfenstelle Kalbach:: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
+          "F\u00fchrerschein - Erstantrag / Ersterteilung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
+          "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
+          "Internationaler F\u00fchrerschein"
+        ]
+      },
+      "324/998": {
+        "name": "Au\u00dfenstelle Kalbach:: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung einer Wohnung",
+          "Anmeldung einer Wohnung",
+          "Meldebescheinigung / Lebensbescheinigung",
+          "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
       }
     }
   },
@@ -13597,7 +13724,9 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
-          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "3. Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c ",
+          "Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c "
         ]
       },
       "74015": {
@@ -13845,7 +13974,9 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
-          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "3. Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c ",
+          "Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c "
         ]
       },
       "74206": {
@@ -13883,7 +14014,9 @@
           "2.0 ABI Beratung Kinderbetreuung",
           "2.1 Verrechnung Schulische Tagesbetreuung",
           "2.2 Verrechnung Kinderkrippe, Kindergarten, Hort",
-          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort"
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "3. Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c ",
+          "Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c "
         ]
       },
       "74208": {
@@ -14355,6 +14488,21 @@
           "Grippe-Impfung unter 65 J.",
           "Grippe-Impfung \u00fcber 65 J.",
           "Impfung"
+        ]
+      },
+      "78469": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "3. Veranstaltung \u201eKinderbetreuung und sonderp\u00e4dagogische F\u00f6rderung\u201c "
         ]
       },
       "78930": {
@@ -22144,6 +22292,7 @@
       "251/2934": {
         "name": "Meldeangelegenheiten",
         "services": [
+          "Abmeldung ins Ausland",
           "Anmeldung in Lippstadt",
           "Ummeldung innerhalb Lippstadts"
         ]
@@ -24899,6 +25048,7 @@
         "name": "Neckarweihingen: Umzug",
         "services": [
           "Abmeldung ins Ausland oder Erkl\u00e4rung Nebenwohnung zur Hauptwohnung",
+          "Abmeldung ins Ausland oder Erkl\u00e4rung \u00fcber Status der Nebenwohnung",
           "Adress-Aufkleber auf Ausweis \u00e4ndern",
           "Anmeldung (Neuzuzug nach Ludwigsburg)",
           "Ummeldung (innerhalb von Ludwigsburg)",
@@ -24943,6 +25093,7 @@
         "name": "Poppenweiler: Umzug",
         "services": [
           "Abmeldung ins Ausland oder Erkl\u00e4rung Nebenwohnung zur Hauptwohnung",
+          "Abmeldung ins Ausland oder Erkl\u00e4rung \u00fcber Status der Nebenwohnung",
           "Adress-Aufkleber auf Ausweis \u00e4ndern",
           "Anmeldung (Neuzuzug nach Ludwigsburg)",
           "Ummeldung (innerhalb von Ludwigsburg)",
@@ -24998,6 +25149,7 @@
         "name": "Stadtmitte: Umzug",
         "services": [
           "Abmeldung ins Ausland oder Erkl\u00e4rung Nebenwohnung zur Hauptwohnung",
+          "Abmeldung ins Ausland oder Erkl\u00e4rung \u00fcber Status der Nebenwohnung",
           "Adress-Aufkleber auf Ausweis \u00e4ndern",
           "Anmeldung (Neuzuzug nach Ludwigsburg)",
           "Ummeldung (innerhalb von Ludwigsburg)",
@@ -26874,6 +27026,28 @@
           "Sterbefall anzeigen"
         ]
       },
+      "125/1078": {
+        "name": "Innenstadt: Parken & Mobilit\u00e4t",
+        "services": [
+          "Aktivierungscode f\u00fcr kostenloses Semesterticket",
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
+      "125/2231": {
+        "name": "F\u00fchrerscheine",
+        "services": [
+          "Begleitetes Fahren ab 17 Jahren",
+          "Beratung bei drohendem Entzug und Neuerteilung nach Entzug",
+          "Beratung in Fahrerlaubnisangelegenheiten und Punktema\u00dfnahmen",
+          "Ersatz und Tausch; \u00c4nderungen Namen und Auflagen",
+          "Erteilung und Erweiterung Pkw und Motorrad",
+          "Erteilung, Erweiterung und Verl\u00e4ngerung Lkw, Bus, Taxi und Mietwagen",
+          "F\u00fchrerschein abholen",
+          "Internationaler F\u00fchrerschein",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis und Dienstfahrerlaubnis"
+        ]
+      },
       "125/2240": {
         "name": "Innenstadt: F\u00fchrerscheinangelegenheiten",
         "services": [
@@ -26898,6 +27072,19 @@
           "eID-Karte"
         ]
       },
+      "125/3331": {
+        "name": "Innenstadt: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "125/3334": {
         "name": "Innenstadt: B\u00fcrgerservice",
         "services": [
@@ -26910,6 +27097,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "125/3335": {
+        "name": "Innenstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "125/3336": {
+        "name": "Innenstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "125/3337": {
@@ -26970,6 +27171,14 @@
           "Sterbefall anzeigen"
         ]
       },
+      "127/1078": {
+        "name": "Waldhof: Parken & Mobilit\u00e4t",
+        "services": [
+          "Aktivierungscode f\u00fcr kostenloses Semesterticket",
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "127/2240": {
         "name": "Waldhof: F\u00fchrerscheinangelegenheiten",
         "services": [
@@ -26997,6 +27206,19 @@
           "eID-Karte"
         ]
       },
+      "127/3331": {
+        "name": "Waldhof: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "127/3334": {
         "name": "Waldhof: B\u00fcrgerservice",
         "services": [
@@ -27009,6 +27231,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "127/3335": {
+        "name": "Waldhof: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "127/3336": {
+        "name": "Waldhof: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "127/3337": {
@@ -27097,6 +27333,19 @@
           "eID-Karte"
         ]
       },
+      "129/3331": {
+        "name": "Neckarau: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "129/3334": {
         "name": "Neckarau: B\u00fcrgerservice",
         "services": [
@@ -27109,6 +27358,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "129/3335": {
+        "name": "Neckarau: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "129/3336": {
+        "name": "Neckarau: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "129/3337": {
@@ -27166,6 +27429,19 @@
           "eID-Karte"
         ]
       },
+      "130/3331": {
+        "name": "Neckarstadt: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "130/3334": {
         "name": "Neckarstadt: B\u00fcrgerservice",
         "services": [
@@ -27178,6 +27454,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "130/3335": {
+        "name": "Neckarstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "130/3336": {
+        "name": "Neckarstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "130/3337": {
@@ -27237,6 +27527,19 @@
           "eID-Karte"
         ]
       },
+      "131/3331": {
+        "name": "Rheinau: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "131/3334": {
         "name": "Rheinau: B\u00fcrgerservice",
         "services": [
@@ -27249,6 +27552,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "131/3335": {
+        "name": "Rheinau: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "131/3336": {
+        "name": "Rheinau: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "131/3337": {
@@ -27308,6 +27625,19 @@
           "eID-Karte"
         ]
       },
+      "132/3331": {
+        "name": "Seckenheim: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "132/3334": {
         "name": "Seckenheim: B\u00fcrgerservice",
         "services": [
@@ -27320,6 +27650,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "132/3335": {
+        "name": "Seckenheim: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "132/3336": {
+        "name": "Seckenheim: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "132/3337": {
@@ -27379,6 +27723,19 @@
           "eID-Karte"
         ]
       },
+      "133/3331": {
+        "name": "Feudenheim: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "133/3334": {
         "name": "Feudenheim: B\u00fcrgerservice",
         "services": [
@@ -27397,6 +27754,7 @@
         "name": "Feudenheim: Meldeangelegenheiten",
         "services": [
           "An- und Abmeldungen eines Haupt- oder Nebenwohnsitzes",
+          "Anmeldung oder Abmeldungen eines Haupt- oder Nebenwohnsitzes",
           "Auskunftssperre",
           "Meldebescheinigung, Lebensbescheinigung",
           "Melderegisterauskunft",
@@ -27439,6 +27797,19 @@
           "eID-Karte"
         ]
       },
+      "134/3331": {
+        "name": "Friedrichsfeld: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "134/3334": {
         "name": "Friedrichsfeld: B\u00fcrgerservice",
         "services": [
@@ -27451,6 +27822,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "134/3335": {
+        "name": "Friedrichsfeld: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "134/3336": {
+        "name": "Friedrichsfeld: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "134/3337": {
@@ -27483,6 +27868,14 @@
           "Sterbefall anzeigen"
         ]
       },
+      "135/1078": {
+        "name": "Lindenhof: Parken & Mobilit\u00e4t",
+        "services": [
+          "Aktivierungscode f\u00fcr kostenloses Semesterticket",
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "135/2240": {
         "name": "Lindenhof: F\u00fchrerscheinangelegenheiten",
         "services": [
@@ -27510,6 +27903,19 @@
           "eID-Karte"
         ]
       },
+      "135/3331": {
+        "name": "Lindenhof: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "135/3334": {
         "name": "Lindenhof: B\u00fcrgerservice",
         "services": [
@@ -27522,6 +27928,20 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "135/3335": {
+        "name": "Lindenhof: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "135/3336": {
+        "name": "Lindenhof: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "135/3337": {
@@ -27560,6 +27980,26 @@
           "Zulassung fabrikneuer PKW",
           "Zulassung fabrikneuer Pkw",
           "Zulassung fabrikneues KfZ mit unvollst\u00e4ndiger ZB II",
+          "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
+          "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
+          "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
+        ]
+      },
+      "135/3351": {
+        "name": "Kfz-Zulassungen",
+        "services": [
+          "Dauerrote Kfz-Kennzeichen",
+          "Ersatz Kfz-Kennzeichen",
+          "Ersatz ZB I / \u00c4nderung der Anschrift in ZB I",
+          "Feinstaubplakette oder Besiegelung defekter Kfz-Kennzeichen",
+          "Kfz Abmeldung",
+          "Namens\u00e4nderung in ZBI /ZB II",
+          "Umkennzeichnung Kfz-Kennzeichen",
+          "Verlust / Ersatz ZB II",
+          "Zulassung Gebrauchtfahrzeug",
+          "Zulassung Importfahrzeug",
+          "Zulassung fabrikneue sonstige Kfz (z.B. Anh\u00e4nger, Quad, Motorrad, Lkw, Wohnmobil",
+          "Zulassung fabrikneuer Pkw",
           "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
           "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
@@ -27609,6 +28049,19 @@
           "eID-Karte"
         ]
       },
+      "136/3331": {
+        "name": "Neuhermsheim: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "136/3334": {
         "name": "Neuhermsheim: B\u00fcrgerservice",
         "services": [
@@ -27623,10 +28076,18 @@
           "Schwerbehindertenparkausweis"
         ]
       },
+      "136/3336": {
+        "name": "Neuhermsheim: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
       "136/3337": {
         "name": "Neuhermsheim: Meldeangelegenheiten",
         "services": [
           "An- und Abmeldungen eines Haupt- oder Nebenwohnsitzes",
+          "Anmeldung oder Abmeldungen eines Haupt- oder Nebenwohnsitzes",
           "Auskunftssperre",
           "Meldebescheinigung, Lebensbescheinigung",
           "Melderegisterauskunft",
@@ -27698,6 +28159,19 @@
           "eID-Karte"
         ]
       },
+      "137/3331": {
+        "name": "Sandhofen: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "137/3334": {
         "name": "Sandhofen: B\u00fcrgerservice",
         "services": [
@@ -27712,10 +28186,18 @@
           "Schwerbehindertenparkausweis"
         ]
       },
+      "137/3336": {
+        "name": "Sandhofen: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
       "137/3337": {
         "name": "Sandhofen: Meldeangelegenheiten",
         "services": [
           "An- und Abmeldungen eines Haupt- oder Nebenwohnsitzes",
+          "Anmeldung oder Abmeldungen eines Haupt- oder Nebenwohnsitzes",
           "Auskunftssperre",
           "Meldebescheinigung, Lebensbescheinigung",
           "Melderegisterauskunft",
@@ -27768,6 +28250,19 @@
           "eID-Karte"
         ]
       },
+      "138/3331": {
+        "name": "Sch\u00f6nau: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "138/3334": {
         "name": "Sch\u00f6nau: B\u00fcrgerservice",
         "services": [
@@ -27780,6 +28275,13 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "138/3336": {
+        "name": "Sch\u00f6nau: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "138/3337": {
@@ -27838,6 +28340,19 @@
           "eID-Karte"
         ]
       },
+      "139/3331": {
+        "name": "Vogelstang: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "139/3334": {
         "name": "Vogelstang: B\u00fcrgerservice",
         "services": [
@@ -27850,6 +28365,13 @@
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Mannheimer Familienpass, Landesfamilienpass, Sozialpass",
           "Schwerbehindertenparkausweis"
+        ]
+      },
+      "139/3336": {
+        "name": "Vogelstang: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
         ]
       },
       "139/3337": {
@@ -27909,6 +28431,19 @@
           "eID-Karte"
         ]
       },
+      "140/3331": {
+        "name": "Wallstadt: Ausweise, P\u00e4sse & sonstige Dokumente",
+        "services": [
+          "Adress\u00e4nderung auf Dokumenten",
+          "Amtliche Beglaubigung, Unterschriftenbeglaubigung",
+          "F\u00fchrungszeugnis, Gewerbezentralregisterauszug",
+          "Kinderreisepass",
+          "Kl\u00e4rung von Vorg\u00e4ngen aufgrund Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Personalausweis, vorl\u00e4ufiger Personalausweis",
+          "Reisepass, Expressreisepass, vorl\u00e4ufiger Reisepass",
+          "eID-Karte"
+        ]
+      },
       "140/3334": {
         "name": "Wallstadt: B\u00fcrgerservice",
         "services": [
@@ -27923,6 +28458,20 @@
           "Schwerbehindertenparkausweis"
         ]
       },
+      "140/3335": {
+        "name": "Wallstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
+      "140/3336": {
+        "name": "Wallstadt: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
       "140/3337": {
         "name": "Wallstadt: Meldeangelegenheiten",
         "services": [
@@ -27933,6 +28482,28 @@
           "Melderegisterauskunft",
           "Standesamtliche \u00c4nderung im Melderegister",
           "Steuer-ID"
+        ]
+      },
+      "579/1066": {
+        "name": "Innenstadt: Standesamt",
+        "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
+          "Ehef\u00e4higkeitszeugnis",
+          "Kirchenaustritt",
+          "Namens\u00e4nderung",
+          "Standesamtliche Urkunde",
+          "Sterbefall anzeigen"
+        ]
+      },
+      "579/8273": {
+        "name": "Standesamt",
+        "services": [
+          "Anmeldung einer Eheschlie\u00dfung",
+          "Ehef\u00e4higkeitszeugnis",
+          "Kirchenaustritt",
+          "Namens\u00e4nderung",
+          "Standesamtliche Urkunde",
+          "Sterbefall anzeigen"
         ]
       }
     }
@@ -36256,8 +36827,10 @@
           "Ersatz-Zulassungsbescheinigung Teil II (Fahrzeugbrief) Beantragung oder Ausstell",
           "Freiwillige Zulassung E-Roller",
           "Kopie von Neuzulassung (fabrikneues Fahrzeug)",
+          "Kopie von Umkennzeichnung (Kennzeichenwechsel gleicher Halter, gleiches Fahrzeug",
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
+          "Test   1",
           "Umkennzeichnung",
           "Umkennzeichnung (Kennzeichenwechsel gleicher Halter, gleiches Fahrzeug)",
           "Umschreibung Gebrauchtfahrzeug (auf anderen Halter)",
@@ -36341,8 +36914,10 @@
           "Ersatz-Zulassungsbescheinigung Teil II (Fahrzeugbrief) Beantragung oder Ausstell",
           "Freiwillige Zulassung E-Roller",
           "Kopie von Neuzulassung (fabrikneues Fahrzeug)",
+          "Kopie von Umkennzeichnung (Kennzeichenwechsel gleicher Halter, gleiches Fahrzeug",
           "Neusiegelung Kennzeichen",
           "Neuzulassung (fabrikneues Fahrzeug)",
+          "Test   1",
           "Umkennzeichnung",
           "Umkennzeichnung (Kennzeichenwechsel gleicher Halter, gleiches Fahrzeug)",
           "Umschreibung Gebrauchtfahrzeug (auf anderen Halter)",
