@@ -4249,7 +4249,8 @@
       "1077": {
         "name": "Beglaubigungen",
         "services": [
-          "Ausweisdokument"
+          "Ausweisdokument",
+          "Zeugnis"
         ]
       },
       "549": {
@@ -10211,6 +10212,66 @@
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
+      "323/1098": {
+        "name": "Au\u00dfenstelle Harheim:: Abholung von Dokumenten (Nur separat buchbar!)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines F\u00fchrerscheins",
+          "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
+      "323/2272": {
+        "name": "Au\u00dfenstelle Harheim:: Ausweis- und Passbeantragungen (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
+        "services": [
+          "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
+          "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
+          "Personalausweis (Beantragung)",
+          "Reisepass (Beantragung)",
+          "Vorl\u00e4ufiger Personalausweis (Beantragung)",
+          "Vorl\u00e4ufiger Reisepass (Beantragung)",
+          "eID-Karte (Beantragung)"
+        ]
+      },
+      "323/982": {
+        "name": "Au\u00dfenstelle Harheim:: Verschiedenes",
+        "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
+          "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
+          "Feinstaubplakette",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauszug (f\u00fcr nat\u00fcrliche Personen)",
+          "Kirchenaustritt",
+          "Melderegisterauskunft",
+          "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "323/987": {
+        "name": "Au\u00dfenstelle Harheim:: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
+          "F\u00fchrerschein - Erstantrag / Ersterteilung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
+          "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
+          "Internationaler F\u00fchrerschein"
+        ]
+      },
+      "323/998": {
+        "name": "Au\u00dfenstelle Harheim:: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung einer Wohnung",
+          "Anmeldung einer Wohnung",
+          "Meldebescheinigung / Lebensbescheinigung",
+          "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
+          "Ummeldung einer Wohnung",
+          "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
+        ]
+      },
       "324/1098": {
         "name": "Au\u00dfenstelle Kalbach:: Abholung von Dokumenten (Nur separat buchbar!)",
         "services": [
@@ -11439,6 +11500,7 @@
           "Personalausweis (auch vorl\u00e4ufig) und Reisepass beantragen",
           "Personalausweis beantragen",
           "Personalausweis beantragen - vorl\u00e4ufig",
+          "Personalausweis und Reisepass beantragen",
           "Personenbef\u00f6rderungsschein (Fahrgastbef\u00f6rderung)",
           "Reisepass beantragen",
           "Schl\u00fcsselzahl 96, 196 oder 197",
@@ -24743,6 +24805,67 @@
         "services": [
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
+      },
+      "644": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "645": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "646": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "653": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "656": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "658": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "659": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "660": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "661": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
       }
     }
   },
@@ -27009,6 +27132,13 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=36",
     "locations": {
+      "125/1040": {
+        "name": "Innenstadt: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "125/1066": {
         "name": "Innenstadt: Standesamt",
         "services": [
@@ -27288,6 +27418,13 @@
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
         ]
       },
+      "129/1040": {
+        "name": "Neckarau: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "129/1066": {
         "name": "Neckarau: Standesamt",
         "services": [
@@ -27386,6 +27523,13 @@
           "Steuer-ID"
         ]
       },
+      "130/1040": {
+        "name": "Neckarstadt: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "130/1066": {
         "name": "Neckarstadt: Standesamt",
         "services": [
@@ -27480,6 +27624,13 @@
           "Melderegisterauskunft",
           "Standesamtliche \u00c4nderung im Melderegister",
           "Steuer-ID"
+        ]
+      },
+      "131/1040": {
+        "name": "Rheinau: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
         ]
       },
       "131/1066": {
@@ -27762,6 +27913,13 @@
           "Steuer-ID"
         ]
       },
+      "134/1040": {
+        "name": "Friedrichsfeld: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
+        ]
+      },
       "134/1066": {
         "name": "Friedrichsfeld: Standesamt",
         "services": [
@@ -27848,6 +28006,13 @@
           "Melderegisterauskunft",
           "Standesamtliche \u00c4nderung im Melderegister",
           "Steuer-ID"
+        ]
+      },
+      "135/1040": {
+        "name": "Lindenhof: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
         ]
       },
       "135/1066": {
@@ -28003,6 +28168,13 @@
           "Zulassung fabrikneues Kfz mit unvollst\u00e4ndiger ZB II",
           "Zulassung mit Sonder-, Ausfuhr-, Kurzzeit-, Saison-, Oldtimerkennzeichen",
           "Zulassung mit technischem Gutachten oder Eintrag technischer \u00c4nderungen"
+        ]
+      },
+      "136/1040": {
+        "name": "Neuhermsheim: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
         ]
       },
       "136/1066": {
@@ -28294,6 +28466,13 @@
           "Melderegisterauskunft",
           "Standesamtliche \u00c4nderung im Melderegister",
           "Steuer-ID"
+        ]
+      },
+      "139/1040": {
+        "name": "Vogelstang: Aktivierungscode f\u00fcr kostenloses Semesterticket",
+        "services": [
+          "Bewohnerparkausweis",
+          "Schwerbehindertenparkausweis"
         ]
       },
       "139/1066": {
@@ -33457,6 +33636,7 @@
       "297/3899": {
         "name": "Amtliche Bescheinigungen",
         "services": [
+          "Melde-/Lebensbescheinigung (auch online verf\u00fcgbar) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Melde-/Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Selbstauskunft Steuer-ID 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte4\u00a0\u00a0 Ausk\u00fcnfte5\u00a0\u00a0 Ausk\u00fcnfte",
           "Untersuchungsberechtigungsschein 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen"
@@ -33470,7 +33650,9 @@
           "Beglaubigung 01\u00a0\u00a0 Seite2\u00a0\u00a0 Seiten3\u00a0\u00a0 Seiten4\u00a0\u00a0 Seiten5\u00a0\u00a0 Seiten6\u00a0\u00a0 Seiten7\u00a0\u00a0 Seiten8\u00a0\u00a0 Seiten",
           "Fischereischein Neuaustellung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
+          "F\u00fchrungszeugnis (auch online verf\u00fcgbar) 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse",
           "F\u00fchrungszeugnis 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "Melderegisterauskunft (auch online verf\u00fcgbar) 01\u00a0\u00a0 Melderegisterauskunft",
           "Melderegisterauskunft 01\u00a0\u00a0 Melderegisterauskunft",
           "Restm\u00fcllsack Erwerb 01\u00a0\u00a0 M\u00fcllsack",
           "Restm\u00fcllsack Erwerb 01\u00a0\u00a0 M\u00fcllsack2\u00a0\u00a0 M\u00fclls\u00e4cke3\u00a0\u00a0 M\u00fclls\u00e4cke4\u00a0\u00a0 M\u00fclls\u00e4cke5\u00a0\u00a0 M\u00fclls\u00e4cke6\u00a0\u00a0 M\u00fclls\u00e4cke7\u00a0\u00a0 M\u00fclls\u00e4cke8\u00a0\u00a0 M\u00fclls\u00e4cke9\u00a0\u00a0 M\u00fclls\u00e4cke10\u00a0\u00a0 M\u00fclls\u00e4cke",
@@ -39614,6 +39796,7 @@
           "Ortshygiene bei Befall (Vororttermine mit Sch\u00e4dlingsbek\u00e4mpfer) ",
           "Regelaltersrente",
           "Rente wegen Erwerbsminderung",
+          "Rentenangelegenheiten (auch Kontenkl\u00e4rung und Kindererziehungszeiten)",
           "Schulsozialarbeit",
           "Waisenrente",
           "Witwenrente / Witwerrente",
