@@ -4253,6 +4253,138 @@
           "Zeugnis"
         ]
       },
+      "1079": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "KFZ: Ersatzdokumente",
+          "KFZ: Technische \u00c4nderungen am Fahrzeug",
+          "KFZ: Wiederzulassung auf denselben Fahrzeughalter",
+          "KFZ: Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "KFZ: Zulassung eines EU-Neufahrzeuges (Import)",
+          "KFZ: Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "KFZ: Zuteilung von Ausfuhrkennzeichen",
+          "KFZ: \u00c4nderung Wohnanschrift oder Name",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zuteilung eines Kurzzeitkennzeichen"
+        ]
+      },
+      "1080": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1081": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen",
+          "Asyl - Freiwillige R\u00fcckkehr ins Heimatland"
+        ]
+      },
+      "1082": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1083": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1084": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1085": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1086": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
+      "1088": {
+        "name": "KFZ-Zulassung",
+        "services": [
+          "Ausserbetriebsetzung",
+          "KFZ: Ersatzdokumente",
+          "KFZ: Technische \u00c4nderungen am Fahrzeug",
+          "KFZ: Wiederzulassung auf denselben Fahrzeughalter",
+          "KFZ: Zulassung bzw Ummeldung Gebrauchtfahrzeug",
+          "KFZ: Zulassung eines EU-Neufahrzeuges (Import)",
+          "KFZ: Zulassung eines gebrauchten EU-Fahrzeuges (Import)",
+          "KFZ: Zuteilung von Ausfuhrkennzeichen",
+          "KFZ: \u00c4nderung Wohnanschrift oder Name",
+          "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zuteilung eines Kurzzeitkennzeichen"
+        ]
+      },
+      "1089": {
+        "name": "B\u00fcrgerb\u00fcro, Bildung + Teilhabe, F\u00fchrerscheinwesen",
+        "services": [
+          "Bildung und Teilhabe",
+          "F\u00fchrerscheinwesen"
+        ]
+      },
+      "1090": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Antr\u00e4ge auf Umverteilung von Asylbewerbern",
+          "Asyl - Erteilung Niederlassungserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis aus sonstigen humanit\u00e4ren Gr\u00fcnden",
+          "Asyl - Erteilung/Verl\u00e4ngerung von Duldungen",
+          "Asyl - Freiwillige R\u00fcckkehr ins Heimatland"
+        ]
+      },
+      "1091": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung Aufenthaltserlaubnis nach Asylanerkennung"
+        ]
+      },
+      "1092": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke der Berufsausbildung",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Besuchs eines Sprachkurses",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Schulbesuchs",
+          "Ausbildung - Erteilung Aufenthaltserlaubnis zum Zwecke des Studiums"
+        ]
+      },
+      "1093": {
+        "name": "Ausl\u00e4nderangelegenheiten",
+        "services": [
+          "Asyl - Erteilung/Verl\u00e4ngerung von Aufenthaltsgestattungen"
+        ]
+      },
+      "1094": {
+        "name": "Termin Schnellteststation PCR",
+        "services": [
+          "PCR Test Termin Schnellteststation"
+        ]
+      },
+      "1095": {
+        "name": "Termin Schnellteststation POC (Schnelltest)",
+        "services": [
+          "POC (Schnelltests)Termin Schnellteststation"
+        ]
+      },
       "549": {
         "name": "KFZ-Zulassung",
         "services": [
@@ -8776,6 +8908,7 @@
         "services": [
           "Abmeldung",
           "Anmeldung (Zuzug von au\u00dferhalb)",
+          "Anmeldung - Zuzug aus dem Ausland",
           "Anmeldung - Zuzug aus dem Ausland (ACHTUNG! Quarant\u00e4nevorschriften beachten)",
           "Meldebescheinigung",
           "Melderegisterauskunft",
@@ -20307,6 +20440,7 @@
           "Saisonzeitraum eintragen/\u00e4ndern/austragen (gleicher Halter, gleiches Kfz)",
           "Umkennzeichnung eines Kfz (bei Diebstahl/Verlust/auf Wunsch; Eintrag E/H)",
           "Ummeldung eines Kfz aus dem Kreis Unna",
+          "Ummeldung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "Verlust oder Diebstahl ZB I (Fahrzeugschein)",
           "Verlust oder Diebstahl ZB II (Fahrzeugbrief)",
           "Zulassung gebrauchtes Kfz aus dem Ausland",
@@ -20352,6 +20486,7 @@
           "Saisonzeitraum eintragen/\u00e4ndern/austragen (gleicher Halter, gleiches Kfz)",
           "Umkennzeichnung eines Kfz (bei Diebstahl/Verlust/auf Wunsch; Eintrag E/H)",
           "Ummeldung eines Kfz aus dem Kreis Unna",
+          "Ummeldung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "Verlust oder Diebstahl ZB I (Fahrzeugschein)",
           "Verlust oder Diebstahl ZB II (Fahrzeugbrief)",
           "Zulassung gebrauchtes Kfz aus dem Ausland",
@@ -20695,6 +20830,12 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/StadtLehrte",
     "locations": {
+      "152447": {
+        "name": "Standesamt",
+        "services": [
+          "Kirchenaustritt"
+        ]
+      },
       "81423": {
         "name": "B\u00fcrgerb\u00fcro - Meldewesen",
         "services": [
@@ -28682,7 +28823,8 @@
           "Kirchenaustritt",
           "Namens\u00e4nderung",
           "Standesamtliche Urkunde",
-          "Sterbefall anzeigen"
+          "Sterbefall anzeigen",
+          "Sterbefallanzeige"
         ]
       }
     }
@@ -36662,6 +36804,12 @@
         "services": [
           "Au\u00dferbetriebsetzung"
         ]
+      },
+      "256": {
+        "name": "AutoService",
+        "services": [
+          "Umtausch eines F\u00fchrerscheins"
+        ]
       }
     }
   },
@@ -37199,6 +37347,7 @@
         "name": "Ausweisangelegenheiten",
         "services": [
           "Abholung des neu ausgestellten Personalausweises/Reisepasses/Kinderreisepasses 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Beantragung eines Kindereisepasses (nur f\u00fcr Kinder unter 12 Jahren) 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Beantragung eines Kindereisepasses (nur f\u00fcr Kinder unter 12 Jahren) Neuausstellu 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Beantragung eines Personalausweises",
           "Beantragung eines Reisepasses/Expressreisepasses 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
