@@ -1,219 +1,219 @@
 source_id,num_locations,num_snapshots,num_changes,num_appointments,num_cancellations,min_date,max_date,scraper,name
 amberg,11,38788,21148,7371,1549,2021-07-26 00:03:02,2022-09-23 11:33:09,tevis,Stadt Amberg
-ansbach,3,30404,11009,7645,1837,2021-10-04 00:03:08,2022-12-11 23:48:05,tempus,Stadt Ansbach
-badkreuznach,4,41554,26827,13328,4658,2021-07-26 00:03:10,2022-12-11 23:48:04,tevis,Stadt Bad-Kreuznach
-badwaldsee,5,37617,32409,10201,1724,2021-10-04 00:03:08,2022-12-11 23:48:08,tempus,Stadt Bad Waldsee
-bbmess,2,30321,3506,1733,399,2021-07-26 00:03:02,2022-12-09 15:33:05,etermin,Landesamt für Mess- und Eichwesen Berlin-Brandenburg
-beckum,10,37615,53474,21701,5087,2021-10-04 00:03:14,2022-12-11 23:48:13,tempus,Stadt Beckum
-beckumschwimm,1,37619,336,12,0,2021-10-04 00:03:09,2022-12-11 23:48:07,tempus,Stadt Beckum Schwimmbäder
-bergischgladbach,4,37618,56387,25329,21136,2021-10-04 00:03:14,2022-12-11 23:48:13,tempus,Stadt Bergisch Gladbach
-bergkamen,7,37615,77706,35628,20846,2021-10-04 00:03:23,2022-12-11 23:48:24,tempus,Stadt Bergkamen
+ansbach,3,31076,11154,7737,1854,2021-10-04 00:03:08,2022-12-18 23:48:06,tempus,Stadt Ansbach
+badkreuznach,4,42226,27328,13595,4758,2021-07-26 00:03:10,2022-12-18 23:48:03,tevis,Stadt Bad-Kreuznach
+badwaldsee,5,38289,32842,10317,1745,2021-10-04 00:03:08,2022-12-18 23:48:08,tempus,Stadt Bad Waldsee
+bbmess,2,30347,3508,1733,399,2021-07-26 00:03:02,2022-12-14 08:18:05,etermin,Landesamt für Mess- und Eichwesen Berlin-Brandenburg
+beckum,10,38287,54379,21975,5154,2021-10-04 00:03:14,2022-12-18 23:48:13,tempus,Stadt Beckum
+beckumschwimm,1,38291,342,12,0,2021-10-04 00:03:09,2022-12-18 23:48:07,tempus,Stadt Beckum Schwimmbäder
+bergischgladbach,4,38290,57396,25792,21392,2021-10-04 00:03:14,2022-12-18 23:48:13,tempus,Stadt Bergisch Gladbach
+bergkamen,7,38287,79239,36118,21131,2021-10-04 00:03:23,2022-12-18 23:48:23,tempus,Stadt Bergkamen
 bernkastelwittlich,3,33384,20312,12976,5679,2021-07-26 00:03:17,2022-09-14 13:48:06,tevis,Landkreis Bernkastel-Wittlich
-bielefeldaus,1,25329,6054,3206,895,2021-10-04 12:03:10,2022-12-11 23:48:08,tempus,Stadt Bielefeld Ausländerbehörde
-bielefeldbb,30,37615,385019,285813,96517,2021-10-04 00:03:46,2022-12-11 23:48:49,tempus,Stadt Bielefeld Bürgerberatung
-bielefeldfe,6,37619,48470,31190,6386,2021-10-04 00:03:27,2022-12-11 23:48:27,tempus,Stadt Bielefeld Fahrerlaubnisbehörde
-bielefeldkfz,1,37621,14274,8713,3426,2021-10-04 00:03:10,2022-12-11 23:48:08,tempus,Stadt Bielefeld Kfz-Zulassungsbehörde
-bielefeldsa,4,35256,6615,3030,798,2021-10-04 00:03:48,2022-12-11 23:48:51,tempus,Stadt Bielefeld Standesamt
-billerbeck,2,44264,9055,6313,439,2021-07-26 00:03:04,2022-12-11 23:48:20,etermin,Stadt Billerbeck Verwaltung
-blankenburg,2,44317,6529,5315,206,2021-07-26 00:03:04,2022-12-11 23:48:23,etermin,Stadt Blankenburg (Harz)
+bielefeldaus,1,25674,6201,3288,924,2021-10-04 12:03:10,2022-12-18 08:03:09,tempus,Stadt Bielefeld Ausländerbehörde
+bielefeldbb,30,38287,392069,290933,97958,2021-10-04 00:03:46,2022-12-18 23:48:43,tempus,Stadt Bielefeld Bürgerberatung
+bielefeldfe,6,38291,49212,31645,6446,2021-10-04 00:03:27,2022-12-18 23:48:26,tempus,Stadt Bielefeld Fahrerlaubnisbehörde
+bielefeldkfz,1,38293,14530,8848,3498,2021-10-04 00:03:10,2022-12-18 23:48:08,tempus,Stadt Bielefeld Kfz-Zulassungsbehörde
+bielefeldsa,4,35928,6727,3064,808,2021-10-04 00:03:48,2022-12-18 23:48:44,tempus,Stadt Bielefeld Standesamt
+billerbeck,2,44932,9186,6414,443,2021-07-26 00:03:04,2022-12-18 23:48:18,etermin,Stadt Billerbeck Verwaltung
+blankenburg,2,44988,6604,5363,207,2021-07-26 00:03:04,2022-12-18 23:48:21,etermin,Stadt Blankenburg (Harz)
 bochum,7,2016,1035,0,0,2021-10-04 00:03:35,2021-11-07 23:48:37,tempus,Stadt Bochum
 bochumbau,1,14225,564,204,91,2021-10-04 00:03:13,2022-04-24 23:48:02,netappoint,Stadt Bochum Baubürgeramt
 bochumkfz,1,6481,4106,3720,1650,2021-10-04 00:03:26,2022-01-30 23:48:20,netappoint,Stadt Bochum Büro für Kfz-Angelegenheiten
-bochumsw,1,37344,476,27,76,2021-10-04 00:03:11,2022-12-11 23:48:09,tempus,Stadtwerke Bochum
+bochumsw,1,38016,499,28,81,2021-10-04 00:03:11,2022-12-18 23:48:09,tempus,Stadtwerke Bochum
 bochumzl,1,9158,611,372,195,2021-10-04 00:03:03,2022-02-27 23:48:04,netappoint,Stadt Bochum Zulassungsstelle
 bochumzl2,1,9156,547,258,29,2021-10-04 00:03:03,2022-02-27 23:48:16,netappoint,Stadt Bochum Zulassungsstelle Umtausch
-boenen,6,36858,22881,14308,4275,2021-10-04 00:03:53,2022-12-11 23:48:57,tempus,Gemeinde Bönen
-bonn,3,45594,50031,37964,14431,2021-07-12 00:03:33,2022-12-11 23:48:52,netappoint,Stadt Bonn
-bonnbau,1,45637,1974,210,7,2021-07-12 00:03:38,2022-12-11 23:48:23,netappoint,Stadt Bonn Bauamt
-bonnjob,3,42271,9017,484,1338,2021-07-26 00:03:05,2022-12-11 23:48:25,etermin,Jobcenter Bonn
-braunschweig,16,37275,68872,34219,13270,2021-10-04 00:03:49,2022-12-11 23:49:11,netappoint,Stadt Braunschweig
+boenen,6,37530,23233,14482,4348,2021-10-04 00:03:53,2022-12-18 23:48:50,tempus,Gemeinde Bönen
+bonn,3,46266,50716,38470,14631,2021-07-12 00:03:33,2022-12-18 23:48:50,netappoint,Stadt Bonn
+bonnbau,1,46309,2024,219,7,2021-07-12 00:03:38,2022-12-18 23:48:22,netappoint,Stadt Bonn Bauamt
+bonnjob,3,42943,9118,486,1338,2021-07-26 00:03:05,2022-12-18 23:48:23,etermin,Jobcenter Bonn
+braunschweig,16,37916,70622,35066,13677,2021-10-04 00:03:49,2022-12-18 23:49:08,netappoint,Stadt Braunschweig
 braunschweigtest,1,637,59,20,1,2021-07-26 00:03:05,2021-08-01 15:03:18,etermin,Corona Test Braunschweig
 bremen,52,23907,107124,65431,30544,2021-10-04 00:04:35,2022-07-24 23:51:02,tevis,Stadt Bremen / Bremerhaven
-burgendlandkaa,1,44335,1048,36,2,2021-07-26 00:03:06,2022-12-11 23:48:26,etermin,Kammer für Arbeiter und Angestellte für das Burgenland
-burscheid,5,37617,41982,19951,8466,2021-10-04 00:03:40,2022-12-11 23:48:31,tempus,Stadt Burscheid
-butzbach,2,44325,12797,9328,727,2021-07-26 00:03:06,2022-12-11 23:48:31,etermin,Magistrat der Stadt Butzbach
-cochemzell,12,41637,29431,9808,4514,2021-07-26 00:03:27,2022-12-11 23:48:08,tevis,Landkreis Cochem-Zell
-coesfeld,2,44326,4927,755,79,2021-07-26 00:03:07,2022-12-11 23:48:34,etermin,Stadt Coesfeld
+burgendlandkaa,1,45007,1064,36,2,2021-07-26 00:03:06,2022-12-18 23:48:24,etermin,Kammer für Arbeiter und Angestellte für das Burgenland
+burscheid,5,38289,42784,20363,8619,2021-10-04 00:03:40,2022-12-18 23:48:31,tempus,Stadt Burscheid
+butzbach,2,44996,12984,9457,737,2021-07-26 00:03:06,2022-12-18 23:48:28,etermin,Magistrat der Stadt Butzbach
+cochemzell,12,42309,29814,9924,4574,2021-07-26 00:03:27,2022-12-18 23:48:07,tevis,Landkreis Cochem-Zell
+coesfeld,2,44997,4998,759,79,2021-07-26 00:03:07,2022-12-18 23:48:31,etermin,Stadt Coesfeld
 dachau,4,27790,20130,12582,6469,2021-10-04 00:03:02,2022-09-01 16:03:03,tevis,Landratsamt Dachau
 daunvg,1,14110,474,272,23,2021-07-26 00:03:07,2022-04-05 08:48:35,etermin,Verbandsgemeindeverwaltung Daun
 deggendorf,6,32299,32263,21409,3502,2021-10-04 00:03:30,2022-10-27 07:48:47,etermin,Landratsamt Deggendorf
 dormagen,2,10287,500,181,10,2021-07-26 08:18:09,2022-09-21 15:48:49,etermin,Stadt Dormagen
-dresden,3,45570,6356,3068,838,2021-07-12 00:03:49,2022-12-11 23:48:12,netappoint,Stadt Dresden
-dresdenkfz,5,45568,42736,25216,6795,2021-07-12 00:04:05,2022-12-11 23:48:24,netappoint,Stadt Dresden Kfz-Zulassungsbehörde
-duelmen,8,44238,32974,19988,2314,2021-07-26 00:03:22,2022-12-11 23:49:26,etermin,Stadt Dülmen
-ebersfeldwsw,2,37617,7714,1092,419,2021-10-04 00:03:14,2022-12-11 23:48:11,tempus,Stadtwerke Ebersfeld
+dresden,3,46242,6450,3101,845,2021-07-12 00:03:49,2022-12-18 23:48:11,netappoint,Stadt Dresden
+dresdenkfz,5,46240,43424,25581,6888,2021-07-12 00:04:05,2022-12-18 23:48:22,netappoint,Stadt Dresden Kfz-Zulassungsbehörde
+duelmen,8,44909,33301,20128,2325,2021-07-26 00:03:22,2022-12-18 23:49:00,etermin,Stadt Dülmen
+ebersfeldwsw,2,38289,7829,1109,439,2021-10-04 00:03:14,2022-12-18 23:48:11,tempus,Stadtwerke Ebersfeld
 egelsbach,3,3503,575,80,37,2021-07-12 00:04:06,2021-08-17 14:33:04,tevis,Stadt Egelsbach
-eislingen,7,41597,20800,4600,3370,2021-07-26 00:03:50,2022-12-11 23:48:10,tevis,Stadt Eislingen
+eislingen,7,42269,21054,4624,3380,2021-07-26 00:03:50,2022-12-18 23:48:09,tevis,Stadt Eislingen
 elitheratest,1,458,47,10,9,2021-07-26 00:03:22,2021-07-31 10:03:50,etermin,Corona TESTZENTRUM im Elithera
-eschwege,4,37204,7903,1744,1248,2021-10-04 00:03:57,2022-12-11 23:49:01,tempus,Stadt Eschwege
-essen,22,33681,109507,48079,36119,2021-10-04 00:04:18,2022-12-11 23:48:48,tempus,Stadt Essen Bürgeramt
+eschwege,4,37876,8000,1771,1252,2021-10-04 00:03:57,2022-12-18 23:48:52,tempus,Stadt Eschwege
+essen,22,34344,112863,49503,37436,2021-10-04 00:04:18,2022-12-18 23:48:37,tempus,Stadt Essen Bürgeramt
 essenborbeckkfz,4,9188,10050,6251,2200,2021-10-04 00:03:44,2022-03-10 16:33:19,tempus,Kfz.-Zulassungs- u. Fahrerlaubnisbehörde Essen-Borbeck
-essenfa,5,35156,25665,16226,4458,2021-10-04 00:04:03,2022-12-11 23:49:08,tempus,Stadt Essen Fahrerlaubnisbehörde
+essenfa,5,35379,26119,16485,4535,2021-10-04 00:04:03,2022-12-18 23:49:00,tempus,Stadt Essen Fahrerlaubnisbehörde
 essenkfz,6,33418,42557,26589,16353,2021-10-04 00:03:59,2022-10-30 23:48:38,tempus,Stadt Essen Kfz.-Zulassungsbehörde
-essensoze,1,37541,3981,2153,320,2021-10-04 00:04:20,2022-12-11 23:48:12,tempus,Stadt Essen Elterngeld
-essensozw,1,37540,3176,1702,350,2021-10-04 00:04:04,2022-12-11 23:49:09,tempus,Stadt Essen Wohngeld
-evo,16,37618,5322,733,132,2021-10-04 00:03:30,2022-12-11 23:49:03,tempus,EVO ServicePunkt
+essensoze,1,38212,4060,2186,329,2021-10-04 00:04:20,2022-12-18 23:48:12,tempus,Stadt Essen Elterngeld
+essensozw,1,38212,3248,1728,364,2021-10-04 00:04:04,2022-12-18 23:49:01,tempus,Stadt Essen Wohngeld
+evo,16,38290,5410,737,132,2021-10-04 00:03:30,2022-12-18 23:48:52,tempus,EVO ServicePunkt
 frankenthal,4,28199,9700,5129,2259,2021-07-26 00:03:57,2022-07-14 10:19:14,tevis,Stadt Frankenthal
 frankfurt,15,3507,9012,3608,2897,2021-07-12 00:04:11,2021-08-17 14:33:14,tevis,Stadt Frankfurt
-frankfurtba,28,33738,221309,96827,87814,2021-10-04 00:19:28,2022-12-11 23:48:49,tempus,Stadt Frankfurt am Main Bürgeramt
-freiberg,3,37590,14031,9119,3583,2021-10-04 00:03:47,2022-12-11 23:49:11,tempus,Stadt Freiberg
-freising,3,37616,25959,15921,3839,2021-10-04 00:03:32,2022-12-11 23:49:07,tempus,Stadt Freising
+frankfurtba,28,34410,230120,100685,91397,2021-10-04 00:19:28,2022-12-18 23:48:54,tempus,Stadt Frankfurt am Main Bürgeramt
+freiberg,3,38262,14241,9254,3628,2021-10-04 00:03:47,2022-12-18 23:49:03,tempus,Stadt Freiberg
+freising,3,38288,26470,16263,3922,2021-10-04 00:03:32,2022-12-18 23:48:56,tempus,Stadt Freising
 friedrichsdorf,11,3507,2509,462,129,2021-07-12 00:04:13,2021-08-17 14:33:19,tevis,Stadt Friedrichsdorf
 friesland,4,37430,19480,12648,6226,2021-10-04 00:03:05,2022-12-10 09:48:10,tevis,Landkreis Friesland
 fuerstenfeldbruck,3,29875,11401,6139,3191,2021-10-04 00:03:57,2022-10-13 11:03:29,tevis,Landratsamt Fürstenfeldbruck
 fuerthtest,1,18789,6250,1203,1010,2021-07-26 00:03:22,2022-03-20 23:50:03,etermin,SARS-CoV-2 Testzentrum der Stadt Fürth
-fulda,7,34859,26392,10813,4846,2021-10-04 00:04:03,2022-12-11 23:48:14,tevis,Stadt Fulda
-geldernsw,2,44312,11510,2067,23,2021-07-26 00:03:23,2022-12-11 23:49:28,etermin,Stadtwerke Geldern Netz
-gelsenkirchen,1,37217,6775,3494,1080,2021-10-04 00:03:58,2022-12-11 23:48:50,tempus,Stadt Gelsenkirchen
+fulda,7,35530,26972,11063,4968,2021-10-04 00:04:03,2022-12-18 23:48:12,tevis,Stadt Fulda
+geldernsw,2,44984,11677,2067,23,2021-07-26 00:03:23,2022-12-18 23:49:02,etermin,Stadtwerke Geldern Netz
+gelsenkirchen,1,37889,6942,3542,1094,2021-10-04 00:03:58,2022-12-18 23:48:55,tempus,Stadt Gelsenkirchen
 giessen,3,12763,609,27,0,2021-10-04 00:03:51,2022-03-27 23:48:59,tempus,Stadt Gießen
 goeppingen,4,25513,23648,13308,5907,2021-10-04 00:03:04,2022-08-10 14:03:05,tevis,Landkreis Goeppingen
 goettingen,9,29036,56821,29529,19934,2021-10-04 00:03:05,2022-09-14 13:33:03,tevis,Stadt Göttingen
 goslartest,1,42901,16672,11362,2274,2021-07-26 00:03:24,2022-11-27 23:49:15,etermin,Testzentrum Goslar
-gottmadingen,2,35620,3307,2030,306,2021-10-04 00:04:05,2022-12-11 23:48:14,tevis,Gemeinde Gottmadingen
-graz,41,43949,346384,110507,18715,2021-07-26 00:03:48,2022-12-11 23:53:14,etermin,Stadt Graz
-grazamt,8,44250,45236,21726,4602,2021-07-26 00:03:53,2022-12-11 23:53:17,etermin,BürgerInnenamt Stadt Graz
-grazuni,1,42649,5187,162,6,2021-08-12 02:19:47,2022-12-11 23:53:24,etermin,Universität Graz
-greifswald,9,36164,48030,20875,8122,2021-10-04 00:03:09,2022-12-11 23:48:08,tevis,Stadt Greifswald
-gronau,8,41453,24837,11278,3154,2021-07-26 00:04:01,2022-12-11 23:48:17,tevis,Stadt Gronau
+gottmadingen,2,36292,3361,2068,309,2021-10-04 00:04:05,2022-12-18 23:48:13,tevis,Gemeinde Gottmadingen
+graz,41,44614,351108,111898,18892,2021-07-26 00:03:48,2022-12-18 23:51:26,etermin,Stadt Graz
+grazamt,8,44918,45628,21913,4638,2021-07-26 00:03:53,2022-12-18 23:51:30,etermin,BürgerInnenamt Stadt Graz
+grazuni,1,43318,5267,162,6,2021-08-12 02:19:47,2022-12-18 23:51:36,etermin,Universität Graz
+greifswald,9,36497,48290,21003,8178,2021-10-04 00:03:09,2022-12-18 23:48:08,tevis,Stadt Greifswald
+gronau,8,42125,25183,11451,3196,2021-07-26 00:04:01,2022-12-18 23:48:16,tevis,Stadt Gronau
 grossumstadt,3,3508,1471,550,198,2021-07-12 00:04:14,2021-08-17 14:33:21,tevis,Stadt Groß-Umstadt
 hahnenkleetest,1,33206,4944,1573,173,2021-12-06 00:08:15,2022-11-27 23:51:23,etermin,Testzentrum Hahnenklee
-halbersadt,2,44309,5538,3730,227,2021-07-26 00:03:54,2022-12-11 23:53:29,etermin,Stadt Halberstadt
-halle,22,44343,55820,34482,11029,2021-07-26 00:03:31,2022-12-11 23:48:28,netappoint,Stadt Halle
-hammersbachtest,3,44298,43340,21076,1095,2021-07-26 00:03:55,2022-12-11 23:53:32,etermin,Schnelltestzentrum Hammersbach
+halbersadt,2,44979,5623,3797,233,2021-07-26 00:03:54,2022-12-18 23:51:40,etermin,Stadt Halberstadt
+halle,22,45015,56377,34810,11141,2021-07-26 00:03:31,2022-12-18 23:48:34,netappoint,Stadt Halle
+hammersbachtest,3,44969,43477,21130,1101,2021-07-26 00:03:55,2022-12-18 23:51:42,etermin,Schnelltestzentrum Hammersbach
 heidelberg,8,36934,35808,16902,7801,2021-07-12 00:04:15,2022-09-11 23:48:05,tevis,Stadt Heidelberg
-herborn,4,35835,24084,11352,4022,2021-10-04 00:03:36,2022-12-11 23:49:11,tempus,Stadt Herborn
-hersfeldtest,1,34336,8199,2202,1327,2021-07-26 00:03:56,2022-12-11 23:53:35,etermin,Corona-Testcenter Hersfeld-Rotenburg
+herborn,4,36507,24618,11507,4067,2021-10-04 00:03:36,2022-12-18 23:49:00,tempus,Stadt Herborn
+hersfeldtest,1,35006,8317,2209,1328,2021-07-26 00:03:56,2022-12-18 23:51:45,etermin,Corona-Testcenter Hersfeld-Rotenburg
 hof,5,31490,19816,10641,2210,2021-07-26 00:04:07,2022-09-13 15:18:19,tevis,Stadt Hof
-holtestukenbrock,2,37618,11648,3651,1019,2021-10-04 00:03:54,2022-12-11 23:49:14,tempus,Stadt Schloß Holte-Stukenbrock
+holtestukenbrock,2,38290,11830,3725,1046,2021-10-04 00:03:54,2022-12-18 23:49:05,tempus,Stadt Schloß Holte-Stukenbrock
 hornberg,1,3508,543,193,95,2021-07-12 00:04:16,2021-08-17 14:33:21,tevis,Stadt Hornberg
-hsktest,1,44223,11909,2076,572,2021-07-26 00:03:57,2022-12-11 23:53:49,etermin,Hochsauerlandkreis
+hsktest,1,44893,12196,2093,572,2021-07-26 00:03:57,2022-12-18 23:51:57,etermin,Hochsauerlandkreis
 huenstetten,4,3508,675,233,61,2021-07-12 00:04:17,2021-08-17 14:33:24,tevis,Stadt Hünstetten
 huettenberg,9,3508,851,112,35,2021-07-12 00:04:21,2021-08-17 14:33:30,tevis,Stadt Hüttenberg
 ilmkreis,1,34300,51,1,0,2021-07-12 00:04:22,2022-11-09 08:33:02,tevis,Ilm-Kreis
-ilvesheim,5,36767,10730,7770,1609,2021-10-04 00:03:42,2022-12-11 23:49:16,tempus,Gemeinde Ilvesheim
+ilvesheim,5,37439,10846,7846,1624,2021-10-04 00:03:42,2022-12-18 23:49:05,tempus,Gemeinde Ilvesheim
 impfthueringen,69,15449,555563,362090,380709,2021-07-12 00:00:00,2022-01-30 23:45:00,custom,Impftermin Thüringen
-ingelheim,2,42141,11611,6231,3661,2021-07-26 00:04:09,2022-12-11 23:48:18,tevis,Stadt Ingelheim
-innsbruckpsych,1,39001,553,101,17,2021-07-26 00:03:57,2022-12-11 23:53:50,etermin,Psychologische Studierendenberatung Innsbruck
-itzehoe,3,34844,6622,3731,384,2021-07-26 15:19:04,2022-12-11 23:53:51,etermin,Stadt Itzehoe Einwohnermeldeamt
-jena,7,45649,52266,29583,14763,2021-07-12 00:04:23,2022-12-11 23:48:04,tevis,Stadt Jena
-kaiserslauternausl,2,44930,0,0,0,2021-07-12 00:04:24,2022-12-11 23:48:02,netappoint,Stadt Kaiserslautern Ausländerbehörde
+ingelheim,2,42813,11779,6320,3717,2021-07-26 00:04:09,2022-12-18 23:48:17,tevis,Stadt Ingelheim
+innsbruckpsych,1,39672,560,101,17,2021-07-26 00:03:57,2022-12-18 23:51:58,etermin,Psychologische Studierendenberatung Innsbruck
+itzehoe,3,35515,6756,3816,394,2021-07-26 15:19:04,2022-12-18 23:51:59,etermin,Stadt Itzehoe Einwohnermeldeamt
+jena,7,46320,52855,29817,14961,2021-07-12 00:04:23,2022-12-18 23:48:04,tevis,Stadt Jena
+kaiserslauternausl,2,45602,0,0,0,2021-07-12 00:04:24,2022-12-18 23:48:02,netappoint,Stadt Kaiserslautern Ausländerbehörde
 kassel,14,3508,7544,4065,1804,2021-07-12 00:04:29,2021-08-17 14:33:36,tevis,Stadt Kassel
 kelsterbach,1,3508,575,114,61,2021-07-12 00:04:30,2021-08-17 14:33:37,tevis,Stadt Kelsterbach
 kfzgrasbrunn,2,21491,9016,4999,3240,2021-10-04 00:04:28,2022-07-12 17:05:26,tevis,Kfz Zulassungstelle Grasbrunn
-kherfordkfz,3,37565,31255,13946,11758,2021-10-04 00:04:00,2022-12-11 23:48:53,tempus,Kreis Herford Straßenverkehrsamt
-kielema,7,37511,18677,9649,3009,2021-10-04 00:03:06,2022-12-11 23:48:10,tevis,Kiel Einwohnermeldeamt
-kielsw,6,32241,28935,6917,1330,2021-10-04 00:04:01,2022-12-11 23:49:20,tempus,Stadtwerke Kiel
+kherfordkfz,3,38237,31885,14262,12002,2021-10-04 00:04:00,2022-12-18 23:48:58,tempus,Kreis Herford Straßenverkehrsamt
+kielema,7,38183,19105,9853,3088,2021-10-04 00:03:06,2022-12-18 23:48:09,tevis,Kiel Einwohnermeldeamt
+kielsw,6,32913,29574,7144,1386,2021-10-04 00:04:01,2022-12-18 23:49:12,tempus,Stadtwerke Kiel
 kluetzerwinkel,1,26509,2667,1958,388,2021-10-04 00:03:11,2022-09-01 19:48:10,tevis,Amt Kluetzer Winkel
-koeln,8,37613,5892,3819,2593,2021-10-04 00:04:33,2022-12-11 23:48:03,netappoint,Stadt Koeln
+koeln,8,38285,5892,3819,2593,2021-10-04 00:04:33,2022-12-18 23:48:03,netappoint,Stadt Koeln
 kreisbergstrasse,2,15182,6732,4028,1677,2021-07-12 00:04:53,2022-01-30 23:48:10,netappoint,Kreis Bergstraße
 kreisgermersheimkfz,1,15389,2187,831,194,2021-07-12 00:04:55,2022-01-30 23:48:01,netappoint,Kreis Germersheim Kfz-Zulassungsbehörde
 kreisgrossgerau,12,3321,4437,1138,917,2021-07-12 00:04:59,2021-08-17 13:48:44,tevis,Kreis Groß-Gerau
-kreisolpe,11,37621,121241,70206,45526,2021-10-04 00:03:53,2022-12-11 23:49:27,tempus,Kreis Olpe
+kreisolpe,11,38293,123360,71522,46281,2021-10-04 00:03:53,2022-12-18 23:49:15,tempus,Kreis Olpe
 kreissoest,3,26917,22116,14224,8619,2021-10-04 00:03:06,2022-08-23 23:18:08,tevis,Kreis Soest
 kreissteinfurt,1,1577,260,181,15,2021-07-26 00:03:58,2021-08-11 10:05:11,etermin,Kreis Steinfurt
 kreiswesel,5,41079,54377,32096,16866,2021-07-12 00:05:02,2022-10-26 08:48:06,tevis,Kreis Wesel
-kronachkfz,1,37618,8377,2929,1358,2021-10-04 00:04:00,2022-12-11 23:48:55,tempus,Landkreis Kronach Zulassungsbehörde
-krunnakfz,4,37607,28428,17478,8682,2021-10-04 00:04:23,2022-12-11 23:49:24,tempus,Kreis Unna Kfz
+kronachkfz,1,38290,8544,2977,1375,2021-10-04 00:04:00,2022-12-18 23:48:59,tempus,Landkreis Kronach Zulassungsbehörde
+krunnakfz,4,38279,28818,17605,8759,2021-10-04 00:04:23,2022-12-18 23:49:15,tempus,Kreis Unna Kfz
 kuerten,4,13434,3402,2066,400,2021-10-04 00:04:07,2022-04-03 23:49:10,tempus,Stadt Kürten
 kvmayenkoblenz,7,39450,42901,24810,8536,2021-07-26 00:04:22,2022-11-23 14:48:16,tevis,Landkreis Mayen-Koblenz
-ladenburg,9,37616,24199,10023,1508,2021-10-04 00:04:11,2022-12-11 23:49:04,tempus,Stadt Ladenburg
-lauenburgkfz,1,37618,10265,5692,2732,2021-10-04 00:04:24,2022-12-11 23:49:25,tempus,Kreis Lauenburg Fachdienst Straßenverkehr
-lehrte,6,44255,31415,24524,1876,2021-07-26 00:04:06,2022-12-11 23:54:43,etermin,Stadt Lehrte
-leichlingen,11,37621,45535,29155,8039,2021-10-04 00:04:21,2022-12-11 23:49:40,tempus,Stadt Leichlingen
-leimen,5,37357,15996,9491,3987,2021-10-04 00:04:13,2022-12-11 23:49:08,tempus,Stadt Leimen
-leipzig,11,41616,29609,20126,2430,2021-07-26 00:03:13,2022-12-11 23:48:05,custom,Stadt Leipzig
+ladenburg,9,38288,24672,10212,1538,2021-10-04 00:04:11,2022-12-18 23:49:08,tempus,Stadt Ladenburg
+lauenburgkfz,1,38290,10450,5770,2784,2021-10-04 00:04:24,2022-12-18 23:49:16,tempus,Kreis Lauenburg Fachdienst Straßenverkehr
+lehrte,6,44924,31856,24861,1893,2021-07-26 00:04:06,2022-12-18 23:52:32,etermin,Stadt Lehrte
+leichlingen,11,38293,46286,29554,8165,2021-10-04 00:04:21,2022-12-18 23:49:27,tempus,Stadt Leichlingen
+leimen,5,38029,16228,9645,4041,2021-10-04 00:04:13,2022-12-18 23:49:12,tempus,Stadt Leimen
+leipzig,11,42288,29807,20244,2441,2021-07-26 00:03:13,2022-12-18 23:48:06,custom,Stadt Leipzig
 leipzigstandesamt,3,11419,1254,695,234,2021-07-12 00:05:04,2021-12-19 23:48:03,netappoint,Stadt Leipzig Standesamt
 leun,6,1590,592,56,11,2021-07-12 00:05:05,2021-08-17 00:22:10,tevis,Stadt Leun
-leverkusen,1,37624,5245,2282,1007,2021-10-04 00:03:02,2022-12-11 23:48:02,netappoint,Zulassungsstelle Leverkusen
+leverkusen,1,38296,5391,2333,1050,2021-10-04 00:03:02,2022-12-18 23:48:02,netappoint,Zulassungsstelle Leverkusen
 linsengericht,1,1461,220,34,18,2021-07-12 00:05:05,2021-08-17 00:22:11,tevis,Stadt Linsengericht
-lippstadtew,4,23977,26524,15399,4680,2021-10-04 08:04:37,2022-12-11 23:49:31,tempus,Stadt Lippstadt Fachdienst Einwohnerwesen
+lippstadtew,4,24649,27584,16115,4930,2021-10-04 08:04:37,2022-12-18 23:49:22,tempus,Stadt Lippstadt Fachdienst Einwohnerwesen
 lkbhkfz,2,4580,961,564,296,2021-10-04 00:03:21,2022-01-02 23:48:04,netappoint,Landkreis Breisgau-Hochschwarzwald Kfz-Zulassungsbehörde
 lkbhlw,1,4593,0,0,0,2021-10-04 00:03:02,2022-01-02 23:48:03,netappoint,Landkreis Breisgau-Hochschwarzwald Landwitschaft
 lkcoesfeld,4,345,109,0,0,2021-10-04 00:08:31,2021-10-07 14:24:02,etermin,Kreis Coesfeld
 lkortenau,24,26730,73115,143,168,2021-10-04 00:03:11,2022-08-23 14:03:08,tevis,Landkreis Ortenau
-lkzwickau,11,34200,44231,22814,8928,2021-10-04 00:04:49,2022-12-11 23:48:21,tevis,Landkreis Zwickau
+lkzwickau,11,34872,45142,23349,9155,2021-10-04 00:04:49,2022-12-18 23:48:21,tevis,Landkreis Zwickau
 loehne,17,32647,42417,7398,2670,2021-07-26 00:04:53,2022-09-20 11:03:32,tevis,Stadt Löhne
 lramiesbach,3,41019,18882,10665,5829,2021-07-26 00:04:57,2022-12-01 11:03:25,tevis,Landratsamt Miesbach
 lramuenchenausl,21,23119,16338,6917,4097,2021-10-04 00:05:31,2022-08-24 08:20:47,tevis,Landkreis München Ausländerbehörde
-lramuenchenefa,11,40849,50703,18424,6279,2021-07-26 00:05:01,2022-12-11 23:48:28,tevis,Landratsamt München
+lramuenchenefa,11,41521,51486,18717,6376,2021-07-26 00:05:01,2022-12-18 23:48:28,tevis,Landratsamt München
 lramuenchenjob,32,2011,4063,4,0,2021-10-04 00:03:13,2021-11-07 23:48:13,tevis,Landkreis München Jobcenter
-ludwigsburg,15,37621,83606,39885,27181,2021-10-04 00:04:29,2022-12-11 23:49:51,tempus,Stadt Ludwigsburg
-ludwigshafen,13,37345,46128,27119,9775,2021-10-04 00:03:08,2022-12-11 23:48:09,tevis,Kreis Ludwigshfen
-ludwigshafenaus,1,37621,302,0,0,2021-10-04 00:04:13,2022-12-11 23:49:09,tempus,Stadt Ludwigshafen Ausländerbehörde
-luedenscheid,7,37619,37027,23532,4953,2021-10-04 00:04:26,2022-12-11 23:49:39,tempus,Stadt Lüdenscheid
-luenen,1,37623,9876,7554,923,2021-10-04 00:04:30,2022-12-11 23:49:52,tempus,Stadt Lünen
-maerkischerkreis,9,37556,54264,32476,11754,2021-10-04 00:03:07,2022-12-11 23:48:10,tevis,Märkischer Kreis
-magdeburg,28,45191,59341,11852,2440,2021-07-12 00:05:32,2022-12-11 23:48:13,netappoint,Stadt Magdeburg
+ludwigsburg,15,38293,84899,40494,27488,2021-10-04 00:04:29,2022-12-18 23:49:38,tempus,Stadt Ludwigsburg
+ludwigshafen,13,38017,47106,27729,9985,2021-10-04 00:03:08,2022-12-18 23:48:09,tevis,Kreis Ludwigshfen
+ludwigshafenaus,1,38293,308,0,0,2021-10-04 00:04:13,2022-12-18 23:49:14,tempus,Stadt Ludwigshafen Ausländerbehörde
+luedenscheid,7,38291,38138,24267,5173,2021-10-04 00:04:26,2022-12-18 23:49:30,tempus,Stadt Lüdenscheid
+luenen,1,38295,10011,7663,930,2021-10-04 00:04:30,2022-12-18 23:49:40,tempus,Stadt Lünen
+maerkischerkreis,9,38228,55312,33092,11965,2021-10-04 00:03:07,2022-12-18 23:48:09,tevis,Märkischer Kreis
+magdeburg,28,45863,59425,11852,2440,2021-07-12 00:05:32,2022-12-18 23:48:12,netappoint,Stadt Magdeburg
 mainz,17,39177,97768,63922,20100,2021-07-26 00:03:22,2022-10-19 13:48:22,tevis,Stadt Mainz
-mannheimbs,70,35762,314552,175119,88977,2021-10-04 00:04:58,2022-12-11 23:49:32,tempus,Stadt Mannheim Bürgerservice
+mannheimbs,69,36434,318945,177291,90139,2021-10-04 00:04:58,2022-12-18 23:49:39,tempus,Stadt Mannheim Bürgerservice
 mannheimmvv,7,24848,32634,3653,545,2021-10-04 00:04:33,2022-07-31 23:49:37,tempus,Stadtwerke Mannheim
-mannheimsa,6,37621,7065,4021,630,2021-10-04 00:04:36,2022-12-11 23:49:57,tempus,Stadt Mannheim Fachbereich Sicherheit und Ordnung
+mannheimsa,6,38293,7222,4103,644,2021-10-04 00:04:36,2022-12-18 23:49:45,tempus,Stadt Mannheim Fachbereich Sicherheit und Ordnung
 mechernich,2,21881,4952,2069,453,2021-10-04 00:03:15,2022-07-17 23:48:08,tevis,Stadt Mechernich
-minden,3,41707,29795,19834,8535,2021-07-26 00:05:06,2022-12-11 23:48:30,tevis,Stadt Minden
-mittenwalde,3,44322,7781,2581,103,2021-07-26 00:04:06,2022-12-11 23:54:45,etermin,Stadt Mittenwalde
+minden,3,42379,30195,20106,8659,2021-07-26 00:05:06,2022-12-18 23:48:28,tevis,Stadt Minden
+mittenwalde,3,44993,7916,2616,106,2021-07-26 00:04:06,2022-12-18 23:52:34,etermin,Stadt Mittenwalde
 moerlenbach,1,1375,257,20,9,2021-07-12 00:05:32,2021-08-17 00:22:12,tevis,Stadt Mörlenbach
 muelheim,9,37309,64285,40060,15584,2021-10-04 00:03:06,2022-12-09 13:03:11,tevis,Stadt Mülheim an der Ruhr
-muenster,20,37586,119915,77750,37336,2021-10-04 00:03:10,2022-12-11 23:48:13,tevis,Stadt Muenster
+muenster,20,38258,122441,79183,37955,2021-10-04 00:03:10,2022-12-18 23:48:13,tevis,Stadt Muenster
 neuisenburg,1,1334,238,24,22,2021-07-12 00:05:33,2021-08-17 00:22:13,tevis,Stadt Neu-Isenburg
-neuulm,5,37619,33579,20154,7193,2021-10-04 00:05:02,2022-12-11 23:49:38,tempus,Stadt Neu-Ulm
+neuulm,5,38291,34087,20515,7308,2021-10-04 00:05:02,2022-12-18 23:49:46,tempus,Stadt Neu-Ulm
 niedenstein,1,1294,204,17,4,2021-07-12 00:05:33,2021-08-17 00:22:13,tevis,Stadt Niedenstein
-nordhausen,2,45580,13837,8987,4651,2021-07-12 00:05:35,2022-12-11 23:48:04,tevis,Stadt Nordhausen
+nordhausen,2,46244,14028,9103,4720,2021-07-12 00:05:35,2022-12-18 23:48:04,tevis,Stadt Nordhausen
 nuernberg,51,32936,117205,59618,24600,2021-10-04 00:06:01,2022-10-24 10:03:41,tevis,Stadt Nürnberg
-nusloch,4,35927,2820,1390,464,2021-10-04 00:04:34,2022-11-24 09:19:45,tempus,Gemeinde Nußloch
-oberasbach,2,24258,3091,1915,146,2021-07-26 11:04:16,2022-12-11 23:55:01,etermin,Stadt Oberasbach
-oberbergisch,11,37621,106031,63549,45215,2021-10-04 00:04:46,2022-12-11 23:50:08,tempus,Straßenverkehrsamt Oberbergischer Kreis
-oberding,3,37618,11113,6127,1823,2021-10-04 00:05:08,2022-12-11 23:49:41,tempus,Stadt Oberding
+nusloch,4,36554,2857,1404,469,2021-10-04 00:04:34,2022-12-18 23:49:35,tempus,Gemeinde Nußloch
+oberasbach,2,24928,3173,1967,148,2021-07-26 11:04:16,2022-12-18 23:52:49,etermin,Stadt Oberasbach
+oberbergisch,11,38293,107838,64560,45809,2021-10-04 00:04:46,2022-12-18 23:49:56,tempus,Straßenverkehrsamt Oberbergischer Kreis
+oberding,3,38290,11323,6234,1865,2021-10-04 00:05:08,2022-12-18 23:49:49,tempus,Stadt Oberding
 oberramstadt,6,1196,1191,140,117,2021-07-12 00:05:38,2021-08-17 00:22:17,tevis,Stadt Ober-Ramstadt
 oesterreichgk,9,23246,46,1,2,2021-09-02 00:06:35,2022-11-28 17:54:46,etermin,Österreichische Gesundheitskasse
 offenbach,9,1185,1522,23,3,2021-07-12 00:05:41,2021-08-17 00:22:22,tevis,Stadt Offenbach
-oldenburg,4,37618,38654,1378,0,2021-10-04 00:04:39,2022-12-11 23:49:44,tempus,Landkreis Oldenburg
-olfen,1,44315,7175,3946,362,2021-07-26 00:04:18,2022-12-11 23:56:24,etermin,Stadt Olfen
-ostfildern,11,37620,47716,30275,8113,2021-10-04 00:04:55,2022-12-11 23:50:14,tempus,Ostfildern
-overath,6,37618,48214,29107,13811,2021-10-04 00:05:14,2022-12-11 23:49:47,tempus,Stadt Overath
+oldenburg,4,38290,39359,1378,0,2021-10-04 00:04:39,2022-12-18 23:49:40,tempus,Landkreis Oldenburg
+olfen,1,44987,7300,4004,364,2021-07-26 00:04:18,2022-12-18 23:54:27,etermin,Stadt Olfen
+ostfildern,11,38292,48456,30709,8244,2021-10-04 00:04:55,2022-12-18 23:50:01,tempus,Ostfildern
+overath,6,38290,49049,29641,14035,2021-10-04 00:05:14,2022-12-18 23:49:55,tempus,Stadt Overath
 paderborn,19,34412,72633,26929,17127,2021-07-26 00:05:36,2022-10-10 14:03:59,tevis,Stadt Paderborn
 pfungstadt,2,1170,520,89,55,2021-07-12 00:05:43,2021-08-13 23:34:33,tevis,Stadt Pfungstadt
 radolfzell,4,23399,15983,6158,1490,2021-10-04 00:03:21,2022-07-17 23:48:13,tevis,Stadt Radolfzell
 rastatt,11,27968,16530,1215,333,2021-10-04 00:06:40,2022-10-07 10:19:17,tevis,Stadt Rastatt
-ravensburg,4,37619,30923,12691,5965,2021-10-04 00:04:43,2022-12-11 23:49:47,tempus,Stadt Ravensburg
-rhedawiedenbrueck,7,37619,57828,26028,10588,2021-10-04 00:05:03,2022-12-11 23:50:22,tempus,Stadt Rheda-Wiedenbrück
-rheingautaunus,5,37620,16790,6574,5140,2021-10-04 00:05:18,2022-12-11 23:49:51,tempus,Rheingau-Taunus-Kreis
-roesrath,6,37092,54778,25163,14491,2021-10-04 00:04:49,2022-12-11 23:49:53,tempus,Stadt Rösrath
-rottenburg,24,37619,79011,52986,17082,2021-10-04 00:05:23,2022-12-11 23:50:51,tempus,Stadt Rottenburg
+ravensburg,4,38291,31493,12870,6040,2021-10-04 00:04:43,2022-12-18 23:49:44,tempus,Stadt Ravensburg
+rhedawiedenbrueck,7,38291,58826,26493,10719,2021-10-04 00:05:03,2022-12-18 23:50:10,tempus,Stadt Rheda-Wiedenbrück
+rheingautaunus,5,38292,17105,6704,5236,2021-10-04 00:05:18,2022-12-18 23:49:59,tempus,Rheingau-Taunus-Kreis
+roesrath,6,37764,55909,25645,14795,2021-10-04 00:04:49,2022-12-18 23:49:49,tempus,Stadt Rösrath
+rottenburg,24,38291,80156,53768,17249,2021-10-04 00:05:23,2022-12-18 23:50:33,tempus,Stadt Rottenburg
 saarbruecken,10,31043,72560,43496,21402,2021-10-04 00:03:09,2022-10-05 12:33:09,tevis,Stadt Saarbrücken
-salzgitter,27,40008,63152,22273,11208,2021-07-26 00:06:21,2022-12-11 23:48:40,tevis,Stadt Salzgitter
+salzgitter,27,40680,64684,22776,11467,2021-07-26 00:06:21,2022-12-18 23:48:43,tevis,Stadt Salzgitter
 salzlandkreis,8,24631,34156,17802,8127,2021-10-04 00:03:09,2022-07-29 18:03:12,tevis,Salzlandkreis
-schoenebeckelbe,1,42281,468,235,85,2021-07-26 00:06:23,2022-12-11 23:48:41,tevis,Stadt Schönebeck (Elbe)
-schriesheim,7,37619,18781,11275,3740,2021-10-04 00:05:27,2022-12-11 23:49:58,tempus,Stadt Schriesheim
-schwaebischhall,4,36562,29547,15421,4344,2021-10-04 10:20:07,2022-12-11 23:49:59,tempus,Stadt Schwäbisch Hall
-schwaebischhallkfz,14,37616,134129,68731,33226,2021-10-04 00:05:43,2022-12-11 23:51:11,tempus,Landkreis Schwäbisch Hall Zulassungsstelle
-schwieberdingen,8,37619,43035,24547,7737,2021-10-04 00:05:36,2022-12-11 23:50:05,tempus,Stadt Schwieberdingen
-selm,2,39464,4470,2539,194,2021-07-26 09:49:51,2022-12-11 23:56:26,etermin,Stadt Selm
+schoenebeckelbe,1,42953,468,235,85,2021-07-26 00:06:23,2022-12-18 23:48:45,tevis,Stadt Schönebeck (Elbe)
+schriesheim,7,38291,19019,11419,3801,2021-10-04 00:05:27,2022-12-18 23:50:06,tempus,Stadt Schriesheim
+schwaebischhall,4,37234,29788,15606,4385,2021-10-04 10:20:07,2022-12-18 23:49:55,tempus,Stadt Schwäbisch Hall
+schwaebischhallkfz,14,38288,137469,70423,34092,2021-10-04 00:05:43,2022-12-18 23:50:52,tempus,Landkreis Schwäbisch Hall Zulassungsstelle
+schwieberdingen,8,38291,43691,24726,7782,2021-10-04 00:05:36,2022-12-18 23:50:13,tempus,Stadt Schwieberdingen
+selm,2,40136,4542,2569,194,2021-07-26 09:49:51,2022-12-18 23:54:29,etermin,Stadt Selm
 speyer,5,9946,2405,1384,321,2021-07-26 00:06:26,2022-08-23 14:04:26,tevis,Stadt Speyer
 sraachen,2,13397,11988,9409,4700,2021-10-04 00:03:24,2022-04-03 23:48:03,netappoint,Städteregion Aachen
 stade,4,19145,15192,8094,2840,2021-10-04 00:07:28,2022-06-19 23:54:59,tevis,Landkreis Stade
-stadtbergen,1,42366,1487,262,284,2021-07-26 00:04:20,2022-12-11 23:56:27,etermin,Stadt Stadtbergen
-stadtsoest,1,42342,15155,10193,6094,2021-07-26 00:06:28,2022-12-11 23:48:42,tevis,Stadt Söst
-steinburg,2,42617,1612,130,32,2021-07-26 00:06:32,2022-12-11 23:48:43,tevis,Stadt Steinburg
+stadtbergen,1,43038,1499,262,284,2021-07-26 00:04:20,2022-12-18 23:54:30,etermin,Stadt Stadtbergen
+stadtsoest,1,43014,15428,10392,6235,2021-07-26 00:06:28,2022-12-18 23:48:46,tevis,Stadt Söst
+steinburg,2,43289,1633,130,32,2021-07-26 00:06:32,2022-12-18 23:48:47,tevis,Stadt Steinburg
 teltow,1,13815,953,647,148,2021-10-05 00:04:53,2022-12-07 13:49:45,tempus,Stadt Teltow
-teublitztest,2,44287,13212,5633,1257,2021-07-26 00:04:21,2022-12-11 23:56:37,etermin,Corona-Schnellteststelle Teublitz
+teublitztest,2,44957,13268,5657,1259,2021-07-26 00:04:21,2022-12-18 23:54:37,etermin,Corona-Schnellteststelle Teublitz
 trier,8,31616,26182,13389,6511,2021-07-26 00:06:43,2022-09-06 14:49:11,tevis,Stadt Trier
-tuebingen,21,37620,87063,42863,29393,2021-10-04 00:05:56,2022-12-11 23:51:24,tempus,Stadt Tübingen
+tuebingen,21,38292,88224,43320,29798,2021-10-04 00:05:56,2022-12-18 23:50:57,tempus,Stadt Tübingen
 unna,3,36731,10678,6032,2746,2021-07-26 00:06:46,2022-10-17 15:03:59,tevis,Stadt Unna
 verden,2,30587,18814,11311,7329,2021-10-04 00:03:04,2022-10-12 15:03:06,tevis,Landkreis Verden
 viernheim,1,1169,315,52,31,2021-07-12 00:05:43,2021-08-13 23:34:34,tevis,Stadt Viernheim
-walldorf,7,37587,20292,4299,267,2021-10-04 00:10:26,2022-12-11 23:56:50,etermin,Stadt Walldorf
+walldorf,7,38256,20829,4365,275,2021-10-04 00:10:26,2022-12-18 23:54:49,etermin,Stadt Walldorf
 weilheimschongau,4,28958,15477,8424,5022,2021-07-26 00:06:51,2022-07-22 08:57:23,tevis,Landkreis Weilheim-Schongau
 weimar,3,38322,18081,8744,5295,2021-07-12 00:05:44,2022-09-26 14:48:04,tevis,Stadt Weimar
-weimarunioffice,1,35574,376,87,7,2021-12-06 00:09:59,2022-12-11 23:56:51,etermin,Bauhaus-Universität Weimar Erdgeschoss Raum 002
-weinheim,6,37542,41673,25549,8272,2021-10-04 00:05:40,2022-12-11 23:50:14,tempus,Stadt Weinheim
+weimarunioffice,1,36244,376,87,7,2021-12-06 00:09:59,2022-12-18 23:54:49,etermin,Bauhaus-Universität Weimar Erdgeschoss Raum 002
+weinheim,6,38214,42674,26028,8455,2021-10-04 00:05:40,2022-12-18 23:50:24,tempus,Stadt Weinheim
 weiterstadt,2,1135,581,51,19,2021-07-12 00:05:45,2021-08-09 15:34:56,tevis,Stadt Weiterstadt
-werne,5,37618,31729,12469,4196,2021-10-04 00:04:56,2022-12-11 23:50:03,tempus,Stadt Werne
-werrameissner,4,37618,17952,7648,3990,2021-10-04 00:05:58,2022-12-11 23:51:27,tempus,Kreis Werra-Meißner
-wiehl,1,38229,1760,946,90,2021-07-27 09:34:23,2022-12-11 23:56:52,etermin,Stadt Wiehl
+werne,5,38290,32403,12715,4269,2021-10-04 00:04:56,2022-12-18 23:49:59,tempus,Stadt Werne
+werrameissner,4,38290,18258,7775,4071,2021-10-04 00:05:58,2022-12-18 23:51:00,tempus,Kreis Werra-Meißner
+wiehl,1,38900,1782,954,90,2021-07-27 09:34:23,2022-12-18 23:54:52,etermin,Stadt Wiehl
 wismar,8,26510,21592,9113,2011,2021-10-04 00:03:19,2022-09-01 19:48:20,tevis,Hansestadt Wismar
 wittmund,3,29529,9042,3926,2531,2021-07-26 00:06:56,2022-07-28 11:47:59,tevis,Stadt Wittmund
 worms,7,39197,36227,21675,11033,2021-07-26 00:07:06,2022-11-20 23:52:08,tevis,Stadt Worms
-wuppertalewm,17,34987,131290,49875,36400,2021-10-04 00:05:55,2022-12-11 23:50:35,tempus,Stadt Wuppertal Einwohnermeldeamt
-wuppertalgeo,5,37497,12771,511,195,2021-10-04 00:03:11,2022-12-11 23:48:11,netappoint,Stadt Wuppertal Geodatenzentrum
-wuppertalgw,3,37496,23366,10766,3112,2021-10-04 00:03:08,2022-12-11 23:48:09,netappoint,Stadt Wuppertal Gewerbecenter
-wuppertalsv,3,37418,31669,11628,12535,2021-10-04 00:04:59,2022-12-11 23:50:04,tempus,Stadt Wuppertal Staßenverkehrsamt
+wuppertalewm,17,35659,134037,50815,36958,2021-10-04 00:05:55,2022-12-18 23:50:43,tempus,Stadt Wuppertal Einwohnermeldeamt
+wuppertalgeo,5,38169,12993,516,195,2021-10-04 00:03:11,2022-12-18 23:48:09,netappoint,Stadt Wuppertal Geodatenzentrum
+wuppertalgw,3,38168,23843,10985,3182,2021-10-04 00:03:08,2022-12-18 23:48:08,netappoint,Stadt Wuppertal Gewerbecenter
+wuppertalsv,3,38090,32177,11783,12743,2021-10-04 00:04:59,2022-12-18 23:50:00,tempus,Stadt Wuppertal Staßenverkehrsamt

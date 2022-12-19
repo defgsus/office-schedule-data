@@ -26579,6 +26579,7 @@
           "Verl\u00e4ngerung des LKW-F\u00fchrerscheins (Klassen C1, C1E, C, CE oder CE79)",
           "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen)",
           "Zulassung / Umschreibung (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen, Traktoren)",
+          "Zulassung / Umschreibung mit erh\u00f6htem Aufwand (Importfahrzeuge, Wohnmobile, Sattelzugmaschinen, Traktoren)",
           "\u00c4nderung technischer Daten in der Zulassungsbescheinigung"
         ]
       },
@@ -31078,6 +31079,7 @@
           "Abmeldung Familie",
           "Anmeldung Einzelperson",
           "Anmeldung Familie",
+          "Lebensbescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3",
           "Meldebescheinigung/erweiterte Meldebescheinigung/Lebensbescheinigung",
           "Ummeldung Einzelperson",
           "Ummeldung Familie",
@@ -36943,6 +36945,7 @@
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Abholung eID 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Kinderreisepass beantragen / verl\u00e4ngern",
+          "Kopie von Kinderreisepass beantragen / verl\u00e4ngern",
           "Online-Ausweisfunktion des Personalausweises entsperren / Neusetzen einer PIN",
           "Personalausweis beantragen",
           "Reisepass oder Expressreisepass beantragen",
@@ -42041,6 +42044,7 @@
           "Ausfuhrkennzeichen (Zoll)",
           "Ausfuhrkennzeichen (Zoll) Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Feinstaubplakette",
+          "Freiwillige Zulassung Elektroroller",
           "Gebrauchtfahrzeug mit Wuppertaler Kennzeichen",
           "Gebrauchtfahrzeug mit ausw\u00e4rtigem Kennzeichen",
           "Kurzzeitkennzeichen",
