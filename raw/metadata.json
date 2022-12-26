@@ -8071,6 +8071,7 @@
         "name": "<big>B\u00fcrgerb\u00fcro</big>",
         "services": [
           "An-, Ab- und Ummeldung",
+          "An-, Ab- und Ummeldung (ggf. inkl. Anschriftenberichtigung im KFZ-Schein)",
           "Auszug aus dem Gewerbezentralregister",
           "Befreiung von der Ausweispflicht",
           "Beglaubigungen (auch Unterschriften)",
@@ -8184,6 +8185,7 @@
         "name": "<big>B\u00fcrgerb\u00fcro</big>",
         "services": [
           "An-, Ab- und Ummeldung",
+          "An-, Ab- und Ummeldung (ggf. inkl. Anschriftenberichtigung im KFZ-Schein)",
           "Auszug aus dem Gewerbezentralregister",
           "Befreiung von der Ausweispflicht",
           "Beglaubigungen (auch Unterschriften)",
@@ -29244,6 +29246,7 @@
         "name": "Ukrainehilfe",
         "services": [
           "Anmeldung in Minden",
+          "Beratung Wohngeld",
           "F\u00fchrungszeugnis beantragen",
           "erweitertes F\u00fchrungszeugnis beantragen"
         ]
@@ -36326,10 +36329,12 @@
           "Besprechung / Abgabe von Antragsunterlagen f\u00fcr Sondernutzungen",
           "Entgegennahme betriebsbezogener Unterlagen",
           "Geburt im Ausland \u2013 Beratung und Nachbeurkundung einer Geburt im Ausland",
+          "Gewerbe -  Wiedergestattung nach Gewerbeuntersagung",
           "Gl\u00fccksspielrechtliche Erlaubnis beantragen",
           "Kirchenaustritt",
           "Namensrechtliche Erkl\u00e4rungen",
           "Neuerteilung einer Fahrerlaubnis (nach vorherigem Entzug - auch Gespr\u00e4chstermin w\u00e4hrend oder vor Antragsstellung)",
+          "Sondernutzungen - Besprechung / Antragsabgabe",
           "Sperrzeitverk\u00fcrzung beantragen",
           "Tod im Ausland \u2013 Beratung und Nachbeurkundung eines Sterbefalles im Ausland",
           "Ummeldung Gewerbe bei \u00c4nderung oder Erweiterung der T\u00e4tigkeit",
@@ -36455,7 +36460,10 @@
       "161": {
         "name": "Gewerbeabteilung",
         "services": [
-          "Antrag Wiedergestattung der Gewerbeaus\u00fcbung nach Gewerbeuntersagung"
+          "Anh\u00f6rung zur beabsichtigten Gewerbeuntersagung",
+          "Antrag Wiedergestattung der Gewerbeaus\u00fcbung nach Gewerbeuntersagung",
+          "Gewerbe -  Wiedergestattung nach Gewerbeuntersagung",
+          "Gewerbeuntersagung - Anh\u00f6rung"
         ]
       },
       "162": {
@@ -36472,6 +36480,7 @@
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (au\u00dfer Gastst\u00e4tten)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Versteigerer/Pfandleiher",
           "Gewerbeabmeldung ohne Gastst\u00e4tte",
+          "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
           "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen",
           "Ummeldung Gewerbe"
         ]
@@ -36486,6 +36495,7 @@
           "Beratung/Abgabe von Antragsunterlagen f\u00fcr Sonntags\u00f6ffnungen",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Bewacher",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Versteigerer/Pfandleiher",
+          "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
           "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen"
         ]
       },
@@ -36498,7 +36508,9 @@
           "Aush\u00e4ndigung Reisegewerbekarte (Gastst\u00e4tte)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (Gastst\u00e4tte) nur PLZ 38259",
           "Gastst\u00e4ttenanzeige ggf. incl. Gewerbeanmeldung",
+          "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis (PLZ 38259 und Stadtteile Barum, Calbrecht, Engerode, Gebhardshagen und Heerte)",
           "Gewerbeabmeldung Gastst\u00e4tte",
+          "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
           "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen"
         ]
       },
@@ -36506,12 +36518,14 @@
         "name": "Gewerbeabteilung",
         "services": [
           "Abmeldung (ohne Gastst\u00e4tten, Spielhallen, Automaten-Aufsteller-Gewerbe, Beherbergungsbetriebe und Reisegewerbe)",
+          "Abmeldung Gewerbe (ohne Gastst\u00e4tten, Spielhallen, Automaten-Aufsteller-Gewerbe, Beherbergungsbetriebe und Reisegewerbe)",
           "Allgemeine Aufstellerlaubnis f\u00fcr Geldspielger\u00e4te (gem. \u00a7 33 c Abs.1 GewO) ohne PLZ 38259",
           "Antrag Geeignetheit Aufstellort Geldspielger\u00e4te (gem. \u00a7 33 c Abs. 3 GewO) ohne PLZ 38259",
           "Antrag Spielhallenerlaubnis (gem. \u00a7 33 i GewO) ohne PLZ 38259",
           "Aush\u00e4ndigung Reisegewerbekarte (Gastst\u00e4tte)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (Gastst\u00e4tte)",
           "Gastst\u00e4ttenanzeige ggf. incl. Gewerbeanmeldung",
+          "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis (PLZ 38226, 38228, 28239, 28229 (ohne Stadtteile Barum, Calbrecht, Engerode, Gebhardshagen und Heerte)",
           "Gewerbeabmeldung Gastst\u00e4tte",
           "Ummeldung bei Betriebsverlegungen innerhalb des Stadtgebietes oder Teilabmeldung von T\u00e4tigkeiten"
         ]
@@ -38663,6 +38677,15 @@
         "name": "PCR Tests",
         "services": [
           "Antigen Schnelltest (Ag) Covid-19 - kostenlos",
+          "Express PCR - Kostenlos",
+          "Express PCR - Kostenpflichtig"
+        ]
+      },
+      "152884": {
+        "name": "PCR Tests",
+        "services": [
+          "Antigen Schnelltest (Ag) Covid-19 - kostenlos",
+          "Blutdruckmessung kostenlos",
           "Express PCR - Kostenlos",
           "Express PCR - Kostenpflichtig"
         ]
@@ -41265,7 +41288,10 @@
       "108": {
         "name": "Nelly-Sachs-IGS",
         "services": [
-          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)"
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule)",
+          "Anmeldung zur Klassenstufe 5 (Eintritt in die weiterf\u00fchrenden Schule) Bitte Tragen Sie pro Termin nur ein Kind ein",
+          "Anmeldung zur Klassenstufe 5 - Bitte tragen Sie pro Termin nur ein Kind ein",
+          "Anmeldung zur Klassenstufe 5 - Bitte tragen Sie pro Termin nur ein Kind ein Wichtig: Tragen Sie unter Bemerkung den <b> Vor- und Zuname  des Kindes </b> ein."
         ]
       },
       "109": {
@@ -42045,6 +42071,7 @@
           "Ausfuhrkennzeichen (Zoll) Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Feinstaubplakette",
           "Freiwillige Zulassung Elektroroller",
+          "Freiwillige Zulassung Elektroroller bis max. 45 km/h H\u00f6chstgeschwindigkeit",
           "Gebrauchtfahrzeug mit Wuppertaler Kennzeichen",
           "Gebrauchtfahrzeug mit ausw\u00e4rtigem Kennzeichen",
           "Kurzzeitkennzeichen",
