@@ -9801,6 +9801,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -9873,6 +9874,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -9946,6 +9948,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10019,6 +10022,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10148,6 +10152,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10220,6 +10225,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10292,6 +10298,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10352,6 +10359,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -10412,6 +10420,7 @@
         "services": [
           "Abholung Personalausweis oder Reisepass",
           "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
           "Abholung eines F\u00fchrerscheins",
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
@@ -38686,6 +38695,8 @@
         "services": [
           "Antigen Schnelltest (Ag) Covid-19 - kostenlos",
           "Blutdruckmessung kostenlos",
+          "Erweiterte Einweisung in die korrekte Arzneimittelanwendung und der Inhalationstechnik",
+          "Erweiterte Medikationsberatung inkl. Interaktionscheck",
           "Express PCR - Kostenlos",
           "Express PCR - Kostenpflichtig"
         ]
