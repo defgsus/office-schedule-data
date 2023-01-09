@@ -8273,6 +8273,7 @@
           "Moderation u. Verhandlungsf\u00fchrung",
           "OUTLOOK - Fit f\u00fcrs B\u00fcro",
           "POWERPOINT - Fit f\u00fcrs B\u00fcro",
+          "Probleme - Pr\u00e4vention - Pizza ...so meistern Sie schwierige F\u00fchrungssituationen",
           "Professionell f\u00fchren I",
           "Professionell f\u00fchren II",
           "Projekte initiieren, planen, durchf\u00fchren",
@@ -14703,6 +14704,7 @@
           "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
           "1.8 Beratung - IBOBB-Caf\u00e9",
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
@@ -36336,13 +36338,25 @@
           "Beratungsgespr\u00e4ch Allgemein",
           "Beratungsgespr\u00e4ch vor Antragstellung",
           "Besprechung / Abgabe von Antragsunterlagen f\u00fcr Sondernutzungen",
+          "Bezirksschornsteinfeger - Beratung (Claas, Michelbrink, Soyk)",
+          "Bezirksschornsteinfeger - Beratung (Ordowski, Rieck, Sock)",
+          "Bezirksschornsteinfeger - Beratung (Rutke, Wachsmuth)",
+          "Bezirksschornsteinfeger Nord - Beratung (Claas, Michelbrink, Soyk)",
+          "Bezirksschornsteinfeger S\u00fcd - Beratung (Ordowski, Rieck, Sock)",
+          "Bezirksschornsteinfeger S\u00fcd - Beratung (Rutke, Wachsmuth)",
           "Entgegennahme betriebsbezogener Unterlagen",
           "Geburt im Ausland \u2013 Beratung und Nachbeurkundung einer Geburt im Ausland",
           "Gewerbe -  Wiedergestattung nach Gewerbeuntersagung",
+          "Gewerbe - Anmeldung (au\u00dfer Gastst\u00e4tten) (ohne PLZ 38259)",
+          "Gl\u00fccksspielrechtliche Erlaubnis - Antrag",
           "Gl\u00fccksspielrechtliche Erlaubnis beantragen",
           "Kirchenaustritt",
           "Namensrechtliche Erkl\u00e4rungen",
           "Neuerteilung einer Fahrerlaubnis (nach vorherigem Entzug - auch Gespr\u00e4chstermin w\u00e4hrend oder vor Antragsstellung)",
+          "Reisegewerbe (au\u00dfer Gastst\u00e4tten) - Beratung/Antragstellung (ohne PLZ 38259)",
+          "Reisegewerbe L-Z - Antrag/Beratung/Aush\u00e4ndigung",
+          "Reisegewerbe L-Z- Beratung/Antragstellung/Aush\u00e4ndigung",
+          "Sondernutzung - Beratung/Antragstellung",
           "Sondernutzungen - Besprechung / Antragsabgabe",
           "Sperrzeitverk\u00fcrzung beantragen",
           "Tod im Ausland \u2013 Beratung und Nachbeurkundung eines Sterbefalles im Ausland",
@@ -36436,6 +36450,7 @@
         "name": "AutoService",
         "services": [
           "Akteneinsicht bei Fahrerlaubnisentzug",
+          "Fahrlehrerangelegenheiten",
           "Neuerteilung einer Fahrerlaubnis (nach vorherigem Entzug - auch Gespr\u00e4chstermin w\u00e4hrend oder vor Antragsstellung)"
         ]
       },
@@ -36488,10 +36503,27 @@
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Bewacher",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (au\u00dfer Gastst\u00e4tten)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Versteigerer/Pfandleiher",
+          "Bewacher A-F - Antrag/Beratung/Anmeldung",
+          "Bewacher Nord S-Z - Antrag/Beratung/Anmeldung",
+          "Bewacher S-Z - Antrag/Beratung/Anmeldung",
+          "Bewacher S\u00fcd A-F - Antrag/Beratung/Anmeldung",
+          "Bewachererlaubnis inkl. Gewerbeanmeldung (nur PLZ 38259)",
+          "Bezirksschornsteinfeger - Beratung (Pilz, Pultar)",
+          "Gewerbe - Anmeldung (au\u00dfer Gastst\u00e4tten) (nur PLZ 38259)",
+          "Gewerbe und Gastst\u00e4tten L-Z - An-, Um-, Abmeldung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten L-Z - Anmeldung/\u00c4nderung/Ummeldung",
           "Gewerbeabmeldung ohne Gastst\u00e4tte",
           "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
           "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen",
-          "Ummeldung Gewerbe"
+          "Jahrmarkt / Spezialmarkt - Antrag/Beratung",
+          "Reisegewerbe (au\u00dfer Gastst\u00e4tten) - Beratung/Antragstellung (nur PLZ 38259)",
+          "Reisegewerbe L-Z - Antrag/Beratung/Aush\u00e4ndigung",
+          "Reisegewerbekarte (au\u00dfer Gastst\u00e4tten) - Aush\u00e4ndigung (nur PLZ 38259)",
+          "Sonntags\u00f6ffnungen - Antrag/Beratung",
+          "Ummeldung Gewerbe",
+          "Versteiger-/Pfandleiherererlaubnis - Anmeldung/Aush\u00e4ndigung",
+          "Versteigerer / Pfandleiher L-Z - Antrag/Beratung",
+          "Versteigerer / Pfandleiher L-Z - Antrag/Beratung/Anmeldung/Aush\u00e4ndigung"
         ]
       },
       "163": {
@@ -36504,8 +36536,19 @@
           "Beratung/Abgabe von Antragsunterlagen f\u00fcr Sonntags\u00f6ffnungen",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Bewacher",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Versteigerer/Pfandleiher",
+          "Bewacher G-K - Antrag/Beratung/Anmeldung",
+          "Bewacher L-R - Antrag/Beratung",
+          "Bewacher S\u00fcd G-K - Antrag/Beratung/Anmeldung",
+          "Bewachererlaubnis inkl. Gewerbeanmeldung (ohne PLZ 38259)",
           "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
-          "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen"
+          "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen",
+          "Jahrmarkt / Spezialmarkt - Antrag/Beratung",
+          "Reisegewerbekarte (au\u00dfer Gastst\u00e4tten) - Aush\u00e4ndigung (ohne PLZ 38259)",
+          "Sonntags\u00f6ffnungen - Antrag/Beratung",
+          "Versteiger-/Pfandleiherererlaubnis - Anmeldung/Aush\u00e4ndigung",
+          "Versteigerer / Pfandleiher A-K - Antrag/Beratung/Anmeldung/Aush\u00e4ndigung",
+          "Versteigerer / Pfandleiher L-Z - Antrag/Beratung",
+          "Versteigerer / Pfandleiher L-Z - Antrag/Beratung/Anmeldung/Aush\u00e4ndigung"
         ]
       },
       "166": {
@@ -36517,10 +36560,18 @@
           "Aush\u00e4ndigung Reisegewerbekarte (Gastst\u00e4tte)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (Gastst\u00e4tte) nur PLZ 38259",
           "Gastst\u00e4ttenanzeige ggf. incl. Gewerbeanmeldung",
+          "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis",
           "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis (PLZ 38259 und Stadtteile Barum, Calbrecht, Engerode, Gebhardshagen und Heerte)",
+          "Geldspielger\u00e4te - Antrag Geeignetheit Aufstellort (gem. \u00a7 33 c Abs. 3 GewO)",
+          "Gewerbe und Gastst\u00e4tten A-K - An-, Um-, Abmeldung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten A-K - Anmeldung/\u00c4nderung/Ummeldung",
           "Gewerbeabmeldung Gastst\u00e4tte",
           "Gewerbezentralregisterauskunft - Antrag f\u00fcr eine juristische Person",
-          "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen"
+          "Gewerbezentralregisterauskunft f\u00fcr eine juristische Person beantragen",
+          "Reisegewerbe A-K - Antrag/Beratung",
+          "Reisegewerbe A-K - Antrag/Beratung/Aush\u00e4ndigung",
+          "Reisegewerbekarte (Gastst\u00e4tte) - Aush\u00e4ndigung (nur PLZ 38259)",
+          "Spielhallenerlaubnis - Antrag (gem. \u00a7 33 i GewO)"
         ]
       },
       "167": {
@@ -36534,9 +36585,29 @@
           "Aush\u00e4ndigung Reisegewerbekarte (Gastst\u00e4tte)",
           "Beratung/Antragstellung bzw. Antragsabgabe f\u00fcr Reisegewerbe (Gastst\u00e4tte)",
           "Gastst\u00e4ttenanzeige ggf. incl. Gewerbeanmeldung",
+          "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis",
           "Geldspielger\u00e4te - Allgemeine Aufstellerlaubnis (PLZ 38226, 38228, 28239, 28229 (ohne Stadtteile Barum, Calbrecht, Engerode, Gebhardshagen und Heerte)",
+          "Geldspielger\u00e4te - Antrag Geeignetheit Aufstellort (gem. \u00a7 33 c Abs. 3 GewO)",
+          "Gewerbe - Abmeldung (ohne Gastst\u00e4tten, Spielhallen, Automatenaufstellung, Beherbergungsbetriebe und Reisegewerbe) (ohne PLZ 38259)",
+          "Gewerbe - Abmeldungen (Handel und Handwerk) / Betriebsverlegung / Teilabmeldungen",
+          "Gewerbe - Betriebsverlegung / T\u00e4tigkeits\u00e4nderung",
+          "Gewerbe und Gastst\u00e4tten A-K - An-, Um-, Abmeldung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten A-K - Anmeldung/\u00c4nderung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten A-K - Anmeldung/\u00c4nderung/Erweiterung/Abmeldung",
+          "Gewerbe und Gastst\u00e4tten A-K - Anmeldung/\u00c4nderung/Ummeldung",
+          "Gewerbe und Gastst\u00e4tten L-Z - An-, Um-, Abmeldung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten L-Z - Anmeldung/\u00c4nderung/Erweiterung",
+          "Gewerbe und Gastst\u00e4tten L-Z - Anmeldung/\u00c4nderung/Erweiterung/Abmeldung",
+          "Gewerbe und Gastst\u00e4tten L-Z - Anmeldung/\u00c4nderung/Ummeldung",
           "Gewerbeabmeldung Gastst\u00e4tte",
-          "Ummeldung bei Betriebsverlegungen innerhalb des Stadtgebietes oder Teilabmeldung von T\u00e4tigkeiten"
+          "Reisegewerbe A-K - Antrag/Beratung",
+          "Reisegewerbe A-K - Antrag/Beratung/Aush\u00e4ndigung",
+          "Reisegewerbekarte (Gastst\u00e4tte) - Aush\u00e4ndigung (ohne PLZ 38259)",
+          "Spielhallenerlaubnis - Antrag (gem. \u00a7 33 i GewO)",
+          "Ummeldung - l\u00f6schen",
+          "Ummeldung bei Betriebsverlegungen innerhalb des Stadtgebietes oder Teilabmeldung von T\u00e4tigkeiten",
+          "Versteigerer / Pfandleiher A-K - Antrag/Beratung",
+          "Versteigerer / Pfandleiher A-K - Antrag/Beratung/Anmeldung/Aush\u00e4ndigung"
         ]
       },
       "168": {
@@ -36563,7 +36634,10 @@
           "Jagdscheinverl\u00e4ngerung",
           "Kleinen Waffenschein beantragen und/oder abholen",
           "Verl\u00e4ngerung der Erlaubnis nach \u00a7 27 Sprengstoffgesetz abholen",
-          "Waffe ein- oder austragen"
+          "Waffe ein- oder austragen",
+          "Waffenbesitzkarte (J\u00e4ger) beantragen und/oder abholen",
+          "Waffenbesitzkarte (Sonstige) beantragen und/oder abholen",
+          "Waffenbesitzkarte (Sportsch\u00fctze) beantragen und/oder abholen"
         ]
       },
       "179": {
