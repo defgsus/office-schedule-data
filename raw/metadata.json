@@ -28056,6 +28056,13 @@
           "Schwerbehindertenparkausweis"
         ]
       },
+      "133/3336": {
+        "name": "Feudenheim: Familie & Freizeit",
+        "services": [
+          "Fischereischein",
+          "Mannheimer Familienpass, Landesfamilienpass, Sozialpass"
+        ]
+      },
       "133/3337": {
         "name": "Feudenheim: Meldeangelegenheiten",
         "services": [
@@ -30703,6 +30710,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
@@ -30727,6 +30735,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
@@ -30751,6 +30760,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
@@ -30775,6 +30785,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
@@ -30799,6 +30810,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
@@ -30823,6 +30835,7 @@
           "Anmeldung pro Person",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug innerhalb)",
           "Anschriften\u00e4nderung in den Fahrzeugpapieren (nur bei Umzug)",
+          "Beglaubigungen in den B\u00fcrgerb\u00fcros",
           "Beglaubigungen in den B\u00fcrgerb\u00fcros in den Stadtteilen",
           "Bewohnerparkausweis",
           "Eintragung einer Ehe nach Eheschlie\u00dfung im Ausland",
