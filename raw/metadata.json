@@ -11633,6 +11633,7 @@
           "Namens\u00e4nderung (z. B. nach Heirat)",
           "Namens\u00e4nderung im F\u00fchrerschein",
           "Nationale Einzelgenehmigung nach Art. 45 der EU-VO 2018/858 einschl. Neuzulassun",
+          "Nationale Einzelgenehmigung nach Art.45 der EU-VO 2018/858 einschl. Neuzulassung",
           "Neuerteilung der Fahrerlaubnis nach vorangegangenem Entzug",
           "Neusiegelung der Kennzeichen wegen Unleserlichkeit",
           "Neuzulassung eines Fahrzeuges",
@@ -11651,6 +11652,7 @@
           "Schl\u00fcsselzahl 96, 196 oder 197",
           "Sonstige Beratung/Ausstellung von Bescheinigung/Kl\u00e4rung des Status (ABH, 25 min)",
           "Sonstige nicht aufgef\u00fchrte Zulassungsvorg\u00e4nge",
+          "Sonstige nicht aufgef\u00fchrte Zulassungsvorg\u00e4nge (Keine F\u00fchrerscheinvorg\u00e4nge)",
           "Sonstiges",
           "Technische \u00c4nderung in den Fahrzeugpapieren",
           "Umkennzeichnung eines Fahrzeuges (z.B. Diebstahl/Verlust)",
@@ -11667,6 +11669,7 @@
           "Umschreibung eines registrierten Fahrzeuges (ohne Halterwechsel)",
           "Umtausch eines deutschen F\u00fchrerscheins (alt gegen neu)",
           "Unbedenklichkeitsbescheinigung bei Verlust einer Betriebserlaubnis f\u00fcr z. B. Mof",
+          "Unbedenklichkeitsbescheinigung bei Verlust einer Betriebserlaubnis f\u00fcr z.B. Mofa",
           "Untersuchungsberechtigungsscheine",
           "Verl\u00e4ngerung Visum (ABH)",
           "Verl\u00e4ngerung der Fahrerlaubnis Klassen C und D",
@@ -12066,6 +12069,7 @@
           "Gewerbezentralregister Auskunft",
           "Kinderreisepass beantragen",
           "Kinderreisepass wegen Namens\u00e4nderung beantragen",
+          "Landesfamilienpass",
           "Lebensbescheinigung",
           "Meldebescheinigung",
           "Melderegister Auskunft beantragen",
@@ -22520,6 +22524,7 @@
           "Personalausweis beantragen",
           "Personalausweis/Reisepass/ eID-Card abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Reisepass beantragen",
+          "Verlustmeldung von Ausweisdokumenten 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Vorl\u00e4ufiger Personalausweis 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Vorl\u00e4ufiger Reisepass 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "eID Karte 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5"
@@ -30721,6 +30726,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30746,6 +30753,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30771,6 +30780,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30796,6 +30807,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30821,6 +30834,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30846,6 +30861,8 @@
           "Lebensbescheinigung",
           "Parkberechtigung f\u00fcr Schwerbehinderte",
           "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt",
           "Reisepass",
           "Sonstiges",
           "Ummeldung pro Person",
@@ -30891,6 +30908,7 @@
       "165": {
         "name": "KFZ-Zulassungsstelle, F\u00fchrerscheine, Fahrschulen",
         "services": [
+          "F\u00fchrerschein Pflichtumtausch",
           "Privatkunde"
         ]
       },
@@ -31072,6 +31090,14 @@
         "services": [
           "Beantragung von Arbeitslosengeld 2 (ALG 2)",
           "Leistungen f\u00fcr Bildung und Teilhabe"
+        ]
+      },
+      "188": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Personalausweis",
+          "Personalausweis_",
+          "Personalausweis_alt"
         ]
       }
     }
