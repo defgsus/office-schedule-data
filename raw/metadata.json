@@ -11319,6 +11319,19 @@
           "Widerspruch"
         ]
       },
+      "21": {
+        "name": "Ausl\u00e4nderbeh\u00f6rde LK Fulda",
+        "services": [
+          "Aufenthaltsgestattung verl\u00e4ngern",
+          "Beantragung Zweckwechsel",
+          "Ersterteilung Aufenthaltserlaubnis",
+          "Niederlassungserlaubnis \u00fcbertragen",
+          "Reiseausweis",
+          "Umzug mit Wohnsitzauflage",
+          "Verl\u00e4ngerung Aufenthaltserlaubnis",
+          "\u00c4nderung Studium / Personalien / Besch\u00e4ftigung"
+        ]
+      },
       "22": {
         "name": "Fachdienst Stra\u00dfenverkehr - Fulda",
         "services": [
@@ -30971,11 +30984,13 @@
         "name": "Versicherungsamt",
         "services": [
           "Antrag auf Altersrente (ca. 3 bis 6 Monate vor Rentenbeginn - keine Beratung)",
+          "Antrag auf Erziehungsrente",
           "Antrag auf Kindererziehungszeiten/Kinderber\u00fccksichtigungszeiten",
           "Antrag auf Kl\u00e4rung von Versicherungszeiten (Kontenkl\u00e4rung - keine Beratung)",
           "Antrag auf Rente wegen verminderter Erwerbsf\u00e4higkeit",
           "Antrag auf Waisenrente nach dem 18. Lebensjahr",
           "Antrag auf Waisenrente vor dem 18. Lebensjahr",
+          "Antrag auf Weiterzahlung einer Rente wegen verminderter Erwerbsf\u00e4higkeit (kein Erstantrag)",
           "Antrag auf Witwenrente/Witwerrente",
           "Antrag auf freiwillige Beitragszahlungen/ Beitragserstattungen",
           "Antrag auf medizinische Rehabilitation",
@@ -31064,6 +31079,13 @@
           "Reisepass"
         ]
       },
+      "181": {
+        "name": "B\u00fcrgeramt",
+        "services": [
+          "Reisepass",
+          "Sonstiges"
+        ]
+      },
       "183": {
         "name": "Jobcenter M\u00fcnster",
         "services": [
@@ -31097,7 +31119,8 @@
         "services": [
           "Personalausweis",
           "Personalausweis_",
-          "Personalausweis_alt"
+          "Personalausweis_alt",
+          "Reisepass"
         ]
       }
     }
@@ -35813,6 +35836,12 @@
           "Ausgabe der Erhebungsunterlagen 01",
           "Gemeinsames Ausf\u00fcllen der Erhebungsunterlagen mit der Erhebungsstelle 01",
           "R\u00fcckgabe der Erhebungsunterlagen 01"
+        ]
+      },
+      "415/8937": {
+        "name": "Vorstellung im Theater am Torbogen",
+        "services": [
+          "Vorstellung im Thater am Torbogen  01"
         ]
       },
       "425/5936": {
