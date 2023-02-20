@@ -8065,7 +8065,11 @@
           "1.4 R\u00fccken goes Online",
           "2 Digitale aktive Mini-Pause",
           "3 Ich fange an... und tu was ich kann! Stressbew\u00e4ltigung im Beruf",
-          "4 Entspannungstechniken"
+          "4 Entspannungstechniken",
+          "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung"
         ]
       },
       "76904": {
@@ -8266,6 +8270,7 @@
           "Achtsamkeit - sich selbst bewusst(er) steuern zu k\u00f6nnen",
           "Arbeitsrecht f\u00fcr F\u00fchrungskr\u00e4fte",
           "Ausbalancieren der Grundbed\u00fcrfnisse im F\u00fchrungsprozess",
+          "Benefits mit einer Prise Gl\u00fcck",
           "Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "B\u00fcrger - Kunde - 'Gegner'",
           "Digitalisierung - Arbeit 4.0",
@@ -9353,6 +9358,16 @@
     "scraper": "tempus",
     "url": "https://meintermin.essen.de/termine/index.php?anlagennr=89&anwendung=1",
     "locations": {
+      "852/3251": {
+        "name": "Wohngeld",
+        "services": [
+          "Erstantrag auf Mietzuschuss f\u00fcr Mieter von Wohnraum",
+          "Erstantrag f\u00fcr Eigent\u00fcmer von Wohnungen oder H\u00e4usern",
+          "Sonstiges",
+          "Weiterleistungsantrag auf Mietzuschuss f\u00fcr Mieter von Wohnraum",
+          "Weiterleistungsantrag f\u00fcr Eigent\u00fcmer von Wohnungen oder H\u00e4usern"
+        ]
+      },
       "852/3402": {
         "name": "Elterngeld-Anliegen",
         "services": [
@@ -25883,11 +25898,16 @@
       "171": {
         "name": "Kfz-Zulassung",
         "services": [
+          "Ersatz (Unbedenklichkeitsbescheinigung) der Betriebserlaubnis f\u00fcr Roller/Mofas/...",
           "Ersatz Rotes Heft H\u00e4ndlerkennzeichen",
+          "Ersatz der Betriebserlaubnis (Unbedenklichkeitsbescheinigung) f\u00fcr Roller/Mofas/...",
           "Ersatz- & Erteilung der Betriebserlaubnis f\u00fcr Roller/Mofas/...",
           "Ersatz-Betriebserlaubnis f\u00fcr Roller/Mofas/...",
           "Ersatz-Betriebserlaubnis f\u00fcr Roller/Mofas/Sportanh\u00e4nger",
+          "Erteilung der Betriebserlaubnis (Genehmigung)",
+          "Erteilung der Betriebserlaubnis (Genehmigung) f\u00fcr Roller/Mofas/...",
           "Rote Dauerkennzeichen (06/07) beantragen/verl\u00e4ngern/abmelden",
+          "Rote Dauerkennzeichen f\u00fcr H\u00e4ndler/Oldtimer (06er/07er) beantragen/verl\u00e4ngern/abmelden",
           "Rote Dauerkennzeichen f\u00fcr H\u00e4ndler/Oldtimer beantragen/verl\u00e4ngern/abmelden"
         ]
       },
@@ -32567,6 +32587,59 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/OEGK",
     "locations": {
+      "154808": {
+        "name": "Termine in Ober\u00f6sterreich<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Mittwoch, 10.05.2023</br>18:00 - 19:30 Uhr"
+        ]
+      },
+      "154809": {
+        "name": "Termine im Burgenland<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Montag, 17.04.2023</br>18:30 - 20:00 Uhr"
+        ]
+      },
+      "154810": {
+        "name": "Termine in Wien<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Donnerstag, 11.05.2023</br>17:00 - 18:30 Uhr",
+          "Montag, 08.05.2023</br>17:00 - 18:30 Uhr"
+        ]
+      },
+      "154811": {
+        "name": "Termine in Tirol<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Montag, 08.05.2023</br>17:30 - 19:00 Uhr",
+          "Montag, 15.05.2023</br>17:30 - 19:00 Uhr"
+        ]
+      },
+      "154812": {
+        "name": "Termine in Vorarlberg<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Dienstag, 18.04.2023</br>18:00 - 19:30 Uhr"
+        ]
+      },
+      "154813": {
+        "name": "Termine in Salzburg<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Mittwoch, 03.05.2023</br>17:00 - 19:00 Uhr",
+          "Mittwoch, 19.04.2023</br>17:00 - 19:00 Uhr"
+        ]
+      },
+      "154814": {
+        "name": "Termine in der Steiermark<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Montag, 08.05.2023</br>18:00 - 19:30 Uhr",
+          "Montag, 17.04.2023</br>18:00 - 19:30 Uhr"
+        ]
+      },
+      "154815": {
+        "name": "Termine in K\u00e4rnten<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
+        "services": [
+          "Dienstag, 18.04.2023</br>18:15 - 19:45 Uhr",
+          "Dienstag, 25.04.2023</br>18:15 - 19:45 Uhr"
+        ]
+      },
       "53167": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
@@ -33305,7 +33378,12 @@
       "72363": {
         "name": "\u00d6GK Kundenservice Amstetten Gesundheitsf\u00f6rderung und Pr\u00e4vention<br/><br/>F\u00fcr jede Person ist eine eigene Anmeldung erforderlich",
         "services": [
+          "Dienstag, 25.04.2023</br>18:30 - 20:00 Uhr",
           "Familiengesundheitstag Ybbs",
+          "Mittwoch, 03.05.2023</br>18:30 - 20:00 Uhr",
+          "Mittwoch, 26.04.2023</br>18:30 - 20:00 Uhr",
+          "Montag, 15.05.2023</br>18:30 - 20:00 Uhr",
+          "Montag, 24.04.2023</br>18:30 - 20:00 Uhr",
           "Nieder\u00f6sterreichischer M\u00e4nnergesundheitstag",
           "Vortrag \"Diabetespr\u00e4vention\"",
           "Vortrag \"Diabetespr\u00e4vention\" ",
