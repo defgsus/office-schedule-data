@@ -25386,6 +25386,7 @@
           "Dauerhafte Verpflichtungserkl\u00e4rung zu Studienzwecken/Eheschlie\u00dfung",
           "Fischereischein",
           "Landesfamilienpass / L-Card",
+          "Verpflichtungserkl\u00e4rung zu Besuchszwecken",
           "Verpflichtungserkl\u00e4rung zu Besuchszwecken (Termin nach Nachname des Besuchers!)",
           "Verpflichtungserkl\u00e4rung zu Studienzwecken/Verpflichtungserkl\u00e4rung zur Eheschlie\u00df",
           "polizeiliches F\u00fchrungszeugnis"
@@ -25431,6 +25432,7 @@
           "Dauerhafte Verpflichtungserkl\u00e4rung zu Studienzwecken/Eheschlie\u00dfung",
           "Fischereischein",
           "Landesfamilienpass / L-Card",
+          "Verpflichtungserkl\u00e4rung zu Besuchszwecken",
           "Verpflichtungserkl\u00e4rung zu Besuchszwecken (Termin nach Nachname des Besuchers!)",
           "Verpflichtungserkl\u00e4rung zu Studienzwecken/Verpflichtungserkl\u00e4rung zur Eheschlie\u00df",
           "polizeiliches F\u00fchrungszeugnis"
@@ -25487,6 +25489,7 @@
           "Dauerhafte Verpflichtungserkl\u00e4rung zu Studienzwecken/Eheschlie\u00dfung",
           "Fischereischein",
           "Landesfamilienpass / L-Card",
+          "Verpflichtungserkl\u00e4rung zu Besuchszwecken",
           "Verpflichtungserkl\u00e4rung zu Besuchszwecken (Termin nach Nachname des Besuchers!)",
           "Verpflichtungserkl\u00e4rung zu Studienzwecken/Verpflichtungserkl\u00e4rung zur Eheschlie\u00df",
           "polizeiliches F\u00fchrungszeugnis"
@@ -33899,6 +33902,7 @@
       "539/8216": {
         "name": "Aufenthaltserlaubnisse f\u00fcr Ukrainer NACH REGISTRIERUNG",
         "services": [
+          "Abgabe Verpflichtungserkl\u00e4rung f\u00fcr Erdbebenopfer T\u00fcrkei/Syrien",
           "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder ab dem 6. Lebensjahr",
           "Fl\u00fcchtlinge aus der Ukraine, Erwachsene und Kinder bis zum 5. Lebensjahr",
           "Fl\u00fcchtlinge aus der Ukraine, KINDER bis zum 5. Lebensjahr"
@@ -37068,6 +37072,7 @@
       "256": {
         "name": "AutoService",
         "services": [
+          "Abholung F\u00fchrerschein",
           "Umtausch eines F\u00fchrerscheins"
         ]
       }
