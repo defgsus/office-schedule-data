@@ -921,7 +921,10 @@
           "Abmeldung",
           "Anmeldung aus dem Ausland",
           "Anmeldung von au\u00dferhalb",
+          "Auskunft aus dem Melderegister",
+          "KFZ-Schein \u00c4nderung bei Umzug innerhalb des Rhein.-Bergischen Kreises",
           "KFZ-Schein \u00c4nderung bei Umzug innerhalb des Rheinisch-Bergischen Kreises",
+          "Status\u00e4nderung Nebenwohnung zu Hauptwohnung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Ummeldung innerhalb Bergisch Gladbachs",
           "einfache o. erweiterte Meldebescheinigung/Lebensbescheinigung",
           "\u00c4nderung Nebenwohnung zu Hauptwohnung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4"
@@ -9243,8 +9246,11 @@
         "name": "Sonstige Fahrerlaubnisangelegenheiten",
         "services": [
           "Abholung FS",
+          "Abholung FS / \u00c4nderung Auflagen",
+          "Fahrschulwechsel",
           "Fahrschulwechsel/\u00c4nderung Pr\u00fcfungssprache",
           "Internationaler F\u00fchrerschein",
+          "Karteikartenabschrift",
           "Karteikartenabschrift/Auflagen"
         ]
       },
@@ -9260,6 +9266,7 @@
         "name": "Wiedererteilung nach Entzug / Entziehungsverfahren",
         "services": [
           "Entziehung Fahrerlaubnis",
+          "Neuerteilung der Fahrerlaubnis",
           "Wiedererteilung der Fahrerlaubnis",
           "\u00dcberpr\u00fcfung Kraftfahreignung"
         ]
@@ -9866,6 +9873,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -9939,6 +9947,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10013,6 +10022,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10087,6 +10097,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10217,6 +10228,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10290,6 +10302,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10357,6 +10370,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10418,6 +10432,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10479,6 +10494,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -13798,6 +13814,76 @@
           "Wohnsitz - An-, Ab- und Ummeldung"
         ]
       },
+      "157642": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 ABI Videoberatung Schule",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder",
+          "Andere Impfung Kinder und HPV Impfung",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auff.-Impfung Dipt.Tet.Pol.Pert. oder Masern-Mumps-R\u00f6teln",
+          "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "Einfahrt Ressourcenpark Registrierung",
+          "FSME-Zeckenschutz f\u00fcr Erwachsene",
+          "FSME-Zeckenschutz f\u00fcr Kinder bis zum 16. Lebensjahr",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Handy-Signatur (bis Juni 2023)",
+          "Heizkostenzuschuss Land Steiermark",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Lebensbest\u00e4tigung",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung / Fund",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
       "73739": {
         "name": "Abteilung f\u00fcr Bildung und Integration",
         "services": [
@@ -14733,6 +14819,8 @@
         "name": "Gesundheitsamt",
         "services": [
           "Andere Impfung Kinder",
+          "Andere Impfung Kinder und HPV Impfung",
+          "Auff.-Impfung Dipt.Tet.Pol.Pert. oder Masern-Mumps-R\u00f6teln",
           "Auffrischungs-Impfung Diphterie/Tetanus/Polio/Pertussis, Masern",
           "FSME-Zeckenschutz Impfung",
           "FSME-Zeckenschutz f\u00fcr Erwachsene",
@@ -33945,6 +34033,7 @@
         "name": "Meldeangelegenheiten (Wohnsitz)",
         "services": [
           "Abmeldung eines Wohnsitzes 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Anmeldung von au\u00dferhalb  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Anmeldung von au\u00dferhalb 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Ummeldung innerhalb 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Zuzug aus dem Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen"
@@ -33953,6 +34042,7 @@
       "297/3899": {
         "name": "Amtliche Bescheinigungen",
         "services": [
+          "Melde-/Lebensbescheinigung  01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Melde-/Lebensbescheinigung (auch online verf\u00fcgbar) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Melde-/Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Selbstauskunft Steuer-ID 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte4\u00a0\u00a0 Ausk\u00fcnfte5\u00a0\u00a0 Ausk\u00fcnfte",
@@ -35366,6 +35456,7 @@
       "248/2894": {
         "name": "Meldeangelegenheiten",
         "services": [
+          "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Abmeldung ins Ausland",
           "Anmeldung in Rheda-Wiedenbr\u00fcck",
           "Meldebescheinigung",
