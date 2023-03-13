@@ -10611,6 +10611,12 @@
           "Gewerbeanmeldung",
           "Gewerbeummeldung"
         ]
+      },
+      "592/9067": {
+        "name": "Standesamt",
+        "services": [
+          "Geburtsurkunde beantragen 01\u00a0\u00a0 Geburtsurkunde2\u00a0\u00a0 Geburtsurkunden3\u00a0\u00a0 Geburtsurkunden4\u00a0\u00a0 Geburtsurkunden"
+        ]
       }
     }
   },
@@ -15367,12 +15373,16 @@
           "Reisepass/Personalausweis (inkl. ID Austria)",
           "Schulung Sprengelwahlbeh\u00f6rden",
           "Staatsb\u00fcrgerschaftsnachweis",
-          "Wahlbeh\u00f6rdenschulung"
+          "Wahlbeh\u00f6rdenschulung",
+          "Wahlbeh\u00f6rdenschulung30",
+          "Wahlbeh\u00f6rdenschulung75"
         ]
       },
       "148476": {
         "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
         "services": [
+          "Amtliche Abmeldungen",
+          "Befreiung Geschworene und Sch\u00f6ffen",
           "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
           "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
           "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
@@ -15380,9 +15390,15 @@
           "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
           "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
           "ID Austria",
+          "Meldewesen",
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis (inkl. ID Austria)",
-          "Staatsb\u00fcrgerschaftsnachweis"
+          "Staatsb\u00fcrgerschaftsnachweis",
+          "Test20",
+          "Test30",
+          "Wahlbeh\u00f6rdenschulung30",
+          "Wahlbeh\u00f6rdenschulung75",
+          "Wahlen"
         ]
       },
       "82814": {
@@ -15527,6 +15543,8 @@
       "91287": {
         "name": "Online Antrag Eheschlie\u00dfung/Verpartnerung",
         "services": [
+          "Amtliche Abmeldungen",
+          "Befreiung Geschworene und Sch\u00f6ffen",
           "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
           "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
           "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
@@ -15534,11 +15552,15 @@
           "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
           "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
           "ID Austria",
+          "Meldewesen",
           "Namens\u00e4nderung/Namensbestimmung",
           "Reisepass/Personalausweis",
           "Reisepass/Personalausweis (ab 3. November inkl. ID Austria)",
           "Reisepass/Personalausweis (inkl. ID Austria)",
-          "Staatsb\u00fcrgerschaftsnachweis"
+          "Staatsb\u00fcrgerschaftsnachweis",
+          "Test20",
+          "Test30",
+          "Wahlen"
         ]
       }
     }
@@ -31433,6 +31455,7 @@
           "Meldebescheinigung",
           "Melderegisterauskunft",
           "Nordhausen-Pass",
+          "Onlinefunktion aktivieren/PIN setzen",
           "Personalausweis",
           "Personenstands\u00e4nderungen",
           "Reisepass",
@@ -40852,12 +40875,15 @@
       "109/3575": {
         "name": "Eschwege: F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Abholung (vorl\u00e4ufiger) F\u00fchrerschein",
           "Abholung F\u00fchrerschein",
           "Abholung F\u00fchrerschein 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
           "Ersatzf\u00fchrerschein (Verlust/Diebstahl) 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
           "Erteilung/Erweiterung einer Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Fahrgastbef\u00f6rderung",
           "Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Internationaler F\u00fchrerschein",
@@ -40869,6 +40895,8 @@
           "Umtausch F\u00fchrerschein",
           "Umtausch F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Verl\u00e4ngerung C- und D-Klassen / Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung C- und D-Klassen und/oder Fahrerqualifizierungsnachweis",
+          "Verl\u00e4ngerung C- und D-Klassen und/oder Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "sonstige F\u00fchrerscheinangelegenheiten",
@@ -41031,12 +41059,15 @@
       "110/3575": {
         "name": "Witzenhausen: F\u00fchrerscheinangelegenheiten",
         "services": [
+          "Abholung (vorl\u00e4ufiger) F\u00fchrerschein",
           "Abholung F\u00fchrerschein",
           "Abholung F\u00fchrerschein 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatzf\u00fchrerschein (Verlust/Diebstahl)",
           "Ersatzf\u00fchrerschein (Verlust/Diebstahl) 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Erteilung/Erweiterung einer Fahrerlaubnis",
           "Erteilung/Erweiterung einer Fahrerlaubnis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
+          "Fahrerlaubnis zur Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Fahrgastbef\u00f6rderung",
           "Fahrgastbef\u00f6rderung 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Internationaler F\u00fchrerschein",
@@ -41048,6 +41079,8 @@
           "Umtausch F\u00fchrerschein",
           "Umtausch F\u00fchrerschein 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Verl\u00e4ngerung C- und D-Klassen / Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung C- und D-Klassen und/oder Fahrerqualifizierungsnachweis",
+          "Verl\u00e4ngerung C- und D-Klassen und/oder Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis",
           "Verl\u00e4ngerung Fahrerlaubnis/Fahrerqualifizierungsnachweis 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge",
           "sonstige F\u00fchrerscheinangelegenheiten",
