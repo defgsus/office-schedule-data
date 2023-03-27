@@ -1233,6 +1233,72 @@
           "Erwerb VHS-Programm"
         ]
       },
+      "232/2693": {
+        "name": "Gadderbaum: Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/Reisepass/eID-Karte",
+          "Kinderreisepass (bis 12 Jahre) beantragen/verl\u00e4ngern/neues Lichtbild",
+          "Kl\u00e4rung einer Personalausweis-/Pass-/Kinderreisepassangelegenheit",
+          "Neusetzen PIN-Nummer/Freischalten Online-Ausweisfunktion beim Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Personalausweis und Reisepass nach Einb\u00fcrgerung beantragen",
+          "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "eID-Karte (nur f\u00fcr EU-B\u00fcrger/innen) beantragen"
+        ]
+      },
+      "232/2696": {
+        "name": "Gadderbaum: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung (aus Bielefeld ins Ausland/ einer Nebenwohnung)",
+          "Anmeldung in Bielefeld aus dem Ausland",
+          "Anmeldung in Bielefeld aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung innerhalb von Bielefeld",
+          "Urkunden/Unterlagen nachreichen",
+          "Zulassungsbescheinigung I \u00e4ndern nach bereits erfolgter Ummeldung",
+          "\u00c4nderung pers\u00f6nlicher Daten"
+        ]
+      },
+      "232/2700": {
+        "name": "Gadderbaum: Weitere Dienstleistungen",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Besuchertagesausweise",
+          "Bewohnerparkausweis",
+          "Fischereischeinausstellung",
+          "F\u00fchrerschein beantragen",
+          "Hundesteuerangelegenheit",
+          "Schwerbehindertenparkberechtigung",
+          "Sperrm\u00fcllabfuhr",
+          "Verpflichtungserkl\u00e4rung (Einladung) f\u00fcr Touristenaufenthalte"
+        ]
+      },
+      "232/2703": {
+        "name": "Gadderbaum: Bescheinigungen, Antr\u00e4ge, Ausk\u00fcnfte, Beglaubigungen",
+        "services": [
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Beglaubigung Unterschrift",
+          "Beglaubigung von Dokumenten",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "Melderegisterauskunft/Hausauskunft",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "232/2724": {
+        "name": "Gadderbaum: Sonstiges",
+        "services": [
+          "Anmeldung von Ehejubil\u00e4en",
+          "Erwerb Amtlicher Stadtplan",
+          "Erwerb Fernsprechverzeichnis Stadt Bielefeld (rotes Telefonbuch)",
+          "Erwerb Restm\u00fclls\u00e4cke (graue M\u00fclls\u00e4cke)",
+          "Erwerb VHS-Programm"
+        ]
+      },
       "233/2693": {
         "name": "Heepen: Pass-/Ausweisangelegenheiten",
         "services": [
@@ -1301,6 +1367,138 @@
           "Erwerb VHS-Programm"
         ]
       },
+      "234/2693": {
+        "name": "Brake: Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/Reisepass/eID-Karte",
+          "Kinderreisepass (bis 12 Jahre) beantragen/verl\u00e4ngern/neues Lichtbild",
+          "Kl\u00e4rung einer Personalausweis-/Pass-/Kinderreisepassangelegenheit",
+          "Neusetzen PIN-Nummer/Freischalten Online-Ausweisfunktion beim Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Personalausweis und Reisepass nach Einb\u00fcrgerung beantragen",
+          "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "eID-Karte (nur f\u00fcr EU-B\u00fcrger/innen) beantragen"
+        ]
+      },
+      "234/2696": {
+        "name": "Brake: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung (aus Bielefeld ins Ausland/ einer Nebenwohnung)",
+          "Anmeldung in Bielefeld aus dem Ausland",
+          "Anmeldung in Bielefeld aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung innerhalb von Bielefeld",
+          "Urkunden/Unterlagen nachreichen",
+          "Zulassungsbescheinigung I \u00e4ndern nach bereits erfolgter Ummeldung",
+          "\u00c4nderung pers\u00f6nlicher Daten"
+        ]
+      },
+      "234/2700": {
+        "name": "Brake: Weitere Dienstleistungen",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Besuchertagesausweise",
+          "Bewohnerparkausweis",
+          "Fischereischeinausstellung",
+          "F\u00fchrerschein beantragen",
+          "Hundesteuerangelegenheit",
+          "Schwerbehindertenparkberechtigung",
+          "Sperrm\u00fcllabfuhr",
+          "Verpflichtungserkl\u00e4rung (Einladung) f\u00fcr Touristenaufenthalte"
+        ]
+      },
+      "234/2703": {
+        "name": "Brake: Bescheinigungen, Antr\u00e4ge, Ausk\u00fcnfte, Beglaubigungen",
+        "services": [
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Beglaubigung Unterschrift",
+          "Beglaubigung von Dokumenten",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "Melderegisterauskunft/Hausauskunft",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "234/2724": {
+        "name": "Brake: Sonstiges",
+        "services": [
+          "Anmeldung von Ehejubil\u00e4en",
+          "Erwerb Amtlicher Stadtplan",
+          "Erwerb Fernsprechverzeichnis Stadt Bielefeld (rotes Telefonbuch)",
+          "Erwerb Restm\u00fclls\u00e4cke (graue M\u00fclls\u00e4cke)",
+          "Erwerb VHS-Programm"
+        ]
+      },
+      "235/2693": {
+        "name": "Dornberg: Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/Reisepass/eID-Karte",
+          "Kinderreisepass (bis 12 Jahre) beantragen/verl\u00e4ngern/neues Lichtbild",
+          "Kl\u00e4rung einer Personalausweis-/Pass-/Kinderreisepassangelegenheit",
+          "Neusetzen PIN-Nummer/Freischalten Online-Ausweisfunktion beim Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Personalausweis und Reisepass nach Einb\u00fcrgerung beantragen",
+          "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "eID-Karte (nur f\u00fcr EU-B\u00fcrger/innen) beantragen"
+        ]
+      },
+      "235/2696": {
+        "name": "Dornberg: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung (aus Bielefeld ins Ausland/ einer Nebenwohnung)",
+          "Anmeldung in Bielefeld aus dem Ausland",
+          "Anmeldung in Bielefeld aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung innerhalb von Bielefeld",
+          "Urkunden/Unterlagen nachreichen",
+          "Zulassungsbescheinigung I \u00e4ndern nach bereits erfolgter Ummeldung",
+          "\u00c4nderung pers\u00f6nlicher Daten"
+        ]
+      },
+      "235/2700": {
+        "name": "Dornberg: Weitere Dienstleistungen",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Besuchertagesausweise",
+          "Bewohnerparkausweis",
+          "Fischereischeinausstellung",
+          "F\u00fchrerschein beantragen",
+          "Hundesteuerangelegenheit",
+          "Schwerbehindertenparkberechtigung",
+          "Sperrm\u00fcllabfuhr",
+          "Verpflichtungserkl\u00e4rung (Einladung) f\u00fcr Touristenaufenthalte"
+        ]
+      },
+      "235/2703": {
+        "name": "Dornberg: Bescheinigungen, Antr\u00e4ge, Ausk\u00fcnfte, Beglaubigungen",
+        "services": [
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Beglaubigung Unterschrift",
+          "Beglaubigung von Dokumenten",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "Melderegisterauskunft/Hausauskunft",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "235/2724": {
+        "name": "Dornberg: Sonstiges",
+        "services": [
+          "Anmeldung von Ehejubil\u00e4en",
+          "Erwerb Amtlicher Stadtplan",
+          "Erwerb Fernsprechverzeichnis Stadt Bielefeld (rotes Telefonbuch)",
+          "Erwerb Restm\u00fclls\u00e4cke (graue M\u00fclls\u00e4cke)",
+          "Erwerb VHS-Programm"
+        ]
+      },
       "236/2693": {
         "name": "J\u00f6llenbeck: Pass-/Ausweisangelegenheiten",
         "services": [
@@ -1361,6 +1559,72 @@
       },
       "236/2724": {
         "name": "J\u00f6llenbeck: Sonstiges",
+        "services": [
+          "Anmeldung von Ehejubil\u00e4en",
+          "Erwerb Amtlicher Stadtplan",
+          "Erwerb Fernsprechverzeichnis Stadt Bielefeld (rotes Telefonbuch)",
+          "Erwerb Restm\u00fclls\u00e4cke (graue M\u00fclls\u00e4cke)",
+          "Erwerb VHS-Programm"
+        ]
+      },
+      "237/2693": {
+        "name": "Schildesche: Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/Reisepass/eID-Karte",
+          "Kinderreisepass (bis 12 Jahre) beantragen/verl\u00e4ngern/neues Lichtbild",
+          "Kl\u00e4rung einer Personalausweis-/Pass-/Kinderreisepassangelegenheit",
+          "Neusetzen PIN-Nummer/Freischalten Online-Ausweisfunktion beim Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Personalausweis und Reisepass nach Einb\u00fcrgerung beantragen",
+          "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "eID-Karte (nur f\u00fcr EU-B\u00fcrger/innen) beantragen"
+        ]
+      },
+      "237/2696": {
+        "name": "Schildesche: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung (aus Bielefeld ins Ausland/ einer Nebenwohnung)",
+          "Anmeldung in Bielefeld aus dem Ausland",
+          "Anmeldung in Bielefeld aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung innerhalb von Bielefeld",
+          "Urkunden/Unterlagen nachreichen",
+          "Zulassungsbescheinigung I \u00e4ndern nach bereits erfolgter Ummeldung",
+          "\u00c4nderung pers\u00f6nlicher Daten"
+        ]
+      },
+      "237/2700": {
+        "name": "Schildesche: Weitere Dienstleistungen",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Besuchertagesausweise",
+          "Bewohnerparkausweis",
+          "Fischereischeinausstellung",
+          "F\u00fchrerschein beantragen",
+          "Hundesteuerangelegenheit",
+          "Schwerbehindertenparkberechtigung",
+          "Sperrm\u00fcllabfuhr",
+          "Verpflichtungserkl\u00e4rung (Einladung) f\u00fcr Touristenaufenthalte"
+        ]
+      },
+      "237/2703": {
+        "name": "Schildesche: Bescheinigungen, Antr\u00e4ge, Ausk\u00fcnfte, Beglaubigungen",
+        "services": [
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Beglaubigung Unterschrift",
+          "Beglaubigung von Dokumenten",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "Melderegisterauskunft/Hausauskunft",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "237/2724": {
+        "name": "Schildesche: Sonstiges",
         "services": [
           "Anmeldung von Ehejubil\u00e4en",
           "Erwerb Amtlicher Stadtplan",
@@ -1497,6 +1761,72 @@
       },
       "239/2724": {
         "name": "Sennestadt: Sonstiges",
+        "services": [
+          "Anmeldung von Ehejubil\u00e4en",
+          "Erwerb Amtlicher Stadtplan",
+          "Erwerb Fernsprechverzeichnis Stadt Bielefeld (rotes Telefonbuch)",
+          "Erwerb Restm\u00fclls\u00e4cke (graue M\u00fclls\u00e4cke)",
+          "Erwerb VHS-Programm"
+        ]
+      },
+      "240/2693": {
+        "name": "Hillegossen: Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Abholung Personalausweis/Reisepass/eID-Karte",
+          "Kinderreisepass (bis 12 Jahre) beantragen/verl\u00e4ngern/neues Lichtbild",
+          "Kl\u00e4rung einer Personalausweis-/Pass-/Kinderreisepassangelegenheit",
+          "Neusetzen PIN-Nummer/Freischalten Online-Ausweisfunktion beim Personalausweis",
+          "Personalausweis beantragen",
+          "Personalausweis und Reisepass beantragen",
+          "Personalausweis und Reisepass nach Einb\u00fcrgerung beantragen",
+          "Personalausweis und vorl\u00e4ufigen Personalausweis beantragen",
+          "Reisepass beantragen",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "eID-Karte (nur f\u00fcr EU-B\u00fcrger/innen) beantragen"
+        ]
+      },
+      "240/2696": {
+        "name": "Hillegossen: Meldeangelegenheiten",
+        "services": [
+          "Abmeldung (aus Bielefeld ins Ausland/ einer Nebenwohnung)",
+          "Anmeldung in Bielefeld aus dem Ausland",
+          "Anmeldung in Bielefeld aus dem Inland",
+          "Kl\u00e4rung einer Meldeangelegenheit",
+          "Ummeldung innerhalb von Bielefeld",
+          "Urkunden/Unterlagen nachreichen",
+          "Zulassungsbescheinigung I \u00e4ndern nach bereits erfolgter Ummeldung",
+          "\u00c4nderung pers\u00f6nlicher Daten"
+        ]
+      },
+      "240/2700": {
+        "name": "Hillegossen: Weitere Dienstleistungen",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Besuchertagesausweise",
+          "Bewohnerparkausweis",
+          "Fischereischeinausstellung",
+          "F\u00fchrerschein beantragen",
+          "Hundesteuerangelegenheit",
+          "Schwerbehindertenparkberechtigung",
+          "Sperrm\u00fcllabfuhr",
+          "Verpflichtungserkl\u00e4rung (Einladung) f\u00fcr Touristenaufenthalte"
+        ]
+      },
+      "240/2703": {
+        "name": "Hillegossen: Bescheinigungen, Antr\u00e4ge, Ausk\u00fcnfte, Beglaubigungen",
+        "services": [
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Beglaubigung Unterschrift",
+          "Beglaubigung von Dokumenten",
+          "F\u00fchrungszeugnis beantragen",
+          "Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung/Lebensbescheinigung",
+          "Melderegisterauskunft/Hausauskunft",
+          "Untersuchungsberechtigungsschein"
+        ]
+      },
+      "240/2724": {
+        "name": "Hillegossen: Sonstiges",
         "services": [
           "Anmeldung von Ehejubil\u00e4en",
           "Erwerb Amtlicher Stadtplan",
@@ -1748,6 +2078,9 @@
         "services": [
           "Anerkennung einer ausl\u00e4ndischen Scheidung",
           "Anmeldung Eheschlie\u00dfung  (deutsche Staatsangeh\u00f6rigkeit + Geburt in Deutschland)",
+          "Anmeldung Eheschlie\u00dfung (deutsche Staatsangeh\u00f6rigkeit + Geburt in Deutschland)",
+          "Anmeldung Eheschlie\u00dfung - Geburt im Ausland und/oder ausl. Staatsangeh\u00f6rigkeit",
+          "Anmeldung Eheschlie\u00dfung - deutsche Staatsangeh\u00f6rigkeit und Geburt in Deutschland",
           "Anmeldung zur Eheschlie\u00dfung bei Auslandsbezug",
           "Beratung/Anmeldung zur Eheschlie\u00dfung",
           "Beratung/Anmeldung zur Eheschlie\u00dfung mit ausl\u00e4ndischer Beteiligung",
@@ -1755,9 +2088,12 @@
           "Beurkundung einer im Ausland geschlossenen Ehe",
           "Dolmetscher (Ehe)",
           "Ehef\u00e4higkeitszeugnis (deutsche Staatsangeh\u00f6rigkeit + Geburt in Deutschland)",
+          "Ehef\u00e4higkeitszeugnis - Geburt im Ausland und/oder ausl. Staatsangeh\u00f6rigkeit",
+          "Ehef\u00e4higkeitszeugnis - deutsche Staatsangeh\u00f6rigkeit und Geburt in Deutschland",
           "Ehef\u00e4higkeitszeugnis bei Auslandsbezug",
           "Ehef\u00e4higkeitszeugnis mit ausl\u00e4ndischer Beteiligung",
-          "Ehef\u00e4higkeitszeugnis ohne ausl\u00e4ndische Beteiligung"
+          "Ehef\u00e4higkeitszeugnis ohne ausl\u00e4ndische Beteiligung",
+          "Kl\u00e4rung notwendiger Dokumente"
         ]
       }
     }
@@ -14850,6 +15186,7 @@
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
+          "1.5 Beratung mit Dolmetsch Unterst\u00fctzung und Anleitung leicht gemacht",
           "1.8 Beratung - IBOBB-Caf\u00e9",
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
@@ -18468,6 +18805,29 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/Stadt_Itzehoe",
     "locations": {
+      "158724": {
+        "name": "Einwohnermeldeamt: Was m\u00f6chten Sie bei uns erledigen ? ",
+        "services": [
+          "Abholung Personalausweis/Reisepass",
+          "An- Um- und Abmeldungen bei Wohnsitz\u00e4nderung",
+          "An- und Abmeldung einer Nebenwohnung (Zweitwohnsitz)",
+          "Beglaubigungen",
+          "F\u00fchrerscheinantrag abgeben",
+          "F\u00fchrungszeugnis",
+          "Gewerbezentralregisterauskunft",
+          "Kinderreisepass",
+          "Lebensbescheinigung ",
+          "Meldebescheinigung",
+          "PIN setzen Personalausweis",
+          "Personalausweis ab dem 24. Lebensjahr",
+          "Personalausweis bis zum 24. Lebensjahr",
+          "Reisepass ab dem 24. Lebensjahr",
+          "Reisepass bis zum 24. Lebensjahr",
+          "Untersuchungsberechtigungsschein",
+          "vorl\u00e4ufiger Personalausweis",
+          "vorl\u00e4ufiger Reisepass"
+        ]
+      },
       "81439": {
         "name": "Einwohnermeldeamt: Was m\u00f6chten Sie bei uns erledigen ? ",
         "services": [
@@ -20609,6 +20969,7 @@
           "Adress\u00e4nderung gebr. Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Ausfuhrkennzeichen",
           "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen (Neusiegelung)",
+          "Kopie von Ummeldung eines Kfz aus dem Kreis Unna",
           "Kurzzeitkennzeichen",
           "Neuzulassung eines Kfz (fabrikneu mit Gutachten \u00a713 EG-FGV/\u00a721 StVZO)",
           "Neuzulassung eines Kfz (fabrikneu mit/ohne ZBII/Fahrzeugbrief)",
@@ -20619,6 +20980,7 @@
           "Ummeldung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "Verlust oder Diebstahl ZB I (Fahrzeugschein)",
           "Verlust oder Diebstahl ZB II (Fahrzeugbrief)",
+          "Wiederzulassung eines Kfz aus dem Kreis Unna mit/ohne Halterwechsel",
           "Zulassung gebrauchtes Kfz aus dem Ausland",
           "Zulassung gebrauchtes Kfz aus dem Kreis Unna",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
@@ -20655,6 +21017,7 @@
           "Adress\u00e4nderung gebr. Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
           "Ausfuhrkennzeichen",
           "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen (Neusiegelung)",
+          "Kopie von Ummeldung eines Kfz aus dem Kreis Unna",
           "Kurzzeitkennzeichen",
           "Neuzulassung eines Kfz (fabrikneu mit Gutachten \u00a713 EG-FGV/\u00a721 StVZO)",
           "Neuzulassung eines Kfz (fabrikneu mit/ohne ZBII/Fahrzeugbrief)",
@@ -20665,6 +21028,7 @@
           "Ummeldung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich)",
           "Verlust oder Diebstahl ZB I (Fahrzeugschein)",
           "Verlust oder Diebstahl ZB II (Fahrzeugbrief)",
+          "Wiederzulassung eines Kfz aus dem Kreis Unna mit/ohne Halterwechsel",
           "Zulassung gebrauchtes Kfz aus dem Ausland",
           "Zulassung gebrauchtes Kfz aus dem Kreis Unna",
           "Zulassung gebrauchtes Kfz mit ausw\u00e4rtigem Kennzeichen (Halter \u00e4ndert sich nicht)",
@@ -26289,7 +26653,8 @@
           "Abmeldung  (ohne weitere Anliegen)",
           "Adress- oder Namens\u00e4nderung",
           "Ersatz-Fahrzeugschein",
-          "Feinstaubplakette"
+          "Feinstaubplakette",
+          "Sprachpr\u00fcfung zur Gleichwertigkeit"
         ]
       },
       "2": {
@@ -33949,7 +34314,8 @@
           "Beantragung/\u00c4nderung einer Arbeitserlaubnis",
           "Erteilung/ Verl\u00e4ngerung Aufenthaltserlaubnis, Visum, Blaue Karte EU,Fiktion",
           "Neuer Pass / \u00dcbertrag neue Passnummer in Aufenthaltskarte (eAT)",
-          "Nur EU-B\u00fcrger: Abgabe von Passkopien bzw. Vorlegen neuer P\u00e4sse/ Ausweisdokumente"
+          "Nur EU-B\u00fcrger: Abgabe von Passkopien bzw. Vorlegen neuer P\u00e4sse/ Ausweisdokumente",
+          "Verlust Aufenthaltstitel (eAT)/Reiseausweis"
         ]
       },
       "328/8216": {
@@ -35592,6 +35958,19 @@
           "Zulassung eines fabrikneuen Fahrzeuges",
           "Zuteilung Kurzzeitkennzeichen",
           "\u00c4nderung Technikdaten"
+        ]
+      },
+      "170/2670": {
+        "name": "F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Abholung F\u00fchrerschein",
+          "Antrag auf Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Beantragung einer Ersterteilung/Erweiterung",
+          "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl oder Verlust",
+          "Beantragung eines Personenbef\u00f6rderungsscheins",
+          "Beantragung internationaler F\u00fchrerschein mit Umtausch alter F\u00fcherschein in EU-F\u00fc",
+          "Beantragung internationaler F\u00fchrerschein ohne Umtausch des F\u00fchrerscheins",
+          "Beantragung/Verl\u00e4ngerung C1, C1E,C/CE, D/DE-F\u00fchrerscheine"
         ]
       },
       "170/3230": {
@@ -37886,6 +38265,7 @@
       "73393": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Abmeldung ins Ausland",
           "Allgemeine Beratung",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
@@ -37910,6 +38290,7 @@
       "73396": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Abmeldung ins Ausland",
           "Allgemeine Beratung",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
@@ -37934,6 +38315,7 @@
       "73397": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "Abmeldung ins Ausland",
           "Allgemeine Beratung",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
