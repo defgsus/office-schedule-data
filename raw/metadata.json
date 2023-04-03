@@ -2095,6 +2095,19 @@
           "Ehef\u00e4higkeitszeugnis ohne ausl\u00e4ndische Beteiligung",
           "Kl\u00e4rung notwendiger Dokumente"
         ]
+      },
+      "186/6032": {
+        "name": "Eheschlie\u00dfung",
+        "services": [
+          "Anerkennung einer ausl\u00e4ndischen Scheidung",
+          "Anmeldung Eheschlie\u00dfung - Geburt im Ausland und/oder ausl. Staatsangeh\u00f6rigkeit",
+          "Anmeldung Eheschlie\u00dfung - deutsche Staatsangeh\u00f6rigkeit und Geburt in Deutschland",
+          "Beurkundung einer im Ausland geschlossenen Ehe",
+          "Dolmetscher (Ehe)",
+          "Ehef\u00e4higkeitszeugnis - Geburt im Ausland und/oder ausl. Staatsangeh\u00f6rigkeit",
+          "Ehef\u00e4higkeitszeugnis - deutsche Staatsangeh\u00f6rigkeit und Geburt in Deutschland",
+          "Kl\u00e4rung notwendiger Dokumente"
+        ]
       }
     }
   },
@@ -15186,7 +15199,9 @@
           "1.3 ABI Videoberatung Schule",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
+          "1.5 Anmeldung leicht gemacht - Beratung mit Dolmetsch Unterst\u00fctzung",
           "1.5 Beratung mit Dolmetsch Unterst\u00fctzung und Anleitung leicht gemacht",
+          "1.5 Beratung mit Dolmetsch Unterst\u00fctzung und Anmeldung leicht gemacht",
           "1.8 Beratung - IBOBB-Caf\u00e9",
           "1.9 ABI Beratung Schule",
           "2.0 ABI Beratung Kinderbetreuung",
@@ -25550,6 +25565,73 @@
         "services": [
           "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
         ]
+      },
+      "666": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "676": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "677": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "678": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "685": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "688": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "690": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "691": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "692": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "693": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
       }
     }
   },
@@ -26564,35 +26646,51 @@
           "Abholung von fertigen Ausweisen, P\u00e4ssen und eID-Karten- bitte die",
           "Abholung von fertigen Ausweisen,P\u00e4ssen und eID-Karten- bitte die Anzahl a",
           "Abmeldung einer Wohnung",
+          "Anmeldung in L\u00fcnen nach Zuzug aus dem Ausland",
           "Anmeldung in L\u00fcnen nach Zuzug aus dem Ausland - Personenanzahl angeben",
+          "Anmeldung in L\u00fcnen nach Zuzug aus einer anderen Stadt",
           "Anmeldung in L\u00fcnen nach Zuzug aus einer anderen Stadt - Personenanzahl angeben",
           "Ausweis- und Passangelegenheiten",
+          "Ausweis- und Passangelegenheiten (bitte Anzahl der Dokumente ausw\u00e4hlen)",
           "Beglaubigungen von Kopien und Unterschriften - Anzahl der Dokumente angeben",
           "Beim B\u00fcrgerb\u00fcro der Stadt L\u00fcnen werden derzeit keine Termine f\u00fcr Umtauschantr\u00e4ge",
           "Bescheinigungen",
+          "Bescheinigungen (bitte Anzahl der Bescheinigungen ausw\u00e4hlen)",
           "Dokumentenabholung",
+          "Dokumentenabholung (bitte Anzahl der Dokumente ausw\u00e4hlen)",
           "Erteilung der Fahrerlaubnis beantragen / Umtausch Papierf\u00fchrerschein beantragen",
           "Fischereischein - Neuausstellung",
           "Fischereischein - Verl\u00e4ngerung",
           "Fischereischeinangelegenheiten",
+          "Fischereischeinangelegenheiten (bitte Anzahl ausw\u00e4hlen)",
           "F\u00fchrerscheinangelegenheiten",
+          "F\u00fchrerscheinangelegenheiten (bitte Anzahl ausw\u00e4hlen)",
           "F\u00fchrungszeugnis",
           "F\u00fchrungszeugnis online beantragen",
           "KFZ Schein Adress\u00e4nderung - nur nach erfolgter Ummeldung im Kreis Unna",
           "Kinderreisepass aktualisieren - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
+          "Kinderreisepass aktualisieren/verl\u00e4ngern",
+          "Kinderreisepass beantragen",
           "Kinderreisepass beantragen - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
           "Melde-/Lebensbescheinigungen",
           "Meldeangelegenheiten",
+          "Meldeangelegenheiten (bitte Anzahl der Personen ausw\u00e4hlen)",
           "Personalausweis - einen vorl\u00e4ufigen Personalausweis beantragen",
+          "Personalausweis beantragen",
           "Personalausweis beantragen - bitte die Anzahl an Ausweisen angeben",
           "Reisepass - einen vorl\u00e4ufigen Reisepass beantragen",
+          "Reisepass beantragen",
           "Reisepass beantragen - bitte die Anzahl an Reisep\u00e4ssen angeben",
           "Schwerbehindertenausweis Verl\u00e4ngerung / Neuausstellung",
           "Sonstiges",
+          "Sonstiges (bitte Anzahl ausw\u00e4hlen)",
           "Terminvereinbarung derzeit nicht m\u00f6glich!",
+          "Ummeldung innerhalb von L\u00fcnen",
           "Ummeldung innerhalb von L\u00fcnen - bitte die genaue Personenzahl angeben",
           "Untersuchungsberechtigungsschein",
-          "eID-Karte f\u00fcr Unionsb\u00fcrger"
+          "eID-Karte f\u00fcr Unionsb\u00fcrger",
+          "vorl\u00e4ufigen Personalausweis beantragen",
+          "vorl\u00e4ufigen Reisepass beantragen"
         ]
       }
     }
@@ -29899,6 +29997,7 @@
           "Ausstellen von Bescheinigungen",
           "Beantragung F\u00fchrerschein",
           "Beantragung F\u00fchrerschein(kein Umtausch alter F\u00fchrerscheine)",
+          "Beantragung F\u00fchrerschein(kein Umtausch alter F\u00fchrerscheine,kein Internationaler F\u00fchrerschein)",
           "Erstellung  von Beglaubigungen",
           "Gewerbe: Abmeldung",
           "Gewerbe: Anmeldung",
