@@ -9667,6 +9667,7 @@
           "KFZ-Briefabholung (ZB II)",
           "KFZ-Briefabholung (ZB II) mit Zulassung dieses KFZ",
           "KFZ-Briefaufbietung/Ersatz-ZB II",
+          "Kleinkraftrad (freiwillige Zulassung)",
           "Wechselkennzeichen f\u00fcr zwei Fahrzeuge",
           "Zulassung aus dem Ausland eingef\u00fchrter, gebrauchter Kraftfahrzeuge"
         ]
@@ -31902,7 +31903,9 @@
           "Abholung Personalausweis",
           "Abholung Reisepass",
           "Abmeldung des Wohnsitzes",
+          "Abmeldung des Wohnsitzes (ins Ausland)",
           "Abmeldung einer Nebenwohnung",
+          "Adressaufkleber \u00e4ndern (nach Umzug)",
           "Anmeldung des Wohnsitzes (ausl\u00e4ndische Staatsangeh\u00f6rige)",
           "Anmeldung des Wohnsitzes (deutsche Staatsangeh\u00f6rige)",
           "Anmeldung einer Nebenwohnung",
@@ -34552,6 +34555,7 @@
         "services": [
           "Antrag Reitkennzeichen 01\u00a0\u00a0 Reitkennzeichen2\u00a0\u00a0 Reitkennzeichen",
           "Auskunft aus dem Gewerbezentralregister 01\u00a0\u00a0 Gewerbezentralregisteraus2\u00a0\u00a0 Gewerbezentralregisteraus3\u00a0\u00a0 Gewerbezentralregisteraus4\u00a0\u00a0 Gewerbezentralregisteraus5\u00a0\u00a0 Gewerbezentralregisteraus",
+          "Beglaubigung 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen",
           "Beglaubigung 01\u00a0\u00a0 Seite2\u00a0\u00a0 Seiten3\u00a0\u00a0 Seiten4\u00a0\u00a0 Seiten5\u00a0\u00a0 Seiten6\u00a0\u00a0 Seiten7\u00a0\u00a0 Seiten8\u00a0\u00a0 Seiten",
           "Fischereischein Neuaustellung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
@@ -34606,6 +34610,7 @@
         "name": "Pass- und Ausweisangelegenheiten",
         "services": [
           "Abholung Personalausweis/Reisepass/Kinderreisepass 01\u00a0\u00a0 Personaldokument2\u00a0\u00a0 Personaldokumente3\u00a0\u00a0 Personaldokumente4\u00a0\u00a0 Personaldokumente5\u00a0\u00a0 Personaldokumente",
+          "Abholung Personalausweis/Reisepass/Kinderreisepass/eID-Karte 01\u00a0\u00a0 Personaldokument/e",
           "Abholung Personalausweis/Reisepass/Kinderreisepass/eID-Karte 01\u00a0\u00a0 Personaldokument2\u00a0\u00a0 Personaldokumente3\u00a0\u00a0 Personaldokumente4\u00a0\u00a0 Personaldokumente5\u00a0\u00a0 Personaldokumente",
           "Antrag Kinderreisepass 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Antrag Kinderreisepass bzw. Verl\u00e4ngerung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
@@ -42962,6 +42967,8 @@
           "Internationaler F\u00fchrerschein (Voraussetzung Kartenf\u00fchrerschein)",
           "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
           "Personenbef\u00f6rderungsschein (Ersterteilung/Erweiterung/Verl\u00e4ngerung)",
+          "Umschreibung Bundeswehrf\u00fchrerschein",
+          "Umschreibung Dienstfahrerlaubnis (Bundeswehrf\u00fchrerschein)",
           "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins",
           "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins (nicht EU)",
           "Umtausch (Grau/Rosa) in Kartenf\u00fchrerschein",
