@@ -1061,6 +1061,7 @@
         "name": "Integrationskursberatung",
         "services": [
           "Anmeldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Beratungen zu Integrationskursen und Prr\u00fcfungen 01\u00a0\u00a0 Person",
           "Zertifikats-Pr\u00fcfungsanmeldung 01\u00a0\u00a0 Person"
         ]
       }
@@ -4086,6 +4087,7 @@
           "Pflichtumtausch F\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine",
           "Pflichtumtausch F\u00fchrerschein 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Umtausch alter F\u00fchrerschein 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "sonstige F\u00fchrerscheinangelegenheiten au\u00dfer Fahrerkarte + internationaler F\u00fchrers 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine",
           "sonstige F\u00fchrerscheinangelegenheiten au\u00dfer Fahrerkarte 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine",
           "sonstige F\u00fchrerscheinangelegenheiten au\u00dfer Fahrerkarte 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
@@ -10499,6 +10501,16 @@
           "Zulassungsbescheinigung I (Fahrzeugschein) - Adress\u00e4nderung bei Umzug"
         ]
       },
+      "119/1098": {
+        "name": "Nieder-Eschbach:: Abholung von Dokumenten (Nur separat buchbar!)",
+        "services": [
+          "Abholung Personalausweis oder Reisepass",
+          "Abholung einer eID-Karte",
+          "Abholung eines Aufenthaltstitels (eAT) oder Reiseausweises",
+          "Abholung eines F\u00fchrerscheins",
+          "PIN-R\u00fccksetzung & Aktivierung/Entsperrung Online-Ausweisfunktion (eID-Funktion)"
+        ]
+      },
       "119/2272": {
         "name": "Nieder-Eschbach:: Ausweis- und Passangelegenheiten (nur f\u00fcr Frankfurter B\u00fcrger/-innen)",
         "services": [
@@ -10507,6 +10519,7 @@
           "Abholung eines Reiseausweises f\u00fcr Ausl\u00e4nder, Fl\u00fcchtlinge oder Staatenlose",
           "Aktivierung / Entsperrung der Online-Ausweis-Funktion / Neusetzung PIN",
           "Ausweisdokumente nach Einb\u00fcrgerung (Erstmalige Beantragung)",
+          "Eintrag der Sorgeberechtigten im Pass (Minderj\u00e4hriger)",
           "Kinderreisepass (Beantragung/Verl\u00e4ngerung/Aktualisierung)",
           "Personalausweis (Beantragung)",
           "Reisepass (Beantragung)",
@@ -10526,6 +10539,7 @@
           "Kirchenaustritt",
           "Melderegisterauskunft",
           "Restm\u00fcllsack / Mietspiegel",
+          "Unterschriftspr\u00fcfung zu B\u00fcrgerbegehren/Volksbegehren",
           "Unterschriftspr\u00fcfung zum Volksbegehren Verkehrswende",
           "Untersuchungsberechtigungsschein"
         ]
@@ -10537,7 +10551,9 @@
           "F\u00fchrerschein - Ersatz nach Diebstahl oder Verlust",
           "F\u00fchrerschein - Erstantrag / Ersterteilung",
           "F\u00fchrerschein - Erweiterung",
+          "F\u00fchrerschein - Erweiterung (nicht D, DE, B96 und B196!)",
           "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu etc.)",
+          "F\u00fchrerschein - Umtausch (Namens\u00e4nderung, Alt gegen Neu, etc.)",
           "F\u00fchrerschein - Umtausch (alt gegen neu)",
           "F\u00fchrerschein - Umtausch/Umstellung (Namens\u00e4nderung, Alt gegen Neu etc.)",
           "F\u00fchrerschein ab 17 (Begleitetes Fahren)",
@@ -11994,6 +12010,8 @@
         "services": [
           "Abbrennen von Feuerwerksk\u00f6rpern",
           "Abgabe Unterlagen/Abholung Unterlagen/kurzes Anliegen (ABH, 10 min)",
+          "Abgabe biometrischer Daten eAT",
+          "Abgabe biometrischer Daten eAT+Reiseausweis",
           "Abholung F\u00fchrerschein / Fahrerkarte (bereits beantragt)",
           "Abmeldung / Au\u00dferbetriebsetzung",
           "Abmeldung einer Wohnung bei Wegzug ins Ausland",
@@ -12118,6 +12136,8 @@
           "Zulassung eines Fahrzeuges aus dem Ausland",
           "Zuteilung eines H-Kennzeichens f\u00fcr Oldtimer",
           "Zuteilung, \u00c4nderung oder L\u00f6schung eines Saisonkennzeichens",
+          "biometrische Daten eAT",
+          "biometrische Daten eAT+Reiseausweis",
           "eAT-Ausgabe (Ausl\u00e4nderbeh\u00f6rde)",
           "eID-Karte beantragen",
           "\u00a724 Ukraine",
@@ -29535,17 +29555,24 @@
         "name": "MVV E.forum: Sie haben Fragen zu Zahlungen?",
         "services": [
           "Fragen zum Kundenkonto/Zahlungen",
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Sperrandrohung, Sperrung",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
           "Zahlungsvereinbarung / Ratenplan",
-          "Z\u00e4hler\u00f6ffnung"
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
         ]
       },
       "191/1770": {
         "name": "MVV E.forum: Sie m\u00f6chten sich an/abmelden.",
         "services": [
           "Abmeldung Gewerbe",
+          "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
+          "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
+          "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
         ]
       },
@@ -29560,6 +29587,13 @@
           "\u00c4nderung des Abschlags"
         ]
       },
+      "191/3046": {
+        "name": "Hausanschluss - Was k\u00f6nnen wir f\u00fcr Sie tun?",
+        "services": [
+          "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser- oder Gas) 01",
+          "R\u00fcckbau, Baustellenversorgung oder Neuanschluss 01"
+        ]
+      },
       "191/3051": {
         "name": "Bitte w\u00e4hlen Sie Ihr Hauptanliegen aus",
         "services": [
@@ -29569,9 +29603,14 @@
           "Erneuerbare Energien / neue Technologien",
           "Erstberatung \u00fcber m\u00f6gliche F\u00f6rdergelder",
           "F\u00f6rderprogramme",
+          "F\u00f6rderungsm\u00f6glichkeiten 01",
           "Heiz- und L\u00fcftungstechnik",
           "Hilfe bei der online-/offline Antragsstellung",
+          "Informationen rund um Neubau- und Geb\u00e4udesanierungsma\u00dfnahmen 01",
           "L\u00f6sungsans\u00e4tze zur Erf\u00fcllung gesetzlicher Vorgaben (z.B. EW\u00e4rmeG)",
+          "M\u00f6glichkeiten im Bereich Photovoltaik & Elektromobilit\u00e4t 01",
+          "M\u00f6glichkeiten zur Energieeinsparung bei Ihnen Zuhause 01",
+          "M\u00f6glichkeiten zur klimafreundlichen W\u00e4rme/Heizungs- und L\u00fcftungsl\u00f6sungen 01",
           "R\u00fcckbau, Baustellenversorgung oder Neuanschluss",
           "Solar-Anlage, Batteriespeicher und Lades\u00e4ule",
           "Strom- und Energieeinsparung"
@@ -29581,14 +29620,18 @@
         "name": "Unterst\u00fctzung von gesetzlichen Vorgaben und Antragsstellung",
         "services": [
           "Erstberatung \u00fcber m\u00f6gliche F\u00f6rdergelder",
+          "Erstberatung \u00fcber m\u00f6gliche F\u00f6rdergelder 01",
           "L\u00f6sungsans\u00e4tze zur Erf\u00fcllung gesetzlicher Vorgaben (z.B. EW\u00e4rmeG)",
-          "Unterst\u00fctzung bei der online-/offline Antragsstellung"
+          "L\u00f6sungsans\u00e4tze zur Erf\u00fcllung gesetzlicher Vorgaben (z.B. EW\u00e4rmeG) 01",
+          "Unterst\u00fctzung bei der online-/offline Antragsstellung",
+          "Unterst\u00fctzung bei der online-/offline Antragsstellung 01"
         ]
       },
       "191/3064": {
         "name": "Gerne beraten wir Sie zu Themen der Photovoltaik und E-Mobilit\u00e4t",
         "services": [
-          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule"
+          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule",
+          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule 01"
         ]
       },
       "191/4703": {
@@ -29601,10 +29644,15 @@
         "name": "MVV E.forum: Vertragliche Angelegenheiten",
         "services": [
           "Abschlag \u00e4ndern",
+          "Abschlag \u00e4ndern 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Einzugserm\u00e4chtigung",
           "Rechnungsreklamation /-kl\u00e4rung",
+          "Rechnungsreklamation /-kl\u00e4rung  01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "SEPA - Einzugserm\u00e4chtigung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Tarifberatung",
-          "Trocknungsma\u00dfnahme"
+          "Tarifberatung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Trocknungsma\u00dfnahme",
+          "Trocknungsma\u00dfnahme 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge"
         ]
       },
       "191/8425": {
@@ -29629,11 +29677,16 @@
         "name": "Beratung zu unseren W\u00e4rmel\u00f6sungen",
         "services": [
           "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen",
+          "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen 01",
           "Fernw\u00e4rme",
+          "Fernw\u00e4rme 01",
           "Gasheizung",
+          "Gasheizung 01",
           "Holzpellet-Heizung",
+          "Holzpellet-Heizung 01",
           "MVV W\u00e4rmel\u00f6sungen (Fernw\u00e4rme, W\u00e4rmepumpe, Holzpellet, Gas)",
-          "W\u00e4rmepumpe"
+          "W\u00e4rmepumpe",
+          "W\u00e4rmepumpe 01"
         ]
       },
       "191/8440": {
@@ -29682,17 +29735,24 @@
         "name": "MVV Nachbarschaftsoase: Sie haben Fragen zu Zahlungen?",
         "services": [
           "Fragen zum Kundenkonto/Zahlungen",
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Sperrandrohung, Sperrung",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
           "Zahlungsvereinbarung / Ratenplan",
-          "Z\u00e4hler\u00f6ffnung"
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
         ]
       },
       "480/1770": {
         "name": "MVV Nachbarschaftsoase: Sie m\u00f6chten sich an/abmelden.",
         "services": [
           "Abmeldung Gewerbe",
+          "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
+          "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
+          "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
         ]
       },
@@ -29712,7 +29772,9 @@
         "services": [
           "Beratung zu MVV Produkten",
           "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde",
+          "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde 01\u00a0\u00a0 Fahrzeug/Fahrt",
           "FRANKLIN Mobil - Fahrzeugsharing - Neuanmeldung",
+          "FRANKLIN Mobil - Fahrzeugsharing - Neuanmeldung 01\u00a0\u00a0 Registrierung",
           "FRANKLIN Mobil - Fahrzeugsharing - Neuregistrierung",
           "FRANKLIN Mobil Bestandskunde",
           "FRANKLIN Mobil Neukunde"
@@ -29722,10 +29784,15 @@
         "name": "MVV Nachbarschaftsoase: Vertragliche Angelegenheiten",
         "services": [
           "Abschlag \u00e4ndern",
+          "Abschlag \u00e4ndern 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Einzugserm\u00e4chtigung",
           "Rechnungsreklamation /-kl\u00e4rung",
+          "Rechnungsreklamation /-kl\u00e4rung  01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "SEPA - Einzugserm\u00e4chtigung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
           "Tarifberatung",
-          "Trocknungsma\u00dfnahme"
+          "Tarifberatung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Trocknungsma\u00dfnahme",
+          "Trocknungsma\u00dfnahme 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge"
         ]
       }
     }
@@ -31791,12 +31858,19 @@
         "services": [
           "Abmeldung Einzelperson",
           "Abmeldung Familie",
+          "Anmeldung Ausland Einzelperson",
+          "Anmeldung Ausland Familie",
           "Anmeldung Einzelperson",
+          "Anmeldung Einzelperson Ausland",
           "Anmeldung Familie",
+          "Anmeldung Familie Ausland",
           "Lebensbescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3",
+          "Meldebescheinigung 01\u00a0\u00a0 2\u00a0\u00a0 3",
           "Meldebescheinigung/erweiterte Meldebescheinigung/Lebensbescheinigung",
           "Ummeldung Einzelperson",
           "Ummeldung Familie",
+          "Ummeldung innerhalb Einzelperson",
+          "Ummeldung innerhalb Familie",
           "Wechsel vom Nebenwohnsitz zum Hauptwohnsitz"
         ]
       },
@@ -31805,6 +31879,7 @@
         "services": [
           "Beglaubigungen",
           "Familiengutscheine",
+          "Fischereischein",
           "Tafelladenausweis",
           "Taxischeine f\u00fcr Menschen mit Behinderung"
         ]
@@ -34315,7 +34390,9 @@
         "services": [
           "Andere Dienstleistung",
           "Anschriften\u00e4nderung im Fahrzeugschein",
+          "Ausstellung von Naturbad Saisonkarten",
           "Ausstellung von Naturbad Saisonkarten ",
+          "Ausstellung von Naturbad-Saisonkarten",
           "EU-Kartenf\u00fchrerschein abholen",
           "Fischereischein beantragen/verl\u00e4ngern",
           "F\u00fchrerschein beantragen/verl\u00e4ngern",
@@ -34399,6 +34476,8 @@
           "Amtliche Beglaubigung von Unterschriften (pro Unterschrift)",
           "Einb\u00fcrgerungsantrag (pro Person) nur Mo.-Fr. m\u00f6glich!",
           "Fischereischein beantragen / verl\u00e4ngern",
+          "Fundsache abgeben",
+          "Fundsache abholen",
           "Fundsachen",
           "F\u00fchrerschein beantragen",
           "F\u00fchrungszeugnis",
@@ -34563,6 +34642,7 @@
           "Melde-/Lebensbescheinigung (auch online verf\u00fcgbar) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Melde-/Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen",
           "Selbstauskunft Steuer-ID 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte4\u00a0\u00a0 Ausk\u00fcnfte5\u00a0\u00a0 Ausk\u00fcnfte",
+          "Untersuchungsberechtigungsschein (auch online verf\u00fcgbar) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen",
           "Untersuchungsberechtigungsschein 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen"
         ]
       },
@@ -36490,6 +36570,19 @@
           "Verpflichtungserkl\u00e4rung (Einladung) abgeben 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
+      "314/7366": {
+        "name": "Rentenangelegenheiten",
+        "services": [
+          "Altersrente beantragen",
+          "Erwerbsminderungsrente Erstantrag",
+          "Erwerbsminderungsrente Weitergew\u00e4hrung beantragen",
+          "Kontenkl\u00e4rung beantragen",
+          "Sonstiges (z.B. Hilfe, um Formulare auszuf\u00fcllen) 01\u00a0\u00a0 Person",
+          "Waisenrente beantragen",
+          "Widerspruch einlegen  01\u00a0\u00a0 Person",
+          "Witwenrente / Witwerrente beantragen"
+        ]
+      },
       "314/8137": {
         "name": "Standesamt",
         "services": [
@@ -36510,6 +36603,12 @@
           "Urkundenanforderung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Urkundenanforderung 01\u00a0\u00a0 Urkunde2\u00a0\u00a0 Urkunden3\u00a0\u00a0 Urkunden4\u00a0\u00a0 Urkunden5\u00a0\u00a0 Urkunden6\u00a0\u00a0 Urkunden7\u00a0\u00a0 Urkunden8\u00a0\u00a0 Urkunden",
           "Vaterschaftsanerkennung"
+        ]
+      },
+      "314/8310": {
+        "name": "Rechtsberatung f\u00fcr ukrainische Gefl\u00fcchtete",
+        "services": [
+          "Rechtsberatung - Ausl\u00e4nderrecht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen"
         ]
       },
       "415/5936": {
@@ -39389,7 +39488,8 @@
           "Neuausstellung oder Verl\u00e4ngerung Fischereischein",
           "Setzen der PIN f\u00fcr den Personalausweis",
           "Ummeldung innerhalb von Soest",
-          "Untersuchungsberechtigungsschein"
+          "Untersuchungsberechtigungsschein",
+          "\u00c4nderung Wohnort im Reisepass"
         ]
       },
       "8": {
