@@ -1062,6 +1062,7 @@
         "services": [
           "Anmeldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Beratungen zu Integrationskursen und Prr\u00fcfungen 01\u00a0\u00a0 Person",
+          "Beratungen zu Integrationskursen und Pr\u00fcfungen 01\u00a0\u00a0 Person",
           "Zertifikats-Pr\u00fcfungsanmeldung 01\u00a0\u00a0 Person"
         ]
       }
@@ -21293,6 +21294,7 @@
           "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen7\u00a0\u00a0 Abmeldungen8\u00a0\u00a0 Abmeldungen",
           "Abmeldung ins Ausland 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen7\u00a0\u00a0 Abmeldungen8\u00a0\u00a0 Abmeldungen",
           "Anmeldung Hauptwohnsitz / Nebenwohnsitz",
+          "Meldebescheinigung / Lebensbest\u00e4tigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Meldebescheinigung/Lebensbest\u00e4tigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Ummeldung in Ladenburg"
         ]
@@ -21300,6 +21302,10 @@
       "229/2772": {
         "name": "Ausweisangelegenheiten",
         "services": [
+          "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Beantragung / Verl\u00e4ngerung Kinderreisepass",
+          "Beantragung Personalausweis / Vorl\u00e4ufiger Personalausweis",
+          "Beantragung Reisepass / Expressreisepass",
           "Kinderreisepass beantragen / verl\u00e4ngern",
           "Personalausweis / Reisepass nur abholen 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Personalausweis / Vorl\u00e4ufigen Personalausweis beantragen",
@@ -21309,6 +21315,9 @@
       "229/2778": {
         "name": "Allgemeines",
         "services": [
+          "Abmeldung eines Hundes",
+          "Anmeldung eines Hundes",
+          "Best\u00e4tigungen / Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
           "Best\u00e4tigungen/Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
           "Fischereischein Neuausstellung",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine5\u00a0\u00a0 Fischereischeine6\u00a0\u00a0 Fischereischeine7\u00a0\u00a0 Fischereischeine8\u00a0\u00a0 Fischereischeine",
@@ -21323,6 +21332,7 @@
         "name": "Gewerbe",
         "services": [
           "Auszug aus dem Gewerberegister 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge4\u00a0\u00a0 Ausz\u00fcge5\u00a0\u00a0 Ausz\u00fcge6\u00a0\u00a0 Ausz\u00fcge7\u00a0\u00a0 Ausz\u00fcge8\u00a0\u00a0 Ausz\u00fcge",
+          "Auszug aus dem Gewerberegister der Stadt Ladenburg 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge4\u00a0\u00a0 Ausz\u00fcge5\u00a0\u00a0 Ausz\u00fcge6\u00a0\u00a0 Ausz\u00fcge7\u00a0\u00a0 Ausz\u00fcge8\u00a0\u00a0 Ausz\u00fcge",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
           "Gewerbeummeldung",
@@ -21332,9 +21342,11 @@
       "229/2792": {
         "name": "Ausl\u00e4nderangelegenheiten/Weiterleitung von Antr\u00e4gen",
         "services": [
+          "Abholung Aufenthaltserlaubnis / Duldung / Gestattung 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
           "Abholung Aufenthaltserlaubnis/Duldung/Gestattung 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
           "Einb\u00fcrgerung",
           "Staatsangeh\u00f6rigkeit 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung Aufenthaltserlaubnis / Duldung / Gestattung 01\u00a0\u00a0 Verl\u00e4ngerung2\u00a0\u00a0 Verl\u00e4ngerungen3\u00a0\u00a0 Verl\u00e4ngerungen4\u00a0\u00a0 Verl\u00e4ngerungen5\u00a0\u00a0 Verl\u00e4ngerungen6\u00a0\u00a0 Verl\u00e4ngerungen7\u00a0\u00a0 Verl\u00e4ngerungen8\u00a0\u00a0 Verl\u00e4ngerungen",
           "Verl\u00e4ngerung Aufenthaltserlaubnis/Duldung/Gestattung 01\u00a0\u00a0 Verl\u00e4ngerung2\u00a0\u00a0 Verl\u00e4ngerungen3\u00a0\u00a0 Verl\u00e4ngerungen4\u00a0\u00a0 Verl\u00e4ngerungen5\u00a0\u00a0 Verl\u00e4ngerungen6\u00a0\u00a0 Verl\u00e4ngerungen7\u00a0\u00a0 Verl\u00e4ngerungen8\u00a0\u00a0 Verl\u00e4ngerungen"
         ]
       },
@@ -26541,6 +26553,187 @@
           "Pass\u00fcbertrag bei bestehender Niederlassungserlaubnis",
           "Pass\u00fcbertrag bei unbefristeter Niederlassungserlaubnis",
           "Verpflichtungserkl\u00e4rung f\u00fcr Besuchervisum"
+        ]
+      },
+      "176": {
+        "name": "Aufenthaltsrecht",
+        "services": [
+          "Pass\u00fcbertrag bei unbefristeter Niederlassungserlaubnis",
+          "Verpflichtungserkl\u00e4rung f\u00fcr Besuchervisum"
+        ]
+      },
+      "177": {
+        "name": "Bewohnerparkausweise",
+        "services": [
+          "Bewohnerparkausweis"
+        ]
+      },
+      "178": {
+        "name": "B\u00fcrgerb\u00fcro Bismarckstra\u00dfe",
+        "services": [
+          "Abmeldung Nebenwohnsitz",
+          "Abmeldung bei Wegzug ins Ausland",
+          "Anmeldung bei Umzug in LU",
+          "Anmeldung bei Umzug in LU mit \u00c4nderung Kfz-Schein",
+          "Anmeldung bei Zuzug aus dem Ausland",
+          "Anmeldung bei Zuzug innerhalb Deutschlands",
+          "Antrag Wohnberechtigungsschein",
+          "Beglaubigung Unterschrift/en",
+          "Beglaubigung von 11 bis 20 Seiten",
+          "Beglaubigung von 3 bis 5 Seiten",
+          "Beglaubigung von 6 bis 10 Seiten",
+          "Beglaubigung von bis zu zwei Seiten",
+          "Familienpass",
+          "F\u00fchrungszeugnis B\u00fcrgerb\u00fcro Bismarckstra\u00dfe",
+          "Gewerbezentralregisterauszug f\u00fcr Privatpersonen",
+          "Haushaltsbescheinigung",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Personalausweis / vorl\u00e4ufiger Personalausweis",
+          "Reisepass",
+          "Untersuchungsberechtigungsschein Jugendarbeitschutzgesetz",
+          "eID-Karte"
+        ]
+      },
+      "179": {
+        "name": "B\u00fcrgerb\u00fcro Achtmorgenstra\u00dfe",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Achtmorgenstra\u00dfe",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Achtmorgenstra\u00dfe",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Achtmorgenstra\u00dfe",
+          "Antrag Wohnberechtigungsschein BB Achtmorgenstra\u00dfe",
+          "Auszug Gewerbezentralregister BB Achtmorgenstra\u00dfe",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Achtmorgenstra\u00dfe",
+          "Beglaubigung Unterschriften BB Achtmorgenstra\u00dfe",
+          "Beglaubigung ab 3 bis 5 Seiten BB Achtmorgenstra\u00dfe",
+          "Beglaubigung von bis zu zwei Seiten BB Achtmorgenstra\u00dfe",
+          "F\u00fchrungszeugnis BB Achtmorgenstra\u00dfe",
+          "Jugendschutzuntersuchung BB Achtmorgenstra\u00dfe",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Achtmorgenstra\u00dfe",
+          "alle Meldebescheinigungen BB Achtmorgenstra\u00dfe (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Achtmorgenstra\u00dfe"
+        ]
+      },
+      "180": {
+        "name": "B\u00fcrgerb\u00fcro Oggersheim",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Oggersheim",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Oggersheim",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oggersheim",
+          "Antrag Wohnberechtigungsschein BB Oggersheim",
+          "Auszug Gewerbezentralregister BB Oggersheim",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oggersheim",
+          "Beglaubigung Unterschriften BB Oggersheim",
+          "Beglaubigung ab 3 bis 5 Seiten BB Oggersheim",
+          "Beglaubigung von bis zu zwei Seiten BB Oggersheim",
+          "F\u00fchrungszeugnis BB Oggersheim",
+          "Jugendschutzuntersuchung BB Oggersheim",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Oggersheim",
+          "alle Meldebescheinigungen BB Oggersheim (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Oggersheim"
+        ]
+      },
+      "181": {
+        "name": "B\u00fcrgerb\u00fcro Oppau",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Oppau",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Oppau",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Oppau",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Oppau",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Oppau",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Oppau",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oppau",
+          "Antrag Wohnberechtigungsschein BB Oppau",
+          "Auszug Gewerbezentralregister BB Oppau",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oppau",
+          "Beglaubigung Unterschriften BB Oppau",
+          "Beglaubigung ab 3 bis 5 Seiten BB Oppau",
+          "Beglaubigung von bis zu zwei Seiten BB Oppau",
+          "F\u00fchrungszeugnis BB Oppau",
+          "Jugendschutzuntersuchung BB Oppau",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Oppau",
+          "alle Meldebescheinigungen BB Oppau (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Oppau"
+        ]
+      },
+      "182": {
+        "name": "Einb\u00fcrgerungsbeh\u00f6rde",
+        "services": [
+          "Antrag Einb\u00fcrgerung 1 Person",
+          "Antrag Einb\u00fcrgerung 2 Personen",
+          "Antrag Einb\u00fcrgerung ab 3 Personen"
+        ]
+      },
+      "183": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Anerkennung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Begleitetes Fahren ab 17",
+          "Ersatzf\u00fchrerschein",
+          "Ersterteilung Fahrerlaubnis",
+          "Erteilung der Fahrerlaubnis: A-Klassen",
+          "Erweiterung der Fahrerlaubnis: C-Klassen",
+          "Erweiterung der Fahrerlaubnis: D-Klassen",
+          "Fahrerkarte / Werkstattkarte / Unternehmerkarte",
+          "Fahrerlaubnis Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung der Fahrerlaubnis nach Entzug oder Verzicht",
+          "Pflichtumtausch F\u00fchrerschein",
+          "Schl\u00fcsselzahl 95",
+          "Schl\u00fcsselzahl 96",
+          "Schl\u00fcsselzahl 96 + 196",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Verl\u00e4ngerung Fahrerlaubnis Klassen C + D"
+        ]
+      },
+      "184": {
+        "name": "Kfz-Zulassungsstelle",
+        "services": [
+          "Ausfuhr-/Exportzulassung",
+          "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Ersatz-KFZ-Papiere / Kennzeichenverlust/-diebstahl",
+          "Import-Zulassung",
+          "Kfz-Zulassung / Umschreibung",
+          "Kurzzeitkennzeichen",
+          "Namens-/Adress\u00e4nderung des bisherigen Halters innerhalb LU",
+          "\u00c4nderung technische Daten & Oldtimer H-Kennzeichen"
+        ]
+      },
+      "185": {
+        "name": "Kfz-Zulassungsstelle",
+        "services": [
+          "Ersatz Rotes Heft H\u00e4ndlerkennzeichen",
+          "Ersatz der Betriebserlaubnis (Unbedenklichkeitsbescheinigung) f\u00fcr Roller/Mofas/...",
+          "Erteilung der Betriebserlaubnis (Genehmigung) f\u00fcr Roller/Mofas/...",
+          "Rote Dauerkennzeichen f\u00fcr H\u00e4ndler/Oldtimer (06er/07er) beantragen/verl\u00e4ngern/abmelden"
+        ]
+      },
+      "186": {
+        "name": "Sch\u00fclerangelegenheiten",
+        "services": [
+          "Beratung Schulbuchausleihe",
+          "Reklamationen Schulbuchausleihe"
+        ]
+      },
+      "187": {
+        "name": "Standesamt - Kirchenaustritte",
+        "services": [
+          "Kirchenaustritt 1 Person",
+          "Kirchenaustritt mehrere Personen"
+        ]
+      },
+      "188": {
+        "name": "Standesamt - Urkundenausstellung (NICHT Beurkundung von Geburten)",
+        "services": [
+          "Urkundenausstellung"
         ]
       }
     }
@@ -36144,68 +36337,105 @@
           "Beantragung internationaler F\u00fchrerschein mit Umtausch alter F\u00fcherschein in EU-F\u00fc",
           "Beantragung internationaler F\u00fchrerschein ohne Umtausch des F\u00fchrerscheins",
           "Beantragung/Verl\u00e4ngerung C1, C1E,C/CE, D/DE-F\u00fchrerscheine",
-          "Umtausch alter F\u00fchrerschein in neuen Kartenf\u00fchrerschein"
+          "Umtausch alter F\u00fchrerschein in neuen Kartenf\u00fchrerschein",
+          "Umtausch alter F\u00fchrerschein in neuen Kartenf\u00fchrerschein 01\u00a0\u00a0 F\u00fchrerschein"
         ]
       },
       "170/2665": {
         "name": "Bad Schwalbach: Zulassungsangelegenheiten",
         "services": [
           "Au\u00dferbetriebsetzung",
+          "Au\u00dferbetriebsetzung 01\u00a0\u00a0 2\u00a0\u00a0 3",
           "Sonstiges Anliegen",
+          "Sonstiges Anliegen 01",
           "Umschreibung innerhalb des Zulassungsbezirks",
+          "Umschreibung innerhalb des Zulassungsbezirks 01",
           "Umschreibung von au\u00dferhalb mit Halterwechsel",
+          "Umschreibung von au\u00dferhalb mit Halterwechsel 01",
           "Umschreibung von au\u00dferhalb ohne Halterwechsel",
+          "Umschreibung von au\u00dferhalb ohne Halterwechsel 01",
           "Wiederzulassung gleicher Halter",
+          "Wiederzulassung gleicher Halter 01",
           "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines fabrikneuen Fahrzeuges 01",
           "Zuteilung Kurzzeitkennzeichen",
-          "\u00c4nderung Technikdaten"
+          "Zuteilung Kurzzeitkennzeichen 01",
+          "\u00c4nderung Technikdaten",
+          "\u00c4nderung Technikdaten 01"
         ]
       },
       "170/2670": {
         "name": "F\u00fchrerscheinangelegenheiten",
         "services": [
           "Abholung F\u00fchrerschein",
+          "Abholung F\u00fchrerschein 01",
           "Antrag auf Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Antrag auf Umschreibung einer ausl\u00e4ndischen Fahrerlaubnis 01",
           "Beantragung einer Ersterteilung/Erweiterung",
+          "Beantragung einer Ersterteilung/Erweiterung 01",
           "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl oder Verlust",
+          "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl oder Verlust 01",
           "Beantragung eines Personenbef\u00f6rderungsscheins",
+          "Beantragung eines Personenbef\u00f6rderungsscheins 01",
           "Beantragung internationaler F\u00fchrerschein mit Umtausch alter F\u00fcherschein in EU-F\u00fc",
+          "Beantragung internationaler F\u00fchrerschein mit Umtausch alter F\u00fcherschein in EU-F\u00fc 01",
           "Beantragung internationaler F\u00fchrerschein ohne Umtausch des F\u00fchrerscheins",
-          "Beantragung/Verl\u00e4ngerung C1, C1E,C/CE, D/DE-F\u00fchrerscheine"
+          "Beantragung internationaler F\u00fchrerschein ohne Umtausch des F\u00fchrerscheins 01",
+          "Beantragung/Verl\u00e4ngerung C1, C1E,C/CE, D/DE-F\u00fchrerscheine",
+          "Beantragung/Verl\u00e4ngerung C1, C1E,C/CE, D/DE-F\u00fchrerscheine 01"
         ]
       },
       "170/3230": {
         "name": "Wiedererteilung",
         "services": [
-          "Wieder/Neuerteilung nach Entzug"
+          "Wieder/Neuerteilung nach Entzug",
+          "Wieder/Neuerteilung nach Entzug 01"
         ]
       },
       "171/2665": {
         "name": "Idstein: Zulassungsangelegenheiten",
         "services": [
           "Au\u00dferbetriebsetzung",
+          "Au\u00dferbetriebsetzung 01\u00a0\u00a0 2\u00a0\u00a0 3",
           "Sonstiges Anliegen",
+          "Sonstiges Anliegen 01",
           "Umschreibung innerhalb des Zulassungsbezirks",
+          "Umschreibung innerhalb des Zulassungsbezirks 01",
           "Umschreibung von au\u00dferhalb mit Halterwechsel",
+          "Umschreibung von au\u00dferhalb mit Halterwechsel 01",
           "Umschreibung von au\u00dferhalb ohne Halterwechsel",
+          "Umschreibung von au\u00dferhalb ohne Halterwechsel 01",
           "Wiederzulassung gleicher Halter",
+          "Wiederzulassung gleicher Halter 01",
           "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines fabrikneuen Fahrzeuges 01",
           "Zuteilung Kurzzeitkennzeichen",
-          "\u00c4nderung Technikdaten"
+          "Zuteilung Kurzzeitkennzeichen 01",
+          "\u00c4nderung Technikdaten",
+          "\u00c4nderung Technikdaten 01"
         ]
       },
       "172/2665": {
         "name": "R\u00fcdesheim: Zulassungsangelegenheiten",
         "services": [
           "Au\u00dferbetriebsetzung",
+          "Au\u00dferbetriebsetzung 01\u00a0\u00a0 2\u00a0\u00a0 3",
           "Sonstiges Anliegen",
+          "Sonstiges Anliegen 01",
           "Umschreibung innerhalb des Zulassungsbezirks",
+          "Umschreibung innerhalb des Zulassungsbezirks 01",
           "Umschreibung von au\u00dferhalb mit Halterwechsel",
+          "Umschreibung von au\u00dferhalb mit Halterwechsel 01",
           "Umschreibung von au\u00dferhalb ohne Halterwechsel",
+          "Umschreibung von au\u00dferhalb ohne Halterwechsel 01",
           "Wiederzulassung gleicher Halter",
+          "Wiederzulassung gleicher Halter 01",
           "Zulassung eines fabrikneuen Fahrzeuges",
+          "Zulassung eines fabrikneuen Fahrzeuges 01",
           "Zuteilung Kurzzeitkennzeichen",
-          "\u00c4nderung Technikdaten"
+          "Zuteilung Kurzzeitkennzeichen 01",
+          "\u00c4nderung Technikdaten",
+          "\u00c4nderung Technikdaten 01"
         ]
       }
     }
