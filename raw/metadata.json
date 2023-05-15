@@ -8697,6 +8697,7 @@
         "name": "<big>B\u00fcrgerb\u00fcro</big>",
         "services": [
           "Abholung Personalausweis/Reisepass",
+          "Achtsamkeit - sich selbst bewusst(er) steuern zu k\u00f6nnen",
           "An-, Ab- und Ummeldung",
           "Ausgabe von Aufenthaltstiteln (Duldung, Niederlassungserlaubnis, o. \u00c4.)",
           "Auszug aus dem Gewerbezentralregister",
@@ -8704,11 +8705,17 @@
           "Befreiung von den Rundfunkgeb\u00fchren (GEZ)",
           "Befreiung von der Ausweispflicht",
           "Beglaubigungen (auch Unterschriften)",
+          "Budgetplanung mit dem IKVS",
+          "B\u00fcrger - Kunde - 'Gegner'",
+          "Digitalisierung - Arbeit 4.0",
           "Elterngeld",
+          "Englische Konversation im Arbeitsalltag",
+          "Erfolgreicher Umgang mit Konflikten und Spannungen",
           "Erziehungsgeld",
           "Fahrpl\u00e4ne Bus und Bahn",
           "Familienkarte",
           "Fischereischein (Erstantrag oder Verl\u00e4ngerung)",
+          "Fit f\u00fcr Ver\u00e4nderungen - Wie ich mit Ver\u00e4nderungen umgehe",
           "Fundsachen",
           "Fundsachen (Brillen und Schl\u00fcssel)",
           "F\u00fchrerscheinantrag",
@@ -8745,6 +8752,7 @@
           "Steuer-Identifikationsnummer",
           "Steuerformulare",
           "Telefon (Befreiung von der Grundgeb\u00fchr)",
+          "Umgang mit der E-Mail-Flut",
           "Untersuchungs-Berechtigungsschein",
           "Verkauf von Papiers\u00e4cken (Strauchabfuhr)",
           "Verkauf von Restm\u00fclls\u00e4cken",
@@ -21050,6 +21058,7 @@
           "Ausstellung eines Ersatzf\u00fchrerscheines (z. Bsp. Namens\u00e4nderung, B96, B196, B197)",
           "Ausstellung eines Internationalen F\u00fchrerscheines",
           "Ersterteilung eines F\u00fchrerscheines (Begleitetes Fahren / Nachtrag Begleitpers.",
+          "Ersterteilung eines F\u00fchrerscheines / Begleitetes Fahren / Nachtrag Begleitpers.",
           "Erweiterung / Verl\u00e4ngerung eines F\u00fchrerscheines (nur C1,C1E,C,CE, D1, D1E, D, DE",
           "Erweiterung eines F\u00fchrerscheines (Klassen B, BE, AM, A1, A2, A, T)",
           "Fahrerkarte (Erstbeantragung / Verl\u00e4ngerung / Verlust / Diebstahl / Umtausch)",
@@ -21098,6 +21107,7 @@
           "Ausstellung eines Ersatzf\u00fchrerscheines (z. Bsp. Namens\u00e4nderung, B96, B196, B197)",
           "Ausstellung eines Internationalen F\u00fchrerscheines",
           "Ersterteilung eines F\u00fchrerscheines (Begleitetes Fahren / Nachtrag Begleitpers.",
+          "Ersterteilung eines F\u00fchrerscheines / Begleitetes Fahren / Nachtrag Begleitpers.",
           "Erweiterung / Verl\u00e4ngerung eines F\u00fchrerscheines (nur C1,C1E,C,CE, D1, D1E, D, DE",
           "Erweiterung eines F\u00fchrerscheines (Klassen B, BE, AM, A1, A2, A, T)",
           "Fahrerkarte (Erstbeantragung / Verl\u00e4ngerung / Verlust / Diebstahl / Umtausch)",
@@ -26699,11 +26709,14 @@
         "services": [
           "Ausfuhr-/Exportzulassung",
           "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Ersatz-KFZ-Papiere",
           "Ersatz-KFZ-Papiere / Kennzeichenverlust/-diebstahl",
           "Import-Zulassung",
           "Kfz-Zulassung / Umschreibung",
           "Kurzzeitkennzeichen",
           "Namens-/Adress\u00e4nderung des bisherigen Halters innerhalb LU",
+          "Neusiegelung eines (besch\u00e4digten) Kennzeichens",
+          "Umkennzeichnung eines Fahrzeuges",
           "\u00c4nderung technische Daten & Oldtimer H-Kennzeichen"
         ]
       },
@@ -36687,6 +36700,13 @@
           "Restm\u00fclls\u00e4cke/Laubs\u00e4cke 01\u00a0\u00a0 Termin"
         ]
       },
+      "281/8115": {
+        "name": "Meldeangelegenheiten - Ukrainische Gefl\u00fcchtete",
+        "services": [
+          "Anmeldung urkainischer Gefl\u00fcchteter 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "PIK-Registrierung  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
       "282/3552": {
         "name": "B\u00fcrgerb\u00fcro Ergenzingen: Meldeangelegenheiten",
         "services": [
@@ -40579,6 +40599,7 @@
           "Aufenthalt zwecks Arbeitsplatzsuche  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Arbeitsplatzsuche (\u00a720 AufenthG) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Arbeitsplatzsuche 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Forschung / Freiwilligendienst 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7 s. weiter)  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst (\u00a7\u00a7 16a, 16d,  01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Aufenthalt zwecks Besch\u00e4ftigung / Ausbildung / Freiwilligendienst 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
@@ -43301,6 +43322,7 @@
       "12/520": {
         "name": "F\u00fchrerscheinstelle",
         "services": [
+          "Abholung F\u00fchrerschein (nach Erhalt SMS o.Benachricht.)",
           "Abholung Personenbef\u00f6rderungsschein",
           "Begleitetes Fahren ab 17",
           "Eintrag Schl\u00fcsselzahl B 96/B 196/ B 197",
