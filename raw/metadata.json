@@ -9665,6 +9665,7 @@
           "Ersterteilung",
           "Erweiterung",
           "F\u00fchrerscheinumtausch",
+          "Pflichtumtausch",
           "Verl\u00e4ngerung"
         ]
       },
@@ -40768,6 +40769,7 @@
         "services": [
           "Abholung Personalausweis/ Reisepass",
           "Adress\u00e4nderung Personalausweis",
+          "Ausweisdokumente beantragen nach Einb\u00fcrgerung",
           "Ausweisdokumente beantragen nach Einb\u00fcrgerung mit Lichtbilderstellung",
           "Elektronische Identit\u00e4tsnachweis-Karte (eID-Karte) f\u00fcr Unionsb\u00fcrger",
           "Kinderreisepass beantragen/verl\u00e4ngern",
