@@ -523,16 +523,60 @@
           "Gewerbezentralregisterauskunft beantragen"
         ]
       },
+      "523/3077": {
+        "name": "Zulassung",
+        "services": [
+          "Abmeldung und gleichzeitig Zulassung eines Fahrzeuges  01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
+          "Ausfuhrkennzeichen (Export)",
+          "Kurzzeitkennzeichen",
+          "Oldtimerkennzeichen (H-Kennzeichen) beantragen",
+          "Ummeldung eines Fahrzeuges bei Zuzug nach Ansbach",
+          "Wiederzulassung eines Fahrzeuges (Halter und Fahrzeug gleich)",
+          "Zulassung Importfahrzeug (Ausland)",
+          "Zulassung Neufahrzeug mit Einzelabnahme (\u00a7 13 EG-FGV) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
+          "Zulassung bzw. Ummeldung Gebrauchtfahrzeug",
+          "Zulassung fabrikneues Fahrzeug"
+        ]
+      },
+      "523/3085": {
+        "name": "Abmeldung",
+        "services": [
+          "Fahrzeugabmeldung"
+        ]
+      },
+      "523/3089": {
+        "name": "Verlust / Diebstahl / Besch\u00e4digung",
+        "services": [
+          "Ausstellung neue Zulassungsbesch. Teil II (Fahrzeugbrief) nach Aufbietung 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge",
+          "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge",
+          "Verlust/Diebstahl Kennzeichen",
+          "Verlust/Diebstahl Zulassungsbescheinigung Teil I (Fahrzeugschein)",
+          "Verlust/Diebstahl Zulassungsbescheinigung Teil II (Fahrzeugbrief)"
+        ]
+      },
+      "523/3092": {
+        "name": "\u00c4nderung Fahrzeugpapiere",
+        "services": [
+          "Adress\u00e4nderung bei Umzug innerhalb von Ansbach",
+          "Namens\u00e4nderung (Halter und Fahrzeug gleich)",
+          "Saisonzeitraum eintragen/\u00e4ndern (gleicher Halter/zugelassene Fahrzeuge)",
+          "\u00c4nderung Kennzeichen",
+          "\u00c4nderung von Technikdaten"
+        ]
+      },
       "523/7825": {
         "name": "Kfz-Anliegen (H\u00e4ndler)",
         "services": [
           "100Km/H - Plakette (H\u00e4ndler) 01\u00a0\u00a0 Plakette2\u00a0\u00a0 Plaketten3\u00a0\u00a0 Plaketten4\u00a0\u00a0 Plaketten5\u00a0\u00a0 Plaketten6\u00a0\u00a0 Plaketten7\u00a0\u00a0 Plaketten8\u00a0\u00a0 Plaketten",
+          "Adress\u00e4nderung - Namens\u00e4nderung (H\u00e4ndler)",
           "Adress\u00e4nderung - Namens\u00e4nderungen (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ausfuhrkennzeichen (H\u00e4ndler)",
           "Ausfuhrkennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Ausstellung Ersatzpapiere (nach Aufbietung/Eidesstattliche Versicherung) (H\u00e4ndle 01\u00a0\u00a0 Ersatzpapiere2\u00a0\u00a0 Ersatzpapiere3\u00a0\u00a0 Ersatzpapiere4\u00a0\u00a0 Ersatzpapiere5\u00a0\u00a0 Ersatzpapiere6\u00a0\u00a0 Ersatzpapiere7\u00a0\u00a0 Ersatzpapiere8\u00a0\u00a0 Ersatzpapiere",
+          "Ausstellung neue Zulassungsbesch. Teil II (Fahrzeugbrief) nach Aufbietung 01\u00a0\u00a0 Ersatzpapiere2\u00a0\u00a0 Ersatzpapiere3\u00a0\u00a0 Ersatzpapiere4\u00a0\u00a0 Ersatzpapiere5\u00a0\u00a0 Ersatzpapiere6\u00a0\u00a0 Ersatzpapiere7\u00a0\u00a0 Ersatzpapiere8\u00a0\u00a0 Ersatzpapiere",
           "Ersatzpapiere bei Verlust (H\u00e4ndler) 01\u00a0\u00a0 Ersatzpapiere2\u00a0\u00a0 Ersatzpapiere3\u00a0\u00a0 Ersatzpapiere4\u00a0\u00a0 Ersatzpapiere5\u00a0\u00a0 Ersatzpapiere6\u00a0\u00a0 Ersatzpapiere7\u00a0\u00a0 Ersatzpapiere8\u00a0\u00a0 Ersatzpapiere",
           "Ersatzpapiere bei Verlust (H\u00e4ndler) 01\u00a0\u00a0 Papier2\u00a0\u00a0 Papiere3\u00a0\u00a0 Papiere4\u00a0\u00a0 Papiere5\u00a0\u00a0 Papiere6\u00a0\u00a0 Papiere7\u00a0\u00a0 Papiere8\u00a0\u00a0 Papiere",
+          "Fahrzeug mit Gutachten (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5",
           "Fahrzeug mit Gutachten o. Technischer \u00c4nderung (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Fahrzeugabmeldung (H\u00e4ndler)",
           "Fahrzeugabmeldung (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
@@ -544,16 +588,22 @@
           "Kurzzeitkennzeichen (H\u00e4ndler)",
           "Kurzzeitkennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Oldtimer/Elektro o. Saison -Kennzeichen \u00c4nderung (H\u00e4ndler) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Sonstige Kfz-Vorg\u00e4nge [max. 15 Minuten!] (H\u00e4ndler) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge",
           "Sonstige Kfz-Vorg\u00e4nge [max. 15 Minuten!] (H\u00e4ndler) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Umkennzeichnung nach Verlust o. Diebstahl (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Umkennzeichnung nach Verlust o. Diebstahl Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Unfallkennzeichen mit vorhandenen Plaketten (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Unfallkennzeichen ohne vorhandene/abgefallene Plaketten (H\u00e4ndler) 01\u00a0\u00a0 Kennzeichen2\u00a0\u00a0 Kennzeichen3\u00a0\u00a0 Kennzeichen4\u00a0\u00a0 Kennzeichen5\u00a0\u00a0 Kennzeichen6\u00a0\u00a0 Kennzeichen7\u00a0\u00a0 Kennzeichen8\u00a0\u00a0 Kennzeichen",
+          "Verlust Fahrzeugpapiere (H\u00e4ndler)",
+          "Verlust/Diebstahl Kennzeichen (H\u00e4ndler)",
+          "Verl\u00e4ngerung rotes Kennzeichen (H\u00e4ndler) 01\u00a0\u00a0 Heft2\u00a0\u00a0 Hefte3\u00a0\u00a0 Hefte4\u00a0\u00a0 Hefte5\u00a0\u00a0 Hefte",
           "Zulassung Importfahrzeug / oder \u00fcber 7 Jahre abgemeldet (H\u00e4ndler)",
           "Zulassung Importfahrzeug / oder \u00fcber 7 Jahre abgemeldet (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Zulassung Importfahrzeug EU (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
           "Zulassung fabrikneues Fahrzeug (H\u00e4ndler)",
-          "Zulassung fabrikneues Fahrzeug (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge"
+          "Zulassung fabrikneues Fahrzeug (H\u00e4ndler) 01\u00a0\u00a0 Fahrzeug2\u00a0\u00a0 Fahrzeuge3\u00a0\u00a0 Fahrzeuge4\u00a0\u00a0 Fahrzeuge5\u00a0\u00a0 Fahrzeuge6\u00a0\u00a0 Fahrzeuge7\u00a0\u00a0 Fahrzeuge8\u00a0\u00a0 Fahrzeuge",
+          "\u00c4nderung Oldtimer/Elektro o. Saison-Kennzeichen (H\u00e4ndler)",
+          "\u00c4nderung von Technikdaten (H\u00e4ndler)"
         ]
       },
       "523/7827": {
@@ -4027,6 +4077,8 @@
           "F\u00fchrungszeugnis 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse",
           "F\u00fchrungszeugnis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Hausauskunft f\u00fcr Vermieter 01\u00a0\u00a0 Hausauskunft2\u00a0\u00a0 Hausausk\u00fcnfte3\u00a0\u00a0 Hausausk\u00fcnfte4\u00a0\u00a0 Hausausk\u00fcnfte",
+          "Hundeabmeldung 01\u00a0\u00a0 Hund2\u00a0\u00a0 Hunde3\u00a0\u00a0 Hunde",
+          "Hundeanmeldung  01\u00a0\u00a0 Hund2\u00a0\u00a0 Hunde3\u00a0\u00a0 Hunde",
           "Jagdschein beantragen / Verl\u00e4ngerung 01\u00a0\u00a0 Jagdschein",
           "Lebensbescheinigung (Rentenzweck) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Lebensbescheinigung (Rentenzweck) 01\u00a0\u00a0 Lebensbescheinigung2\u00a0\u00a0 Lebensbescheinigungen3\u00a0\u00a0 Lebensbescheinigungen4\u00a0\u00a0 Lebensbescheinigungen5\u00a0\u00a0 Lebensbescheinigungen",
@@ -26728,6 +26780,7 @@
           "Ersatz Rotes Heft H\u00e4ndlerkennzeichen",
           "Ersatz der Betriebserlaubnis (Unbedenklichkeitsbescheinigung) f\u00fcr Roller/Mofas/...",
           "Erteilung der Betriebserlaubnis (Genehmigung) f\u00fcr Roller/Mofas/...",
+          "Rote Dauerkennz. f\u00fcr H\u00e4ndler (06er)/rote Oldtimerkennz. (07er) beantragen/verl\u00e4ngern/abmelden",
           "Rote Dauerkennzeichen f\u00fcr H\u00e4ndler/Oldtimer (06er/07er) beantragen/verl\u00e4ngern/abmelden"
         ]
       },
@@ -38739,24 +38792,33 @@
         "services": [
           "Abmeldung ins Ausland",
           "Allgemeine Beratung",
+          "Anmeldung in Selm nach Zuzug aus dem Ausland",
+          "Anmeldung in Selm nach Zuzug aus einer anderen Stadt",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
           "Beglaubigungen",
           "F\u00fchrerscheinumtausch",
           "F\u00fchrungszeugnis",
+          "Kinderreisepass aktualisieren / verl\u00e4ngern",
           "Kinderreisepass ausstellen",
           "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
           "Lebensbescheinigung",
+          "Melde- / Lebensbescheinigung",
           "Meldebescheinigung",
           "Parkausweis",
+          "Parkausweis (blau)",
           "Personalausweis abholen",
           "Personalausweis ausstellen",
+          "Pin setzen",
           "Reisepass abholen",
           "Reisepass ausstellen",
           "Rundfunkgeb\u00fchren, Befreiung oder Erm\u00e4\u00dfigung",
+          "Ummeldung innerhalb von Selm",
           "Ummeldung, Einzelperson",
           "Untersuchungsberechtigungsschein",
-          "Verl\u00e4ngerung Schwerbehindertenausweis"
+          "Verl\u00e4ngerung Schwerbehindertenausweis",
+          "Vorl\u00e4ufigen Personalausweis ausstellen",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger"
         ]
       },
       "73396": {
@@ -38764,24 +38826,33 @@
         "services": [
           "Abmeldung ins Ausland",
           "Allgemeine Beratung",
+          "Anmeldung in Selm nach Zuzug aus dem Ausland",
+          "Anmeldung in Selm nach Zuzug aus einer anderen Stadt",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
           "Beglaubigungen",
           "F\u00fchrerscheinumtausch",
           "F\u00fchrungszeugnis",
+          "Kinderreisepass aktualisieren / verl\u00e4ngern",
           "Kinderreisepass ausstellen",
           "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
           "Lebensbescheinigung",
+          "Melde- / Lebensbescheinigung",
           "Meldebescheinigung",
           "Parkausweis",
+          "Parkausweis (blau)",
           "Personalausweis abholen",
           "Personalausweis ausstellen",
+          "Pin setzen",
           "Reisepass abholen",
           "Reisepass ausstellen",
           "Rundfunkgeb\u00fchren, Befreiung oder Erm\u00e4\u00dfigung",
+          "Ummeldung innerhalb von Selm",
           "Ummeldung, Einzelperson",
           "Untersuchungsberechtigungsschein",
-          "Verl\u00e4ngerung Schwerbehindertenausweis"
+          "Verl\u00e4ngerung Schwerbehindertenausweis",
+          "Vorl\u00e4ufigen Personalausweis ausstellen",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger"
         ]
       },
       "73397": {
@@ -38789,24 +38860,33 @@
         "services": [
           "Abmeldung ins Ausland",
           "Allgemeine Beratung",
+          "Anmeldung in Selm nach Zuzug aus dem Ausland",
+          "Anmeldung in Selm nach Zuzug aus einer anderen Stadt",
           "Anmeldung, Einzelperson ",
           "Antrag F\u00fchrerschein",
           "Beglaubigungen",
           "F\u00fchrerscheinumtausch",
           "F\u00fchrungszeugnis",
+          "Kinderreisepass aktualisieren / verl\u00e4ngern",
           "Kinderreisepass ausstellen",
           "Kraftfahrzeugabmeldung (nur f\u00fcr Selmer B\u00fcrger)",
           "Lebensbescheinigung",
+          "Melde- / Lebensbescheinigung",
           "Meldebescheinigung",
           "Parkausweis",
+          "Parkausweis (blau)",
           "Personalausweis abholen",
           "Personalausweis ausstellen",
+          "Pin setzen",
           "Reisepass abholen",
           "Reisepass ausstellen",
           "Rundfunkgeb\u00fchren, Befreiung oder Erm\u00e4\u00dfigung",
+          "Ummeldung innerhalb von Selm",
           "Ummeldung, Einzelperson",
           "Untersuchungsberechtigungsschein",
-          "Verl\u00e4ngerung Schwerbehindertenausweis"
+          "Verl\u00e4ngerung Schwerbehindertenausweis",
+          "Vorl\u00e4ufigen Personalausweis ausstellen",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger"
         ]
       },
       "73721": {
@@ -40662,6 +40742,7 @@
         "services": [
           "Abholung Personalausweis/ Reisepass",
           "Adress\u00e4nderung Personalausweis",
+          "Ausweisdokumente beantragen nach Einb\u00fcrgerung",
           "Ausweisdokumente beantragen nach Einb\u00fcrgerung mit Lichtbilderstellung",
           "Elektronische Identit\u00e4tsnachweis-Karte (eID-Karte) f\u00fcr Unionsb\u00fcrger",
           "Kinderreisepass beantragen/verl\u00e4ngern",
