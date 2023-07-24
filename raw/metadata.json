@@ -12408,6 +12408,7 @@
           "Sonstige nicht aufgef\u00fchrte Zulassungsvorg\u00e4nge",
           "Sonstige nicht aufgef\u00fchrte Zulassungsvorg\u00e4nge (Keine F\u00fchrerscheinvorg\u00e4nge)",
           "Sonstiges",
+          "Tageszulassung",
           "Technische \u00c4nderung in den Fahrzeugpapieren",
           "Umkennzeichnung eines Fahrzeuges (z.B. Diebstahl/Verlust)",
           "Ummeldung einer Wohnung innerhalb von Gelsenkirchen",
@@ -20225,7 +20226,8 @@
           "Abmeldung Gewerbe",
           "Abmeldung Privathaushalt",
           "Anmeldung Gewerbe",
-          "Anmeldung Privathaushalt"
+          "Anmeldung Privathaushalt",
+          "Fragen zu W\u00e4rmepumpen"
         ]
       },
       "214/2299": {
@@ -20258,7 +20260,8 @@
           "Abmeldung Gewerbe",
           "Abmeldung Privathaushalt",
           "Anmeldung Gewerbe",
-          "Anmeldung Privathaushalt"
+          "Anmeldung Privathaushalt",
+          "Fragen zu W\u00e4rmepumpen"
         ]
       },
       "215/2299": {
@@ -36783,6 +36786,7 @@
           "Beantragung einer Ersterteilung/Erweiterung 01",
           "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl oder Verlust",
           "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl oder Verlust 01",
+          "Beantragung eines Ersatzf\u00fchrerscheins nach Diebstahl/Verlust, Auflagen\u00e4nderung 01",
           "Beantragung eines Personenbef\u00f6rderungsscheins",
           "Beantragung eines Personenbef\u00f6rderungsscheins 01",
           "Beantragung internationaler F\u00fchrerschein mit Umtausch alter F\u00fcherschein in EU-F\u00fc",
@@ -38844,6 +38848,7 @@
           "Wiederzulassung (gleicher Halter, gleiches Fahrzeug)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
           "\u00c4nderung Fahrzeug auf Oldtimer (H)",
+          "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz",
           "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "\u00c4nderung Zulassungszeitraum (Vergabe/L\u00f6schung Saison)"
         ]
@@ -38931,6 +38936,7 @@
           "Wiederzulassung (gleicher Halter, gleiches Fahrzeug)",
           "Zulassung ausl\u00e4ndischer Fahrzeuge",
           "\u00c4nderung Fahrzeug auf Oldtimer (H)",
+          "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz",
           "\u00c4nderung Kennzeichenfarbe von gr\u00fcn auf schwarz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "\u00c4nderung Zulassungszeitraum (Vergabe/L\u00f6schung Saison)"
         ]
