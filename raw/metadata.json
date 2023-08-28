@@ -8760,6 +8760,7 @@
         "services": [
           "Abholung Personalausweis/Reisepass",
           "Allg. Aufstellerlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit",
+          "Allgemeine Gewerbeangelegenheiten",
           "An-, Ab- und Ummeldung",
           "Ausgabe von Aufenthaltstiteln (Duldung, Niederlassungserlaubnis, o. \u00c4.)",
           "Auskunft aus dem Gewerberegister",
@@ -8882,6 +8883,7 @@
         "name": "<big>B\u00fcrgerb\u00fcro</big>",
         "services": [
           "Abholung Personalausweis/Reisepass",
+          "Allgemeine Angelegenheiten (ruhender Verkehr)",
           "Ausgabe von Aufenthaltstiteln (Duldung, Niederlassungserlaubnis, o. \u00c4.)",
           "Baf\u00f6G-Leistungen (f\u00fcr Sch\u00fcler)",
           "Befreiung von den Rundfunkgeb\u00fchren (GEZ)",
@@ -8946,6 +8948,7 @@
           "Professionell f\u00fchren I",
           "Professionell f\u00fchren II",
           "Projekte initiieren, planen, durchf\u00fchren",
+          "Psychische Belastungen: Erkennen - Ansprechen - Reagieren",
           "Schwierige F\u00fchrungssituationen: Fehlzeiten \u2013 Leistungsm\u00e4ngel \u2013 Innere K\u00fcndigung",
           "Selber Termine einstellen",
           "Selbstorganisation im Kontext der Vereinbarkeit von Beruf und Familie",
@@ -9658,6 +9661,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9697,6 +9701,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9730,6 +9735,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9769,6 +9775,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9808,6 +9815,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9847,6 +9855,7 @@
           "Gewerbezentralregisterauszug",
           "Melde-Aufenthalts-Lebens-SteuerID-Bescheinigung",
           "Sonstiges (KEIN KFZ! z.B. Onlinefunktion einschalten, PIN neu setzen)",
+          "Testanliegen",
           "Untersuchungsberechtigungsschein",
           "Vorlage ausl\u00e4ndischer Urkunden / Korrektur Meldedaten"
         ]
@@ -9858,6 +9867,29 @@
     "scraper": "tempus",
     "url": "https://meintermin.essen.de/termine/index.php?anlagennr=21&anwendung=3356",
     "locations": {
+      "532/1139": {
+        "name": "4 - Besondere KFZ-Angelegenheiten",
+        "services": [
+          "Antragstellung rote Kennzeichen (H\u00e4ndlerkennzeichen)",
+          "Beantragung Fahrzeugscheinhefte (H\u00e4ndlerkennzeichen)",
+          "KFZ-Briefabholung (ZB II)",
+          "KFZ-Briefabholung (ZB II) mit Zulassung dieses KFZ",
+          "KFZ-Briefaufbietung/Ersatz-ZB II",
+          "Kleinkraftrad (freiwillige Zulassung)",
+          "Wechselkennzeichen f\u00fcr zwei Fahrzeuge",
+          "Zulassung aus dem Ausland eingef\u00fchrter, gebrauchter Kraftfahrzeuge"
+        ]
+      },
+      "532/1172": {
+        "name": "3 - Sonstige KFZ-Angelegenheiten",
+        "services": [
+          "Feinstaubplakette/Emissionsplakette (nur Ausgabe)",
+          "Kennzeichenreservierung/Wunschkennz.",
+          "Kennzeichentausch (Aufgrund Besch\u00e4digung)",
+          "Saisonkennzeichen",
+          "Tempo-100-Plakette"
+        ]
+      },
       "532/1651": {
         "name": "Fahrerlaubnisangelegenheiten im B\u00fcrgeramt Borbeck",
         "services": [
@@ -9893,6 +9925,66 @@
           "B\u00fcrgeramt Borbeck: Kennzeichentausch (Aufgrund Besch\u00e4digung)",
           "B\u00fcrgeramt Borbeck: Saisonkennzeichen",
           "B\u00fcrgeramt Borbeck: Tempo-100-Plakette"
+        ]
+      },
+      "532/2932": {
+        "name": "5 - Wiederzulassung nach Zwangsstilllegung",
+        "services": [
+          "Wiederzulassung nach zwangsweiser Au\u00dferbetriebsetzung"
+        ]
+      },
+      "532/2970": {
+        "name": "6 - Ausfuhrkennzeichen (Exportkennzeichen) \rInfolink",
+        "services": [
+          "Zuteilung Ausfuhrkennzeichen"
+        ]
+      },
+      "532/3675": {
+        "name": "Spezielle Kombi-Termine",
+        "services": [
+          "\"Geldb\u00f6rse verloren\" Personalausweis + F\u00fchrerschein Neuantr\u00e4ge",
+          "\"Neu in Essen\" - Anmeldung nach Zuzug au\u00dferhalb Essens + Umschreibung KFZ-Schein"
+        ]
+      },
+      "532/690": {
+        "name": "1 - KFZ-Zulassung/-Umschreibung",
+        "services": [
+          "Anmeldung eines neuen KFZ",
+          "Ersatz-ZB I/Verlust KFZ-Schein",
+          "Umkennzeichnung (andere Kombination)",
+          "Umschreibung eines gebrauchten Fahrzeugs",
+          "\u00c4nderung KFZ-Technik"
+        ]
+      },
+      "532/788": {
+        "name": "2 - Einfache KFZ-Angelegenheiten/\u00c4nderungen",
+        "services": [
+          "Ausserbetriebsetzung (Abmeldung)",
+          "Kurzzeitkennzeichen",
+          "Wiederzulassung auf den gleichen Halter",
+          "\u00c4nderung Name/Anschrift (Umzug innerhalb Essen)"
+        ]
+      },
+      "532/810": {
+        "name": "B\u00fcrgerservicestelle Borbeck: Pass- oder Personalausweis; eID-Karte f\u00fcr Unionsb\u00fcrger",
+        "services": [
+          "Kinderreisepass (auch Verl\u00e4ngerung)",
+          "Personalausweis",
+          "Personalausweis (vorl\u00e4ufig)",
+          "Reisepass",
+          "Reisepass (vorl\u00e4ufig)",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger"
+        ]
+      },
+      "855/810": {
+        "name": "B\u00fcrgerservicestelle: Pass- oder Personalausweis; eID-Karte f\u00fcr Unionsb\u00fcrger",
+        "services": [
+          "Kinderreisepass (auch Verl\u00e4ngerung)",
+          "Personalausweis",
+          "Personalausweis (vorl\u00e4ufig)",
+          "Reisepass",
+          "Reisepass (vorl\u00e4ufig)",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger"
         ]
       }
     }
@@ -13535,6 +13627,7 @@
           "KFA - Versicherungsschutz",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "SeniorInnenB\u00fcro - SeniorInnenCard",
@@ -14569,6 +14662,7 @@
           "Handy-Signatur (bis Juni 2023)",
           "Heizkostenzuschuss Land Steiermark",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14743,6 +14837,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14799,6 +14894,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14836,6 +14932,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14873,6 +14970,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14931,6 +15029,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -14968,6 +15067,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15005,6 +15105,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15042,6 +15143,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15336,6 +15438,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15373,6 +15476,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15410,6 +15514,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15447,6 +15552,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15484,6 +15590,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15521,6 +15628,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15558,6 +15666,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15726,6 +15835,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15871,6 +15981,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15905,6 +16016,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15942,6 +16054,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -15983,6 +16096,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "SeniorInnenB\u00fcro - SeniorInnenCard",
@@ -16028,6 +16142,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "SeniorInnenB\u00fcro - SeniorInnenCard",
@@ -16074,6 +16189,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -16108,6 +16224,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -16142,6 +16259,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
@@ -20720,12 +20838,16 @@
           "Ersatzf\u00fchrerschein (bei Verlust / Diebstahl)",
           "Fahreignungsregister (Punkte)",
           "Fahrerkarte",
+          "Fahrerqualifizierungsnachweis 01",
           "Internationaler F\u00fchrerschein",
           "Neuerteilung einer Fahrerlaubnis",
           "Personenbef\u00f6rderungsschein",
           "Umschreibung einer Dienstfahrerlaubnis",
           "Umtausch eines F\u00fchrerscheines (Deutschland, EU-Staaten)",
           "Umtausch eines F\u00fchrerscheines (andere Staaten)",
+          "Umtausch eines ausl\u00e4ndischen F\u00fchrerscheines",
+          "Umtausch eines deutschen Papierf\u00fchrerscheins in einen Kartenf\u00fchrerschein",
+          "Umtausch eines deutschen Papierf\u00fchrerscheins in einen deutschen Kartenf\u00fchrersche",
           "Verl\u00e4ngerung von Fahrerlaubnisklassen (LKW & Bus)"
         ]
       },
@@ -30772,6 +30894,7 @@
           "Antrag F\u00fchrungszeugnis und Auskunft aus dem Gewerbezentralregister",
           "Ausstellen von Bescheinigungen",
           "Beantragung F\u00fchrerschein",
+          "Beantragung F\u00fchrerschein nur AM,A1,A2,A,B1,B, BE,L,T  (kein Umtausch alter F\u00fchrerscheine,kein Internationaler F\u00fchrerschein)",
           "Beantragung F\u00fchrerschein(kein Umtausch alter F\u00fchrerscheine)",
           "Beantragung F\u00fchrerschein(kein Umtausch alter F\u00fchrerscheine,kein Internationaler F\u00fchrerschein)",
           "Erstellung  von Beglaubigungen",
@@ -35188,7 +35311,8 @@
       "328/5150": {
         "name": "Einladung f\u00fcr ausl\u00e4ndische G\u00e4ste",
         "services": [
-          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung aus dem Ausland)"
+          "Abgabe einer Verpflichtungserkl\u00e4rung (Besuchseinladung aus dem Ausland)",
+          "Verpflichtungserkl\u00e4rung (Besuchseinladung aus dem Ausland)"
         ]
       },
       "328/5566": {
@@ -35200,10 +35324,17 @@
           "Abholung eines fertigen / abholbereiten Aufenthaltstitel (eAT)/ Reiseausweis",
           "Abholung/ Einreichung von Antragsunterlagen",
           "Anmeldung/Registrierung von ukrainischen Fl\u00fcchtlingen",
+          "Arbeitserlaubnis (Beantragung / \u00c4nderung)",
+          "Aufenthaltsgestattung (Erteilung / Verl\u00e4ngerung)",
           "Beantragung/\u00c4nderung einer Arbeitserlaubnis",
+          "Duldung (Erteilung / Verl\u00e4ngerung)",
+          "Erteilung / Verl\u00e4ngerung Aufenthaltserlaubnis, Niederlassungserlaubnis, Fiktion",
+          "Erteilung / Verl\u00e4ngerung Aufenthaltserlaubnis, Visum, Blaue Karte EU,Fiktion",
           "Erteilung/ Verl\u00e4ngerung Aufenthaltserlaubnis, Visum, Blaue Karte EU,Fiktion",
           "Neuer Pass / \u00dcbertrag neue Passnummer in Aufenthaltskarte (eAT)",
+          "Nur EU-B\u00fcrger: Abgabe von Passkopien bzw. Vorlegen neuer P\u00e4sse / Ausweisdokument",
           "Nur EU-B\u00fcrger: Abgabe von Passkopien bzw. Vorlegen neuer P\u00e4sse/ Ausweisdokumente",
+          "Verlust Aufenthaltstitel (eAT) / Reiseausweis",
           "Verlust Aufenthaltstitel (eAT)/Reiseausweis"
         ]
       },
@@ -36688,6 +36819,7 @@
         "name": "Meldeangelegenheiten",
         "services": [
           "Abmeldung eines Nebenwohnsitzes oder ins Ausland",
+          "Abmeldung eines Nebenwohnsitzes oder ins Ausland  auch onlin",
           "Anmeldung in Ravensburg",
           "Auskunft aus dem Melderegister",
           "Meldebescheinigung",
@@ -36739,6 +36871,13 @@
           "Interner Bereich",
           "Personalausweis f\u00fcr Deutsche im Ausland",
           "Reisepass f\u00fcr Deutsche im Ausland"
+        ]
+      },
+      "608/9725": {
+        "name": "Bauordnungsamt",
+        "services": [
+          "Bauantrag",
+          "B\u00fcrgerberatung"
         ]
       }
     }
