@@ -2049,6 +2049,7 @@
           "Namens- oder Anschriften\u00e4nderung des eingetragenen Halters",
           "Namens\u00e4nderung des eingetragenen Halters",
           "Neuzulassung (fabrikneues Fahrzeug)",
+          "Tageszulassung",
           "Technische \u00c4nderung",
           "Umkennzeichnung",
           "Umschreibung eines Fahrzeugs von au\u00dferhalb nach Bielefeld",
@@ -2072,6 +2073,7 @@
           "Anerkennung der Vaterschaft und Namenserteilung f\u00fcr das Kind",
           "Anzeige einer Hausgeburt",
           "Beurkundung einer im Ausland erfolgten Geburt",
+          "Einreichen von Dokumenten f\u00fcr eine Geburtsbeurkundung",
           "Namenserteilung f\u00fcr das Kind",
           "Neubestimmung des Geburtsnamens des Kindes"
         ]
@@ -10098,6 +10100,7 @@
         "services": [
           "Anmeldung eines neuen KFZ",
           "Ersatz-ZB I/Verlust KFZ-Schein",
+          "Tageszulassung",
           "Umkennzeichnung (andere Kombination)",
           "Umschreibung eines gebrauchten Fahrzeugs",
           "\u00c4nderung KFZ-Technik"
@@ -26620,6 +26623,15 @@
           "polizeiliches F\u00fchrungszeugnis"
         ]
       },
+      "194/438": {
+        "name": "Neckarweihingen: Bewohnerparken und Parkausweise",
+        "services": [
+          "Ausstellung Behindertenparkausweis",
+          "Bewohnerparkausweis Neuausstellung",
+          "Bewohnerparkausweis Verl\u00e4ngerung oder \u00c4nderung",
+          "Bewohnerparkausweis beantragen"
+        ]
+      },
       "195/3770": {
         "name": "Poppenweiler: Bescheinigungen",
         "services": [
@@ -26664,6 +26676,15 @@
           "Verpflichtungserkl\u00e4rung zu Besuchszwecken (Termin nach Nachname des Besuchers!)",
           "Verpflichtungserkl\u00e4rung zu Studienzwecken/Verpflichtungserkl\u00e4rung zur Eheschlie\u00df",
           "polizeiliches F\u00fchrungszeugnis"
+        ]
+      },
+      "195/438": {
+        "name": "Poppenweiler: Bewohnerparken und Parkausweise",
+        "services": [
+          "Ausstellung Behindertenparkausweis",
+          "Bewohnerparkausweis Neuausstellung",
+          "Bewohnerparkausweis Verl\u00e4ngerung oder \u00c4nderung",
+          "Bewohnerparkausweis beantragen"
         ]
       },
       "276/8528": {
@@ -27351,6 +27372,180 @@
         ]
       },
       "188": {
+        "name": "Standesamt - Urkundenausstellung (NICHT Beurkundung von Geburten)",
+        "services": [
+          "Urkundenausstellung"
+        ]
+      },
+      "192": {
+        "name": "Aufenthaltsrecht",
+        "services": [
+          "Pass\u00fcbertrag bei unbefristeter Niederlassungserlaubnis",
+          "Verpflichtungserkl\u00e4rung f\u00fcr Besuchervisum"
+        ]
+      },
+      "193": {
+        "name": "Bewohnerparkausweise",
+        "services": [
+          "Bewohnerparkausweis"
+        ]
+      },
+      "194": {
+        "name": "B\u00fcrgerb\u00fcro Bismarckstra\u00dfe",
+        "services": [
+          "Abmeldung Nebenwohnsitz",
+          "Abmeldung bei Wegzug ins Ausland",
+          "Anmeldung bei Umzug in LU",
+          "Anmeldung bei Umzug in LU mit \u00c4nderung Kfz-Schein",
+          "Anmeldung bei Zuzug aus dem Ausland",
+          "Anmeldung bei Zuzug innerhalb Deutschlands",
+          "Beglaubigung Unterschrift/en",
+          "Beglaubigung von 11 bis 20 Seiten",
+          "Beglaubigung von 3 bis 5 Seiten",
+          "Beglaubigung von 6 bis 10 Seiten",
+          "Beglaubigung von bis zu zwei Seiten",
+          "Familienpass",
+          "F\u00fchrungszeugnis B\u00fcrgerb\u00fcro Bismarckstra\u00dfe",
+          "Gewerbezentralregisterauszug f\u00fcr Privatpersonen",
+          "Haushaltsbescheinigung",
+          "Kinderreisepass",
+          "Lebensbescheinigung",
+          "Personalausweis / vorl\u00e4ufiger Personalausweis",
+          "Reisepass",
+          "Untersuchungsberechtigungsschein Jugendarbeitschutzgesetz",
+          "eID-Karte"
+        ]
+      },
+      "195": {
+        "name": "B\u00fcrgerb\u00fcro Achtmorgenstra\u00dfe",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Achtmorgenstra\u00dfe",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Achtmorgenstra\u00dfe",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Achtmorgenstra\u00dfe",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Achtmorgenstra\u00dfe",
+          "Antrag Wohnberechtigungsschein BB Achtmorgenstra\u00dfe",
+          "Auszug Gewerbezentralregister BB Achtmorgenstra\u00dfe",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Achtmorgenstra\u00dfe",
+          "Beglaubigung Unterschriften BB Achtmorgenstra\u00dfe",
+          "Beglaubigung ab 3 bis 5 Seiten BB Achtmorgenstra\u00dfe",
+          "Beglaubigung von bis zu zwei Seiten BB Achtmorgenstra\u00dfe",
+          "F\u00fchrungszeugnis BB Achtmorgenstra\u00dfe",
+          "Jugendschutzuntersuchung BB Achtmorgenstra\u00dfe",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Achtmorgenstra\u00dfe",
+          "alle Meldebescheinigungen BB Achtmorgenstra\u00dfe (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Achtmorgenstra\u00dfe"
+        ]
+      },
+      "196": {
+        "name": "B\u00fcrgerb\u00fcro Oggersheim",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Oggersheim",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Oggersheim",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Oggersheim",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oggersheim",
+          "Antrag Wohnberechtigungsschein BB Oggersheim",
+          "Auszug Gewerbezentralregister BB Oggersheim",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oggersheim",
+          "Beglaubigung Unterschriften BB Oggersheim",
+          "Beglaubigung ab 3 bis 5 Seiten BB Oggersheim",
+          "Beglaubigung von bis zu zwei Seiten BB Oggersheim",
+          "F\u00fchrungszeugnis BB Oggersheim",
+          "Jugendschutzuntersuchung BB Oggersheim",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Oggersheim",
+          "alle Meldebescheinigungen BB Oggersheim (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Oggersheim"
+        ]
+      },
+      "197": {
+        "name": "B\u00fcrgerb\u00fcro Oppau",
+        "services": [
+          "Abholung von Personalausweis / Reisepass BB Oppau",
+          "Abmeldung Nebenwohnsitz (nur wenn HAW in LU) BB Oppau",
+          "Abmeldung Wohnsitz (bei Wegzug ins Ausland) BB Oppau",
+          "Anmeldung Wohnsitz (bei Umzug in LU) mit \u00c4nderung Kfz-Schein BB Oppau",
+          "Anmeldung Wohnsitz (bei Umzug innerhalb von LU) BB Oppau",
+          "Anmeldung Wohnsitz (bei Zuzug aus dem Ausland) BB Oppau",
+          "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oppau",
+          "Antrag Wohnberechtigungsschein BB Oppau",
+          "Auszug Gewerbezentralregister BB Oppau",
+          "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oppau",
+          "Beglaubigung Unterschriften BB Oppau",
+          "Beglaubigung ab 3 bis 5 Seiten BB Oppau",
+          "Beglaubigung von bis zu zwei Seiten BB Oppau",
+          "F\u00fchrungszeugnis BB Oppau",
+          "Jugendschutzuntersuchung BB Oppau",
+          "Verkauf von Jutes\u00e4cken / grauen S\u00e4cken BB Oppau",
+          "alle Meldebescheinigungen BB Oppau (keine Anmeldung der Wohnung)",
+          "eID-Karte BB Oppau"
+        ]
+      },
+      "198": {
+        "name": "Einb\u00fcrgerungsbeh\u00f6rde",
+        "services": [
+          "Antrag Einb\u00fcrgerung 1 Person",
+          "Antrag Einb\u00fcrgerung 2 Personen",
+          "Antrag Einb\u00fcrgerung ab 3 Personen"
+        ]
+      },
+      "199": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Anerkennung einer ausl\u00e4ndischen Fahrerlaubnis",
+          "Begleitetes Fahren ab 17",
+          "Ersatzf\u00fchrerschein",
+          "Ersterteilung Fahrerlaubnis",
+          "Erteilung der Fahrerlaubnis: A-Klassen",
+          "Erweiterung der Fahrerlaubnis: C-Klassen",
+          "Erweiterung der Fahrerlaubnis: D-Klassen",
+          "Fahrerkarte / Werkstattkarte / Unternehmerkarte",
+          "Fahrerlaubnis Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "Neuerteilung der Fahrerlaubnis nach Entzug oder Verzicht",
+          "Pflichtumtausch F\u00fchrerschein",
+          "Schl\u00fcsselzahl 95",
+          "Schl\u00fcsselzahl 96",
+          "Schl\u00fcsselzahl 96 + 196",
+          "Umschreibung ausl\u00e4ndische Fahrerlaubnis",
+          "Verl\u00e4ngerung Fahrerlaubnis Klassen C + D"
+        ]
+      },
+      "200": {
+        "name": "Kfz-Zulassungsstelle",
+        "services": [
+          "Ausfuhr-/Exportzulassung",
+          "Au\u00dferbetriebsetzung (Abmeldung)",
+          "Ersatz-KFZ-Papiere",
+          "Import-Zulassung",
+          "Kfz-Zulassung / Umschreibung",
+          "Kurzzeitkennzeichen",
+          "Namens-/Adress\u00e4nderung des bisherigen Halters innerhalb LU",
+          "Umkennzeichnung eines Fahrzeuges",
+          "\u00c4nderung technische Daten & Oldtimer H-Kennzeichen"
+        ]
+      },
+      "201": {
+        "name": "Kfz-Zulassungsstelle",
+        "services": [
+          "Ersatz Rotes Heft H\u00e4ndlerkennzeichen",
+          "Ersatz der Betriebserlaubnis (Unbedenklichkeitsbescheinigung) f\u00fcr Roller/Mofas/...",
+          "Erteilung der Betriebserlaubnis (Genehmigung) f\u00fcr Roller/Mofas/...",
+          "Rote Dauerkennz. f\u00fcr H\u00e4ndler (06er)/rote Oldtimerkennz. (07er) beantragen/verl\u00e4ngern/abmelden"
+        ]
+      },
+      "202": {
+        "name": "Standesamt - Kirchenaustritte",
+        "services": [
+          "Kirchenaustritt 1 Person",
+          "Kirchenaustritt mehrere Personen"
+        ]
+      },
+      "203": {
         "name": "Standesamt - Urkundenausstellung (NICHT Beurkundung von Geburten)",
         "services": [
           "Urkundenausstellung"
