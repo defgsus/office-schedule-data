@@ -2490,6 +2490,7 @@
           "Familienwanderung an der Berkel - mit Stockbrot",
           "Fr\u00fchlingswanderung mit Picknick",
           "Hoch hinaus - Rathausf\u00fchrung",
+          "Mini-Museumsmarsch \u2013 Das Offene Heimatmuseum Billerbeck",
           "M\u00e4rchen und Sagen: Stadtf\u00fchrung mit Laterne",
           "Theater, Theater! - 25 Jahre Theatermeile Billerbeck",
           "Theater, Theater! - Theatermeile Billerbeck"
@@ -14813,6 +14814,74 @@
           "Wohnsitz - An-, Ab- und Ummeldung"
         ]
       },
+      "167505": {
+        "name": "Abteilung f\u00fcr Bildung und Integration",
+        "services": [
+          "1.1 Beitragsberechnung Schulische Tagesbetreuung",
+          "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
+          "1.3 Summer Special im IBOBB-Caf\u00e9",
+          "1.4 Videoberatung - IBOBB-Caf\u00e9",
+          "1.5 Anmeldung leicht gemacht - Beratung mit Dolmetsch Unterst\u00fctzung",
+          "1.6 ABI Videoberatung Schule",
+          "1.8 Beratung - IBOBB-Caf\u00e9",
+          "1.9 ABI Beratung Schule",
+          "2.0 ABI Beratung Kinderbetreuung",
+          "2.1 Verrechnung Schulische Tagesbetreuung",
+          "2.2 Verrechnung St\u00e4dtische Kinderkrippe, Kindergarten, Hort",
+          "Abgabe von Einreichunterlagen zu Bauansuchen",
+          "Andere Impfung Kinder und HPV Impfung",
+          "Anmeldung Zuschuss Feriencamps",
+          "Auff.-Impfung Dipt.Tet.Pol.Pert. oder Masern-Mumps-R\u00f6teln",
+          "Ausbildungsbescheinigung PSMG",
+          "Behindertenhilfe",
+          "Beratung zu Pflegefragen",
+          "Beschwerden Betreutes Wohnen",
+          "Beschwerden Pflegeheime",
+          "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
+          "Ein- oder Auszahlung Stadthauptkasse",
+          "Einfahrt Ressourcenpark Registrierung",
+          "Fotoregistrierung E-Card",
+          "F\u00fcr die Leistungen des B\u00fcrger:innenamtes klicken Sie bitte auf folgenden Link:",
+          "GGZ - Beratungsgespr\u00e4ch/Finanzierungskl\u00e4rung",
+          "GGZ - Gespr\u00e4ch vor der Aufnahme",
+          "GGZ - Verrechnung",
+          "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
+          "Handy-Signatur",
+          "KFA - Buchhalt\u00e4rische Angelegenheiten",
+          "KFA - Chefzahn\u00e4rztlicher Dienst",
+          "KFA - Chef\u00e4rztlicher Dienst",
+          "KFA - Differenzverrechnung",
+          "KFA - Kanzlei",
+          "KFA - Krankengeld, Kostenerstattung",
+          "KFA - Kur und Erholungsaufenthalte",
+          "KFA - Leistungsverrechnung",
+          "KFA - Rechtsangelegenheiten (Befreiungen)",
+          "KFA - R\u00fcckverrechnung",
+          "KFA - Stammdaten\u00e4nderung",
+          "KFA - Versicherungsschutz",
+          "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
+          "Meldeauskunft, Meldebest\u00e4tigung",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "SeniorInnenB\u00fcro - SeniorInnenCard",
+          "SeniorInnenB\u00fcro - Taxikostenzuschuss",
+          "SeniorInnenB\u00fcro - sonstige Beratung",
+          "Servicestellen der Stadt Graz - Beratung sonstige Leistungen",
+          "SozialCard",
+          "Sozialunterst\u00fctzung",
+          "Stadtplanungsamt - Ausk\u00fcnfte Gestaltung \u00f6ffentlicher Raum",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Bebauungsplanung und st\u00e4dtebauliche und architektonische Beratung (das Grundst\u00fcck und seine Bebauung)",
+          "Stadtplanungsamt - Ausk\u00fcnfte zu Grundst\u00fccksteilungen, Stra\u00dfenfluchtlinien und Bauplatzeignung",
+          "Stadtplanungsamt - Ausk\u00fcnfte zur Stadtentwicklung und Fl\u00e4chenwidmung (allgemeine Vorgaben aus der Raumplanung)",
+          "Stadtvermessungsamt - Beratung in grundbuchs- und katastertechnischen Angelegenheiten",
+          "Stadtvermessungsamt - Geodaten KundInnenservice ",
+          "Stadtvermessungsamt - Hausnummernvergabe",
+          "Unterst\u00fctzungserkl\u00e4rung",
+          "Verlustmeldung / Fund",
+          "Wohn und Heizkostenzuschuss",
+          "Wohnsitz - An-, Ab- und Ummeldung"
+        ]
+      },
       "73739": {
         "name": "Abteilung f\u00fcr Bildung und Integration",
         "services": [
@@ -21896,9 +21965,12 @@
       "229/2680": {
         "name": "Meldeangelegenheiten",
         "services": [
+          "Abmeldung Nebenwohnsitz",
           "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen7\u00a0\u00a0 Abmeldungen8\u00a0\u00a0 Abmeldungen",
+          "Abmeldung ins Ausland",
           "Abmeldung ins Ausland 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen7\u00a0\u00a0 Abmeldungen8\u00a0\u00a0 Abmeldungen",
           "Anmeldung Hauptwohnsitz / Nebenwohnsitz",
+          "Meldebescheinigung / Lebensbest\u00e4tigung",
           "Meldebescheinigung / Lebensbest\u00e4tigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Meldebescheinigung/Lebensbest\u00e4tigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Ummeldung in Ladenburg"
@@ -21908,6 +21980,7 @@
         "name": "Ausweisangelegenheiten",
         "services": [
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 x2\u00a0\u00a0 x3\u00a0\u00a0 x4\u00a0\u00a0 x5\u00a0\u00a0 x6\u00a0\u00a0 x7\u00a0\u00a0 x8\u00a0\u00a0 x",
           "Beantragung / Verl\u00e4ngerung Kinderreisepass",
           "Beantragung Personalausweis / Vorl\u00e4ufiger Personalausweis",
           "Beantragung Reisepass / Expressreisepass",
@@ -21922,11 +21995,14 @@
         "services": [
           "Abmeldung eines Hundes",
           "Anmeldung eines Hundes",
+          "Best\u00e4tigungen / Unterschriftsbeglaubigungen",
           "Best\u00e4tigungen / Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
           "Best\u00e4tigungen/Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
           "Fischereischein Neuausstellung",
+          "Fischereischein Verl\u00e4ngerung",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine5\u00a0\u00a0 Fischereischeine6\u00a0\u00a0 Fischereischeine7\u00a0\u00a0 Fischereischeine8\u00a0\u00a0 Fischereischeine",
           "F\u00fchrerscheinantrag",
+          "F\u00fchrungszeugnis (Europ\u00e4isches) / Gewerbezentralregisterauszug",
           "F\u00fchrungszeugnis (Europ\u00e4isches) / Gewerbezentralregisterauszug 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse6\u00a0\u00a0 F\u00fchrungszeugnisse7\u00a0\u00a0 F\u00fchrungszeugnisse8\u00a0\u00a0 F\u00fchrungszeugnisse",
           "Hund abmelden",
           "Hund anmelden",
@@ -21937,7 +22013,12 @@
         "name": "Gewerbe",
         "services": [
           "Auszug aus dem Gewerberegister 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge4\u00a0\u00a0 Ausz\u00fcge5\u00a0\u00a0 Ausz\u00fcge6\u00a0\u00a0 Ausz\u00fcge7\u00a0\u00a0 Ausz\u00fcge8\u00a0\u00a0 Ausz\u00fcge",
+          "Auszug aus dem Gewerberegister der Stadt Ladenburg",
           "Auszug aus dem Gewerberegister der Stadt Ladenburg 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge4\u00a0\u00a0 Ausz\u00fcge5\u00a0\u00a0 Ausz\u00fcge6\u00a0\u00a0 Ausz\u00fcge7\u00a0\u00a0 Ausz\u00fcge8\u00a0\u00a0 Ausz\u00fcge",
+          "Auszug aus dem Gewerbezentralregister",
+          "Gewerbe-Abmeldung",
+          "Gewerbe-Anmeldung",
+          "Gewerbe-Ummeldung",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
           "Gewerbeummeldung",
@@ -21948,9 +22029,12 @@
         "name": "Ausl\u00e4nderangelegenheiten/Weiterleitung von Antr\u00e4gen",
         "services": [
           "Abholung Aufenthaltserlaubnis / Duldung / Gestattung 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
+          "Abholung Aufenthaltserlaubnis / Duldung / Gestattung 01\u00a0\u00a0 x2\u00a0\u00a0 x3\u00a0\u00a0 x4\u00a0\u00a0 x5\u00a0\u00a0 x6\u00a0\u00a0 x7\u00a0\u00a0 x8\u00a0\u00a0 x",
           "Abholung Aufenthaltserlaubnis/Duldung/Gestattung 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
           "Einb\u00fcrgerung",
+          "Staatsangeh\u00f6rigkeit",
           "Staatsangeh\u00f6rigkeit 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
+          "Verl\u00e4ngerung Aufenthaltserlaubnis / Duldung / Gestattung",
           "Verl\u00e4ngerung Aufenthaltserlaubnis / Duldung / Gestattung 01\u00a0\u00a0 Verl\u00e4ngerung2\u00a0\u00a0 Verl\u00e4ngerungen3\u00a0\u00a0 Verl\u00e4ngerungen4\u00a0\u00a0 Verl\u00e4ngerungen5\u00a0\u00a0 Verl\u00e4ngerungen6\u00a0\u00a0 Verl\u00e4ngerungen7\u00a0\u00a0 Verl\u00e4ngerungen8\u00a0\u00a0 Verl\u00e4ngerungen",
           "Verl\u00e4ngerung Aufenthaltserlaubnis/Duldung/Gestattung 01\u00a0\u00a0 Verl\u00e4ngerung2\u00a0\u00a0 Verl\u00e4ngerungen3\u00a0\u00a0 Verl\u00e4ngerungen4\u00a0\u00a0 Verl\u00e4ngerungen5\u00a0\u00a0 Verl\u00e4ngerungen6\u00a0\u00a0 Verl\u00e4ngerungen7\u00a0\u00a0 Verl\u00e4ngerungen8\u00a0\u00a0 Verl\u00e4ngerungen"
         ]
@@ -21958,16 +22042,22 @@
       "252/2958": {
         "name": "Eheschlie\u00dfungen",
         "services": [
+          "Anmeldung Eheschlie\u00dfung bei Wohnsitz innerhalb und Trauung au\u00dferhalb Ladenburgs",
           "Anmeldung Eheschlie\u00dfung bei Wohnsitz innerhalb und Trauung au\u00dferhalb Ladenburgs 01\u00a0\u00a0 Anmeldung",
+          "Anmeldung Eheschlie\u00dfung bei Wohnsitz und Trauung in Ladenburg",
           "Anmeldung Eheschlie\u00dfung bei Wohnsitz und Trauung in Ladenburg 01\u00a0\u00a0 Anmeldung",
+          "Traugespr\u00e4ch bei Wohnsitz au\u00dferhalb Ladenburgs und Trauung in Ladenburg",
           "Traugespr\u00e4ch bei Wohnsitz au\u00dferhalb Ladenburgs und Trauung in Ladenburg 01\u00a0\u00a0 Gespr\u00e4ch"
         ]
       },
       "252/2971": {
         "name": "Namenserkl\u00e4rungen",
         "services": [
+          "Ehenamensbestimmung",
           "Ehenamensbestimmung 01\u00a0\u00a0 Bestimmung",
           "Namenserkl\u00e4rung (Sp\u00e4taussiedler, nach Einb\u00fcrgerung, \u00f6ff.-recht. Namenserkl\u00e4rung) 01\u00a0\u00a0 Erkl\u00e4rung",
+          "Namenserkl\u00e4rung (Sp\u00e4taussiedler, nach Einb\u00fcrgerung, \u00f6ff.-recht. Namenserkl\u00e4rung) 01\u00a0\u00a0 x",
+          "Wiederannahme des Geburtsnamens nach Aufl\u00f6sung der Ehe",
           "Wiederannahme des Geburtsnamens nach Aufl\u00f6sung der Ehe 01\u00a0\u00a0 Wiederannahme"
         ]
       },
@@ -21975,14 +22065,18 @@
         "name": "Eheschlie\u00dfung von deutschen Staatsangeh\u00f6rigen im Ausland",
         "services": [
           "Antrag auf Ausstellung eines Ehef\u00e4higkeitszeugnisses zur Eheschlie\u00dfung im Auslan 01\u00a0\u00a0 Antrag",
+          "Antrag auf Ausstellung eines Ehef\u00e4higkeitzeugnisses zur Eheschlie\u00dfung im Ausland",
           "Antrag auf Ausstellung eines Ehef\u00e4higkeitzeugnisses zur Eheschlie\u00dfung im Ausland 01\u00a0\u00a0 Antrag",
+          "Antrag auf Nachbeurkundung einer Geburt oder Eheschlie\u00dfung im Ausland",
           "Antrag auf Nachbeurkundung einer Geburt oder Eheschlie\u00dfung im Ausland 01\u00a0\u00a0 Antrag"
         ]
       },
       "252/2978": {
         "name": "Sonstiges",
         "services": [
+          "Kirchenaustritt",
           "Kirchenaustritt 01\u00a0\u00a0 Austritt2\u00a0\u00a0 Austritte",
+          "Vaterschaftsanerkennung",
           "Vaterschaftsanerkennung 01\u00a0\u00a0 Anerkennung"
         ]
       }
@@ -30538,6 +30632,19 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=60",
     "locations": {
+      "191/10148": {
+        "name": "Veranstaltung \"Energie erleben!\" am 30.09.2023",
+        "services": [
+          "Veranstaltung \"Energie erleben!\" am 30.09.2023 01"
+        ]
+      },
+      "191/10163": {
+        "name": "Veranstaltung \"Energie erleben\" 30.09.2023",
+        "services": [
+          "Veranstaltung \"Energie erleben\" 30.09.2023 01",
+          "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
+      },
       "191/1709": {
         "name": "An-/Abmeldungen",
         "services": [
@@ -30639,7 +30746,9 @@
         "name": "Gerne beraten wir Sie zu Themen der Photovoltaik und E-Mobilit\u00e4t",
         "services": [
           "Solar-Anlage, Batteriespeicher und Lades\u00e4ule",
-          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule 01"
+          "Solar-Anlage, Batteriespeicher und Lades\u00e4ule 01",
+          "Veranstaltung \"Energie erleben!\" 30.09.2023 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Veranstaltung \"Energie erleben!\" am 30.09.2023 01"
         ]
       },
       "191/4703": {
@@ -41384,7 +41493,8 @@
       "299/5909": {
         "name": "Rathaus Lustnau: Standesamt Rathaus Derendingen, Lustnau und Verwaltungsstellen",
         "services": [
-          "Kirchenaustritt erkl\u00e4ren"
+          "Kirchenaustritt erkl\u00e4ren",
+          "Urkunde beantragen"
         ]
       },
       "300/4619": {
@@ -41758,6 +41868,12 @@
         "name": "Gewerbebereich",
         "services": [
           "Gewerbeanmeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
+        ]
+      },
+      "604/5909": {
+        "name": "Standesamt: Standesamtsangelegenheiten",
+        "services": [
+          "Kirchenaustritt erkl\u00e4ren"
         ]
       }
     }
