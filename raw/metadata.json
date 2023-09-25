@@ -831,7 +831,9 @@
           "Abmeldung ins Ausland",
           "Anmeldung aus dem Inland",
           "Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung",
+          "Meldebescheinigung",
           "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen",
+          "Melderegisterauskunft",
           "Melderegisterauskunft 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte",
           "Ummeldung innerhalb von Beckum",
           "Zuzug aus dem Ausland"
@@ -892,7 +894,9 @@
           "Abmeldung ins Ausland",
           "Anmeldung aus dem Inland",
           "Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung",
+          "Meldebescheinigung",
           "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen",
+          "Melderegisterauskunft",
           "Melderegisterauskunft 01\u00a0\u00a0 Auskunft2\u00a0\u00a0 Ausk\u00fcnfte3\u00a0\u00a0 Ausk\u00fcnfte",
           "Ummeldung innerhalb von Beckum",
           "Zuzug aus dem Ausland"
@@ -27722,6 +27726,12 @@
         "services": [
           "Urkundenausstellung"
         ]
+      },
+      "204": {
+        "name": "Volkshochschule",
+        "services": [
+          "Kursanmeldung allgemein"
+        ]
       }
     }
   },
@@ -38026,6 +38036,12 @@
           "Schnelltests f\u00fcr Wahlhelfer 01"
         ]
       },
+      "436/10168": {
+        "name": "Wunschbaum",
+        "services": [
+          "Wunschbaum 01\u00a0\u00a0 Kind2\u00a0\u00a0 Kinder3\u00a0\u00a0 Kinder4\u00a0\u00a0 Kinder5\u00a0\u00a0 Kinder6\u00a0\u00a0 Kinder7\u00a0\u00a0 Kinder8\u00a0\u00a0 Kinder"
+        ]
+      },
       "436/7353": {
         "name": "Wohngeldangelegenheiten",
         "services": [
@@ -40790,6 +40806,29 @@
           "Ummeldung innerhalb von Soest",
           "Untersuchungsberechtigungsschein",
           "\u00c4nderung Wohnort im Reisepass"
+        ]
+      },
+      "12": {
+        "name": "Standesamt",
+        "services": [
+          "Anmeldung einer Eheschlie\u00dfung bei deutscher Staatsangeh\u00f6rigkeit",
+          "Bestimmung eines gemeinsamen Ehenamens",
+          "Beurkundung Sterbefall EINMALIG",
+          "Beurkundung Sterbefall durch Angeh\u00f6rige",
+          "Beurkundung Sterbefall durch Bestatter mit Leichenpass",
+          "Beurkundung Sterbefall durch ortsfremde Bestatter - einmalig",
+          "Ehef\u00e4higkeitszeugnis f\u00fcr Eheschlie\u00dfung im Ausland",
+          "Eheschlie\u00dfung im Ausland",
+          "Einbennenung",
+          "Erstreckung",
+          "Geburtenanmeldung (Hausgeburt)",
+          "Nachbeurkundung einer Geburt im Ausland",
+          "Nachbeurkundung eines Sterbefalles im Ausland",
+          "Nachtr\u00e4gliche Ausstellung von Urkunden",
+          "Namens\u00e4nderung nach Einb\u00fcrgerung",
+          "Neuausstellung von Urkunden",
+          "Vaterschaftsanerkennung",
+          "Wiederannahme fr\u00fcheren Namen nach Ehe/ Lebenspartnerschaft"
         ]
       },
       "8": {
