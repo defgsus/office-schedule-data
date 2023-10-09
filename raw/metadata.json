@@ -2497,7 +2497,8 @@
           "Mini-Museumsmarsch \u2013 Das Offene Heimatmuseum Billerbeck",
           "M\u00e4rchen und Sagen: Stadtf\u00fchrung mit Laterne",
           "Theater, Theater! - 25 Jahre Theatermeile Billerbeck",
-          "Theater, Theater! - Theatermeile Billerbeck"
+          "Theater, Theater! - Theatermeile Billerbeck",
+          "W\u00e4rmepumpen mit Schwerpunkt Bestandsgeb\u00e4ude"
         ]
       }
     }
@@ -16461,10 +16462,12 @@
           "1.1 Beitragsberechnung Schulische Tagesbetreuung",
           "1.2 Beitragsberechnung Kinderbetreuung (Krippe, Kindergarten, Hort)",
           "1.3 ABI Videoberatung Schule",
+          "1.3 Ab in die Schule",
           "1.3 Summer Special im IBOBB-Caf\u00e9",
           "1.4 Videoberatung - IBOBB-Caf\u00e9",
           "1.5 Anmeldung leicht gemacht",
           "1.5 Anmeldung leicht gemacht - Beratung mit Dolmetsch Unterst\u00fctzung",
+          "1.5 Anmeldung leicht gemacht - mit Dolmetsch Unterst\u00fctzung",
           "1.5 Beratung mit Dolmetsch Unterst\u00fctzung und Anleitung leicht gemacht",
           "1.5 Beratung mit Dolmetsch Unterst\u00fctzung und Anmeldung leicht gemacht",
           "1.6 ABI Videoberatung Schule",
@@ -21096,6 +21099,12 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=70",
     "locations": {
+      "214/10180": {
+        "name": "Photovoltaik-Beratung",
+        "services": [
+          "Photovoltaik - Beratung f\u00fcr Neuanlagen"
+        ]
+      },
       "214/2281": {
         "name": "Kundenzentrum Kiel: An-/Abmeldungen",
         "services": [
@@ -21162,6 +21171,12 @@
           "Rechnungsreklamation/-kl\u00e4rung",
           "Stammdaten\u00e4nderung",
           "Tarifberatung"
+        ]
+      },
+      "564/10180": {
+        "name": "Photovoltaik-Beratung",
+        "services": [
+          "Photovoltaik/W\u00e4rmepumpe - Beratung/Verkauf f\u00fcr Neuanlagen"
         ]
       },
       "564/8565": {
@@ -26916,6 +26931,13 @@
           "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
         ]
       },
+      "673": {
+        "name": "Fahreignung",
+        "services": [
+          "Inhaber alle weiteren Anliegen",
+          "Neuerteilung nach Entzug/Verzicht"
+        ]
+      },
       "676": {
         "name": "Fahreignung",
         "services": [
@@ -26933,6 +26955,13 @@
         "name": "Fahreignung",
         "services": [
           "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "684": {
+        "name": "Fahreignung",
+        "services": [
+          "Inhaber alle weiteren Anliegen",
+          "Neuerteilung nach Entzug/Verzicht"
         ]
       },
       "685": {
@@ -28428,6 +28457,7 @@
           "Ummeldung innerhalb von L\u00fcnen",
           "Ummeldung innerhalb von L\u00fcnen - bitte die genaue Personenzahl angeben",
           "Untersuchungsberechtigungsschein",
+          "Untersuchungsberechtigungsschein online beantragen",
           "eID-Karte f\u00fcr Unionsb\u00fcrger",
           "vorl\u00e4ufigen Personalausweis beantragen",
           "vorl\u00e4ufigen Reisepass beantragen"
@@ -36188,6 +36218,8 @@
           "Briefwahl",
           "Einb\u00fcrgerungsantrag (pro Person) nur Mo.-Fr. m\u00f6glich!",
           "Fischereischein beantragen / verl\u00e4ngern",
+          "Fundsache abgeben",
+          "Fundsache abholen",
           "Fundsachen",
           "F\u00fchrerschein beantragen",
           "F\u00fchrungszeugnis",
@@ -36199,6 +36231,7 @@
           "Melderegisterauskunft",
           "Ostfildernpass",
           "Ticketverkauf",
+          "Unterst\u00fctzungsunterschrift Wahl/Volksbegehren/Volksantrag",
           "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen (pro Person)"
         ]
       },
@@ -36213,6 +36246,9 @@
       "169/8559": {
         "name": "Verschiedenes",
         "services": [
+          "AUSGABE Amtliche Beglaubigung von Fotokopien (pro Seite)",
+          "AUSGABE F\u00fchrungszeugnis",
+          "AUSGABE Melde-, Aufenthalts-, Lebensbescheinigung",
           "Amtliche Beglaubigung von Fotokopien (pro Seite)",
           "Amtliche Beglaubigung von Unterschriften (pro Unterschrift)",
           "Einb\u00fcrgerungsantrag (pro Person) nur Mo.-Fr. m\u00f6glich!",
