@@ -17,7 +17,7 @@ StringFilter = Optional[Union[str, Sequence[str], Callable[[str], bool]]]
 
 
 def to_datetime(s: str) -> datetime.datetime:
-    return datetime.datetime.strptime(s, "%Y-%m-%d %H:%M:%S")
+    return datetime.datetime.strptime(s[:19], "%Y-%m-%d %H:%M:%S")
 
 
 class Data:
