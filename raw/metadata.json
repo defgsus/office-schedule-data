@@ -1194,6 +1194,7 @@
           "Abholung des Aufenthaltstitels",
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
+          "Blue Card / Fachkr\u00e4fte",
           "Brexit/Aufenthaltsdokument-GB",
           "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
           "F\u00fcr Asylbewerber - Duldung / Gestattung",
@@ -2430,6 +2431,8 @@
       "78222": {
         "name": "Personalausweise / Reisep\u00e4sse",
         "services": [
+          "00 - Betrifft der Termin noch weitere Personen?",
+          "<p>00 - <strong><span style=\"color: #ff0000;\">NICHT &auml;ndern</span></strong> - <strong>Nur wenn der Termin noch weitere Personen betrifft!</strong></p>",
           "Abmeldung des Wohnsitzes",
           "Anmeldung/Ummeldung des Wohnsitzes",
           "Anschriften\u00e4nderung im Fahrzeugschein",
@@ -2458,6 +2461,8 @@
       "78223": {
         "name": "Personalausweise / Reisep\u00e4sse",
         "services": [
+          "00 - Betrifft der Termin noch weitere Personen?",
+          "<p>00 - <strong><span style=\"color: #ff0000;\">NICHT &auml;ndern</span></strong> - <strong>Nur wenn der Termin noch weitere Personen betrifft!</strong></p>",
           "Abmeldung des Wohnsitzes",
           "Anmeldung/Ummeldung des Wohnsitzes",
           "Anschriften\u00e4nderung im Fahrzeugschein",
@@ -2627,10 +2632,16 @@
         "services": [
           "Abmeldung eines Gewerbeobjekts",
           "Abmeldung eines Privathaushalts",
+          "An-/Abmeldung eines Gewerbeobjekts",
+          "An-/Abmeldung eines Privathaushalts",
           "Anmeldung eines Gewerbeobjekts",
           "Anmeldung eines Privathaushalts",
+          "Fragen zum Solar-/W\u00e4rme-/K\u00e4ltepaket oder W\u00e4rmepumpe",
           "Rechnungsberatung",
-          "Tarifberatung"
+          "Rechnungsfragen/Zahlungsangelegenheiten",
+          "Sperrank\u00fcndigung/durchgef\u00fchrte Sperrung",
+          "Tarifberatung",
+          "Tarifberatung/Abschlags\u00e4nderung"
         ]
       }
     }
@@ -8755,6 +8766,7 @@
           "Kontenkl\u00e4rung",
           "Marktfestsetzung",
           "Meldebescheinigung",
+          "Missbrauch in Institutionen",
           "Parkausweis f\u00fcr Bewohner",
           "Parkausweis f\u00fcr Gewerbetreibende",
           "Parkausweis f\u00fcr Handwerker",
@@ -8872,6 +8884,18 @@
           "eID-Karte beantragen",
           "elD-aktivieren/Pin setzen ",
           "keine zutreffende Leistung (siehe Notizen)"
+        ]
+      },
+      "171931": {
+        "name": "Umwelt- und Klimaschutz",
+        "services": [
+          "Energieberatung"
+        ]
+      },
+      "172319": {
+        "name": "Ehrenamtsf\u00f6rderung",
+        "services": [
+          "Beratung Ehrenamtsf\u00f6rderung"
         ]
       },
       "76904": {
@@ -9057,6 +9081,7 @@
           "Fahrpl\u00e4ne Bus und Bahn",
           "Familienkarte",
           "Fundsachen (Brillen und Schl\u00fcssel)",
+          "F\u00fchrerscheinabgabe/ -abholung",
           "F\u00fchrerscheinausgabe",
           "Gutscheinbuch (Erm\u00e4\u00dfigungsantrag)",
           "Jagdschein (Antrag Entgegennahme)",
@@ -9104,10 +9129,12 @@
           "Fit f\u00fcr Ver\u00e4nderungen - Wie ich mit Ver\u00e4nderungen umgehe",
           "GIMP f\u00fcr Fortgeschrittene",
           "Gl\u00fcck doch mal",
+          "KVW Zusatzversicherung -Pflichtversicherung PlusPunktRente",
           "Konfliktbew\u00e4ltigung",
           "Methoden zur Ansprache u. zum Umgang mit besonderen Problemlagen",
           "Moderation u. Verhandlungsf\u00fchrung",
           "OUTLOOK - Fit f\u00fcrs B\u00fcro",
+          "Orientierungsworkshop zum Nachwuchsf\u00fchrungskr\u00e4fteprogramm",
           "POWERPOINT - Fit f\u00fcrs B\u00fcro",
           "Probleme - Pr\u00e4vention - Pizza ...so meistern Sie schwierige F\u00fchrungssituationen",
           "Professionell f\u00fchren I",
@@ -9633,6 +9660,7 @@
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
           "Antrag Fahrgastbef\u00f6rderung stellen",
+          "Beglaubigte Kopie anfertigen lassen",
           "Einb\u00fcrgerungsantrag abgeben",
           "Erstmalige Aufenthaltserlaubnis beantragen",
           "Fischereischein neu beantragen",
@@ -9640,6 +9668,7 @@
           "Fundsachen abgeben",
           "Fundsachen abholen",
           "F\u00fchrerschein nach Verlust neu beantragen",
+          "F\u00fchrerscheinantrag abgeben (Erstantrag oder Erweiterung",
           "F\u00fchrerscheinumtausch in Scheckkartenf\u00fchrerschein beantragen",
           "F\u00fchrerscheinverl\u00e4ngerung beantragen",
           "F\u00fchrungszeugnis beantragen",
@@ -10194,6 +10223,7 @@
           "Beantragung, Verl\u00e4ngerung, Ersatz Personenbef\u00f6rderungsschein",
           "Berufskraftfahrerqualifikation (Schl. 95)",
           "Fahrerkarte",
+          "Fahrerkarte (Beantragung, Verl\u00e4ngerung, Ersatz)",
           "Ortskenntnispr\u00fcfung"
         ]
       },
@@ -16375,6 +16405,7 @@
           "Heizkostenzuschuss Land Steiermark",
           "Kinderbetreuung",
           "Lebensbest\u00e4tigung",
+          "Markttisch Stempelkarte",
           "Meldeauskunft, Meldebest\u00e4tigung",
           "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
           "SeniorInnenB\u00fcro - SeniorInnenCard",
@@ -18734,6 +18765,7 @@
           "Fischereischein (Ausstellung oder Verl\u00e4ngerung)",
           "F\u00fchrungszeugnis",
           "Identifikationsnummer/Steuer-ID",
+          "Kinderreisepass beantragen - nur noch bis zum 31.12.2023 m\u00f6glich!",
           "Kinderreisepass beantragen/verl\u00e4ngern",
           "Meldebescheinigung",
           "Melderegisterauskunft",
@@ -20105,7 +20137,8 @@
         "name": "Terminbuchung f\u00fcr:",
         "services": [
           "ERSTGESPR\u00c4CH",
-          "ERSTGESPR\u00c4CH 13.30 \u2013 14.30"
+          "ERSTGESPR\u00c4CH 13.30 \u2013 14.30",
+          "Tod und Sinn (Workshop)"
         ]
       }
     }
@@ -27018,6 +27051,67 @@
         "services": [
           "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
         ]
+      },
+      "704": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "708": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "709": {
+        "name": "Fahreignung",
+        "services": [
+          "Punktema\u00dfnahmen"
+        ]
+      },
+      "711": {
+        "name": "Fahreignung",
+        "services": [
+          "Probezeitma\u00dfnahmen"
+        ]
+      },
+      "715": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrlehrer-Erlaubnis beantragen/\u00e4ndern"
+        ]
+      },
+      "723": {
+        "name": "Fahreignung",
+        "services": [
+          "Fahrtenb\u00fccher"
+        ]
+      },
+      "724": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausl\u00e4ndischer F\u00fchrerschein",
+          "Beratung zur Antragstellung",
+          "F\u00fchrerschein Allgemein",
+          "F\u00fchrerschein allgemein",
+          "F\u00fchrerschein zur Fahrgastbef\u00f6rderung",
+          "Internationaler F\u00fchrerschein",
+          "ausl\u00e4ndischer F\u00fchrerschein"
+        ]
+      },
+      "725": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Abholung F\u00fchrerschein Umtausch (Pflichtumtausch)",
+          "F\u00fchrerschein Umtausch (Pflichtumtausch)"
+        ]
+      },
+      "726": {
+        "name": "Fahrerlaubnis",
+        "services": [
+          "Ausk\u00fcnfte zum laufenden Antrag (keine Neuerteilung)"
+        ]
       }
     }
   },
@@ -28210,7 +28304,9 @@
         "services": [
           "Antrag Einb\u00fcrgerung 1 Person",
           "Antrag Einb\u00fcrgerung 2 Personen",
-          "Antrag Einb\u00fcrgerung ab 3 Personen"
+          "Antrag Einb\u00fcrgerung 2 Personen (mit Ehegatt*in oder Kind U16)",
+          "Antrag Einb\u00fcrgerung ab 3 Personen",
+          "Antrag Einb\u00fcrgerung ab 3 Personen (Eltern mit Kindern U16)"
         ]
       },
       "199": {
@@ -28275,6 +28371,22 @@
         "name": "Volkshochschule",
         "services": [
           "Kursanmeldung allgemein"
+        ]
+      },
+      "206": {
+        "name": "\u00d6ffentliche Ordnung - Gastst\u00e4tte",
+        "services": [
+          "Gastst\u00e4tte-Beratungsgespr\u00e4ch",
+          "Gastst\u00e4tte-Konzessionsabholung",
+          "Gastst\u00e4tten-Antragstellung"
+        ]
+      },
+      "207": {
+        "name": "\u00d6ffentliche Ordnung - Gewerbemeldestelle",
+        "services": [
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung"
         ]
       }
     }
@@ -28444,6 +28556,7 @@
           "Melde-/Lebensbescheinigungen",
           "Meldeangelegenheiten",
           "Meldeangelegenheiten (bitte Anzahl der Personen ausw\u00e4hlen)",
+          "Meldebescheinigung",
           "Personalausweis - einen vorl\u00e4ufigen Personalausweis beantragen",
           "Personalausweis beantragen",
           "Personalausweis beantragen - bitte die Anzahl an Ausweisen angeben",
@@ -28456,6 +28569,7 @@
           "Terminvereinbarung derzeit nicht m\u00f6glich!",
           "Ummeldung innerhalb von L\u00fcnen",
           "Ummeldung innerhalb von L\u00fcnen - bitte die genaue Personenzahl angeben",
+          "Umtausch Papierf\u00fchrerschein beantragen",
           "Untersuchungsberechtigungsschein",
           "Untersuchungsberechtigungsschein online beantragen",
           "eID-Karte f\u00fcr Unionsb\u00fcrger",
@@ -31278,6 +31392,12 @@
           "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 Beratung",
           "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 Termin"
+        ]
+      },
+      "191/10166": {
+        "name": "Veranstaltung \"Energie erleben\" 09.12.2023",
+        "services": [
+          "Teilnahme bei \"Energie erleben\" 09.12.2023 01\u00a0\u00a0 Termin"
         ]
       },
       "191/1709": {
@@ -39825,6 +39945,7 @@
         "services": [
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Abholung eID 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Kinderreisepass (nur noch bis 31.12.2023 verf\u00fcgbar) beantragen / verl\u00e4ngern",
           "Kinderreisepass beantragen / verl\u00e4ngern",
           "Kopie von Kinderreisepass beantragen / verl\u00e4ngern",
           "Online-Ausweisfunktion des Personalausweises entsperren / Neusetzen einer PIN",
@@ -45054,6 +45175,7 @@
           "Ausfuhrkennzeichen (Zoll)",
           "Ausfuhrkennzeichen (Zoll) Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Ausnahmegenehimigung f\u00fcr ukrainische Fahrzeuge",
+          "Ausnahmegenehmigung f\u00fcr ukrainische Fahrzeuge",
           "Feinstaubplakette",
           "Freiwillige Zulassung Elektroroller",
           "Freiwillige Zulassung Elektroroller bis max. 45 km/h H\u00f6chstgeschwindigkeit",
