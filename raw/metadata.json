@@ -8889,7 +8889,8 @@
       "171931": {
         "name": "Umwelt- und Klimaschutz",
         "services": [
-          "Energieberatung"
+          "Energieberatung",
+          "Energiedialog"
         ]
       },
       "172319": {
@@ -17090,7 +17091,17 @@
           "Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
           "Eheschlie\u00dfung im Trauungssaal des Rathauses Graz",
           "Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
-          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz"
+          "Eingetragene Partnerschaft im Trauungssaal des Rathauses Graz",
+          "Reservierung Datum der Eheschlie\u00dfung im Amtshaus (Tischtrauung)",
+          "Reservierung Datum der Eingetragene Partnerschaft im Amtshaus (Tischverpartnerung)",
+          "Reservierung Trauungssaal des Rathauses Graz - Eheschlie\u00dfung",
+          "Reservierung Trauungssaal des Rathauses Graz - Eingetragene Partnerschaft",
+          "Reservierung Trauungssaal des Rathauses Graz f\u00fcr Eheschlie\u00dfung",
+          "Reservierung Trauungssaal des Rathauses Graz f\u00fcr Eingetragene Partnerschaft",
+          "Reservierung Trauungssaal im Rathaus Graz - Eheschlie\u00dfung",
+          "Reservierung Trauungssaal im Rathaus Graz - Eingetragene Partnerschaft",
+          "Reservierung im Amtshaus (B\u00fcro Standesamt) \u2013 Eheschlie\u00dfung",
+          "Reservierung im Amtshaus (B\u00fcro Standesamt) \u2013 Eingetragene Partnerschaft"
         ]
       },
       "83411": {
@@ -22635,6 +22646,7 @@
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 x2\u00a0\u00a0 x3\u00a0\u00a0 x4\u00a0\u00a0 x5\u00a0\u00a0 x6\u00a0\u00a0 x7\u00a0\u00a0 x8\u00a0\u00a0 x",
           "Beantragung / Verl\u00e4ngerung Kinderreisepass",
+          "Beantragung / Verl\u00e4ngerung Kinderreisepass (nur noch bis 31.12.2023 verf\u00fcgbar)",
           "Beantragung Personalausweis / Vorl\u00e4ufiger Personalausweis",
           "Beantragung Reisepass / Expressreisepass",
           "Kinderreisepass beantragen / verl\u00e4ngern",
@@ -28250,6 +28262,7 @@
           "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Achtmorgenstra\u00dfe",
           "Antrag Wohnberechtigungsschein BB Achtmorgenstra\u00dfe",
           "Auszug Gewerbezentralregister BB Achtmorgenstra\u00dfe",
+          "Beantragung Personalausweis / Reisepass / BB Achtmorgenstra\u00dfe",
           "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Achtmorgenstra\u00dfe",
           "Beglaubigung Unterschriften BB Achtmorgenstra\u00dfe",
           "Beglaubigung ab 3 bis 5 Seiten BB Achtmorgenstra\u00dfe",
@@ -28273,6 +28286,7 @@
           "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oggersheim",
           "Antrag Wohnberechtigungsschein BB Oggersheim",
           "Auszug Gewerbezentralregister BB Oggersheim",
+          "Beantragung Personalausweis / Reisepass /  BB Oggersheim",
           "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oggersheim",
           "Beglaubigung Unterschriften BB Oggersheim",
           "Beglaubigung ab 3 bis 5 Seiten BB Oggersheim",
@@ -28296,6 +28310,7 @@
           "Anmeldung Wohnsitz (bei Zuzug innerhalb von D) BB Oppau",
           "Antrag Wohnberechtigungsschein BB Oppau",
           "Auszug Gewerbezentralregister BB Oppau",
+          "Beantragung Personalausweis / Reisepass / BB Oppau",
           "Beantragung Personalausweis / Reisepass / Kinderreisepass BB Oppau",
           "Beglaubigung Unterschriften BB Oppau",
           "Beglaubigung ab 3 bis 5 Seiten BB Oppau",
@@ -28559,7 +28574,9 @@
           "KFZ Schein Adress\u00e4nderung - nur nach erfolgter Ummeldung im Kreis Unna",
           "Kinderreisepass aktualisieren - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
           "Kinderreisepass aktualisieren/verl\u00e4ngern",
+          "Kinderreisepass aktualisieren/verl\u00e4ngern (nur noch in 2023)",
           "Kinderreisepass beantragen",
+          "Kinderreisepass beantragen (nur noch in 2023)",
           "Kinderreisepass beantragen - bitte die Anzahl der Kinderreisep\u00e4sse angeben",
           "Melde-/Lebensbescheinigungen",
           "Meldeangelegenheiten",
@@ -38195,6 +38212,7 @@
           "Antrag Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse",
           "Antrag eID-Karte 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen",
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
+          "Neue PIN setzen beim Personalausweis 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise",
           "Vorl\u00e4ufiger Personalausweis 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen"
         ]
       },
@@ -38234,6 +38252,8 @@
         "services": [
           "Abmeldung eines Fahrzeuges 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen",
           "Adress\u00e4nderung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Adress\u00e4nderung2\u00a0\u00a0 Adress\u00e4nderungen3\u00a0\u00a0 Adress\u00e4nderungen4\u00a0\u00a0 Adress\u00e4nderungen",
+          "Anmeldung/Umschreibung innerhalb des Rhein.-Berg. Kreises 01\u00a0\u00a0 Umschreibung2\u00a0\u00a0 Umschreibungen",
+          "Anmeldung/Umschreibung von au\u00dferhalb des Rhein.-Berg. Kreises  01\u00a0\u00a0 Umschreibung2\u00a0\u00a0 Umschreibungen",
           "Ausfuhrkennzeichen  01\u00a0\u00a0 Ausfuhr2\u00a0\u00a0 Ausfuhren",
           "Bescheinigung / KfZ 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ersatzpapiere bei Verlust ZB I (fr\u00fcher Fahrzeugschein) 01\u00a0\u00a0 ZB I2\u00a0\u00a0 ZB I",
@@ -38587,6 +38607,14 @@
         "name": "Rechtsberatung f\u00fcr ukrainische Gefl\u00fcchtete",
         "services": [
           "Rechtsberatung - Ausl\u00e4nderrecht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen"
+        ]
+      },
+      "415/10392": {
+        "name": "Waffenkontrolle",
+        "services": [
+          "Waffenkontrolle Hausbesuch 01",
+          "Waffenkontrolle Hausbesuch 01\u00a0\u00a0 2",
+          "Waffenkontrolle Hausbesuch 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen"
         ]
       },
       "415/5936": {
