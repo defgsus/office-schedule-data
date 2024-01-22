@@ -1975,6 +1975,13 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=110",
     "locations": {
+      "303/10564": {
+        "name": "Wiedererteilungen",
+        "services": [
+          "Akteneinsicht im Rahmen einer Wiedererteilung",
+          "Antragstellung/Beratung Wiedererteilung einer Fahrerlaubnis nach Entzug"
+        ]
+      },
       "303/4020": {
         "name": "Ersterteilungs- und Erweiterungsantr\u00e4ge",
         "services": [
@@ -40235,12 +40242,16 @@
         "name": "Sonstige Anliegen",
         "services": [
           "Abholung Aufenthaltstitel 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
+          "Amtliche Beglaubigung einer Unterschrift 01\u00a0\u00a0 Amtliche Beglaubigung ein2\u00a0\u00a0 Amtliche Beglaubigungen U3\u00a0\u00a0 Amtliche Beglaubigungen U4\u00a0\u00a0 Amtliche Beglaubigungen U5\u00a0\u00a0 Amtliche Beglaubigungen U6\u00a0\u00a0 Amtliche Beglaubigungen U7\u00a0\u00a0 Amtliche Beglaubigungen U8\u00a0\u00a0 Amtliche Beglaubigungen U",
+          "Amtliche Beglaubigung einer Unterschrift 01\u00a0\u00a0 Amtliche Beglaubigung ein2\u00a0\u00a0 Beglaubigungen Unterschri3\u00a0\u00a0 Beglaubigungen Unterschri4\u00a0\u00a0 Beglaubigungen Unterschri5\u00a0\u00a0 Beglaubigungen Unterschri6\u00a0\u00a0 Beglaubigungen Unterschri7\u00a0\u00a0 Beglaubigungen Unterschri8\u00a0\u00a0 Beglaubigungen Unterschri",
           "Amtliche Best\u00e4tigung / Beglaubigung von Kopien 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen6\u00a0\u00a0 Beglaubigungen7\u00a0\u00a0 Beglaubigungen8\u00a0\u00a0 Beglaubigungen",
           "Antrag Einb\u00fcrgerungsverfahren",
           "Antrag Erteilung oder Verl\u00e4ngerung einer Aufenthaltserlaubnis",
           "Antrag auf Auskunftssperre 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
+          "Antrag auf Eintragung/Verl\u00e4ngerung einer Auskunftssperre 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
           "Antrag auf \u00dcbermittlungssperre 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
           "Kl\u00e4rung von Vorg\u00e4ngen aufgrund von Beh\u00f6rdenanschreiben 01\u00a0\u00a0 Kl\u00e4rung2\u00a0\u00a0 Kl\u00e4rungen3\u00a0\u00a0 Kl\u00e4rungen4\u00a0\u00a0 Kl\u00e4rungen5\u00a0\u00a0 Kl\u00e4rungen6\u00a0\u00a0 Kl\u00e4rungen7\u00a0\u00a0 Kl\u00e4rungen8\u00a0\u00a0 Kl\u00e4rungen",
+          "Kopie von Amtliche Best\u00e4tigung / Beglaubigung von Kopien 01\u00a0\u00a0 Beglaubigung2\u00a0\u00a0 Beglaubigungen3\u00a0\u00a0 Beglaubigungen4\u00a0\u00a0 Beglaubigungen5\u00a0\u00a0 Beglaubigungen6\u00a0\u00a0 Beglaubigungen7\u00a0\u00a0 Beglaubigungen8\u00a0\u00a0 Beglaubigungen",
           "Landesfamilienpass",
           "Verl\u00e4ngerung / Abholung Duldung oder Aufenthaltsgestattung 01\u00a0\u00a0 Anliegen2\u00a0\u00a0 Anliegen3\u00a0\u00a0 Anliegen4\u00a0\u00a0 Anliegen5\u00a0\u00a0 Anliegen6\u00a0\u00a0 Anliegen7\u00a0\u00a0 Anliegen8\u00a0\u00a0 Anliegen"
         ]
