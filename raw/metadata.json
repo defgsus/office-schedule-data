@@ -21021,6 +21021,16 @@
           "Saisonkennzeichen beantragen oder l\u00f6schen"
         ]
       },
+      "150/1434": {
+        "name": "Sonderkennzeichen",
+        "services": [
+          "Ausfuhrkennzeichen beantragen",
+          "H-Kennzeichen beantragen",
+          "Rote Dauerkennzeichen beantragen",
+          "Rotes Oldtimer Kennzeichen (HF-07) verl\u00e4ngern",
+          "Saisonkennzeichen beantragen oder l\u00f6schen"
+        ]
+      },
       "150/1443": {
         "name": "Zulassungsangelegenheiten",
         "services": [
@@ -21048,6 +21058,7 @@
           "Fabrikneues Fahrzeug zulassen",
           "Fahrzeug (abgemeldet) f\u00fcr denselben Halter wieder zulassen",
           "Fahrzeug abmelden",
+          "Fahrzeug anmelden/ummelden/zulassen/wechseln",
           "Fahrzeug von au\u00dferhalb im Kreis Herford anmelden/ummelden",
           "Fahrzeughalter innerhalb des Kreises Herford wechseln/ummelden",
           "Importiertes Neu-/Gebrauchtfahrzeug zulassen",
@@ -31794,6 +31805,7 @@
           "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen",
           "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen 01",
           "Allgemeine Erstberatung zu den MVV W\u00e4rmel\u00f6sungen 01\u00a0\u00a0 Beratung",
+          "Erstberatung zu den MVV W\u00e4rmel\u00f6sungen und F\u00f6rderungsm\u00f6glichkeiten 01\u00a0\u00a0 Beratung",
           "Fernw\u00e4rme",
           "Fernw\u00e4rme 01",
           "Fernw\u00e4rme 01\u00a0\u00a0 Beratung",
@@ -38223,6 +38235,15 @@
           "Kfz-Abmeldung"
         ]
       },
+      "248/2898": {
+        "name": "Stra\u00dfenverkehrsamtsangelegenheiten",
+        "services": [
+          "Fahrzeugdokument \u00e4ndern",
+          "F\u00fchrerschein abholen 01\u00a0\u00a0 2",
+          "F\u00fchrerschein beantragen",
+          "Kfz-Abmeldung"
+        ]
+      },
       "248/2899": {
         "name": "Staatsangeh\u00f6rigkeitsrecht",
         "services": [
@@ -38612,10 +38633,12 @@
           "Personalausweis (Ausstellung wegen Ablauf beantragen)",
           "Personalausweis (Ausstellung wegen Einb\u00fcrgerung/Namens\u00e4nderung)",
           "Personalausweis (Ausstellung wegen Verlust beantragen)",
+          "Personalausweis (erstmalig oder nach Ablauf beantragen)",
           "Personalausweis Onlinefunktion aktivieren/PIN \u00e4ndern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Reisepass (Ausstellung wegen Ablauf beantragen)",
           "Reisepass (Ausstellung wegen Einb\u00fcrgerung/Namens\u00e4nderung)",
           "Reisepass (Ausstellung wegen Verlust beantragen)",
+          "Reisepass (erstmalig oder nach Ablauf beantragen)",
           "Vorl\u00e4ufigen Personalausweis/Reisepass beantragen",
           "eID-Karte Unionsb\u00fcrger 01\u00a0\u00a0 eID-Karte2\u00a0\u00a0 eID-Karten3\u00a0\u00a0 eID-Karten4\u00a0\u00a0 eID-Karten5\u00a0\u00a0 eID-Karten6\u00a0\u00a0 eID-Karten7\u00a0\u00a0 eID-Karten8\u00a0\u00a0 eID-Karten"
         ]
@@ -38734,10 +38757,12 @@
           "Personalausweis (Ausstellung wegen Ablauf beantragen)",
           "Personalausweis (Ausstellung wegen Einb\u00fcrgerung/Namens\u00e4nderung)",
           "Personalausweis (Ausstellung wegen Verlust beantragen)",
+          "Personalausweis (erstmalig oder nach Ablauf beantragen)",
           "Personalausweis Onlinefunktion aktivieren/PIN \u00e4ndern 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Reisepass (Ausstellung wegen Ablauf beantragen)",
           "Reisepass (Ausstellung wegen Einb\u00fcrgerung/Namens\u00e4nderung)",
           "Reisepass (Ausstellung wegen Verlust beantragen)",
+          "Reisepass (erstmalig oder nach Ablauf beantragen)",
           "Vorl\u00e4ufigen Personalausweis/Reisepass beantragen",
           "eID-Karte Unionsb\u00fcrger 01\u00a0\u00a0 eID-Karte2\u00a0\u00a0 eID-Karten3\u00a0\u00a0 eID-Karten4\u00a0\u00a0 eID-Karten5\u00a0\u00a0 eID-Karten6\u00a0\u00a0 eID-Karten7\u00a0\u00a0 eID-Karten8\u00a0\u00a0 eID-Karten"
         ]
@@ -40469,6 +40494,7 @@
         "services": [
           "AUSSCHLIE\u00dfLICH Abgabe der Zulassungsunterlagen - f\u00fcr H\u00e4ndler",
           "Au\u00dferbetriebsetzung - f\u00fcr H\u00e4ndler",
+          "Fahrtenbuchvorlage f\u00fcr Rote Dauerkennzeichen (06er)",
           "Neues Scheinheft f\u00fcr Rote Dauerkennzeichen (06er)",
           "Sonstige Zulassungsvorg\u00e4nge - f\u00fcr H\u00e4ndler (z.B. Kurzzeit, Ausfuhr, Anschrift)",
           "Zulassungen/Umschreibungen - f\u00fcr H\u00e4ndler"
@@ -40557,6 +40583,7 @@
         "services": [
           "AUSSCHLIE\u00dfLICH Abgabe der Zulassungsunterlagen - f\u00fcr H\u00e4ndler",
           "Au\u00dferbetriebsetzung - f\u00fcr H\u00e4ndler",
+          "Fahrtenbuchvorlage f\u00fcr Rote Dauerkennzeichen (06er)",
           "Neues Scheinheft f\u00fcr Rote Dauerkennzeichen (06er)",
           "Sonstige Zulassungsvorg\u00e4nge - f\u00fcr H\u00e4ndler (z.B. Kurzzeit, Ausfuhr, Anschrift)",
           "Zulassungen/Umschreibungen - f\u00fcr H\u00e4ndler"
