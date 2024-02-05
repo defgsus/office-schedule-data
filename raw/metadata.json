@@ -1211,6 +1211,7 @@
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
           "Beratung UKR",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
+          "Blue Card / Fachkr\u00e4fte",
           "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
           "F\u00fcr Asylbewerber - Duldung / Gestattung",
           "Reiseausweis oder Sonstiges Anliegen",
@@ -40237,6 +40238,7 @@
           "Erteilung/Erweiterung D1, D1E, D, DE und Eintragung Berufskraftfahrerqualif./FQN 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
           "F\u00fchrerschein \"Begleitetes Fahren ab 17 Jahren\" 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
           "F\u00fchrerschein (ausl\u00e4ndisch) Umtausch 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
+          "F\u00fchrerschein Ersterteilung (Kl. B ab 18 Jahren sowie A, AM) 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
           "F\u00fchrerschein Ersterteilung (ab 18 Jahren) 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
           "F\u00fchrerschein Fahrgastbef\u00f6rderung 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine",
           "F\u00fchrerschein Neuerteilung nach Entzug 01\u00a0\u00a0 F\u00fchrerschein2\u00a0\u00a0 F\u00fchrerscheine3\u00a0\u00a0 F\u00fchrerscheine4\u00a0\u00a0 F\u00fchrerscheine5\u00a0\u00a0 F\u00fchrerscheine6\u00a0\u00a0 F\u00fchrerscheine7\u00a0\u00a0 F\u00fchrerscheine8\u00a0\u00a0 F\u00fchrerscheine"
@@ -45528,7 +45530,8 @@
           "Umtausch (Grau/Rosa) in Kartenf\u00fchrerschein",
           "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
           "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE und Fahrerqualifizierungsnachweis",
-          "Vorl\u00e4ufige Fahrberechtigung"
+          "Vorl\u00e4ufige Fahrberechtigung",
+          "Vorl\u00e4ufige Fahrberechtigung (nach erfolgter Pr\u00fcfung )"
         ]
       },
       "12/524": {
