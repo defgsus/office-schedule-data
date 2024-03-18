@@ -993,6 +993,7 @@
           "Neue PIN setzen/Aktivierung Onlineausweisfunktion  01",
           "Personalausweis beantragen",
           "Personalausweis/Reisepass abholen",
+          "Personalausweis/Reisepass abholen - hierzu kein Termin erforderlich",
           "Reisepass/Expressreisepass beantragen",
           "Verlustmeldung Personalausweis bzw. deutscher Reisepass 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Vorl\u00e4ufiger Reisepass",
@@ -8747,7 +8748,8 @@
           "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
-          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung"
+          "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Ausbildung f\u00fcr Brandschutzhelfende"
         ]
       },
       "167858": {
@@ -8773,6 +8775,7 @@
           "Englische Konversation im Arbeitsalltag",
           "Erfolgreicher Umgang mit Konflikten und Spannungen",
           "Erwerbsminderungsrente",
+          "Fachtag \"Autismus - Spektrum - St\u00f6rung in der Eingliederungshilfe gem. \u00a7 35a SGB VIII\"",
           "Fischereischein (Erstantrag oder Verl\u00e4ngerung)",
           "Fit f\u00fcr Ver\u00e4nderungen - Wie ich mit Ver\u00e4nderungen umgehe",
           "Frauen als T\u00e4terinnen von sexuellem Kindesmissbrauch \u2013 Was bedeutet das f\u00fcr Betroffene?",
@@ -17377,6 +17380,7 @@
         "name": "Pass- und Urkundenservice Graz",
         "services": [
           "Eheschlie\u00dfung/Verpartnerung/Ehef\u00e4higkeitszeugnis/Abtretung",
+          "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung) und Lebensbest\u00e4tigung, sonstige Leistungen",
           "Erneute Ausstellung einer Geburts-, Heirats- oder Sterbeurkunde, Teilauszug (Ledigenbest\u00e4tigung), sonstige Leistungen",
           "ID Austria",
           "Namens\u00e4nderung/Namensbestimmung",
@@ -21125,6 +21129,8 @@
           "Umtausch/Umstellung (\"alter\" F\u00fchrerschein in die neue Karte tauschen; bisherige",
           "Umtausch/Umstellung (\"alter\" F\u00fchrerschein in die neue Karte tauschen; bisheriger",
           "Verl\u00e4ngerung der Klassen C,CE,CE79,D,DE beantragen",
+          "Verl\u00e4ngerung der Klassen C,CE,D,DE",
+          "Verl\u00e4ngerung der Klassen C,CE,D,DE/ Fahrerqualifizierungsnachweis/ Fahrerkarte",
           "Verl\u00e4ngerung der Klassen C,D beantragen",
           "Verl\u00e4ngerung der Klassen C,D,E",
           "Verl\u00e4ngerung der Klassen C,D,E beantragen"
@@ -28686,6 +28692,7 @@
           "Haushaltsbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Lebensbescheinigung",
           "Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
+          "Meldebescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Sonstige Bescheinigungen Meldewesen (z. B. Meldebescheinigung)",
           "Sonstige Bescheinigungen Meldewesen (z. B. Meldebescheinigung) 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Steueridentifikationsnummer",
@@ -38792,6 +38799,21 @@
           "Fischereischein (Neuausstellung/Ersatz)",
           "Fischereischein (Verl\u00e4ngerung)",
           "Jugendfischereischein (Ausstellung/Verl\u00e4ngerung)"
+        ]
+      },
+      "314/10695": {
+        "name": "Antrag auf Erteilung eines Aufenthaltstitels",
+        "services": [
+          "Abholung Aufenthaltstitel (eAT)/Reiseausweise (eRA) 01\u00a0\u00a0 eAT/eRA2\u00a0\u00a0 eAT/eRA3\u00a0\u00a0 eAT/eRA4\u00a0\u00a0 eAT/eRA5\u00a0\u00a0 eAT/eRA6\u00a0\u00a0 eAT/eRA7\u00a0\u00a0 eAT/eRA8\u00a0\u00a0 eAT/eRA",
+          "Antrag auf Erteilung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Antrag auf Erteilung eines unbefristeten Aufenthaltstitels",
+          "Antrag auf Verl\u00e4ngerung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Asylverfahren - Aufenthaltsgestattung/ Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Neuer Reisepass - \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Sonstiges 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Verlustanzeige mit \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Verpflichtungserkl\u00e4rung (Einladung)",
+          "\u00c4nderung/Streichung einer Auflage (Zusatzblatt) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen"
         ]
       },
       "314/4328": {
