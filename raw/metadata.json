@@ -21122,6 +21122,7 @@
           "Internationaler F\u00fchrerschein",
           "Neu-/Wiedererteilung nach Entzug",
           "Schl\u00fcsselzahl B196/ Schl\u00fcsselzahl B96 in den F\u00fchrerschein eintragen",
+          "Schl\u00fcsselzahl B197 eintragen (Automatikregelung)",
           "Schl\u00fcsselzahl B197 eintragen (neue Automatikregelung seit 01.04.2021)",
           "Schl\u00fcsselzahl B197 in den F\u00fchrerschein eintragen",
           "Umtausch (\"alter Lappen\", Namens\u00e4nderung, Austragung der Sehhilfe)",
@@ -22562,6 +22563,22 @@
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
         ]
       },
+      "262/3163": {
+        "name": "Kreisverwaltung Unna: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Ausstellung eines Ersatzf\u00fchrerscheines (Verlust/Diebstahl)",
+          "Ausstellung eines Ersatzf\u00fchrerscheines (z. Bsp. Namens\u00e4nderung,B196,B96,B197)",
+          "Ausstellung eines Internationalen F\u00fchrerscheines",
+          "Ersterteilung eines F\u00fchrerscheines / Begleitetes Fahren / Nachtrag Begleitpers.",
+          "Erweiterung / Verl\u00e4ngerung eines F\u00fchrerscheines (nur C1,C1E,C,CE, D1, D1E, D, DE",
+          "Erweiterung eines F\u00fchrerscheines (Klassen B, BE, AM, A1, A2, A, T)",
+          "Fahrerkarte (Erstbeantragung / Verl\u00e4ngerung / Verlust / Diebstahl / Umtausch)",
+          "Fahrerqualifizierungsnachweis (Schl\u00fcsselziffer 95)",
+          "Fahrgastbef\u00f6rderung (Erstbeantragung / Erweiterung / Verl\u00e4ngerung)",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins",
+          "Umtausch eines F\u00fchrerscheins (Papierf\u00fchrerschein / Kartenf\u00fchrerschein)"
+        ]
+      },
       "262/3164": {
         "name": "Kreisverwaltung Unna: F\u00fchrerscheinangelegenheiten",
         "services": [
@@ -22610,6 +22627,22 @@
           "\u00c4nderung Name/Adresse (zugelassenes Kfz Kreis Unna) z.B. nach Heirat oder Umzug",
           "\u00c4nderung Name/Adresse, Kfz mit ausw\u00e4rtigem Kennz,Umzug in den Kreis Unna",
           "\u00c4nderung technisch.Daten (zugel.Kfz Kreis Unna, gleicher Halter, Eintrag E/H)"
+        ]
+      },
+      "263/3163": {
+        "name": "Kreishaus L\u00fcnen: F\u00fchrerscheinangelegenheiten",
+        "services": [
+          "Ausstellung eines Ersatzf\u00fchrerscheines (Verlust/Diebstahl)",
+          "Ausstellung eines Ersatzf\u00fchrerscheines (z. Bsp. Namens\u00e4nderung,B196,B96,B197)",
+          "Ausstellung eines Internationalen F\u00fchrerscheines",
+          "Ersterteilung eines F\u00fchrerscheines / Begleitetes Fahren / Nachtrag Begleitpers.",
+          "Erweiterung / Verl\u00e4ngerung eines F\u00fchrerscheines (nur C1,C1E,C,CE, D1, D1E, D, DE",
+          "Erweiterung eines F\u00fchrerscheines (Klassen B, BE, AM, A1, A2, A, T)",
+          "Fahrerkarte (Erstbeantragung / Verl\u00e4ngerung / Verlust / Diebstahl / Umtausch)",
+          "Fahrerqualifizierungsnachweis (Schl\u00fcsselziffer 95)",
+          "Fahrgastbef\u00f6rderung (Erstbeantragung / Erweiterung / Verl\u00e4ngerung)",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins",
+          "Umtausch eines F\u00fchrerscheins (Papierf\u00fchrerschein / Kartenf\u00fchrerschein)"
         ]
       },
       "263/3164": {
