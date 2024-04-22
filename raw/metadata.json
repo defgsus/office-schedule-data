@@ -1211,6 +1211,7 @@
         "services": [
           "Abholung des Aufenthaltstitels",
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
+          "Aufenthaltserlaubnis gem\u00e4\u00df \u00a7 104C",
           "Beratung UKR",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
           "Blue Card / Fachkr\u00e4fte",
@@ -2031,6 +2032,7 @@
           "Beantragung/Verl\u00e4ngerung Personenbef\u00f6rderungsschein",
           "Eintragung Schl\u00fcsselzahl 95",
           "Erweiterung (Kl. C1, C1E, C, CE, D1, D1E, D, DE)",
+          "Verl\u00e4ngerung Fahrerlaubnis",
           "Verl\u00e4ngerung Fahrerlaubnis mit Schl\u00fcsselzahl 95",
           "Verl\u00e4ngerung Fahrerlaubnis ohne Schl\u00fcsselzahl 95"
         ]
@@ -38391,6 +38393,7 @@
           "Fahrzeugdokument \u00e4ndern",
           "F\u00fchrerschein abholen 01\u00a0\u00a0 2",
           "F\u00fchrerschein beantragen",
+          "F\u00fchrerschein umstellen/umtauschen (ohne Lkw-F\u00fchrerschein)",
           "Kfz-Abmeldung"
         ]
       },
@@ -45717,6 +45720,7 @@
           "Fahrerqualifizierungsnachweis",
           "Internationaler F\u00fchrerschein (Voraussetzung Kartenf\u00fchrerschein)",
           "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Personenbef\u00f6rderungsschein",
           "Personenbef\u00f6rderungsschein (Ersterteilung/Erweiterung/Verl\u00e4ngerung)",
           "Umschreibung Bundeswehrf\u00fchrerschein",
           "Umschreibung Dienstfahrerlaubnis (Bundeswehrf\u00fchrerschein)",
