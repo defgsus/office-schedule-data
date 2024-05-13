@@ -8753,7 +8753,11 @@
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
-          "Ausbildung f\u00fcr Brandschutzhelfende"
+          "Ausbildung f\u00fcr Brandschutzhelfende",
+          "BEM",
+          "BEM - Pers\u00f6nlicher Termin",
+          "BEM - Termin per Zoom",
+          "Kopie - Ausbildung f\u00fcr Brandschutzhelfende"
         ]
       },
       "167858": {
@@ -9213,6 +9217,7 @@
           "Anmeldung zur arbeitsmedizinischen Vorsorge an der Feuer- und Rettungswache, August-Schl\u00fcter-Stra\u00dfe 16, 48249 D\u00fclmen",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende am Baubetriebshof",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende der Feuerwehr und im Rettungsdienst",
+          "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende in st\u00e4dt. Kitas",
           "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
@@ -9220,6 +9225,10 @@
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeiter der Feuerwehr. G 24 - Hauptschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeiter im Rettungsdienst. G 24 - Hauptschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung. G 24 - Hauptschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
+          "Ausbildung f\u00fcr Brandschutzhelfende",
+          "BEM - Pers\u00f6nlicher Termin",
+          "BEM - Termin per Zoom",
+          "Bildschirmarbeitsplatzbrille - Angebotsvorsorge",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
         ]
       },
@@ -12856,7 +12865,8 @@
           "\u00c4nderung des Kfz-Scheines nach erfolgter Ummeldung",
           "\u00dcbertrag Aufenthaltserlaubnis/Niederlassungserlaubnis (ABH)",
           "\u00dcbertrag NE",
-          "\u00dcbertrag NE Zimmer 29"
+          "\u00dcbertrag NE Zimmer 29",
+          "\u00dcbertrag Niederlassungserlaubnis"
         ]
       }
     }
@@ -36818,7 +36828,8 @@
         "services": [
           "Personalausweis abholen",
           "Personalausweis ohne PIN-\u00c4nderung abholen",
-          "Reisepass abholen"
+          "Reisepass abholen",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger abholen"
         ]
       },
       "169/8559": {
@@ -38432,6 +38443,8 @@
         "services": [
           "Abmeldung Nebenwohnsitz 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Abmeldung ins Ausland",
+          "Anmeldung - Clearingstelle",
+          "Anmeldung Zameldowanie  - Clearingstelle",
           "Anmeldung in Rheda-Wiedenbr\u00fcck",
           "Meldebescheinigung",
           "Melderegisterauskunft",
