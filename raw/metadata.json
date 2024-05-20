@@ -991,6 +991,7 @@
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "Kinderreisepass",
           "Neue PIN setzen/Aktivierung Onlineausweisfunktion  01",
+          "Neue PIN setzen/Aktivierung Onlineausweisfunktion  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Personalausweis beantragen",
           "Personalausweis/Reisepass abholen",
           "Personalausweis/Reisepass abholen - hierzu kein Termin erforderlich",
@@ -1195,6 +1196,7 @@
         "services": [
           "Abholung des Aufenthaltstitels",
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
+          "Aufenthaltserlaubnis gem\u00e4\u00df \u00a7 104C",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
           "Blue Card / Fachkr\u00e4fte",
           "Brexit/Aufenthaltsdokument-GB",
@@ -8833,6 +8835,7 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Witwenrente",
           "Wohnberechtigungsschein (WBS)",
+          "Workshop - Einf\u00fchrung in eine diversit\u00e4tssensible und gendergerechte (p\u00e4dagogische) Praxis",
           "Zinssenkung",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende",
@@ -20502,6 +20505,7 @@
           "An- Um- und Abmeldungen bei Wohnsitz\u00e4nderung",
           "An- und Abmeldung einer Nebenwohnung (Zweitwohnsitz)",
           "Beglaubigungen",
+          "Elektronische Wohnsitzanmeldung",
           "F\u00fchrerscheinantrag abgeben",
           "F\u00fchrungszeugnis",
           "Gewerbezentralregisterauskunft",
@@ -20525,6 +20529,7 @@
           "An- Um- und Abmeldungen bei Wohnsitz\u00e4nderung",
           "An- und Abmeldung einer Nebenwohnung (Zweitwohnsitz)",
           "Beglaubigungen",
+          "Elektronische Wohnsitzanmeldung",
           "F\u00fchrerscheinantrag abgeben",
           "F\u00fchrungszeugnis",
           "Gewerbezentralregisterauskunft",
@@ -20548,6 +20553,7 @@
           "An- Um- und Abmeldungen bei Wohnsitz\u00e4nderung",
           "An- und Abmeldung einer Nebenwohnung (Zweitwohnsitz)",
           "Beglaubigungen",
+          "Elektronische Wohnsitzanmeldung",
           "F\u00fchrerscheinantrag abgeben",
           "F\u00fchrungszeugnis",
           "Gewerbezentralregisterauskunft",
@@ -20571,6 +20577,7 @@
           "An- Um- und Abmeldungen bei Wohnsitz\u00e4nderung",
           "An- und Abmeldung einer Nebenwohnung (Zweitwohnsitz)",
           "Beglaubigungen",
+          "Elektronische Wohnsitzanmeldung",
           "F\u00fchrerscheinantrag abgeben",
           "F\u00fchrungszeugnis",
           "Gewerbezentralregisterauskunft",
@@ -36792,7 +36799,8 @@
           "Reisepass beantragen",
           "Reisepass ohne PIN-\u00c4nderung abholen",
           "Wohnort \u00e4ndern im Reisepass",
-          "Wohnort \u00e4ndern im Reisepass / Kinderreisepass"
+          "Wohnort \u00e4ndern im Reisepass / Kinderreisepass",
+          "eID-Karte f\u00fcr Unionsb\u00fcrger beantragen (pro Person)"
         ]
       },
       "169/1739": {
