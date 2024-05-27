@@ -2469,6 +2469,7 @@
           "Fischereischein - Neuausstellung/Verl\u00e4ngerung",
           "Friedhofsangelegenheiten",
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
+          "F\u00fchrerschein - Umschreibung",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
@@ -2499,6 +2500,7 @@
           "Fischereischein - Neuausstellung/Verl\u00e4ngerung",
           "Friedhofsangelegenheiten",
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
+          "F\u00fchrerschein - Umschreibung",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
@@ -2524,14 +2526,18 @@
           "Bill & Billi (Modell \"Cargo\" - nur Lastentransport) - Wochenende",
           "Bill & Billi (Modell \"Family\" - Personentransport m\u00f6glich) - Wochenende",
           "Bill & Billi (Modell \"Family\" - Personentransport m\u00f6glich) - Wochentag",
+          "Billerbeck\u2019s Bahnhof und Bahnhofsstra\u00dfe",
           "Familienwanderung an der Berkel - mit Stockbrot",
           "Fr\u00fchlingswanderung mit Picknick",
           "Hoch hinaus - Rathausf\u00fchrung",
           "Hoch hinaus \u2013 Rathausf\u00fchrung",
+          "J\u00fcdisches Leben in Billerbeck",
           "Mini-Museumsmarsch \u2013 Das Offene Heimatmuseum Billerbeck",
           "M\u00e4rchen und Sagen: Stadtf\u00fchrung mit Laterne",
+          "Spekulatiusf\u00fchrung",
           "Theater, Theater! - 25 Jahre Theatermeile Billerbeck",
           "Theater, Theater! - Theatermeile Billerbeck",
+          "Wirtshausgeschichten",
           "W\u00e4rmepumpen mit Schwerpunkt Bestandsgeb\u00e4ude"
         ]
       }
@@ -8758,6 +8764,7 @@
           "Ausbildung f\u00fcr Brandschutzhelfende",
           "BEM",
           "BEM - Pers\u00f6nlicher Termin",
+          "BEM - Termin",
           "BEM - Termin per Zoom",
           "Kopie - Ausbildung f\u00fcr Brandschutzhelfende"
         ]
@@ -9230,6 +9237,7 @@
           "Arbeitsmedizinische Vorsorgeuntersuchung. G 24 - Hauptschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Ausbildung f\u00fcr Brandschutzhelfende",
           "BEM - Pers\u00f6nlicher Termin",
+          "BEM - Termin",
           "BEM - Termin per Zoom",
           "Bildschirmarbeitsplatzbrille - Angebotsvorsorge",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
@@ -12821,6 +12829,8 @@
           "Personalausweis beantragen",
           "Personalausweis beantragen - vorl\u00e4ufig",
           "Personalausweis und Reisepass beantragen",
+          "Personalausweis und/oder Reisepass beantragen",
+          "Personalausweis und/oder Reisepass beantragen (Anzahl der Dokumente angeben)",
           "Personenbef\u00f6rderungsschein (Fahrgastbef\u00f6rderung)",
           "Reisepass beantragen",
           "Schl\u00fcsselzahl 96, 196 oder 197",
@@ -28976,6 +28986,13 @@
           "Parkerleichterung f\u00fcr schwerbehinderte Menschen au\u00dferhalb der \"aG-Regelung\" 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Schwerbehindertenparkausweis",
           "Schwerbehindertenparkausweis 01\u00a0\u00a0 Parkausweis2\u00a0\u00a0 Parkausweise3\u00a0\u00a0 Parkausweise4\u00a0\u00a0 Parkausweise5\u00a0\u00a0 Parkausweise6\u00a0\u00a0 Parkausweise7\u00a0\u00a0 Parkausweise8\u00a0\u00a0 Parkausweise"
+        ]
+      },
+      "86/622": {
+        "name": "Sonstiges",
+        "services": [
+          "Fischereischein (Neuantrag oder Verl\u00e4ngerung) 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine5\u00a0\u00a0 Fischereischeine6\u00a0\u00a0 Fischereischeine7\u00a0\u00a0 Fischereischeine8\u00a0\u00a0 Fischereischeine",
+          "F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge"
         ]
       }
     }
