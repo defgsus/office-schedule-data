@@ -20525,6 +20525,7 @@
           "PIN setzen Personalausweis",
           "Personalausweis ab dem 24. Lebensjahr",
           "Personalausweis bis zum 24. Lebensjahr",
+          "Probanden Elektronische Wohnsitzanmeldung",
           "Reisepass ab dem 24. Lebensjahr",
           "Reisepass bis zum 24. Lebensjahr",
           "Untersuchungsberechtigungsschein",
@@ -20573,6 +20574,7 @@
           "PIN setzen Personalausweis",
           "Personalausweis ab dem 24. Lebensjahr",
           "Personalausweis bis zum 24. Lebensjahr",
+          "Probanden Elektronische Wohnsitzanmeldung",
           "Reisepass ab dem 24. Lebensjahr",
           "Reisepass bis zum 24. Lebensjahr",
           "Untersuchungsberechtigungsschein",
@@ -20597,6 +20599,7 @@
           "PIN setzen Personalausweis",
           "Personalausweis ab dem 24. Lebensjahr",
           "Personalausweis bis zum 24. Lebensjahr",
+          "Probanden Elektronische Wohnsitzanmeldung",
           "Reisepass ab dem 24. Lebensjahr",
           "Reisepass bis zum 24. Lebensjahr",
           "Untersuchungsberechtigungsschein",
@@ -31927,6 +31930,7 @@
           "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
           "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
+          "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
           "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
@@ -32127,6 +32131,7 @@
           "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
           "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
+          "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
           "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
@@ -45856,6 +45861,40 @@
           "Zulassung eines Kfz aus dem Ausland",
           "Zulassung eines Kfz aus dem Ausland, Donnerstag bis 16 Uhr, Freitag bis 11 Uhr",
           "Zuzug nach Wuppertal und Mitnahme Kennzeichen (Halter und Fahrzeug gleich)"
+        ]
+      },
+      "12/9358": {
+        "name": "F\u00fchrerscheinstelle",
+        "services": [
+          "Abholung Dokument (nach Erhalt einer Benachrichtigung)",
+          "Abholung F\u00fchrerschein/Dokument (nach Erhalt einer Benachrichtigung)",
+          "Abholung Personenbef\u00f6rderungsschein",
+          "Begleitetes Fahren ab 17",
+          "Begleitetes Fahren ab 17 (BF17)",
+          "Eintrag Schl\u00fcsselzahl B 96/B 196/ B 197",
+          "Ersatzf\u00fchrerschein",
+          "Ersatzf\u00fchrerschein bei Diebstahl oder Namens- oder Auflagen\u00e4nderung",
+          "Ersatzf\u00fchrerschein bei Verlust",
+          "Ersterteilung F\u00fchrerschein",
+          "Erweiterung F\u00fchrerschein",
+          "Fahrerkarte",
+          "Fahrerkarte (Voraussetzung: Deutscher Kartenf\u00fchrerschein)",
+          "Fahrerkarte (Voraussetzung: anderer EU-Kartenf\u00fchrerschein)",
+          "Fahrerqualifizierungsnachweis",
+          "Fahrerqualifizierungsnachweis FQN / Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
+          "Fahrgastbef\u00f6rderungsschein",
+          "Internationaler F\u00fchrerschein",
+          "Internationaler F\u00fchrerschein (Voraussetzung Kartenf\u00fchrerschein)",
+          "Neuerteilung eines F\u00fchrerscheins nach Entzug/Verzicht",
+          "Personenbef\u00f6rderungsschein",
+          "Umschreibung Dienstfahrerlaubnis (Bundeswehrf\u00fchrerschein)",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins",
+          "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins (nicht EU)",
+          "Umtausch",
+          "Umtausch (Grau/Rosa) in Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
+          "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE und Fahrerqualifizierungsnachweis",
+          "Vorl\u00e4ufige Fahrberechtigung (nach erfolgter Pr\u00fcfung )"
         ]
       }
     }
