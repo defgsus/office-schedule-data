@@ -9229,6 +9229,7 @@
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende der Feuerwehr und im Rettungsdienst",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende in st\u00e4dt. Kitas",
           "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
+          "Arbeitsmedizinische Vorsorgen",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
@@ -10966,6 +10967,7 @@
       "111/982": {
         "name": "H\u00f6chst:: Verschiedenes",
         "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Lebensbescheinigung",
           "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
           "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
           "Feinstaubplakette",
@@ -11041,6 +11043,7 @@
       "117/982": {
         "name": "Sachsenhausen:: Verschiedenes",
         "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Lebensbescheinigung",
           "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
           "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
           "Feinstaubplakette",
@@ -11261,6 +11264,7 @@
       "120/982": {
         "name": "Bergen-Enkheim:: Verschiedenes",
         "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Lebensbescheinigung",
           "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
           "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
           "Feinstaubplakette",
@@ -11335,6 +11339,7 @@
       "121/982": {
         "name": "Dornbusch:: Verschiedenes",
         "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Lebensbescheinigung",
           "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
           "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
           "Feinstaubplakette",
@@ -11403,6 +11408,7 @@
       "321/982": {
         "name": "Au\u00dfenstelle Fechenheim:: Verschiedenes",
         "services": [
+          "Amtliche Beglaubigung einer Fotokopie oder Lebensbescheinigung",
           "Amtliche Beglaubigung einer Fotokopie oder Unterschrift",
           "Einladung f\u00fcr Besucher aus dem Ausland (Verpflichtungserkl\u00e4rung)",
           "Feinstaubplakette",
@@ -36811,6 +36817,8 @@
         "name": "Pass-/Ausweisangelegenheiten",
         "services": [
           "Adresse / Chip \u00e4ndern auf Personalausweis",
+          "Befreiung von der Ausweispflicht",
+          "Eintragung der sorgeberechtigten Elternteile im Reisepass",
           "Kinderreisepass beantragen / verl\u00e4ngern / Foto aktualisieren",
           "Kopie von Pass-/Ausweisangelegenheiten",
           "Onlinefunktion Personalausweis nachtr\u00e4glich einschalten",
@@ -39036,15 +39044,18 @@
         "name": "Antrag auf Erteilung eines Aufenthaltstitels",
         "services": [
           "Abholung Aufenthaltstitel (eAT)/Reiseausweise (eRA) 01\u00a0\u00a0 eAT/eRA2\u00a0\u00a0 eAT/eRA3\u00a0\u00a0 eAT/eRA4\u00a0\u00a0 eAT/eRA5\u00a0\u00a0 eAT/eRA6\u00a0\u00a0 eAT/eRA7\u00a0\u00a0 eAT/eRA8\u00a0\u00a0 eAT/eRA",
+          "Antrag auf Erteilung eines Aufenthaltstitels (Ersterteilung) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung eines unbefristeten Aufenthaltstitels",
           "Antrag auf Verl\u00e4ngerung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Asylverfahren - Aufenthaltsgestattung/ Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Neuer Reisepass - \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Sonstiges 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Verlustanzeige mit \u00dcbertrag Aufenthaltstitel (eAT verloren/gestohlen) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verlustanzeige mit \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verpflichtungserkl\u00e4rung (Einladung)",
-          "\u00c4nderung/Streichung einer Auflage (Zusatzblatt) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen"
+          "\u00c4nderung/Streichung einer Auflage (Zusatzblatt) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen",
+          "\u00dcbertrag Aufenthalts-/Niederlassungserlaubnis - Neuer Reisepass 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
         ]
       },
       "314/4328": {
