@@ -9227,6 +9227,7 @@
           "Anmeldung zur arbeitsmedizinischen Vorsorge an der Feuer- und Rettungswache, August-Schl\u00fcter-Stra\u00dfe 16, 48249 D\u00fclmen",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende am Baubetriebshof",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende der Feuerwehr und im Rettungsdienst",
+          "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende des Baubetriebshofes",
           "Anmeldung zur arbeitsmedizinischen Vorsorge f\u00fcr Mitarbeitende in st\u00e4dt. Kitas",
           "Arbeitsmedizinische Angebotsvorsorge G 37 - Bildschirmarbeitsplatzbrille",
           "Arbeitsmedizinische Vorsorgen",
@@ -11004,6 +11005,7 @@
           "Anmeldung einer Wohnung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
+          "Meldebescheinigung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -11080,6 +11082,7 @@
           "Anmeldung einer Wohnung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
+          "Meldebescheinigung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -11300,6 +11303,7 @@
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
+          "Meldebescheinigung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -11375,6 +11379,7 @@
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
           "Fl\u00fcchtlinge aus der Ukraine: Anmeldung (Reyestratsiya kvartyry)",
+          "Meldebescheinigung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -11438,6 +11443,7 @@
         "services": [
           "Abmeldung einer Wohnung",
           "Anmeldung einer Wohnung",
+          "Meldebescheinigung",
           "Meldebescheinigung / Lebensbescheinigung",
           "Nachreichung Unterlagen / Kl\u00e4rung Meldedaten",
           "Ummeldung einer Wohnung",
@@ -31896,6 +31902,7 @@
       "191/10166": {
         "name": "Veranstaltung \"Energie erleben\" 09.12.2023",
         "services": [
+          "Teilnahme bei \"Energie erleben\" 06.07.2024 01\u00a0\u00a0 Termin",
           "Teilnahme bei \"Energie erleben\" 09.12.2023 01\u00a0\u00a0 Termin"
         ]
       },
@@ -39054,6 +39061,7 @@
           "Antrag auf Verl\u00e4ngerung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Asylverfahren - Aufenthaltsgestattung/ Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Neuer Reisepass - \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Sonstiges 01\u00a0\u00a0 Person",
           "Sonstiges 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verlustanzeige mit \u00dcbertrag Aufenthaltstitel (eAT verloren/gestohlen) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Verlustanzeige mit \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
@@ -43529,6 +43537,12 @@
           "Wiederannahme eines Namens nach Eheaufl\u00f6sung"
         ]
       },
+      "193119": {
+        "name": "Baurecht",
+        "services": [
+          "Einsichtnahme von Angrenzern"
+        ]
+      },
       "78012": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
@@ -45896,6 +45910,7 @@
           "Fahrerkarte (Voraussetzung: Deutscher Kartenf\u00fchrerschein)",
           "Fahrerkarte (Voraussetzung: anderer EU-Kartenf\u00fchrerschein)",
           "Fahrerqualifizierungsnachweis",
+          "Fahrerqualifizierungsnachweis FQN / Verl\u00e4ngerung Fahrerlaubnisklassen",
           "Fahrerqualifizierungsnachweis FQN / Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
           "Fahrgastbef\u00f6rderungsschein",
           "Internationaler F\u00fchrerschein",
