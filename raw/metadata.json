@@ -4419,6 +4419,29 @@
     "scraper": "etermin",
     "url": "https://www.etermin.net/stadtbutzbach",
     "locations": {
+      "181788": {
+        "name": "Gewerbe",
+        "services": [
+          "Aktuelle Meldebescheinigung aus dem Gewerberegister",
+          "Anmeldung Gastst\u00e4ttengewerbe",
+          "Anmeldung eines Reisegewerbes",
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbeummeldung",
+          "Pers\u00f6nliche Beratung",
+          "Telefonische Beratung"
+        ]
+      },
+      "181789": {
+        "name": "Ordnungsangelegenheiten",
+        "services": [
+          "Anwohnerparkausweis",
+          "Ausnahmegenehmigung gem. StVO",
+          "Schwerbehindertenparkausweis / Parkerleichterung",
+          "Sondernutzungserlaubnis",
+          "Verkehrsrechtliche Anordnung"
+        ]
+      },
       "83569": {
         "name": "B\u00fcrger-Service-Zentrum",
         "services": [
