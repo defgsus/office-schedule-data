@@ -43961,6 +43961,19 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=76",
     "locations": {
+      "221/11010": {
+        "name": "B\u00fcrgerb\u00fcro: Ausweise und P\u00e4sse",
+        "services": [
+          "Adress\u00e4nderung/PIN-\u00c4nderung Personalausweis",
+          "Ausweis/Pass nur abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Personalausweis beantragen",
+          "Reisepass oder Expressreisepass beantragen",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "eID Karte beantragen"
+        ]
+      },
       "221/2393": {
         "name": "Ausweise und P\u00e4sse",
         "services": [
@@ -44028,6 +44041,19 @@
           "Waidseekartenverkauf"
         ]
       },
+      "550/11010": {
+        "name": "B\u00fcrgerb\u00fcro Weststadt: Ausweise und P\u00e4sse",
+        "services": [
+          "Adress\u00e4nderung/PIN-\u00c4nderung Personalausweis",
+          "Ausweis/Pass nur abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Personalausweis beantragen",
+          "Reisepass oder Expressreisepass beantragen",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "eID Karte beantragen"
+        ]
+      },
       "550/2393": {
         "name": "B\u00fcrgerb\u00fcro Weststadt: Ausweise und P\u00e4sse",
         "services": [
@@ -44074,6 +44100,19 @@
           "Landesfamilienpass",
           "Sonstiges",
           "Sonstiges  01\u00a0\u00a0 2"
+        ]
+      },
+      "551/11010": {
+        "name": "Ortsverwaltung L\u00fctzelsachsen: Ausweise und P\u00e4sse",
+        "services": [
+          "Adress\u00e4nderung/PIN-\u00c4nderung Personalausweis",
+          "Ausweis/Pass nur abholen  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Personalausweis beantragen",
+          "Reisepass oder Expressreisepass beantragen",
+          "Verlustanzeige Personalausweis/Reisepass",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
+          "Vorl\u00e4ufigen Reisepass beantragen",
+          "eID Karte beantragen"
         ]
       },
       "551/2393": {
