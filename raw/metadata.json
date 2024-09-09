@@ -981,6 +981,7 @@
           "KFZ-Schein \u00c4nderung bei Umzug innerhalb des Rheinisch-Bergischen Kreises",
           "Status\u00e4nderung Nebenwohnung zu Hauptwohnung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4",
           "Ummeldung innerhalb Bergisch Gladbachs",
+          "Ummeldung innerhalb des Stadtgebiets von Bergisch Gladbach",
           "einfache o. erweiterte Meldebescheinigung/Lebensbescheinigung",
           "\u00c4nderung Nebenwohnung zu Hauptwohnung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4"
         ]
@@ -9277,6 +9278,10 @@
           "BEM - Termin",
           "BEM - Termin per Zoom",
           "Bildschirmarbeitsplatzbrille - Angebotsvorsorge",
+          "Impftermin - 20.09.24 an der Feuer- und Rettungswache",
+          "Impftermin - 23.09.24 am Baubetriebshof",
+          "Impftermin - 27.09.24 im Fr\u00f6bel-Familienzentrum",
+          "Impftermin - 27.09.24 im Kinderhaus Am Luchtbach",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
         ]
       },
@@ -32160,6 +32165,7 @@
       "191/10163": {
         "name": "Veranstaltung \"Energie erleben\" 30.09.2023",
         "services": [
+          "Teilnahme bei \"Energie erleben\" 28.09.2024 01\u00a0\u00a0 Beratung",
           "Veranstaltung \"Energie erleben\" 30.09.2023 01",
           "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Veranstaltung \"Energie erleben\" 30.09.2023 01\u00a0\u00a0 Beratung",
@@ -39328,6 +39334,7 @@
         "name": "Antrag auf Erteilung eines Aufenthaltstitels",
         "services": [
           "Abholung Aufenthaltstitel (eAT)/Reiseausweise (eRA) 01\u00a0\u00a0 eAT/eRA2\u00a0\u00a0 eAT/eRA3\u00a0\u00a0 eAT/eRA4\u00a0\u00a0 eAT/eRA5\u00a0\u00a0 eAT/eRA6\u00a0\u00a0 eAT/eRA7\u00a0\u00a0 eAT/eRA8\u00a0\u00a0 eAT/eRA",
+          "Antrag auf Erteilung eines Aufenthaltstitels (Ersterteilung nach Visum) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung eines Aufenthaltstitels (Ersterteilung) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Antrag auf Erteilung eines unbefristeten Aufenthaltstitels",
