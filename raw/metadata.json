@@ -19216,6 +19216,12 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=102",
     "locations": {
+      "284/11046": {
+        "name": "Gleichstellungsstelle",
+        "services": [
+          "Beratung Trennung/Alleinerziehende 01"
+        ]
+      },
       "284/3675": {
         "name": "Melde- und Ausweisangelegenheiten",
         "services": [
@@ -23260,6 +23266,7 @@
         "services": [
           "Abmeldung eines Hundes",
           "Anmeldung eines Hundes",
+          "Auszug aus dem Gewerbezentralregister (f\u00fcr nat\u00fcrliche Personen)",
           "Best\u00e4tigungen / Unterschriftsbeglaubigungen",
           "Best\u00e4tigungen / Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
           "Best\u00e4tigungen/Unterschriftsbeglaubigungen 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen3\u00a0\u00a0 Best\u00e4tigungen4\u00a0\u00a0 Best\u00e4tigungen5\u00a0\u00a0 Best\u00e4tigungen6\u00a0\u00a0 Best\u00e4tigungen7\u00a0\u00a0 Best\u00e4tigungen8\u00a0\u00a0 Best\u00e4tigungen",
@@ -23267,8 +23274,10 @@
           "Fischereischein Verl\u00e4ngerung",
           "Fischereischein Verl\u00e4ngerung 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine5\u00a0\u00a0 Fischereischeine6\u00a0\u00a0 Fischereischeine7\u00a0\u00a0 Fischereischeine8\u00a0\u00a0 Fischereischeine",
           "F\u00fchrerscheinantrag",
+          "F\u00fchrungszeugnis (Europ\u00e4isches)",
           "F\u00fchrungszeugnis (Europ\u00e4isches) / Gewerbezentralregisterauszug",
           "F\u00fchrungszeugnis (Europ\u00e4isches) / Gewerbezentralregisterauszug 01\u00a0\u00a0 F\u00fchrungszeugnis2\u00a0\u00a0 F\u00fchrungszeugnisse3\u00a0\u00a0 F\u00fchrungszeugnisse4\u00a0\u00a0 F\u00fchrungszeugnisse5\u00a0\u00a0 F\u00fchrungszeugnisse6\u00a0\u00a0 F\u00fchrungszeugnisse7\u00a0\u00a0 F\u00fchrungszeugnisse8\u00a0\u00a0 F\u00fchrungszeugnisse",
+          "Gewerbezentralregisterauszug (f\u00fcr nat\u00fcrliche Personen)",
           "Hund abmelden",
           "Hund anmelden",
           "Landesfamilienpass"
@@ -23281,6 +23290,7 @@
           "Auszug aus dem Gewerberegister der Stadt Ladenburg",
           "Auszug aus dem Gewerberegister der Stadt Ladenburg 01\u00a0\u00a0 Auszug2\u00a0\u00a0 Ausz\u00fcge3\u00a0\u00a0 Ausz\u00fcge4\u00a0\u00a0 Ausz\u00fcge5\u00a0\u00a0 Ausz\u00fcge6\u00a0\u00a0 Ausz\u00fcge7\u00a0\u00a0 Ausz\u00fcge8\u00a0\u00a0 Ausz\u00fcge",
           "Auszug aus dem Gewerbezentralregister",
+          "Auszug aus dem Gewerbezentralregister (f\u00fcr juristische Personen)",
           "Gewerbe-Abmeldung",
           "Gewerbe-Anmeldung",
           "Gewerbe-Ummeldung",
@@ -23343,6 +23353,16 @@
           "Kirchenaustritt 01\u00a0\u00a0 Austritt2\u00a0\u00a0 Austritte",
           "Vaterschaftsanerkennung",
           "Vaterschaftsanerkennung 01\u00a0\u00a0 Anerkennung"
+        ]
+      },
+      "904/2785": {
+        "name": "Gewerbeamt: Gewerbe",
+        "services": [
+          "Auszug aus dem Gewerberegister der Stadt Ladenburg",
+          "Auszug aus dem Gewerbezentralregister (f\u00fcr juristische Personen)",
+          "Gewerbe-Abmeldung",
+          "Gewerbe-Anmeldung",
+          "Gewerbe-Ummeldung"
         ]
       }
     }
@@ -25267,6 +25287,12 @@
         "services": [
           "Arbeitsgruppe AAA",
           "Arbeitsgruppe BBB"
+        ]
+      },
+      "196116": {
+        "name": "Physiotherapeutisches Angebot",
+        "services": [
+          "Physiotherapeutisches Angebot"
         ]
       }
     }
