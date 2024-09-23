@@ -1199,6 +1199,8 @@
         "services": [
           "Abholung des Aufenthaltstitels",
           "Anliegen von unbegleiteten minderj\u00e4hrigen Fl\u00fcchtlingen",
+          "Asylbereich - Aufenthaltsgestattung / Duldung / Inhaber \u00a7104c",
+          "Asylbereich - unbegleitete minderj\u00e4hrige Fl\u00fcchtlinge (UMF)",
           "Aufenthaltserlaubnis gem\u00e4\u00df \u00a7 104C",
           "Bitte w\u00e4hlen Sie die gew\u00fcnschten Anliegen und deren Anzahl aus.",
           "Blue Card / Fachkr\u00e4fte",
@@ -4444,6 +4446,7 @@
         "services": [
           "Anwohnerparkausweis",
           "Ausnahmegenehmigung gem. StVO",
+          "Kopie - Verkehrsrechtliche Anordnung",
           "Schwerbehindertenparkausweis / Parkerleichterung",
           "Sondernutzungserlaubnis",
           "Verkehrsrechtliche Anordnung"
@@ -8891,6 +8894,7 @@
       "168463": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
+          "<b>Telefonischer</b> Beratungstermin  zu den Themen Sorgerecht, Unterhalt oder Vaterschaft",
           "Achtsamkeit - sich selbst bewusst(er) steuern zu k\u00f6nnen",
           "Allg. Aufstellerlaubnis zur Aufstellung von Spielger\u00e4ten mit Gewinnm\u00f6glichkeit",
           "Allgemeine Angelegenheiten (ruhender Verkehr)",
@@ -32205,6 +32209,12 @@
           "Teilnahme bei \"Energie erleben\" 09.12.2023 01\u00a0\u00a0 Termin"
         ]
       },
+      "191/11052": {
+        "name": "Teilnahme an der Veranstaltung \"Energie Erleben\" am 28.09.2024",
+        "services": [
+          "Veranstaltung \"Energie Erleben\" am 28.09.2024 01"
+        ]
+      },
       "191/1709": {
         "name": "An-/Abmeldungen",
         "services": [
@@ -32246,10 +32256,21 @@
           "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
           "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
+          "Auszug Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
           "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
+        ]
+      },
+      "191/1776": {
+        "name": "MVV E.forum: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsaufschub / Stundung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
         ]
       },
       "191/2342": {
@@ -32270,6 +32291,13 @@
           "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser- oder Gas) 01\u00a0\u00a0 Beratung",
           "R\u00fcckbau, Baustellenversorgung oder Neuanschluss 01",
           "R\u00fcckbau, Baustellenversorgung oder Neuanschluss 01\u00a0\u00a0 Beratung"
+        ]
+      },
+      "191/3050": {
+        "name": "L\u00f6sungsans\u00e4tze zur Erf\u00fcllung gesetzlicher Vorgaben (z.B. EW\u00e4rmeG)",
+        "services": [
+          "Erstberatung \u00fcber m\u00f6gliche F\u00f6rdergelder 01\u00a0\u00a0 Beratung",
+          "Unterst\u00fctzung bei der online-/offline Antragsstellung 01\u00a0\u00a0 Beratung"
         ]
       },
       "191/3051": {
@@ -32447,10 +32475,21 @@
           "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
           "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
+          "Auszug Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Einzug / Umzug privat",
           "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Einzug/Umzug innerhalb von Mannheim"
+        ]
+      },
+      "480/1776": {
+        "name": "MVV Nachbarschaftsoase: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsaufschub / Stundung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
         ]
       },
       "480/2342": {
@@ -32497,6 +32536,54 @@
         "name": "Videokonferenzen",
         "services": [
           "Testanliegen externe Videokonferenz 01"
+        ]
+      },
+      "915/11056": {
+        "name": "Online-Produkte",
+        "services": [
+          "MVV DIREKT Gas",
+          "MVV DIREKT Strom",
+          "Online-Services Registrierung",
+          "Registrierung Onlineservices"
+        ]
+      },
+      "915/1767": {
+        "name": "Videokonferenz: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
+        ]
+      },
+      "915/1770": {
+        "name": "Videokonferenz: Sie m\u00f6chten sich an/abmelden.",
+        "services": [
+          "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
+          "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
+          "Auszug Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
+          "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
+          "Einzug / Umzug privat 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler"
+        ]
+      },
+      "915/1776": {
+        "name": "Videokonferenz: Sie haben Fragen zu Zahlungen?",
+        "services": [
+          "Fragen zum Kundenkonto/Zahlungen 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Sperrandrohung, Sperrung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsaufschub / Stundung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge",
+          "Zahlungsvereinbarung / Ratenplan 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Z\u00e4hler\u00f6ffnung 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler"
+        ]
+      },
+      "915/8023": {
+        "name": "Videokonferenz: Sie haben \u00c4nderungsw\u00fcnsche/Informationen f\u00fcr uns.",
+        "services": [
+          "Abschlag \u00e4ndern 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Rechnungsreklamation /-korrektur 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "SEPA - Einzugserm\u00e4chtigung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge3\u00a0\u00a0 Vertr\u00e4ge4\u00a0\u00a0 Vertr\u00e4ge",
+          "Tarifberatung 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge",
+          "Trocknungsma\u00dfnahme 01\u00a0\u00a0 Vertrag2\u00a0\u00a0 Vertr\u00e4ge"
         ]
       }
     }
@@ -43840,6 +43927,7 @@
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
           "Abmeldung Wohnsitz",
+          "Anmeldung Wohnsitz",
           "Anmeldung Wohnsitz ",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger abholen",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger beantragen/abholen",
@@ -43860,6 +43948,7 @@
           "Jahresfischereischein",
           "Kinderreisepass abholen",
           "Kinderreisepass beantragen oder verl\u00e4ngern",
+          "Landesfamilien-Pass/Abholung von Gutscheinen",
           "Landesfamilien-Pass/Abholung von Gutscheinen ",
           "Lebensbescheinigung",
           "Meldebescheinigung",
@@ -43911,6 +44000,7 @@
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
           "Abmeldung Wohnsitz",
+          "Anmeldung Wohnsitz",
           "Anmeldung Wohnsitz ",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger abholen",
           "Aufenthaltstitel/Fiktionsbescheinigung/ Aufenthaltsgestattung f\u00fcr ausl\u00e4ndische Mitb\u00fcrger beantragen/abholen",
@@ -43931,6 +44021,7 @@
           "Jahresfischereischein",
           "Kinderreisepass abholen",
           "Kinderreisepass beantragen oder verl\u00e4ngern",
+          "Landesfamilien-Pass/Abholung von Gutscheinen",
           "Landesfamilien-Pass/Abholung von Gutscheinen ",
           "Lebensbescheinigung",
           "Meldebescheinigung",
