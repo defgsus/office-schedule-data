@@ -9282,10 +9282,13 @@
           "BEM - Termin",
           "BEM - Termin per Zoom",
           "Bildschirmarbeitsplatzbrille - Angebotsvorsorge",
+          "Grippeschutzimpfung",
           "Impftermin - 20.09.24 an der Feuer- und Rettungswache",
           "Impftermin - 23.09.24 am Baubetriebshof",
           "Impftermin - 27.09.24 im Fr\u00f6bel-Familienzentrum",
           "Impftermin - 27.09.24 im Kinderhaus Am Luchtbach",
+          "Nachimpfung FSME",
+          "Nachimpfung Hepatitis",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
         ]
       },
@@ -32219,10 +32222,15 @@
         "name": "An-/Abmeldungen",
         "services": [
           "Abmeldung Gewerbe",
+          "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Abmeldung Privathaushalt",
           "An / Abmeldung Privathaushalt",
+          "An / Abmeldung Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
+          "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Privathaushalt",
+          "Auszug Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
+          "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Ummeldung innerhalb von Mannheim",
           "Umzug innerhalb von Mannheim"
         ]
@@ -32438,10 +32446,15 @@
         "name": "MVV Nachbarschaftsoase: An-/Abmeldungen",
         "services": [
           "Abmeldung Gewerbe",
+          "Abmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Abmeldung Privathaushalt",
           "An / Abmeldung Privathaushalt",
+          "An / Abmeldung Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Gewerbe",
+          "Anmeldung Gewerbe 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler",
           "Anmeldung Privathaushalt",
+          "Auszug Privathaushalt 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
+          "Eigentums\u00e4nderung / Wohnungs/ Hausverkauf 01\u00a0\u00a0 Z\u00e4hler2\u00a0\u00a0 Z\u00e4hler3\u00a0\u00a0 Z\u00e4hler4\u00a0\u00a0 Z\u00e4hler",
           "Ummeldung innerhalb von Mannheim",
           "Umzug innerhalb von Mannheim"
         ]
@@ -44369,8 +44382,12 @@
           "Nebenwohnsitz wird zum Hauptwohnsitz  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ummeldung innerhalb Weinheim",
           "Wohnsitzanmeldung",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzanmeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
         ]
       },
@@ -44447,8 +44464,12 @@
           "Nebenwohnsitz wird zum Hauptwohnsitz",
           "Nebenwohnsitz wird zum Hauptwohnsitz  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzanmeldung",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzanmeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
         ]
       },
@@ -44508,8 +44529,12 @@
           "Nebenwohnsitz wird zum Hauptwohnsitz",
           "Nebenwohnsitz wird zum Hauptwohnsitz  01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzanmeldung",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzanmeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzanmeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger) 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Wohnsitzummeldung (nur Deutsche und EU-B\u00fcrger, Nicht EU-B\u00fcrger \u00fcber Ausl\u00e4nderabt 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Wohnsitzummeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8"
         ]
       },
