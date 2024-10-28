@@ -1208,6 +1208,7 @@
           "Erteilung/Verl\u00e4ngerung eines Aufenthaltstitels",
           "F\u00fcr Asylbewerber - Duldung / Gestattung",
           "Reiseausweis oder Sonstiges Anliegen",
+          "Sondertermine Asyl",
           "Visaangelegenheiten (keine Ersterteilung/Verl\u00e4ngerung v. Aufenthaltserl.)",
           "\u00dcbertrag eines g\u00fcltigen Aufenthaltstitels",
           "\u043a\u043e\u043b\u0435\u043a\u0446\u0456\u044f"
@@ -2476,6 +2477,7 @@
           "Fischereischein - Neuausstellung/Verl\u00e4ngerung",
           "Friedhofsangelegenheiten",
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
+          "F\u00fchrerschein - Erst-/Erweiterungs-/Wiedererteilungsantrag",
           "F\u00fchrerschein - Umschreibung",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
@@ -2508,6 +2510,7 @@
           "Fischereischein - Neuausstellung/Verl\u00e4ngerung",
           "Friedhofsangelegenheiten",
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
+          "F\u00fchrerschein - Erst-/Erweiterungs-/Wiedererteilungsantrag",
           "F\u00fchrerschein - Umschreibung",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
@@ -9286,12 +9289,14 @@
           "BEM - Termin per Zoom",
           "Bildschirmarbeitsplatzbrille - Angebotsvorsorge",
           "Grippeschutzimpfung",
+          "Grundimmunisierung Hepatitis - Erstimpfung",
           "Impftermin - 20.09.24 an der Feuer- und Rettungswache",
           "Impftermin - 23.09.24 am Baubetriebshof",
           "Impftermin - 27.09.24 im Fr\u00f6bel-Familienzentrum",
           "Impftermin - 27.09.24 im Kinderhaus Am Luchtbach",
           "Nachimpfung FSME",
           "Nachimpfung Hepatitis",
+          "Titerkontrolle - Hepatitis",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
         ]
       },
@@ -19242,6 +19247,71 @@
           "Anmeldung Eheschlie\u00dfung \u2013 ausl\u00e4ndische Staatsangeh\u00f6rigkeit 01",
           "Anmeldung Eheschlie\u00dfung \u2013 deutsche Staatsangeh\u00f6rigkeit 01",
           "Eheschlie\u00dfung \u2013 Kl\u00e4rung notwendiger Dokumente und Terminvereinbarung f\u00fcr die Tra 01"
+        ]
+      },
+      "284/11096": {
+        "name": "Standesamt und Einb\u00fcrgerungen",
+        "services": [
+          "Einb\u00fcrgerung - Antragsabgabe",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde +  Namensf\u00fchrung",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde + Angleichung Namensf\u00fchrung",
+          "Einb\u00fcrgerung - Erstberatung/Aush\u00e4ndigung Antragsunterlagen",
+          "Einb\u00fcrgerung - Unterlagen nachreichen"
+        ]
+      },
+      "284/11138": {
+        "name": "Standesamt und Einb\u00fcrgerungen",
+        "services": [
+          "Allgemeine Beratung Standesamt/Sonstiges 01\u00a0\u00a0 Beratung",
+          "Allgemeine Beratung im Standesamt 01\u00a0\u00a0 Beratung",
+          "Ehef\u00e4higkeitszeugnis - Beantragung",
+          "Ehef\u00e4higkeitszeugnis - Beantragung 01\u00a0\u00a0 Ehef\u00e4higkeitszeugnis2\u00a0\u00a0 Ehef\u00e4higkeitszeugnisse",
+          "Ehef\u00e4higkeitszeugnis zur Eheschlie\u00dfung im Ausland - Kl\u00e4rung notwendige Dokumente",
+          "Ehef\u00e4higkeitszeugnis zur Eheschlie\u00dfung im Ausland - Kl\u00e4rung notwendige Dokumente 01\u00a0\u00a0 Beratung2\u00a0\u00a0 Beratungen",
+          "Eheschlie\u00dfung - Anmeldung ausl\u00e4ndische Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung - Anmeldung deutsche Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung - Erstberatung ausl\u00e4ndische Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung \u2013 Erstberatung deutsche Staatsangeh\u00f6rigkeit",
+          "Einb\u00fcrgerung - Antragsabgabe",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde +  Namensf\u00fchrung",
+          "Einb\u00fcrgerung - Erstberatung/Aush\u00e4ndigung Antragsunterlagen",
+          "Einb\u00fcrgerung - Unterlagen nachreichen",
+          "Erkl\u00e4rung Namensf\u00fchrung - diverse",
+          "Erkl\u00e4rung Selbstbestimmungsgesetz",
+          "Hausgeburt - Anzeige 01\u00a0\u00a0 Geburt2\u00a0\u00a0 Geburten3\u00a0\u00a0 Geburten4\u00a0\u00a0 Geburten",
+          "Nachbeurkundung Ausland (Geburt, Eheschlie\u00dfung, Tod)",
+          "Nachbeurkundung Ausland (Geburt, Eheschlie\u00dfung, Tod) 01\u00a0\u00a0 Beurkundung",
+          "Namenserkl\u00e4rung - Abgabe diverser Erkl\u00e4rungen",
+          "Selbstbestimmungsgesetz - Beratung, Anmeldung und Abgabe Erkl\u00e4rung",
+          "Urkundenausstellung (Geburts-, Ehe-, Sterbeurkunden)",
+          "Vaterschaftsanerkennung - Zustimmungserkl\u00e4rung",
+          "Vaterschaftsanerkennung - mit Namenserteilung f\u00fcr das Kind"
+        ]
+      },
+      "284/11141": {
+        "name": "Standesamt und Einb\u00fcrgerungen",
+        "services": [
+          "Allgemeine Beratung im Standesamt",
+          "Ausstellung von Urkunden (Geburts-, Ehe-, Sterbeurkunden)",
+          "Ehef\u00e4higkeitszeugnis - Beantragung",
+          "Ehef\u00e4higkeitszeugnis zur Eheschlie\u00dfung im Ausland - Kl\u00e4rung notwendige Dokumente",
+          "Eheschlie\u00dfung - Anmeldung ausl\u00e4ndische Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung - Anmeldung deutsche Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung - Kl\u00e4rung Dokumente bei ausl\u00e4ndischer Staatsangeh\u00f6rigkeit",
+          "Eheschlie\u00dfung \u2013 Erstberatung und Terminreservierung deutsche Staatsangeh\u00f6rigkeit",
+          "Einb\u00fcrgerung - Antragsabgabe",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde",
+          "Einb\u00fcrgerung - Aush\u00e4ndigung Einb\u00fcrgerungsurkunde +  Namensf\u00fchrung",
+          "Einb\u00fcrgerung - Erstberatung/Aush\u00e4ndigung Antragsunterlagen",
+          "Einb\u00fcrgerung - Unterlagen nachreichen",
+          "Hausgeburt - Anzeige",
+          "Nachbeurkundung Ausland (Geburt, Eheschlie\u00dfung, Tod)",
+          "Namenserkl\u00e4rung - Abgabe diverser Erkl\u00e4rungen",
+          "Selbstbestimmungsgesetz - Beratung, Anmeldung und Abgabe Erkl\u00e4rung",
+          "Vaterschaftsanerkennung - Zustimmungserkl\u00e4rung",
+          "Vaterschaftsanerkennung - mit Namenserteilung f\u00fcr das Kind"
         ]
       },
       "284/3675": {
@@ -39253,6 +39323,40 @@
           "Zulassung Gebrauchtfahrzeug (l\u00e4nger als 7,5 Jahre abgemeldet) 01\u00a0\u00a0 Zulassung",
           "Zulassung Wohnmobile, Sonderfahrzeuge etc. 01\u00a0\u00a0 Zulassung2\u00a0\u00a0 Zulassungen",
           "\u00c4nderung Saisonzeitraum 01\u00a0\u00a0 \u00c4nderung 2\u00a0\u00a0 \u00c4nderungen"
+        ]
+      },
+      "920/11106": {
+        "name": "Eheschlie\u00dfung",
+        "services": [
+          "Anerkennung ausl\u00e4ndische Scheidung 01\u00a0\u00a0 Anerkennung",
+          "Anmeldung Eheschlie\u00dfung - beide deutsche Staatsangeh\u00f6rige 01\u00a0\u00a0 Anmeldung",
+          "Anmeldung Eheschlie\u00dfung - mindestens eine Person besitzt nicht die deutsche Staa 01\u00a0\u00a0 Anmeldung",
+          "Anmeldung Umwandlung gleichgeschlechtliche Lebenspartnerschaft in Ehe 01\u00a0\u00a0 Anmeldung",
+          "Beratung bei ausl\u00e4ndischer Staatsangeh\u00f6rigkeit 01\u00a0\u00a0 Beratung",
+          "Ehef\u00e4higkeitszeugnis beantragen beide Deutsch 01\u00a0\u00a0 Antrag",
+          "Ehef\u00e4higkeitszeugnis beantragen mindestens eine Person besitzt nicht die deutsch 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge",
+          "Nachbeurkundung Eheschlie\u00dfung im Ausland 01\u00a0\u00a0 Urkunde"
+        ]
+      },
+      "920/11118": {
+        "name": "Geburt",
+        "services": [
+          "Geburtsbeurkundung 01\u00a0\u00a0 Urkunde",
+          "Nachbeurkundung Geburt im Ausland 01\u00a0\u00a0 Urkunde"
+        ]
+      },
+      "920/11120": {
+        "name": "Sterbefall",
+        "services": [
+          "Sterbefallbeurkundung - Unterlagen werden mitgebracht 01\u00a0\u00a0 Fall2\u00a0\u00a0 F\u00e4lle3\u00a0\u00a0 F\u00e4lle4\u00a0\u00a0 F\u00e4lle",
+          "Sterbefallbeurkundung - Unterlagen wurden per Fax oder E-Mail eingereicht 01\u00a0\u00a0 Urkunde"
+        ]
+      },
+      "920/11124": {
+        "name": "Namensf\u00fchrung",
+        "services": [
+          "Abholung Namens\u00e4nderungsurkunde 01\u00a0\u00a0 Abholung",
+          "Erkl\u00e4rung zur Namensf\u00fchrung 01\u00a0\u00a0 Erkl\u00e4rung"
         ]
       }
     }
