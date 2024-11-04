@@ -2150,6 +2150,8 @@
           "Einbenennung (Namens\u00e4nderung des Kindes nach Wiederheirat eines Elternteils)",
           "Erkl\u00e4rung Geschlecht und Vornamen (\u00a7 45b PStG) - nicht Selbstbestimmungsgesetz",
           "Erkl\u00e4rung zur Geschlechtsangabe und Vornamensf\u00fchrung (\u00a7 45b PStG)",
+          "Selbstbestimmung anmelden",
+          "Selbstbestimmung erkl\u00e4ren",
           "Wiederannahme Geburtsname / fr\u00fcherer Familienname nach Eheaufl\u00f6sung",
           "\u00c4nderung der Reihenfolge der Vornamen"
         ]
@@ -2533,6 +2535,7 @@
         "name": "Bill & Billi mieten (Wochentags / Wochenende)",
         "services": [
           "ALT Billerbeck\u2019s Bahnhof und Bahnhofsstra\u00dfe",
+          "Auf alten Spuren ins neue Jahr",
           "Auf den Spuren des Sandsteins",
           "Bill & Billi (Modell \"Cargo\" - nur Lastentransport!) - Wochentag",
           "Bill & Billi (Modell \"Cargo\" - nur Lastentransport) - Wochenende",
@@ -9295,6 +9298,7 @@
           "Impftermin - 27.09.24 im Fr\u00f6bel-Familienzentrum",
           "Impftermin - 27.09.24 im Kinderhaus Am Luchtbach",
           "Nachimpfung FSME",
+          "Nachimpfung FSME/Hepatitis",
           "Nachimpfung Hepatitis",
           "Titerkontrolle - Hepatitis",
           "Vorsorgeuntersuchung f\u00fcr Mitarbeitende am Baubetriebshof: : G 20 \u2013 L\u00e4rmschutz, G 24 \u2013 Hautschutz, G 42 \u2013 Infektionsschutz, G 46 \u2013 R\u00fccken- u. Muskelbelastung"
@@ -32475,6 +32479,13 @@
           "VorabB BEEGY"
         ]
       },
+      "191/6789": {
+        "name": "MVV E.forum: Carsharing mit FRANKLIN mobil",
+        "services": [
+          "Carsharing FRANKLIN-Mobil Registrierung 01",
+          "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde 01\u00a0\u00a0 Fahrzeug/Fahrt"
+        ]
+      },
       "191/8023": {
         "name": "MVV E.forum: Vertragliche Angelegenheiten",
         "services": [
@@ -32630,6 +32641,7 @@
         "name": "FRANKLIN Nachbarschaftsoase",
         "services": [
           "Beratung zu MVV Produkten",
+          "Carsharing FRANKLIN-Mobil Registrierung 01",
           "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde",
           "FRANKLIN Mobil - Fahrzeugsharing - Bestandskunde 01\u00a0\u00a0 Fahrzeug/Fahrt",
           "FRANKLIN Mobil - Fahrzeugsharing - Neuanmeldung",
