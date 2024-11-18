@@ -2552,6 +2552,7 @@
           "Mini-Museumsmarsch \u2013 Das Offene Heimatmuseum Billerbeck",
           "M\u00e4rchen und Sagen: Stadtf\u00fchrung mit Laterne",
           "Spekulatiusf\u00fchrung",
+          "Spekulatiusf\u00fchrung - Zusatztermin",
           "Theater, Theater! - 25 Jahre Theatermeile Billerbeck",
           "Theater, Theater! - Theatermeile Billerbeck",
           "Wirtshausgeschichten",
@@ -32464,7 +32465,14 @@
       "191/11052": {
         "name": "Teilnahme an der Veranstaltung \"Energie Erleben\" am 28.09.2024",
         "services": [
+          "Veranstaltung \"Energie Erleben\" am 07.12.2024 01",
           "Veranstaltung \"Energie Erleben\" am 28.09.2024 01"
+        ]
+      },
+      "191/11053": {
+        "name": "Veranstaltung \"Energie Erleben\" am 07.12.2024",
+        "services": [
+          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 07.12.2024 01"
         ]
       },
       "191/1709": {
