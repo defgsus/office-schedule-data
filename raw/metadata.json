@@ -9527,6 +9527,8 @@
         "name": "Rentenangelegenheiten",
         "services": [
           "Erwerbsminderungsrente",
+          "Erwerbsminderungsrente: Antrag auf Weiterzahlung",
+          "Erwerbsminderungsrente:<br>Antrag auf Weiterzahlung",
           "Halbwaisenrente",
           "Kontenkl\u00e4rung",
           "Regelaltersrente",
@@ -9534,6 +9536,10 @@
           "Rente f\u00fcr langj\u00e4hrig Versicherte",
           "Rente f\u00fcr schwerbehinderte Menschen",
           "Vollwaisenrente",
+          "Waisenrente (Halbwaisen und Vollwaisen): Antrag auf Weiterzahlung oder erneute Zahlung (nach Wegfall)",
+          "Waisenrente (Halbwaisen)",
+          "Waisenrente (Vollwaisen)",
+          "Waisenrente:<br>Antrag auf Weiterzahlung oder erneute Zahlung (nach Wegfall)",
           "Witwenrente"
         ]
       }
