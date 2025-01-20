@@ -8263,6 +8263,34 @@
           "\u00dcbertrag Aufenthaltstitel/Niederlassungserlaubnis"
         ]
       },
+      "204645": {
+        "name": "Bitte Leistungen ausw\u00e4hlen",
+        "services": [
+          "Duldungsverl\u00e4ngerung",
+          "EU-Angelegenheiten",
+          "Ersterteilung Aufenthaltserlaubnis f\u00fcr Duldungsinhaber",
+          "Erteilung Niederlassungserlaubnis",
+          "Verl\u00e4ngerung/ Erteilung Aufenthaltserlaubnis",
+          "Verl\u00e4ngerung/ Erteilung Aufenthaltskarte f. Familienangeh\u00f6rige von EU-B\u00fcrgern",
+          "Verl\u00e4ngerung/ Erteilung Reiseausweis",
+          "Verpflichtungserkl\u00e4rungen",
+          "\u00dcbertrag Aufenthaltstitel/Niederlassungserlaubnis"
+        ]
+      },
+      "204647": {
+        "name": "Bitte Leistungen ausw\u00e4hlen",
+        "services": [
+          "Duldungsverl\u00e4ngerung",
+          "EU-Angelegenheiten",
+          "Ersterteilung Aufenthaltserlaubnis f\u00fcr Duldungsinhaber",
+          "Erteilung Niederlassungserlaubnis",
+          "Verl\u00e4ngerung/ Erteilung Aufenthaltserlaubnis",
+          "Verl\u00e4ngerung/ Erteilung Aufenthaltskarte f. Familienangeh\u00f6rige von EU-B\u00fcrgern",
+          "Verl\u00e4ngerung/ Erteilung Reiseausweis",
+          "Verpflichtungserkl\u00e4rungen",
+          "\u00dcbertrag Aufenthaltstitel/Niederlassungserlaubnis"
+        ]
+      },
       "76474": {
         "name": "B\u00fcrgeramt",
         "services": [
@@ -9351,20 +9379,25 @@
       "80156": {
         "name": "Online-Veranstaltungen",
         "services": [
+          "\"Das war nicht so gemeint...\" - Achtsame Kommunikation in einer vielf\u00e4ltigen Gesellschaft",
           "\"Digital Leadership\" - F\u00fchren im Zeitalter der Digitalisierung",
           "1x1 des Arbeitsrechts",
           "Achtsamkeit - sich selbst bewusst(er) steuern zu k\u00f6nnen",
           "Arbeitsrecht f\u00fcr F\u00fchrungskr\u00e4fte",
+          "Arbeitsverdichtung - mehr Arbeit, weniger Zeit",
           "Ausbalancieren der Grundbed\u00fcrfnisse im F\u00fchrungsprozess",
           "Benefits mit einer Prise Gl\u00fcck",
           "Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
           "B\u00fcrger - Kunde - 'Gegner'",
+          "Change-Management: Wie kann ich Ver\u00e4nderungen mitgestalten?",
           "Digitale Techniken f\u00fcr das eigene Selbstmanagement erfolgreich nutzen",
           "Digitalisierung - Arbeit 4.0",
           "Diversity - Vielfalt als Chance",
           "EXCEL - Fit f\u00fcrs B\u00fcro",
           "Einstieg in die Bildbearbeitung mit GIMP",
           "Englische Konversation im Arbeitsalltag",
+          "Englische Konversation im B\u00fcroalltag - Kurs I",
+          "Englische Konversation im B\u00fcroalltag - Kurs II",
           "Erfolgreich F\u00fchren u. Motivieren",
           "Erfolgreicher Umgang mit Konflikten und Spannungen",
           "Erfolgreiches Selbstmanagement im Homeoffice",
@@ -9376,6 +9409,7 @@
           "F\u00fchrungskr\u00e4fte-Schulung \"Sexualisierte Bel\u00e4stigung am Arbeitsplatz\"",
           "GIMP f\u00fcr Fortgeschrittene",
           "Gl\u00fcck doch mal",
+          "Interaktiver Kurzvortrag \"Achtsamkeit und Selbstf\u00fcrsorge\"",
           "KVW Zusatzversicherung -Pflichtversicherung PlusPunktRente",
           "Konfliktbew\u00e4ltigung",
           "Methoden zur Ansprache u. zum Umgang mit besonderen Problemlagen",
@@ -9383,16 +9417,24 @@
           "OUTLOOK - Fit f\u00fcrs B\u00fcro",
           "Orientierungsworkshop zum Nachwuchsf\u00fchrungskr\u00e4fteprogramm",
           "Outlook - Fit f\u00fcrs B\u00fcro",
+          "Outlook f\u00fcr Einsteiger",
+          "Outlook f\u00fcr Fortgeschrittene",
           "POWERPOINT - Fit f\u00fcrs B\u00fcro",
+          "Praxistraining \"Kommunikation und Konfliktbew\u00e4ltigung mit B\u00fcrger*innen",
+          "Praxistraining \"Kommunikation und Konfliktbew\u00e4ltigung mit B\u00fcrger*innen\"",
           "Probleme - Pr\u00e4vention - Pizza ...so meistern Sie schwierige F\u00fchrungssituationen",
           "Professionell f\u00fchren I",
           "Professionell f\u00fchren II",
           "Projekte initiieren, planen, durchf\u00fchren",
           "Psychische Belastungen: Erkennen - Ansprechen - Reagieren",
+          "Raus aus der Stressfalle - besser mit Belastungen umgehen",
+          "Raus aus der Stressfalle - besser mit Belastungen umgehen -",
+          "Rhetorik-Training - Auftreten und pers\u00f6nliche Wirksamkeit optimieren",
           "Schwierige F\u00fchrungssituationen: Fehlzeiten \u2013 Leistungsm\u00e4ngel \u2013 Innere K\u00fcndigung",
           "Selber Termine einstellen",
           "Selbstbehauptung f\u00fcr Frauen",
           "Selbstorganisation im Kontext der Vereinbarkeit von Beruf und Familie",
+          "Stimmtraining",
           "TYPO3-Schulung",
           "Tastschreiben heute - multisensorisch lernen",
           "Telefonische und Online-Beratungstermine LebensZEIT- ZeitLEBENS - Lebensarbeitszeitmodell der Stadt D\u00fclmen",
@@ -9403,6 +9445,7 @@
           "WORD - Fit f\u00fcrs B\u00fcro",
           "Word - Fit f\u00fcrs B\u00fcro",
           "Word f\u00fcr Einsteiger",
+          "Word f\u00fcr Fortgeschrittene",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende"
         ]
@@ -19523,6 +19566,7 @@
           "Namenserkl\u00e4rung - Abgabe diverser Erkl\u00e4rungen",
           "Namensrechtliche Erkl\u00e4rung",
           "Selbstbestimmungsgesetz - Beratung, Anmeldung und Abgabe Erkl\u00e4rung",
+          "Selbstbestimmungsgesetz - Erkl\u00e4rung anmelden oder abgeben",
           "Urkundenausstellung (Geburts-, Ehe-, Sterbeurkunden)",
           "Vaterschaftsanerkennung",
           "Vaterschaftsanerkennung - Zustimmungserkl\u00e4rung",
