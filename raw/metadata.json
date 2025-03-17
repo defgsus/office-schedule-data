@@ -9032,6 +9032,7 @@
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende der Feuerwehr: G 24 - Hautschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Arbeitsmedizinische Vorsorgeuntersuchung f\u00fcr Mitarbeitende im Rettungsdienst: G 24 - Hautschutz, G 26.1 - Atemschutz, G 42 - Infektionsschutz, G 46 - R\u00fccken- u. Muskelbelastung",
           "Ausbildung f\u00fcr Brandschutzhelfende",
+          "Ausbildung f\u00fcr Ersthelfende",
           "BEM",
           "BEM - Pers\u00f6nlicher Termin",
           "BEM - Termin",
@@ -23666,6 +23667,7 @@
           "Saisonkennzeichen f\u00fcr ein zugelassenes Fahrzeug bzw. Wegfall",
           "Umkennzeichnung eines zugelassenen Fahrzeuges",
           "Umschreibung Gebrauchtfahrzeug aus einem anderen Landkreis ohne Halterwechsel",
+          "Umschreibung Gebrauchtfahrzeug mit Halterwechsel",
           "Wiederzulassung auf den gleichen Halter",
           "Zulassung Gebrauchtfahrzeug aus einem anderen Landkreis mit Halterwechsel",
           "Zulassung Gebrauchtfahrzeug innerhalb des Landkreises mit Halterwechs",
@@ -26182,6 +26184,36 @@
         "name": "Physiotherapeutisches Angebot",
         "services": [
           "Physiotherapeutisches Angebot"
+        ]
+      },
+      "207437": {
+        "name": "Fortbildungen (intern) des Kreises Coesfeld",
+        "services": [
+          "50+: Eigene Leistungsf\u00e4higkeit und Gesundheit erhalten",
+          "Ein Tag der Achtsamkeit \u2013 \u201cmindful\u201c statt \u201emind full\u201c",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen als F\u00fchrungskraft umgehe",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen umgehe",
+          "Job-Crafting - die eigene Arbeit proaktiv gestalten",
+          "Krankenr\u00fcckkehrgespr\u00e4che richtig f\u00fchren",
+          "Mehr Arbeit, weniger Personal: Motivieren bei zunehmender Leistungsverdichtung (2 Tage)",
+          "Psychische Erkrankungen: Erkennen-Ansprechen-Reagieren",
+          "Schulung f\u00fcr F\u00fchrungskr\u00e4fte zum Thema Korruptionspr\u00e4vention",
+          "Selbstorganisation und Zeitmanagement"
+        ]
+      },
+      "207438": {
+        "name": "Fortbildungen (intern) des Kreises Coesfeld",
+        "services": [
+          "50+: Eigene Leistungsf\u00e4higkeit und Gesundheit erhalten",
+          "Ein Tag der Achtsamkeit \u2013 \u201cmindful\u201c statt \u201emind full\u201c",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen als F\u00fchrungskraft umgehe",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen umgehe",
+          "Job-Crafting - die eigene Arbeit proaktiv gestalten",
+          "Krankenr\u00fcckkehrgespr\u00e4che richtig f\u00fchren",
+          "Mehr Arbeit, weniger Personal: Motivieren bei zunehmender Leistungsverdichtung (2 Tage)",
+          "Psychische Erkrankungen: Erkennen-Ansprechen-Reagieren",
+          "Schulung f\u00fcr F\u00fchrungskr\u00e4fte zum Thema Korruptionspr\u00e4vention",
+          "Selbstorganisation und Zeitmanagement"
         ]
       }
     }
@@ -42372,6 +42404,7 @@
         "services": [
           "Abholung des F\u00fchrerscheins (nur bei Umtausch eines Altf\u00fchrerscheins)",
           "F\u00fchrerschein Erstantrag",
+          "F\u00fchrerschein Erstantrag 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "F\u00fchrerscheinantrag BF 17",
           "F\u00fchrerscheinantrag C- und D-Klassen",
           "F\u00fchrerscheinantrag Erweiterung",
@@ -47369,6 +47402,7 @@
           "Ersatzf\u00fchrerschein",
           "Ersatzf\u00fchrerschein bei Diebstahl oder Namens- oder Auflagen\u00e4nderung",
           "Ersatzf\u00fchrerschein bei Verlust",
+          "Ersatzf\u00fchrerschein bei Verlust/Diebstahl",
           "Ersterteilung F\u00fchrerschein",
           "Erweiterung F\u00fchrerschein",
           "Fahrerkarte",
@@ -47387,6 +47421,7 @@
           "Umschreibung eines ausl\u00e4ndischen F\u00fchrerscheins (nicht EU)",
           "Umtausch",
           "Umtausch (Grau/Rosa) in Kartenf\u00fchrerschein",
+          "Verl\u00e4ngerung Fahrerlaubnisklassen / Fahrerqualifizierungsnachweis FQN",
           "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE",
           "Verl\u00e4ngerung Fahrerlaubnisklassen CE/DE und Fahrerqualifizierungsnachweis",
           "Vorl\u00e4ufige Fahrberechtigung (nach erfolgter Pr\u00fcfung )"
