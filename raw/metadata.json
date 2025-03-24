@@ -47302,6 +47302,24 @@
           "\u00c4nderung von Technikdaten"
         ]
       },
+      "12/4715": {
+        "name": "\u00c4nderungen/Verlust von Fahrzeugpapieren, Kennzeichen/Sonstiges",
+        "services": [
+          "Abgabe an Eides statt Verlust/Diebstahl Fahrzeugbrief/Zulassungsbesch.Teil II",
+          "Adress\u00e4nderung nach Umzug innerhalb Wuppertal",
+          "Ausstellung Zulassungsbesch.Teil II nach bereits erfolgter pers\u00f6nl. Vorsprache",
+          "Ausstellung neue Zulassungsbesch.Teil II nach bereits erfolgter pers\u00f6nlicher Vor",
+          "Diebstahl Fahrzeugschein/Zulassungsbescheinigung Teil I",
+          "E-/H-Kennzeichen eintragen/\u00e4ndern (gleicher Halter)",
+          "Ersatz f\u00fcr besch\u00e4digtes/unleserliches Kennzeichen",
+          "Kennzeichenverlust",
+          "Umkennzeichnung auf Wunsch/bei Diebstahl",
+          "Verlust Fahrzeugschein/Zulassungsbescheinigung Teil I",
+          "Verlust oder Diebstahl Fahrzeugbrief/Zulassungsbescheinigung Teil II",
+          "\u00c4nderung des Familiennamens (Halter bleibt gleich)",
+          "\u00c4nderung von Technikdaten"
+        ]
+      },
       "12/512": {
         "name": "F\u00fchrerscheinstelle",
         "services": [
