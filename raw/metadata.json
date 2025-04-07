@@ -2004,7 +2004,8 @@
         "name": "Wiedererteilungen",
         "services": [
           "Akteneinsicht im Rahmen einer Wiedererteilung",
-          "Antragstellung/Beratung Wiedererteilung einer Fahrerlaubnis nach Entzug"
+          "Antragstellung/Beratung Wiedererteilung einer Fahrerlaubnis nach Entzug",
+          "Antragstellung/Beratung/Akteneinsicht im Rahmen einer Neuerteilung (nach Entzug)"
         ]
       },
       "303/4020": {
@@ -2037,6 +2038,7 @@
         "services": [
           "Abholung F\u00fchrerschein (LKW- und Busf\u00fchrerscheine)/Fahrerkarte",
           "Ausstellung Nachweis der vorl\u00e4ufigen Fahrberechtigung nach bestandener Pr\u00fcfung",
+          "Ausstellung Nachweis der vorl\u00e4ufigen Fahrberechtigung/Abholung",
           "Beantragung Digitale Fahrerkarte",
           "Beantragung Personenbef\u00f6rderungsschein",
           "Beantragung/Verl\u00e4ngerung Personenbef\u00f6rderungsschein",
@@ -2044,7 +2046,8 @@
           "Erweiterung (Kl. C1, C1E, C, CE, D1, D1E, D, DE)",
           "Verl\u00e4ngerung Fahrerlaubnis",
           "Verl\u00e4ngerung Fahrerlaubnis mit Schl\u00fcsselzahl 95",
-          "Verl\u00e4ngerung Fahrerlaubnis ohne Schl\u00fcsselzahl 95"
+          "Verl\u00e4ngerung Fahrerlaubnis ohne Schl\u00fcsselzahl 95",
+          "Verl\u00e4ngerung Fahrerlaubnis, Fahrqualifizierungsnachweis (95), Fahrerkarte"
         ]
       },
       "303/4079": {
@@ -26216,6 +26219,25 @@
           "Schulung f\u00fcr F\u00fchrungskr\u00e4fte zum Thema Korruptionspr\u00e4vention",
           "Selbstorganisation und Zeitmanagement"
         ]
+      },
+      "208193": {
+        "name": "Fortbildungen (intern) des Kreises Coesfeld",
+        "services": [
+          "50+: Eigene Leistungsf\u00e4higkeit und Gesundheit erhalten",
+          "Ein Tag der Achtsamkeit \u2013 \u201cmindful\u201c statt \u201emind full\u201c",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen als F\u00fchrungskraft umgehe",
+          "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen umgehe",
+          "Job-Crafting - die eigene Arbeit proaktiv gestalten",
+          "Krankenr\u00fcckkehrgespr\u00e4che richtig f\u00fchren",
+          "Mehr Arbeit, weniger Personal: Motivieren bei zunehmender Leistungsverdichtung (2 Tage)",
+          "Psychische Erkrankungen: Erkennen-Ansprechen-Reagieren",
+          "Schulung f\u00fcr F\u00fchrungskr\u00e4fte zum Thema Korruptionspr\u00e4vention",
+          "Selbstorganisation und Zeitmanagement",
+          "Vorstellungsgespr\u00e4che - Verwaltungsfachangestellte",
+          "Vorstellungsgespr\u00e4che - Verwaltungswirt / Bachelor",
+          "Vorstellungsgespr\u00e4che Ausbildung Verwaltungswirt/innen und Verwaltungsfachangestellte 2026",
+          "Vorstellungsgespr\u00e4che Bachelor of Laws 2026"
+        ]
       }
     }
   },
@@ -40430,6 +40452,7 @@
           "Antrag auf Erteilung eines unbefristeten Aufenthaltstitels",
           "Antrag auf Verl\u00e4ngerung eines Aufenthaltstitels 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Asylverfahren - Aufenthaltsgestattung/ Duldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Kopie von Verpflichtungserkl\u00e4rung (Einladung)",
           "Neuer Reisepass - \u00dcbertrag Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "PIN \u00e4ndern / Online-Ausweisfunktion aktivieren (Aufenthaltstitel) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
           "PIN \u00e4ndern / Onlinefunktion aktivieren Aufenthaltstitel 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen",
@@ -42304,6 +42327,7 @@
         "services": [
           "Abmeldung eines Nebenwohnsitzes 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Abmeldung ins Ausland 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Korrektur der Adresse Personalausweis/Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Nebenwohnsitz wird zum Hauptwohnsitz (Statuswechsel) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Neuzuzug (Umzug innerhalb Deutschlands) 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
           "Ummeldung innerhalb von Schwieberdingen 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
@@ -42328,6 +42352,7 @@
           "Kindereisepass Neuausstellung/Aktualisierung/Verl\u00e4ngerung 01\u00a0\u00a0 Kinderreisepass2\u00a0\u00a0 Kinderreisep\u00e4sse3\u00a0\u00a0 Kinderreisep\u00e4sse4\u00a0\u00a0 Kinderreisep\u00e4sse5\u00a0\u00a0 Kinderreisep\u00e4sse6\u00a0\u00a0 Kinderreisep\u00e4sse7\u00a0\u00a0 Kinderreisep\u00e4sse8\u00a0\u00a0 Kinderreisep\u00e4sse",
           "Kopie von Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern",
           "Kopie von blo\u00dfe Adress\u00e4nderung auf dem Personalausweis/Reisepass/Kinderreisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Korrektur der Adresse Personalausweis/Reisepass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern",
           "Online-Funktion/PIN im Personalausweis setzen/\u00e4ndern 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "Personalausweis",
