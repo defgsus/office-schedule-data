@@ -2152,9 +2152,12 @@
           "Angleichung der Namensf\u00fchrung an das deutsche Namensrecht",
           "Anschlusserkl\u00e4rung an Ehenamen der Eltern/an die Namens\u00e4nderung eines Elternteil",
           "Ehenamensbestimmung",
+          "Ehenamensbestimmung/-widerruf",
           "Einbenennung (Namens\u00e4nderung des Kindes nach Wiederheirat eines Elternteils)",
           "Erkl\u00e4rung Geschlecht und Vornamen (\u00a7 45b PStG) - nicht Selbstbestimmungsgesetz",
           "Erkl\u00e4rung zur Geschlechtsangabe und Vornamensf\u00fchrung (\u00a7 45b PStG)",
+          "Neubestimmung Name - minderj\u00e4hriges Kind",
+          "Neubestimmung Name - vollj\u00e4hrige Person",
           "Selbstbestimmung anmelden",
           "Selbstbestimmung erkl\u00e4ren",
           "Wiederannahme Geburtsname / fr\u00fcherer Familienname nach Eheaufl\u00f6sung",
@@ -12075,6 +12078,7 @@
         "name": "Meldeangelegenheiten",
         "services": [
           "Abmeldung Nebenwohnsitz bei Hauptwohnsitz in Freiberg am Neckar 01\u00a0\u00a0 Abmeldung2\u00a0\u00a0 Abmeldungen3\u00a0\u00a0 Abmeldungen4\u00a0\u00a0 Abmeldungen5\u00a0\u00a0 Abmeldungen6\u00a0\u00a0 Abmeldungen7\u00a0\u00a0 Abmeldungen8\u00a0\u00a0 Abmeldungen",
+          "Abmeldung Nebenwohnsitz bei Hauptwohnsitz in Freiberg am Neckar 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
           "Abmeldung ins Ausland",
           "Anmeldung Hauptwohnsitz / Nebenwohnsitz",
           "Einfache, erweiterte oder internationale Meldebescheinigung",
@@ -12088,6 +12092,7 @@
         "services": [
           "Abholung Personalausweis / Reisepass 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
           "Adress\u00e4nderung der Dokumente nach bereits erfolgter An- / Ummeldung 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6",
+          "Adress\u00e4nderung der Dokumente nach bereits erfolgter An- / Ummeldung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen",
           "Beantragung Kinderreisepass",
           "Beantragung Personalausweis",
           "Beantragung Personalausweis f\u00fcr Deutsche im Ausland 01\u00a0\u00a0 Personalausweis2\u00a0\u00a0 Personalausweise3\u00a0\u00a0 Personalausweise4\u00a0\u00a0 Personalausweise5\u00a0\u00a0 Personalausweise6\u00a0\u00a0 Personalausweise",
