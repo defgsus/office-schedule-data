@@ -19057,6 +19057,26 @@
           "Zahlung von Steuern/Geb\u00fchren"
         ]
       },
+      "210497": {
+        "name": "B\u00fcrgerb\u00fcro",
+        "services": [
+          "Beantragung Untersuchungsberechtigungsschein",
+          "Beglaubigungen",
+          "Bewohnerparkausweis beantragen/verl\u00e4ngern",
+          "F\u00fchrungszeugnis/Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung einfach/erweitert",
+          "Melderegisterauskunft beantragen",
+          "Personalausweis/Reisepass abholen",
+          "Personalausweis/Reisepass beantragen",
+          "Steueridentifikationsnummer ausstellen",
+          "Steuerliche Hundeanmeldung/-abmeldung",
+          "Verkauf Fahrscheine, graue S\u00e4cke, Gr\u00fcnschnitts\u00e4cke",
+          "Verlustanzeige f\u00fcr Personalausweis/Reisepass",
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnsitz anmelden/ummelden ",
+          "Zahlung von Steuern/Geb\u00fchren"
+        ]
+      },
       "83869": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
@@ -33175,7 +33195,8 @@
       "191/11053": {
         "name": "Veranstaltung \"Energie Erleben\" am 07.12.2024",
         "services": [
-          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 07.12.2024 01"
+          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 07.12.2024 01",
+          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 28.06.2025 01"
         ]
       },
       "191/1709": {
