@@ -2584,6 +2584,8 @@
           "Meldebescheinigung einfach, erweitert",
           "Personalausweis, Reisepass abholen",
           "Personalausweis, Reisepass beantragen",
+          "Personalausweis, Reisepass beantragen mit Fotoaufnahme",
+          "Personalausweis, Reisepass beantragen ohne Fotoaufnahme",
           "Untersuchungsberechtigungsschein f\u00fcr Minderj\u00e4hrige",
           "Vorl\u00e4ufigen Personalausweis beantragen",
           "Wohnsitz anmelden, ummelden"
@@ -2599,6 +2601,8 @@
           "Meldebescheinigung einfach, erweitert",
           "Personalausweis, Reisepass abholen",
           "Personalausweis, Reisepass beantragen",
+          "Personalausweis, Reisepass beantragen mit Fotoaufnahme",
+          "Personalausweis, Reisepass beantragen ohne Fotoaufnahme",
           "Untersuchungsberechtigungsschein f\u00fcr Minderj\u00e4hrige",
           "Vorl\u00e4ufigen Personalausweis beantragen",
           "Wohnsitz anmelden, ummelden"
@@ -13333,6 +13337,8 @@
           "Vorlage ausl\u00e4ndischer Urkunden",
           "Vorsprache Team 4",
           "Wiederzulassung eines au\u00dfer Betrieb gesetzten Fahrzeuges auf denselben Halter",
+          "Wohnsitzanmeldung EU-B\u00fcrger aus dem EU-Ausland",
+          "Wohnsitzanmeldung aus dem EU-Ausland",
           "Zulassung eines Fahrzeuges aus dem Ausland",
           "Zuteilung eines H-Kennzeichens f\u00fcr Oldtimer",
           "Zuteilung, \u00c4nderung oder L\u00f6schung eines Saisonkennzeichens",
