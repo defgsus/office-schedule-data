@@ -40788,6 +40788,21 @@
           "Schnelltests f\u00fcr Wahlhelfer 01"
         ]
       },
+      "428/8544": {
+        "name": "Standesamt Rottenburg: Angelegenheiten des Standesamtes",
+        "services": [
+          "Eheurkunde beantragen",
+          "Erstbeurkundung Geburt - Hausgeburt",
+          "Erstbeurkundung Sterbefall",
+          "Geburtsurkunde beantragen",
+          "Kirchenaustritt",
+          "Leichenpass",
+          "Mutterschaftsanerkennung",
+          "Namens\u00e4nderung nach dem Namens\u00e4nderungsgesetz",
+          "Sterbeurkunde beantragen",
+          "Vaterschaftsanerkennung erkl\u00e4ren und beurkunden lassen"
+        ]
+      },
       "436/10168": {
         "name": "Wunschbaum",
         "services": [
@@ -40909,6 +40924,21 @@
           "Neuinstallation I-Pad und I-Phone 01",
           "Neuinstallation iPad oder iPhone 01",
           "Neuinstallation iPad und iPhone 01"
+        ]
+      },
+      "532/8544": {
+        "name": "Standesamt Ergenzingen: Angelegenheiten des Standesamtes",
+        "services": [
+          "Eheurkunde beantragen",
+          "Erstbeurkundung Geburt - Hausgeburt",
+          "Erstbeurkundung Sterbefall",
+          "Geburtsurkunde beantragen",
+          "Kirchenaustritt",
+          "Leichenpass",
+          "Mutterschaftsanerkennung",
+          "Namens\u00e4nderung nach dem Namens\u00e4nderungsgesetz",
+          "Sterbeurkunde beantragen",
+          "Vaterschaftsanerkennung erkl\u00e4ren und beurkunden lassen"
         ]
       },
       "581/7366": {
