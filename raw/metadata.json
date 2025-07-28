@@ -19146,13 +19146,20 @@
       "83883": {
         "name": "Standesamt",
         "services": [
+          "Ahnenforschung",
           "Anmeldung Eheschlie\u00dfung",
+          "Anmeldung der Eheschlie\u00dfung",
+          "Ausk\u00fcnfte",
+          "Beratungsgespr\u00e4ch",
           "Eheurkunde",
           "Geburtsurkunde",
           "Kirchenaustrittserkl\u00e4rung",
           "Lebenspartnerschaftsurkunde",
+          "Namenserkl\u00e4rung",
           "Sterbeurkunde",
-          "Vaterschaftsanerkennung"
+          "Urkunden",
+          "Vaterschaftsanerkennung",
+          "Vorabsprache mit Auslandsbeteiligung"
         ]
       }
     }
@@ -22366,6 +22373,7 @@
           "Schl\u00fcsselzahl B197 eintragen (Automatikregelung)",
           "Schl\u00fcsselzahl B197 eintragen (neue Automatikregelung seit 01.04.2021)",
           "Schl\u00fcsselzahl B197 in den F\u00fchrerschein eintragen",
+          "Umtausch (\"alter Lappen\", EU-Kartenf\u00fchrerschein, Namens\u00e4nderung, Austragung der",
           "Umtausch (\"alter Lappen\", Namens\u00e4nderung, Austragung der Sehhilfe)",
           "Umtausch (bisherigen F\u00fchrerschein in die neue Karte umtauschen)",
           "Umtausch des bisherigen F\u00fchrerschein in die neue Karte beantragen",
@@ -26253,11 +26261,18 @@
         "services": [
           "50+: Eigene Leistungsf\u00e4higkeit und Gesundheit erhalten",
           "50+: Neue Ziele - Neue Perspektiven. Vorbereitung auf den Ruhestand",
+          "AGG-Schulung: Gleichberechtigung am Arbeitsplatz aktiv mitgestalten",
+          "AGG-Schulung: Meine Verantwortung, Rechte und Pflichten als F\u00fchrungskraft",
           "Agil f\u00fchren in der Verwaltung - Aktuelle Impulse f\u00fcr die eigene F\u00fchrungsarbeit",
           "Ein Tag der Achtsamkeit \u2013 \u201cmindful\u201c statt \u201emind full\u201c",
           "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen als F\u00fchrungskraft umgehe",
           "Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen umgehe",
           "Job-Crafting - die eigene Arbeit proaktiv gestalten",
+          "Kochkurs - Meal Prep",
+          "Kochkurs - Vegetarisch im Sommer",
+          "Kochkurs - Wok & Wow",
+          "Kopie - AGG-Schulung: Meine Verantwortung, Rechte und Pflichten als F\u00fchrungskraft",
+          "Kopie - Fit f\u00fcr den Wandel - wie ich mit Ver\u00e4nderungen umgehe",
           "Krankenr\u00fcckkehrgespr\u00e4che richtig f\u00fchren",
           "Mehr Arbeit, weniger Personal: Motivieren bei zunehmender Leistungsverdichtung (2 Tage)",
           "Psychische Erkrankungen: Erkennen-Ansprechen-Reagieren",
