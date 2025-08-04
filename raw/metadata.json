@@ -42502,6 +42502,25 @@
           "vorl\u00e4ufiger Reisepass 01\u00a0\u00a0 Reisepass2\u00a0\u00a0 Reisep\u00e4sse3\u00a0\u00a0 Reisep\u00e4sse4\u00a0\u00a0 Reisep\u00e4sse5\u00a0\u00a0 Reisep\u00e4sse6\u00a0\u00a0 Reisep\u00e4sse7\u00a0\u00a0 Reisep\u00e4sse8\u00a0\u00a0 Reisep\u00e4sse"
         ]
       },
+      "443/6562": {
+        "name": "Sonstiges (F\u00fchrungszeugnisse/Beglaubigungen/Meldebescheinigungen)",
+        "services": [
+          "(erweiterte) Meldebescheinigung/ Lebensbescheinigung 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
+          "Auskunft aus dem Gewerbezentralregister Beh\u00f6rde",
+          "Auskunft aus dem Gewerbezentralregister privat",
+          "Auskunft \u00fcber die Steueridentifikationsnummer",
+          "Auskunftssperre Beantragung/Verl\u00e4ngerung 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Beglaubigung von Kopien (keine Personenstandsurkunden, keine notariellen Dokumen 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Beglaubigung von Unterschriften 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "F\u00fchrungszeugnis Beh\u00f6rde (Belegart OB oder OE)",
+          "F\u00fchrungszeugnis erweitert (Belegart NE)",
+          "F\u00fchrungszeugnis privat (Belegart NB)",
+          "Kl\u00e4rung von Meldedaten allgemein 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Landesfamilienpass 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
+          "Melderegisterauskunft 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen",
+          "Nachreichung fehlender Unterlagen allgemein 01\u00a0\u00a0 Person2\u00a0\u00a0 Personen3\u00a0\u00a0 Personen4\u00a0\u00a0 Personen5\u00a0\u00a0 Personen6\u00a0\u00a0 Personen7\u00a0\u00a0 Personen8\u00a0\u00a0 Personen"
+        ]
+      },
       "443/6584": {
         "name": "Sonstiges (F\u00fchrungszeugnisse/Beglaubigungen/Meldebescheinigungen)",
         "services": [
