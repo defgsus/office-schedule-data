@@ -20186,8 +20186,10 @@
           "Melderegisterauskunft",
           "PIN \u00e4ndern vom Personalausweis",
           "Personalausweis abholen",
+          "Personalausweis abholen - jetzt an der Information ohne Termin m\u00f6glich",
           "Personalausweis beantragen",
           "Reisepass abholen",
+          "Reisepass abholen - jetzt an der Information ohne Termin m\u00f6glich",
           "Reisepass beantragen",
           "Unterlagen nachreichen, sonstige Kl\u00e4rung",
           "Untersuchungsberechtigungsschein (UBS) nach Jugendarbeitsschutzgesetz",
@@ -39946,6 +39948,14 @@
     "scraper": "tempus",
     "url": "https://tempus-termine.com/termine/index.php?anlagennr=87",
     "locations": {
+      "248/2814": {
+        "name": "Pass-/Ausweisangelegenheiten",
+        "services": [
+          "Personalausweis - PIN neu setzen 01\u00a0\u00a0 PIN-Vergabe2\u00a0\u00a0 PIN-Vergaben3\u00a0\u00a0 PIN-Vergaben4\u00a0\u00a0 PIN-Vergaben5\u00a0\u00a0 PIN-Vergaben6\u00a0\u00a0 PIN-Vergaben7\u00a0\u00a0 PIN-Vergaben8\u00a0\u00a0 PIN-Vergaben",
+          "Personalausweis beantragen",
+          "Reisepass beantragen"
+        ]
+      },
       "248/2894": {
         "name": "Meldeangelegenheiten",
         "services": [
