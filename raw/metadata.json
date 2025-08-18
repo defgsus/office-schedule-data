@@ -9407,6 +9407,7 @@
           "Personalausweis beantragen",
           "Personalausweis beantragen (inkl. Erstellen eines digitalen Lichtbilds)",
           "Personalausweis f\u00fcr Kinder unter 6 Jahren beantragen",
+          "Personalausweis nach Einb\u00fcrgerung beantragen",
           "Personalausweis vorl\u00e4ufig",
           "Personalausweis vorl\u00e4ufig (inkl. Erstellen eines digitalen Lichtbilds)",
           "PlatzhalterB\u00fcrgerb\u00fcro",
@@ -9414,6 +9415,7 @@
           "Reisepass beantragen",
           "Reisepass beantragen (inkl. Erstellen eines digitalen Lichtbilds)",
           "Reisepass f\u00fcr Kinder unter 6 Jahren beantragen",
+          "Reisepass nach Einb\u00fcrgerung beantragen",
           "Reisepass vorl\u00e4ufig",
           "Reisepass vorl\u00e4ufig (inkl. Erstellen eines digitalen Lichtbilds)",
           "Schwerbehindertenausweis Verl\u00e4ngerung",
@@ -9538,6 +9540,7 @@
           "Personalausweis beantragen",
           "Personalausweis beantragen (inkl. Erstellen eines digitalen Lichtbilds)",
           "Personalausweis f\u00fcr Kinder unter 6 Jahren beantragen",
+          "Personalausweis nach Einb\u00fcrgerung beantragen",
           "Personalausweis vorl\u00e4ufig",
           "Personalausweis vorl\u00e4ufig (inkl. Erstellen eines digitalen Lichtbilds)",
           "PlatzhalterB\u00fcrgerb\u00fcro",
@@ -9545,6 +9548,7 @@
           "Reisepass beantragen",
           "Reisepass beantragen (inkl. Erstellen eines digitalen Lichtbilds)",
           "Reisepass f\u00fcr Kinder unter 6 Jahren beantragen",
+          "Reisepass nach Einb\u00fcrgerung beantragen",
           "Reisepass vorl\u00e4ufig",
           "Reisepass vorl\u00e4ufig (inkl. Erstellen eines digitalen Lichtbilds)",
           "Schwerbehindertenausweis Verl\u00e4ngerung",
@@ -41303,6 +41307,7 @@
           "Bezirksstelle Lungau, Reg.Rat-Haas-Platz 4, 5580 Tamsweg",
           "Bezirksstelle Pinzgau, Ebenbergstra\u00dfe 1, 5700 Zell am See",
           "Neue Registrierung im Gesundheitsberuferegister",
+          "Upgrade einer bestehenden Registrierung",
           "Verl\u00e4ngerung der Berufsberechtigung / Registrierung"
         ]
       },
@@ -41310,6 +41315,7 @@
         "name": "Wof\u00fcr m\u00f6chten Sie einen Termin buchen?",
         "services": [
           "Neue Registrierung im Gesundheitsberuferegister",
+          "Upgrade einer bestehenden Registrierung",
           "Verl\u00e4ngerung der Berufsberechtigung / Registrierung"
         ]
       },
@@ -41317,6 +41323,7 @@
         "name": "Wof\u00fcr m\u00f6chten Sie einen Termin buchen?",
         "services": [
           "Neue Registrierung im Gesundheitsberuferegister",
+          "Upgrade einer bestehenden Registrierung",
           "Verl\u00e4ngerung der Berufsberechtigung / Registrierung"
         ]
       },
@@ -41324,6 +41331,7 @@
         "name": "Wof\u00fcr m\u00f6chten Sie einen Termin buchen?",
         "services": [
           "Neue Registrierung im Gesundheitsberuferegister",
+          "Upgrade einer bestehenden Registrierung",
           "Verl\u00e4ngerung der Berufsberechtigung / Registrierung"
         ]
       }
