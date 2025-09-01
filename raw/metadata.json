@@ -1025,6 +1025,7 @@
           "Fahrerlaubnis zur Fahrgastbef\u00f6rderung",
           "F\u00fchrerschein Ersterteilung",
           "F\u00fchrerschein Ersterteilung mit begleitendem Fahren",
+          "Umtausch EU-Kartenf\u00fchrerschein",
           "Umtausch alter F\u00fchrerschein in EU-Kartenf\u00fchrerschein",
           "Umtausch alter Papierf\u00fchrerschein in EU-Kartenf\u00fchrerschein",
           "Wiedererteilung F\u00fchrerschein nach Entzug",
@@ -18131,8 +18132,11 @@
         "services": [
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner",
           "Blaue und Gr\u00fcne Zone - Ausnahmegenehmigung f\u00fcr Bewohner:innen",
+          "Blaue und Gr\u00fcne Zone: Ausnahmegenehmigung f\u00fcr Bewohner:innen",
           "Gr\u00fcne Zone - Monats- und Jahrespauschalkarten",
-          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)"
+          "Gr\u00fcne Zone: Monats- und Jahrespauschalkarten",
+          "Parkstrafen (Stra\u00dfenverkehrsordnung und Parkgeb\u00fchren)",
+          "Verwaltungsstrafen (StVO, Parkgeb\u00fchren, etc.)"
         ]
       },
       "90894": {
