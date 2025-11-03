@@ -23950,10 +23950,14 @@
         "name": "Kreisverwaltung Unna: Zulassungsangelegenheiten",
         "services": [
           "Abmeldung (Au\u00dferbetriebsetzung)",
+          "Abmeldung/Stilllegung (Au\u00dferbetriebsetzung)",
           "Anmeldung",
+          "Anmeldung/Ummeldung",
           "Im- und Export",
+          "Im- und Export / Einfuhr- (aus dem Ausland) und Ausfuhrkennzeichen",
           "Rote-Dauer- und Kurzzeitkennzeichen",
           "Verlust / Diebstahl von Dokumenten/Kennzeichen/Umkennzeichnung",
+          "\u00c4nderung v. zugelassene Fz. im Kreis Unna: Adresse/Name/Technik/Saisonzeitraum",
           "\u00c4nderung: Adresse/Name/Technik/Saisonzeitraum"
         ]
       },
@@ -24058,10 +24062,14 @@
         "name": "Kreishaus L\u00fcnen: Zulassungsangelegenheiten",
         "services": [
           "Abmeldung (Au\u00dferbetriebsetzung)",
+          "Abmeldung/Stilllegung (Au\u00dferbetriebsetzung)",
           "Anmeldung",
+          "Anmeldung/Ummeldung",
           "Im- und Export",
+          "Im- und Export / Einfuhr- (aus dem Ausland) und Ausfuhrkennzeichen",
           "Rote-Dauer- und Kurzzeitkennzeichen",
           "Verlust / Diebstahl von Dokumenten/Kennzeichen/Umkennzeichnung",
+          "\u00c4nderung v. zugelassene Fz. im Kreis Unna: Adresse/Name/Technik/Saisonzeitraum",
           "\u00c4nderung: Adresse/Name/Technik/Saisonzeitraum"
         ]
       },
