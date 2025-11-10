@@ -12172,6 +12172,7 @@
           "Abholung F\u00fchrerschein 01\u00a0\u00a0 Abholung2\u00a0\u00a0 Abholungen3\u00a0\u00a0 Abholungen4\u00a0\u00a0 Abholungen5\u00a0\u00a0 Abholungen6\u00a0\u00a0 Abholungen7\u00a0\u00a0 Abholungen8\u00a0\u00a0 Abholungen",
           "Amtliche Beglaubigung / Unterschriftenbeglaubigung",
           "Anforderung Steueridentifikationsnummer",
+          "Anforderung Steueridentifikationsnummer 01\u00a0\u00a0 Steuer-ID2\u00a0\u00a0 Steuer-ID3\u00a0\u00a0 Steuer-ID4\u00a0\u00a0 Steuer-ID5\u00a0\u00a0 Steuer-ID",
           "Beantragung Fischereischein auf Lebenszeit",
           "Beantragung Jugendfischereischein",
           "Beantragung \u00dcbermittlungssperren",
@@ -17167,6 +17168,7 @@
           "Beschwerden Betreutes Wohnen",
           "Beschwerden Pflegeheime",
           "Online-Beratung zu Pflegefragen",
+          "Online-Beratung zu Pflegefragen - Test",
           "SeniorInnenB\u00fcro - SeniorInnenCard",
           "SeniorInnenB\u00fcro - Taxikostenzuschuss",
           "SeniorInnenB\u00fcro - sonstige Beratung",
@@ -23961,6 +23963,23 @@
           "\u00c4nderung: Adresse/Name/Technik/Saisonzeitraum"
         ]
       },
+      "262/11016": {
+        "name": "Kreisverwaltung Unna: Zulassungsangelegenheiten",
+        "services": [
+          "Abmeldung/Stilllegung (Au\u00dferbetriebsetzung)",
+          "Im- und Export / Einfuhr- (aus dem Ausland) und Ausfuhrkennzeichen",
+          "Rote-Dauer- und Kurzzeitkennzeichen",
+          "Termin Kfz-Zulassungsstelle",
+          "Verlust / Diebstahl von Dokumenten/Kennzeichen/Umkennzeichnung",
+          "\u00c4nderung v. zugelassene Fz. im Kreis Unna: Adresse/Name/Technik/Saisonzeitraum"
+        ]
+      },
+      "262/11761": {
+        "name": "Kreisverwaltung Unna: Zulassungsangelegenheiten",
+        "services": [
+          "Termin Kfz-Zulassungsstelle"
+        ]
+      },
       "262/3131": {
         "name": "Kreisverwaltung Unna: Zulassungsangelegenheiten",
         "services": [
@@ -24071,6 +24090,23 @@
           "Verlust / Diebstahl von Dokumenten/Kennzeichen/Umkennzeichnung",
           "\u00c4nderung v. zugelassene Fz. im Kreis Unna: Adresse/Name/Technik/Saisonzeitraum",
           "\u00c4nderung: Adresse/Name/Technik/Saisonzeitraum"
+        ]
+      },
+      "263/11016": {
+        "name": "Kreishaus L\u00fcnen: Zulassungsangelegenheiten",
+        "services": [
+          "Abmeldung/Stilllegung (Au\u00dferbetriebsetzung)",
+          "Im- und Export / Einfuhr- (aus dem Ausland) und Ausfuhrkennzeichen",
+          "Rote-Dauer- und Kurzzeitkennzeichen",
+          "Termin Kfz-Zulassungsstelle",
+          "Verlust / Diebstahl von Dokumenten/Kennzeichen/Umkennzeichnung",
+          "\u00c4nderung v. zugelassene Fz. im Kreis Unna: Adresse/Name/Technik/Saisonzeitraum"
+        ]
+      },
+      "263/11761": {
+        "name": "Kreishaus L\u00fcnen: Zulassungsangelegenheiten",
+        "services": [
+          "Termin Kfz-Zulassungsstelle"
         ]
       },
       "263/3131": {
