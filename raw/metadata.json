@@ -19240,6 +19240,26 @@
           "Zahlung von Steuern/Geb\u00fchren"
         ]
       },
+      "217349": {
+        "name": "Demosystem \"Testbuchung KI-Bot Patrick \"",
+        "services": [
+          "Bewohnerparkausweis beantragen/verl\u00e4ngern",
+          "Demo_Beantragung Untersuchungsberechtigungsschein",
+          "Demo_Beglaubigungen",
+          "F\u00fchrungszeugnis/Gewerbezentralregisterauszug beantragen",
+          "Meldebescheinigung einfach/erweitert",
+          "Melderegisterauskunft beantragen",
+          "Personalausweis/Reisepass abholen",
+          "Personalausweis/Reisepass beantragen",
+          "Steueridentifikationsnummer ausstellen",
+          "Steuerliche Hundeanmeldung/-abmeldung",
+          "Verkauf grauen und Gr\u00fcnschnitts\u00e4cken",
+          "Verlustanzeige f\u00fcr Personalausweis/Reisepass",
+          "Vorl\u00e4ufiger Personalausweis beantragen",
+          "Wohnsitz anmelden/ummelden",
+          "Zahlung von Steuern/Geb\u00fchren"
+        ]
+      },
       "83869": {
         "name": "B\u00fcrgerb\u00fcro",
         "services": [
@@ -20191,7 +20211,8 @@
         "name": "Gleichstellungsstelle",
         "services": [
           "Beratung Trennung/Alleinerziehende 01",
-          "Beratungsgespr\u00e4ch 01"
+          "Beratungsgespr\u00e4ch 01",
+          "Beratungsgespr\u00e4ch 01\u00a0\u00a0 Beratungsgespr\u00e4ch"
         ]
       },
       "284/11094": {
@@ -33460,8 +33481,18 @@
       "191/11053": {
         "name": "Veranstaltung \"Energie Erleben\" am 07.12.2024",
         "services": [
+          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 06.12.2025 01",
           "Teilnahme an der Veranstaltung \"Energie Erleben\" am 07.12.2024 01",
           "Teilnahme an der Veranstaltung \"Energie Erleben\" am 28.06.2025 01"
+        ]
+      },
+      "191/11877": {
+        "name": "Veranstaltungen am Samstag",
+        "services": [
+          "06.12.2025 - Intelligente Energieberatung 01",
+          "Energie erleben am 06.12.2025 - Beratung zu Hausanschl\u00fcssen 01",
+          "Intelligente Energieberatung 01",
+          "Teilnahme an der Veranstaltung \"Energie Erleben\" am 06.12.2025 01"
         ]
       },
       "191/1709": {
@@ -46165,6 +46196,7 @@
           "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatzkennzeichen/Ersatzplaketten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
           "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
@@ -46181,7 +46213,8 @@
           "\u00c4nderung der Anschrift (nur innerhalb des Werra-Mei\u00dfner-Kreises) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
-          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung technische Daten bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
       "109/808": {
@@ -46349,6 +46382,7 @@
           "Ausfuhrkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Ersatz Fahrzeugscheinheft rotes Dauerkennzeichen 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
           "Ersatzkennzeichen 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "Ersatzkennzeichen/Ersatzplaketten 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Feinstaubplakette f\u00fcr die Umweltzonen 01\u00a0\u00a0 Feinstaubplakette2\u00a0\u00a0 Feinstaubplaketten3\u00a0\u00a0 Feinstaubplaketten4\u00a0\u00a0 Feinstaubplaketten5\u00a0\u00a0 Feinstaubplaketten6\u00a0\u00a0 Feinstaubplaketten7\u00a0\u00a0 Feinstaubplaketten8\u00a0\u00a0 Feinstaubplaketten",
           "H-Kennzeichen (Oldtimer) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "Kurzzeitkennzeichen (\u00dcberf\u00fchrungskennzeichen) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
@@ -46365,7 +46399,8 @@
           "\u00c4nderung der Anschrift (nur innerhalb des Werra-Mei\u00dfner-Kreises) 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung der Anschrift 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
           "\u00c4nderung des Namens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
-          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
+          "\u00c4nderung eines Saisonkennzeichens 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge",
+          "\u00c4nderung technische Daten bei einem Fahrzeug 01\u00a0\u00a0 Vorgang2\u00a0\u00a0 Vorg\u00e4nge3\u00a0\u00a0 Vorg\u00e4nge4\u00a0\u00a0 Vorg\u00e4nge5\u00a0\u00a0 Vorg\u00e4nge6\u00a0\u00a0 Vorg\u00e4nge7\u00a0\u00a0 Vorg\u00e4nge8\u00a0\u00a0 Vorg\u00e4nge"
         ]
       },
       "110/808": {
