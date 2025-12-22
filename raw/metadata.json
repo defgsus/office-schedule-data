@@ -9882,6 +9882,18 @@
           "Umzug",
           "\u00c4nderung der Zahlweise (SEPA Mandat) /Abschlagsplan"
         ]
+      },
+      "970/2252": {
+        "name": "Virtuelles Servicecenter (Video-Chat): default",
+        "services": [
+          "Anmeldung Gewerbekunden",
+          "Hauseigent\u00fcmerwechsel",
+          "Rechnungserl\u00e4uterung",
+          "Stammdaten\u00e4nderung",
+          "Tarif-/Produktberatung",
+          "Umzug",
+          "\u00c4nderung der Zahlweise (SEPA Mandat) /Abschlagsplan"
+        ]
       }
     }
   },
@@ -13896,6 +13908,14 @@
           "Covid-Zertifikat Gr\u00fcner Pass"
         ]
       },
+      "111288": {
+        "name": "Parkgeb\u00fchrenreferat",
+        "services": [
+          "Blaue und Gr\u00fcne Zone: Ausnahmegenehmigung f\u00fcr Bewohner:innen",
+          "Gr\u00fcne Zone: Monats- und Jahrespauschalkarten",
+          "Verwaltungsstrafen (StVO, Parkgeb\u00fchren, etc.)"
+        ]
+      },
       "131004": {
         "name": "Abteilung f\u00fcr Bildung und Integration",
         "services": [
@@ -17831,6 +17851,7 @@
           "Grippe-Impfung \u00fcber 65 J.",
           "Grippe-Impfung \u00fcber 65 J. und/oder Covid Impfung",
           "Grippe-Impfung \u00fcber/unter 60 J. und/oder Covid Impfung",
+          "G\u00fcrtelrose und/oder Pneumokokken Impfung vor allem ab dem 60. LJ",
           "Impfung"
         ]
       },
@@ -26496,8 +26517,12 @@
       "119088": {
         "name": "Veranstaltungen Kreisentwicklung AGs Heimatpreis",
         "services": [
+          "Allgemeiner Termin",
           "Arbeitsgruppe AAA",
-          "Arbeitsgruppe BBB"
+          "Arbeitsgruppe BBB",
+          "Aush\u00e4ndigung mit Loya",
+          "Aush\u00e4ndigung ohne Loya",
+          "Testaccount Kreis Coesfeld"
         ]
       },
       "181303": {
