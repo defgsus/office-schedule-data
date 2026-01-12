@@ -2492,6 +2492,7 @@
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
           "F\u00fchrerschein - Erst-/Erweiterungs-/Wiedererteilungsantrag",
           "F\u00fchrerschein - Umschreibung",
+          "F\u00fchrerschein - Umtausch",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
@@ -2525,6 +2526,7 @@
           "F\u00fchrerschein - Beantragung/Verl\u00e4ngerung/Umschreibung",
           "F\u00fchrerschein - Erst-/Erweiterungs-/Wiedererteilungsantrag",
           "F\u00fchrerschein - Umschreibung",
+          "F\u00fchrerschein - Umtausch",
           "F\u00fchrungszeugnis - Beantragung",
           "Gewerbeabmeldung",
           "Gewerbeanmeldung",
@@ -9683,6 +9685,7 @@
           "Schwierige F\u00fchrungssituationen: Fehlzeiten \u2013 Leistungsm\u00e4ngel \u2013 Innere K\u00fcndigung",
           "Selber Termine einstellen",
           "Selbstbehauptung f\u00fcr Frauen",
+          "Selbstbehauptungskurs - Selbstbestimmt als Frau",
           "Selbstbestimmt - Selbstbehauptungskurs f\u00fcr Frauen",
           "Selbstorganisation im Kontext der Vereinbarkeit von Beruf und Familie",
           "Stimmtraining",
@@ -30548,6 +30551,7 @@
       "86/591": {
         "name": "Ausweis- und Passangelegenheiten",
         "services": [
+          "Befreiung von der Ausweispflicht",
           "Befreiung von der Ausweispflicht 01\u00a0\u00a0 Bescheinigung2\u00a0\u00a0 Bescheinigungen3\u00a0\u00a0 Bescheinigungen4\u00a0\u00a0 Bescheinigungen5\u00a0\u00a0 Bescheinigungen6\u00a0\u00a0 Bescheinigungen7\u00a0\u00a0 Bescheinigungen8\u00a0\u00a0 Bescheinigungen",
           "Bundespersonalausweis / eID Karte Aktivierung Onlineausweisfunktion 01\u00a0\u00a0 Aktivierung 2\u00a0\u00a0 Aktivierungen3\u00a0\u00a0 Aktivierungen4\u00a0\u00a0 Aktivierungen5\u00a0\u00a0 Aktivierungen6\u00a0\u00a0 Aktivierungen7\u00a0\u00a0 Aktivierungen8\u00a0\u00a0 Aktivierungen",
           "Bundespersonalausweis Aktivierung Onlineausweisfunktion",
@@ -30568,6 +30572,7 @@
           "Verlustmeldung/Wiederauffinden eines Bundespersonalausweises oder Reisepasses 01\u00a0\u00a0 Dokument2\u00a0\u00a0 Dokumente3\u00a0\u00a0 Dokumente4\u00a0\u00a0 Dokumente5\u00a0\u00a0 Dokumente6\u00a0\u00a0 Dokumente7\u00a0\u00a0 Dokumente8\u00a0\u00a0 Dokumente",
           "Vorl\u00e4ufigen Bundespersonalausweis beantragen",
           "Vorl\u00e4ufigen Bundespersonalausweis beantragen 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
+          "Vorl\u00e4ufigen Personalausweis beantragen",
           "Vorl\u00e4ufigen Personalausweis beantragen 01\u00a0\u00a0 Ausweis2\u00a0\u00a0 Ausweise3\u00a0\u00a0 Ausweise4\u00a0\u00a0 Ausweise5\u00a0\u00a0 Ausweise6\u00a0\u00a0 Ausweise7\u00a0\u00a0 Ausweise8\u00a0\u00a0 Ausweise",
           "eID Karte abholen",
           "eID Karte abholen 01\u00a0\u00a0 eID Karte2\u00a0\u00a0 eID Karten3\u00a0\u00a0 eID Karten4\u00a0\u00a0 eID Karten5\u00a0\u00a0 eID Karten6\u00a0\u00a0 eID Karten7\u00a0\u00a0 eID Karten8\u00a0\u00a0 eID Karten",
@@ -30618,7 +30623,9 @@
       "86/622": {
         "name": "Sonstiges",
         "services": [
+          "Fischereischein (Neuantrag oder Verl\u00e4ngerung)",
           "Fischereischein (Neuantrag oder Verl\u00e4ngerung) 01\u00a0\u00a0 Fischereischein2\u00a0\u00a0 Fischereischeine3\u00a0\u00a0 Fischereischeine4\u00a0\u00a0 Fischereischeine5\u00a0\u00a0 Fischereischeine6\u00a0\u00a0 Fischereischeine7\u00a0\u00a0 Fischereischeine8\u00a0\u00a0 Fischereischeine",
+          "F\u00fchrerscheinangelegenheiten",
           "F\u00fchrerscheinangelegenheiten 01\u00a0\u00a0 Antrag2\u00a0\u00a0 Antr\u00e4ge3\u00a0\u00a0 Antr\u00e4ge4\u00a0\u00a0 Antr\u00e4ge5\u00a0\u00a0 Antr\u00e4ge6\u00a0\u00a0 Antr\u00e4ge7\u00a0\u00a0 Antr\u00e4ge8\u00a0\u00a0 Antr\u00e4ge"
         ]
       }
