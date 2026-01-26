@@ -9199,6 +9199,13 @@
           "Englische Konversation im Arbeitsalltag",
           "Erfolgreicher Umgang mit Konflikten und Spannungen",
           "Erwerbsminderungsrente",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\"",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" <hr <br></b>Workshop 1: K\u00f6rperwahrnehmung: Ergotherapie",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" <hr <br></b>Workshop 2: Bewegung: Physiotherapie",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" <hr <br></b>Workshop 3: Sprache: Logop\u00e4die",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" <hr <br></b>Workshop 4: Elternarbeit/Gespr\u00e4chsf\u00fchrung: Motivation zur Ver\u00e4nderung in herausfordernden Elterngespr\u00e4chen",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" <hr <br></b>Workshop 5: Raumgestaltung: Raumgestaltung & Inklusion - Kinder mit Beeintr\u00e4chtigungen st\u00e4rken durch bed\u00fcrfnisorientierte Gestaltung von Innen- und Au\u00dfenr\u00e4umen",
+          "Fachtagung \"Zusammen einzigartig - Inklusion in D\u00fclmener Kitas\" Workshop 1: K\u00f6rperwahrnehmung: Ergotherapie",
           "Fischereischein (Erstantrag oder Verl\u00e4ngerung)",
           "Fit f\u00fcr Ver\u00e4nderungen - Wie ich mit Ver\u00e4nderungen umgehe",
           "Frauen als T\u00e4terinnen von sexuellem Kindesmissbrauch \u2013 Was bedeutet das f\u00fcr Betroffene?",
@@ -9212,6 +9219,7 @@
           "Kfz-Schein (Anschriften\u00e4nderung)",
           "Kinderreisepass (auch Verl\u00e4ngerung)",
           "Kontenkl\u00e4rung",
+          "K\u00f6rperwahrnehmung: Ergotherapie",
           "Marktfestsetzung",
           "Meldebescheinigung",
           "Parkausweis f\u00fcr Bewohner",
@@ -9244,6 +9252,11 @@
           "Widerspruch gegen Daten\u00fcbermittlung Wehrpflicht (Bundeswehr)",
           "Witwenrente",
           "Wohnberechtigungsschein (WBS)",
+          "Workshop 1: K\u00f6rperwahrnehmung: Ergotherapie",
+          "Workshop 2: Bewegung: Physiotherapie",
+          "Workshop 3: Sprache: Logop\u00e4die",
+          "Workshop 4: Elternarbeit/Gespr\u00e4chsf\u00fchrung: Motivation zur Ver\u00e4nderung in herausfordernden Elterngespr\u00e4chen",
+          "Workshop 5: Raumgestaltung: Raumgestaltung & Inklusion - Kinder mit Beeintr\u00e4chtigungen st\u00e4rken durch bed\u00fcrfnisorientierte Gestaltung von Innen- und Au\u00dfenr\u00e4umen",
           "Zinssenkung",
           "Zoom-Training f\u00fcr Organisierende",
           "Zoom-Training f\u00fcr Teilnehmende",
@@ -20344,6 +20357,38 @@
           "Vaterschaftsanerkennung - mit Namenserteilung f\u00fcr das Kind"
         ]
       },
+      "284/11930": {
+        "name": "Melde- und Ausweisangelegenheiten",
+        "services": [
+          "Abmeldung eines Wohnsitzes",
+          "An- bzw. Ummeldung (aus dem Inland) eines neuen Wohnsitzes",
+          "Anmeldung (aus dem Ausland) eines neuen Wohnsitzes",
+          "Auszug aus dem Gewerbezentralregister",
+          "Beglaubigungen (Kopien, Unterschriften, etc)",
+          "Best\u00e4tigung einer Lebensbescheinigung 01\u00a0\u00a0 Best\u00e4tigung2\u00a0\u00a0 Best\u00e4tigungen",
+          "Duldung oder Aufenthaltsgestattung abholen",
+          "Duldung oder Aufenthaltsgestattung verl\u00e4ngern",
+          "Fiktionsbescheinigung - Antrag auf Verl\u00e4ngerung",
+          "Fiktionsbescheinigung abholen",
+          "Fischereischein (Ausstellung oder Verl\u00e4ngerung)",
+          "F\u00fchrungszeugnis",
+          "Identifikationsnummer/Steuer-ID",
+          "Jagdschein Antragsabgabe (Ausstellung oder Verl\u00e4ngerung)",
+          "Kopie von Melde- und Ausweisangelegenheiten 01\u00a0\u00a0 2\u00a0\u00a0 3\u00a0\u00a0 4\u00a0\u00a0 5\u00a0\u00a0 6\u00a0\u00a0 7\u00a0\u00a0 8",
+          "Meldebescheinigung",
+          "Melderegisterauskunft",
+          "PIN \u00e4ndern vom Personalausweis",
+          "Personalausweis abholen - jetzt an der Information ohne Termin m\u00f6glich",
+          "Personalausweis beantragen",
+          "Reisepass abholen - jetzt an der Information ohne Termin m\u00f6glich",
+          "Reisepass beantragen",
+          "Unterlagen nachreichen, sonstige Kl\u00e4rung",
+          "Untersuchungsberechtigungsschein (UBS) nach Jugendarbeitsschutzgesetz",
+          "Verlust / Wiederauffindung eines Identit\u00e4tsdokumentes melden",
+          "Vorl\u00e4ufiges Identit\u00e4tsdokument (z.B. Personalausweis oder Reisepass)",
+          "eID-Karte f\u00fcr europ\u00e4ische Personen beantragen"
+        ]
+      },
       "284/3675": {
         "name": "Melde- und Ausweisangelegenheiten",
         "services": [
@@ -22784,6 +22829,17 @@
           "Photovoltaik - Beratung f\u00fcr Neuanlagen"
         ]
       },
+      "214/11915": {
+        "name": "Kundenzentrum Kiel: THEMA AUSW\u00c4HLEN",
+        "services": [
+          "- Abschlag / Abschlags\u00e4nderung / Abschlagsneuberechnung -",
+          "- Anmeldung / Abmeldung / Ummeldung -",
+          "- Mahnung / Sperrung / Bezahlung -",
+          "- Rechnung -",
+          "- Stammdaten -",
+          "- Tarifberatung -"
+        ]
+      },
       "214/2281": {
         "name": "Kundenzentrum Kiel: An-/Abmeldungen",
         "services": [
@@ -22816,6 +22872,17 @@
           "Rechnungsreklamation/-kl\u00e4rung",
           "Stammdaten\u00e4nderung",
           "Tarifberatung"
+        ]
+      },
+      "215/11915": {
+        "name": "Kundenzentrum Preetz: THEMA AUSW\u00c4HLEN",
+        "services": [
+          "- Abschlag / Abschlags\u00e4nderung / Abschlagsneuberechnung -",
+          "- Anmeldung / Abmeldung / Ummeldung -",
+          "- Mahnung / Sperrung / Bezahlung -",
+          "- Rechnung -",
+          "- Stammdaten -",
+          "- Tarifberatung -"
         ]
       },
       "215/2281": {
@@ -33548,6 +33615,12 @@
           "Teilnahme an der Veranstaltung \"Energie Erleben\" am 06.12.2025 01"
         ]
       },
+      "191/11879": {
+        "name": "Klimaschutzagentur - Zu welchen Themen w\u00fcnschen Sie eine Beratung?",
+        "services": [
+          "klimafreundliche Energieberatung 01\u00a0\u00a0 Beratung"
+        ]
+      },
       "191/1709": {
         "name": "An-/Abmeldungen",
         "services": [
@@ -33894,6 +33967,7 @@
         "services": [
           "MVV DIREKT Gas",
           "MVV DIREKT Strom",
+          "MVV DIREKT \u00d6kostrom",
           "Online-Services Registrierung",
           "Registrierung Onlineservices"
         ]
