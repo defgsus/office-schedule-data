@@ -20357,6 +20357,16 @@
           "Vaterschaftsanerkennung - mit Namenserteilung f\u00fcr das Kind"
         ]
       },
+      "284/11928": {
+        "name": "Rentenstelle",
+        "services": [
+          "Antrag auf Altersrente",
+          "Antrag auf Erwerbsminderungsrente",
+          "Antrag auf Hinterbliebenenrente",
+          "Kontokl\u00e4rung vom Rentenkonto",
+          "Rentenauskunft"
+        ]
+      },
       "284/11930": {
         "name": "Melde- und Ausweisangelegenheiten",
         "services": [
@@ -33621,6 +33631,13 @@
           "klimafreundliche Energieberatung 01\u00a0\u00a0 Beratung"
         ]
       },
+      "191/11940": {
+        "name": "Gerne beraten wir Sie zu Photovoltaik und E-Mobilit\u00e4t",
+        "services": [
+          "Gerne beraten wir Sie zu Photovoltaik und E-Mobilit\u00e4t 01",
+          "Gerne beraten wir Sie zu einer W\u00e4rmepumpe 01\u00a0\u00a0 Beratung"
+        ]
+      },
       "191/1709": {
         "name": "An-/Abmeldungen",
         "services": [
@@ -33698,6 +33715,7 @@
       "191/3046": {
         "name": "Hausanschluss - Was k\u00f6nnen wir f\u00fcr Sie tun?",
         "services": [
+          "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser oder Gas) 01\u00a0\u00a0 Beratung",
           "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser- oder Gas) 01",
           "Beratung zu neuen Hausanschl\u00fcssen (Strom, Fernw\u00e4rme, Wasser- oder Gas) 01\u00a0\u00a0 Beratung",
           "R\u00fcckbau, Baustellenversorgung oder Neuanschluss 01",
