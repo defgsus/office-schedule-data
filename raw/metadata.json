@@ -2221,7 +2221,8 @@
           "Ehef\u00e4higkeitszeugnis - Geburt im Ausland und/oder ausl. Staatsangeh\u00f6rigkeit",
           "Ehef\u00e4higkeitszeugnis - deutsche Staatsangeh\u00f6rigkeit und Geburt in Deutschland",
           "Ehef\u00e4higkeitszeugnis dt. Staatsang., Geburt Ausland/Partner ausl. Staatsangeh.",
-          "Kl\u00e4rung notwendiger Dokumente"
+          "Kl\u00e4rung notwendiger Dokumente",
+          "Kl\u00e4rung notwendiger Dokumente f\u00fcr Eheschlie\u00dfung"
         ]
       }
     }
@@ -2746,7 +2747,12 @@
       "413/11418": {
         "name": "Gewerbe",
         "services": [
-          "Gewerbemeldung"
+          "Gewerbeabmeldung",
+          "Gewerbeanmeldung",
+          "Gewerbemeldung",
+          "Gewerbeummeldung",
+          "Kopie von Gewerbeummeldung",
+          "Zweitschrift Gewerbemeldung"
         ]
       },
       "413/6096": {
