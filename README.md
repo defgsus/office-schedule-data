@@ -6,7 +6,7 @@ The data contains the **free dates** where one can make an appointment at a
 public office at a snapshot interval of 15 minutes, starting on 2021-07-12.
 
 This data repository is updated weekly and the most recent timestamp 
-is **2026-05-10 23:48:11**.
+is **2026-05-17 23:48:12**.
 
 
 # Data layout
@@ -93,12 +93,12 @@ Data.get_meta("source_id", "location_id", "value")
 
 # Metrics
 
-Metrics have been updated at **2026-05-11**
+Metrics have been updated at **2026-05-18**
 
 **219** sources,
 **1,576** locations,
-**15,561,050** snapshots,
-**7,817,757** estimated appointments
+**15,563,054** snapshots,
+**7,817,873** estimated appointments
 
 - [summary.csv](metrics/summary.csv) (below table) contains
   the sum of all weeks per **source**. 
@@ -204,7 +204,7 @@ Metrics have been updated at **2026-05-11**
 | [innsbruckpsych](https://www.etermin.net/PSB-Innsbruck)                                                             |               1 |          147827 |          2497 |                649 |                  65 | 2021-07-26 00:03:57 | 2026-01-25 23:53:35 | etermin    | Psychologische Studierendenberatung Innsbruck            |
 | [itzehoe](https://www.etermin.net/Stadt_Itzehoe)                                                                    |               3 |          144262 |         30459 |              17847 |                1872 | 2021-07-26 15:19:04 | 2026-01-25 23:53:37 | etermin    | Stadt Itzehoe Einwohnermeldeamt                          |
 | [jena](https://tevis-bs.jena.de)                                                                                    |               7 |           48082 |         54622 |              30521 |               15532 | 2021-07-12 00:04:23 | 2023-01-06 08:18:04 | tevis      | Stadt Jena                                               |
-| [kaiserslauternausl](https://www3.kaiserslautern.de/netappoint/index.php?company=kaiserslautern-ausl)               |               2 |          164293 |             0 |                  0 |                   0 | 2021-07-12 00:04:24 | 2026-05-10 23:48:02 | netappoint | Stadt Kaiserslautern Ausländerbehörde                    |
+| [kaiserslauternausl](https://www3.kaiserslautern.de/netappoint/index.php?company=kaiserslautern-ausl)               |               2 |          164965 |             0 |                  0 |                   0 | 2021-07-12 00:04:24 | 2026-05-17 23:48:02 | netappoint | Stadt Kaiserslautern Ausländerbehörde                    |
 | [kassel](https://tevis.ekom21.de/kas)                                                                               |              14 |            3508 |          7544 |               4065 |                1804 | 2021-07-12 00:04:29 | 2021-08-17 14:33:36 | tevis      | Stadt Kassel                                             |
 | [kelsterbach](https://tevis.ekom21.de/keb)                                                                          |               1 |            3508 |           575 |                114 |                  61 | 2021-07-12 00:04:30 | 2021-08-17 14:33:37 | tevis      | Stadt Kelsterbach                                        |
 | [kfzgrasbrunn](https://termine-reservieren.de/termine/lramuenchen/kfz-zulassungsstelle-grasbrunn)                   |               2 |           21491 |          9016 |               4999 |                3240 | 2021-10-04 00:04:28 | 2022-07-12 17:05:26 | tevis      | Kfz Zulassungstelle Grasbrunn                            |
@@ -323,8 +323,8 @@ Metrics have been updated at **2026-05-11**
 | [wittmund](https://termine-reservieren.de/termine/wittmund/stva)                                                    |               3 |           29529 |          9042 |               3926 |                2531 | 2021-07-26 00:06:56 | 2022-07-28 11:47:59 | tevis      | Stadt Wittmund                                           |
 | [worms](https://termine-reservieren.de/termine/worms)                                                               |               7 |           40799 |         37596 |              22506 |               11468 | 2021-07-26 00:07:06 | 2023-01-04 16:18:50 | tevis      | Stadt Worms                                              |
 | [wuppertalewm](https://tempus-termine.com/termine/index.php?anlagennr=56)                                           |              19 |          127216 |        446085 |             173448 |              137039 | 2021-10-04 00:05:55 | 2025-12-19 12:49:41 | tempus     | Stadt Wuppertal Einwohnermeldeamt                        |
-| [wuppertalgeo](https://terminvergabe2.wuppertal.de/index.php?company=stadtwuppertal-geo)                            |               5 |          156725 |         50893 |               1995 |                 942 | 2021-10-04 00:03:11 | 2026-05-10 23:48:11 | netappoint | Stadt Wuppertal Geodatenzentrum                          |
-| [wuppertalgw](https://terminvergabe2.wuppertal.de/index.php?company=wuppertal-gewerbe)                              |               3 |          156771 |        100295 |              43709 |               13060 | 2021-10-04 00:03:08 | 2026-05-10 23:48:06 | netappoint | Stadt Wuppertal Gewerbecenter                            |
+| [wuppertalgeo](https://terminvergabe2.wuppertal.de/index.php?company=stadtwuppertal-geo)                            |               5 |          157391 |         51037 |               2000 |                 942 | 2021-10-04 00:03:11 | 2026-05-17 23:48:12 | netappoint | Stadt Wuppertal Geodatenzentrum                          |
+| [wuppertalgw](https://terminvergabe2.wuppertal.de/index.php?company=wuppertal-gewerbe)                              |               3 |          157437 |        100693 |              43820 |               13107 | 2021-10-04 00:03:08 | 2026-05-17 23:48:06 | netappoint | Stadt Wuppertal Gewerbecenter                            |
 | [wuppertalsv](https://tempus-termine.com/termine/index.php?anlagennr=4)                                             |               3 |          137841 |        136610 |              55033 |               53554 | 2021-10-04 00:04:59 | 2025-11-12 12:36:18 | tempus     | Stadt Wuppertal Staßenverkehrsamt                        |
 
 Where the columns are:
