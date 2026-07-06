@@ -6,7 +6,7 @@ The data contains the **free dates** where one can make an appointment at a
 public office at a snapshot interval of 15 minutes, starting on 2021-07-12.
 
 This data repository is updated weekly and the most recent timestamp 
-is **2026-06-28 23:48:14**.
+is **2026-07-05 23:48:13**.
 
 
 # Data layout
@@ -93,12 +93,12 @@ Data.get_meta("source_id", "location_id", "value")
 
 # Metrics
 
-Metrics have been updated at **2026-06-29**
+Metrics have been updated at **2026-07-06**
 
 **219** sources,
 **1,576** locations,
-**15,572,392** snapshots,
-**7,818,596** estimated appointments
+**15,573,712** snapshots,
+**7,818,637** estimated appointments
 
 - [summary.csv](metrics/summary.csv) (below table) contains
   the sum of all weeks per **source**. 
@@ -323,8 +323,8 @@ Metrics have been updated at **2026-06-29**
 | [wittmund](https://termine-reservieren.de/termine/wittmund/stva)                                                    |               3 |           29529 |          9042 |               3926 |                2531 | 2021-07-26 00:06:56 | 2022-07-28 11:47:59 | tevis      | Stadt Wittmund                                           |
 | [worms](https://termine-reservieren.de/termine/worms)                                                               |               7 |           40799 |         37596 |              22506 |               11468 | 2021-07-26 00:07:06 | 2023-01-04 16:18:50 | tevis      | Stadt Worms                                              |
 | [wuppertalewm](https://tempus-termine.com/termine/index.php?anlagennr=56)                                           |              19 |          127216 |        446085 |             173448 |              137039 | 2021-10-04 00:05:55 | 2025-12-19 12:49:41 | tempus     | Stadt Wuppertal Einwohnermeldeamt                        |
-| [wuppertalgeo](https://terminvergabe2.wuppertal.de/index.php?company=stadtwuppertal-geo)                            |               5 |          161388 |         52148 |               2049 |                 952 | 2021-10-04 00:03:11 | 2026-06-28 23:48:14 | netappoint | Stadt Wuppertal Geodatenzentrum                          |
-| [wuppertalgw](https://terminvergabe2.wuppertal.de/index.php?company=wuppertal-gewerbe)                              |               3 |          161434 |        102634 |              44494 |               13399 | 2021-10-04 00:03:08 | 2026-06-28 23:48:03 | netappoint | Stadt Wuppertal Gewerbecenter                            |
+| [wuppertalgeo](https://terminvergabe2.wuppertal.de/index.php?company=stadtwuppertal-geo)                            |               5 |          162048 |         52356 |               2069 |                 957 | 2021-10-04 00:03:11 | 2026-07-05 23:48:13 | netappoint | Stadt Wuppertal Geodatenzentrum                          |
+| [wuppertalgw](https://terminvergabe2.wuppertal.de/index.php?company=wuppertal-gewerbe)                              |               3 |          162094 |        102703 |              44515 |               13409 | 2021-10-04 00:03:08 | 2026-07-05 23:48:02 | netappoint | Stadt Wuppertal Gewerbecenter                            |
 | [wuppertalsv](https://tempus-termine.com/termine/index.php?anlagennr=4)                                             |               3 |          137841 |        136610 |              55033 |               53554 | 2021-10-04 00:04:59 | 2025-11-12 12:36:18 | tempus     | Stadt Wuppertal Staßenverkehrsamt                        |
 
 Where the columns are:
