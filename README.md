@@ -93,7 +93,7 @@ Data.get_meta("source_id", "location_id", "value")
 
 # Metrics
 
-Metrics have been updated at **2026-08-31**
+Metrics have been updated at **2026-09-07**
 
 **219** sources,
 **1,576** locations,
